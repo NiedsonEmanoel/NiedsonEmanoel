@@ -33,8 +33,8 @@
 
  <p align='center'>
  🖥️ My Secondary PC<br/><br/>
- <a href='#' style="cursor: default"><img src="https://img.shields.io/badge/MAC%20AIR-%25230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white">
-   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i5%20L16G7-%25230071C5.svg?&style=for-the-badge&logo=intel&logoColor=whit" /></a>
+ <a href='#' style="cursor: default"><img src="https://img.shields.io/badge/MAC%20AIR-%25230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white&color=blue">
+   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i5%20L16G7-%25230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white&color=blue" /></a>
   <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/RAM-4GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
  </p>
 
