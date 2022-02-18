@@ -87,6 +87,16 @@ body {
     border: 1px solid #ccc;
 }
 
+footer{
+    text-align: center;
+    padding:10px 0;
+    background-color:#ffffff;
+    color:white;
+}
+
+.perf {
+  border-radius: 50%;
+}
 /* .body-item-list li:first-child {
     margin-left: 0;
 } */
