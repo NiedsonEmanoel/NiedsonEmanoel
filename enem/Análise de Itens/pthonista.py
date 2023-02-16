@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from fpdf import FPDF
-import matplotlib.pyplot as plt
 
 
 def tri_3pl_enem(theta, a, b, c):
@@ -40,34 +39,44 @@ def find_theta(a, b, c, targ):
     return theta * 100 + 500
 
 def get_prova_string(ano, co_prova):
+    if ano == 2018:
+        if co_prova in [456, 452]:
+            return 'PROVA: AMARELA - APLICAÇÃO REGULAR' #CH_LC normal
+        elif co_prova in [449, 462]:
+            return 'PROVA: CINZA - APLICAÇÃO REGULAR' #CN_MT NORMAL
+        elif co_prova in [492, 496]:
+            return 'PROVA: AMARELA - APLICAÇÃO PPL' #CH_LC PPL
+        else:
+            return 'PROVA: CINZA - APLICAÇÃO PPL'  #CN_MT PPL
+
     if ano == 2019:
         if co_prova in [512, 508]:
-            return '1º DIA - PROVA: AMARELA - APLICAÇÃO REGULAR'
+            return 'PROVA: AMARELA - APLICAÇÃO REGULAR'
         elif co_prova in [505, 518]:
-            return '2º DIA - PROVA: CINZA - APLICAÇÃO REGULAR'
+            return 'PROVA: CINZA - APLICAÇÃO REGULAR'
         elif co_prova in [552, 548]:
-            return '1º DIA - PROVA: AMARELA - APLICAÇÃO PPL'
+            return 'PROVA: AMARELA - APLICAÇÃO PPL'
         else:
-            return '2º DIA - PROVA: CINZA - APLICAÇÃO PPL'
+            return 'PROVA: CINZA - APLICAÇÃO PPL'
 
     elif ano == 2020:
         if co_prova in [578, 568]:
-            return '1º DIA - PROVA: AMARELA - APLICAÇÃO REGULAR'
+            return 'PROVA: AMARELA - APLICAÇÃO REGULAR'
         elif co_prova in [599, 590]:
-            return '2º DIA - PROVA: CINZA - APLICAÇÃO REGULAR'
+            return 'PROVA: CINZA - APLICAÇÃO REGULAR'
         elif co_prova in [658, 648]:
-            return '1º DIA - PROVA: AMARELA - APLICAÇÃO PPL'
+            return 'PROVA: AMARELA - APLICAÇÃO PPL'
         else:
-            return '2º DIA - PROVA: CINZA - APLICAÇÃO PPL'
+            return 'PROVA: CINZA - APLICAÇÃO PPL'
     else:
         if co_prova in [890, 880]:
-            return '1º DIA - PROVA: AMARELA - APLICAÇÃO REGULAR'
+            return 'PROVA: AMARELA - APLICAÇÃO REGULAR'
         elif co_prova in [902, 911]:
-            return '2º DIA - PROVA: CINZA - APLICAÇÃO REGULAR'
+            return 'PROVA: CINZA - APLICAÇÃO REGULAR'
         elif co_prova in [960, 970]:
-            return '1º DIA - PROVA: AMARELA - APLICAÇÃO PPL'
+            return 'PROVA: AMARELA - APLICAÇÃO PPL'
         else:
-            return '2º DIA - PROVA: CINZA - APLICAÇÃO PPL'    
+            return 'PROVA: CINZA - APLICAÇÃO PPL'    
 
 def thetaToCsv(provas, dfItens):
     dfItens = dfItens[dfItens.CO_PROVA.isin(provas)]
@@ -99,6 +108,10 @@ def thetaToCsv(provas, dfItens):
         )
     return dfItens
 
+dItens2018 = pd.read_csv("ITENS_PROVA_2018.csv", sep=";", encoding="latin-1")
+provas2018 = [449,488,452,492,456,496,462,500]
+dItens2018['ANO'] = 2018    
+
 dItens2019 = pd.read_csv("ITENS_PROVA_2019.csv", sep=";", encoding="latin-1")
 provas2019 = [512, 552, 508, 548, 505, 544, 518, 556]
 dItens2019['ANO'] = 2019
@@ -111,6 +124,8 @@ dItens2021 = pd.read_csv("ITENS_PROVA_2021.csv", sep=";", encoding="latin-1")
 provas2021 = [911, 991, 880, 960, 890, 970, 902, 982] 
 dItens2021['ANO'] = 2021
 
+dItens2018 = thetaToCsv(provas2018, dItens2018)
+
 dItens2019 = thetaToCsv(provas2019, dItens2019)
 
 dItens2020 = thetaToCsv(provas2020, dItens2020)
@@ -118,8 +133,8 @@ del dItens2020['TP_VERSAO_DIGITAL']
 
 dItens2021 = thetaToCsv(provas2021, dItens2021)
 
-result = pd.concat([dItens2019, dItens2020, dItens2021])
-result.to_csv('provasOrdernadasPorTri19Ate21.csv', index=False, encoding='utf-8', decimal=',')
+result = pd.concat([dItens2018, dItens2019, dItens2020, dItens2021])
+result.to_csv('provasOrdernadasPorTri18Ate21.csv', index=False, encoding='utf-8', decimal=',')
 
 
 class PDF(FPDF):
@@ -203,9 +218,14 @@ def questionBalance(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
 
     for i in dfResult_LC.index:
         strLC = "Questão " + str(dfResult_LC.loc[i, "CO_POSICAO"]) + " ENEM " + str(dfResult_LC.loc[i, "ANO"]) + " " + str(dfResult_LC.loc[i, "CO_PROVA"]) + "\n- Proficiência: " + str(dfResult_LC.loc[i, "theta_065"].round(2))
-        pdf.set_fill_color(211, 211, 211) 
-        pdf.cell(0,10, strLC, 0, 1,'L', 1)   
-        pdf.ln(1)
+
+        if 'dtype:' in strLC:
+            print("ignorar")
+        else:
+            pdf.set_fill_color(211, 211, 211) 
+            pdf.cell(0,10, strLC, 0, 1,'L', 1)   
+            pdf.ln(1)
+        
 #
     pdf.add_page()
 
@@ -221,9 +241,12 @@ def questionBalance(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
     for i in dfResult_HM.index:
         strLC = "Questão " + str(dfResult_HM.loc[i, "CO_POSICAO"]) + " ENEM " + str(dfResult_HM.loc[i, "ANO"]) + " " + str(dfResult_HM.loc[i, "CO_PROVA"]) + "\n- Proficiência: " + str(dfResult_HM.loc[i, "theta_065"].round(2))
          
-        pdf.set_fill_color(211, 211, 211) 
-        pdf.cell(0,10, strLC, 0, 1,'L', 1)   
-        pdf.ln(1) 
+        if 'dtype:' in strLC:
+            print("ignorar")
+        else:
+            pdf.set_fill_color(211, 211, 211) 
+            pdf.cell(0,10, strLC, 0, 1,'L', 1)   
+            pdf.ln(1)
 
     pdf.add_page()
 
@@ -239,9 +262,12 @@ def questionBalance(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
     for i in dfResult_CN.index:
         strLC = "Questão " + str(dfResult_CN.loc[i, "CO_POSICAO"]) + " ENEM " + str(dfResult_CN.loc[i, "ANO"]) + " " + str(dfResult_CN.loc[i, "CO_PROVA"]) + "\n- Proficiência: " + str(dfResult_CN.loc[i, "theta_065"].round(2))
          
-        pdf.set_fill_color(211, 211, 211) 
-        pdf.cell(0,10, strLC, 0, 1,'L', 1)   
-        pdf.ln(1) 
+        if 'dtype:' in strLC:
+            print("ignorar")
+        else:
+            pdf.set_fill_color(211, 211, 211) 
+            pdf.cell(0,10, strLC, 0, 1,'L', 1)   
+            pdf.ln(1)
 
     pdf.add_page()
 
@@ -256,13 +282,16 @@ def questionBalance(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
 
     for i in dfResult_MT.index:
         strLC = "Questão " + str(dfResult_MT.loc[i, "CO_POSICAO"]) + " ENEM " + str(dfResult_MT.loc[i, "ANO"]) + " " + str(dfResult_MT.loc[i, "CO_PROVA"]) + "\n- Proficiência: " + str(dfResult_MT.loc[i, "theta_065"].round(2))
-        pdf.set_fill_color(211, 211, 211) 
-        pdf.cell(0,10, strLC, 0, 1,'L', 1)   
-        pdf.ln(1)  
+        if 'dtype:' in strLC:
+            print("ignorar")
+        else:
+            pdf.set_fill_color(211, 211, 211) 
+            pdf.cell(0,10, strLC, 0, 1,'L', 1)   
+            pdf.ln(1)  
 
     strOut=name+'_TRI.pdf'            
 
     pdf.output(strOut, 'F')
 
-l = questionBalance('namorada do Tom', 622.1, 697.4, 604.9, 740.3, result)
+questionBalance('Niedson Emanoel Almeida Brito', 625.1, 640.7, 635.5, 684.7, result)
 
