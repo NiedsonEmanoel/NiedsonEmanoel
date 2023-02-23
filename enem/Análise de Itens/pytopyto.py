@@ -23,12 +23,10 @@ def likelihood(theta, a, b, c, x):
 a = [1.0, 1.5, 2.0]
 b = [-1.0, 0.0, 1.0]
 c = [0.1, 0.2, 0.3]
-x = np.array([[1, 0, 1, 0], [0, 1, 1, 1], [1, 1, 0, 0]])
+x = np.array([[1, 0, 1], [0, 1, 1], [1, 1, 0]])
 
-# Encontra o valor de theta que maximiza a função de verossimilhança para cada candidato usando o método de Brent
-theta_max_list = []
-for i in range(x.shape[1]):
-    result = minimize_scalar(likelihood, args=(a, b, c, x[:, i]), bounds=(-10.0, 10.0), method='bounded')
-    theta_max_list.append((result.x*100)+500)
+# Encontra o valor de theta que maximiza a função de verossimilhança usando o método de Brent
+result = minimize_scalar(likelihood, args=(a, b, c, x), bounds=(-10.0, 10.0), method='bounded')
+theta_max = ((result.x*100)+500)
 
-print(f"Valores de theta que maximizam a função de verossimilhança para cada candidato: {theta_max_list}")
+print(f"Valor de theta que maximiza a função de verossimilhança: {theta_max}")
