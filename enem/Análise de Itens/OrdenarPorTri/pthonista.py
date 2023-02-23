@@ -13,7 +13,7 @@ def plot_graphic(a, b, c):
     theta_vals = np.linspace(-4, 4, num=100)
     y_vals = [tri_3pl_enem(x, a, b, c) for x in theta_vals]
 
-    plt.plot(theta_vals, y_vals)
+    plt.plot(((theta_vals*100)+500), y_vals)
     plt.xlabel("Valores de theta")
     plt.ylabel("Probabilidade de resposta correta")
     plt.title("Modelo logístico de três parâmetros (TRI)")
@@ -139,13 +139,7 @@ result.to_csv('provasOrdernadasPorTri18Ate21.csv', index=False, encoding='utf-8'
 
 class PDF(FPDF):
     def header(self):
-        self.set_font('Arial', 'B', 12)
-        self.cell(80)
-        StTitle = "Questões para melhora da TRI (2019 - 2021) - "+self.title
-        w = self.get_string_width(StTitle) + 6
-        self.set_x((210 - w) / 2)
-        self.cell(w, 9, StTitle, 0, 0)
-        self.ln(20)
+        self.image('3.png', x=0, y=0, w=self.w, h=self.h, type='png')
     # Page footer
     def footer(self):
         # Position at 1.5 cm from bottom
@@ -205,6 +199,13 @@ def questionBalance(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
     pdf = PDF()
     pdf.alias_nb_pages()
     pdf.set_title(name)
+
+    pdf.add_page()
+    pdf.image('2.png', x=0, y=0, w=pdf.w, h=pdf.h, type='png')
+
+    pdf.add_page()
+    pdf.image('1.png', x=0, y=0, w=pdf.w, h=pdf.h, type='png')
+
     pdf.add_page()
 
     pdf.set_font('Times', 'B', 12)
@@ -293,5 +294,5 @@ def questionBalance(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
 
     pdf.output(strOut, 'F')
 
-questionBalance('Niedson Emanoel Almeida Brito', 625.1, 640.7, 635.5, 684.7, result)
+questionBalance('Niedson Emanoel Almeida Brito', 641, 708, 611, 684.7, result)
 
