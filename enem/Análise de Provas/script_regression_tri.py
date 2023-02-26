@@ -5,9 +5,9 @@ from pycaret.regression import *
 dfENEM = pd.read_csv('mc.csv', sep=';', encoding='latin-1')
 
 # Filtra apenas as linhas em que o aluno esteve presente (TP_PRESENCA_MT = 1), 
-# a prova matemática (CO_PROVA_MT = 902) e a nota de matemática é maior que 1
+# a prova matemática (CO_PROVA_MT = 303) e a nota de matemática é maior que 1
 dfENEM = dfENEM[dfENEM['TP_PRESENCA_MT'] == 1]
-dfENEM = dfENEM[dfENEM['CO_PROVA_MT'] == 902]
+dfENEM = dfENEM[dfENEM['CO_PROVA_MT'] == 303]
 dfENEM = dfENEM[dfENEM['NU_NOTA_MT'] > 1]
 
 # Remove colunas que não serão utilizadas
@@ -69,12 +69,12 @@ lrModelFinal = finalize_model(lrModel_Tunned)
 jsCode = convert_model(lrModel_Tunned, 'javascript')
 
 # Salvando o código JavaScript em um arquivo
-arquivoJS = open('MT_902_MODEL.js', 'a+')
+arquivoJS = open('MT_303_MODEL.js', 'a+')
 arquivoJS.write('export '+jsCode)
 arquivoJS.close()
 
 # Salvando o modelo final
-save_model(lrModelFinal, 'MT_902')
+save_model(lrModelFinal, 'MT_303')
 
 # Plotando vários gráficos de avaliação do modelo
 plot_model(lrModel_Tunned, plot='residuals')
@@ -87,7 +87,7 @@ plot_model(lrModel_Tunned, plot='feature_all')
 dfEnem_sam = dfENEM.sample(frac=0.0001, random_state=9)
 
 # Carregando o modelo salvo
-dtLoad = load_model('MT_902')
+dtLoad = load_model('MT_303')
 
 # Fazendo previsões no conjunto de dados amostrado
 predict_model(dtLoad, data=dfEnem_sam)
