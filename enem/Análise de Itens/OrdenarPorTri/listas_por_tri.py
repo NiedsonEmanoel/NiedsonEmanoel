@@ -4,25 +4,9 @@ import pandas as pd
 from fpdf import FPDF
 from PIL import Image
 
-
+#Função CCI - TRI 3PL
 def tri_3pl_enem(theta, a, b, c):
     return c + (1 - c) * (1 / (1 + np.exp(-1.7 * a * (theta - b))))
-
-
-# Plotando a curva do modelo logístico de três parâmetros (TRI)
-def plot_graphic(a, b, c):
-    theta_vals = np.linspace(-4, 4, num=100)
-    y_vals = [tri_3pl_enem(x, a, b, c) for x in theta_vals]
-
-    plt.plot(((theta_vals*100)+500), y_vals)
-    plt.xlabel("Valores de theta")
-    plt.ylabel("Probabilidade de resposta correta")
-    plt.title("Modelo logístico de três parâmetros (TRI)")
-    plt.axhline(y=0.65, xmin=-4)
-    plt.show()
-
-
-plot_graphic(2.898, 1.992, 0.097)
 
 # Encontrando o valor de theta que resulta em targ (padrão 0.65)
 def find_theta(a, b, c, targ):
@@ -39,7 +23,7 @@ def find_theta(a, b, c, targ):
             left = theta
     return theta * 100 + 500
 
-
+#Colocando as proficiências na tabela de itens dos microdados.
 def thetaToCsv(provas, dfItens):
     dfItens = dfItens[dfItens.CO_PROVA.isin(provas)]
 
@@ -68,14 +52,8 @@ def thetaToCsv(provas, dfItens):
         )
     return dfItens
 
-dItens2016 = pd.read_csv("itens_prova_2016.csv", sep=";", encoding="latin-1")
-provas2016 = [303]
-dItens2016['ANO'] = 2016    
 
-
-dItens2016 = thetaToCsv(provas2016, dItens2016)
-
-
+#Definindo Classe do PDF de Saída
 class PDF(FPDF):
     def header(self):
         self.image('3.png', x=0, y=0, w=self.w, h=self.h, type='png')
@@ -89,10 +67,11 @@ class PDF(FPDF):
         # Page number
         self.cell(0, 12, 'Página ' + str(self.page_no()) + '/{nb}' + ' por @niedson.studiesmed', 0, 0, 'C')
 
+#Função que gera a lista de Treino de TRI
 def questionBalance_65(name, nota_mat, dfResult):
 
-    nota_matMaior = nota_mat * 1.07
-    nota_matMenor = nota_mat / 1.07
+    nota_matMaior = nota_mat + 50
+    nota_matMenor = nota_mat - 101
 
     dfResult = dfResult[dfResult['IN_ITEM_ABAN'] == 0]
     dfResult = dfResult[dfResult['TP_LINGUA'] != 0]
@@ -117,7 +96,7 @@ def questionBalance_65(name, nota_mat, dfResult):
         # Background color
     pdf.set_fill_color(89, 162, 165)
         # Title
-    pdf.cell(0, 6, 'QUESTÕES DE TREINO PARA TRI: MATEMÁTICA', 0, 1, 'L', 1)
+    pdf.cell(0, 6, 'QUESTÕES DE TREINO PARA TRI: MATEMÁTICA', 0, 1, 'C', 1)
         # Line break
     pdf.ln(4)
     pdf.set_font('Times', 'B', 12)
@@ -128,7 +107,7 @@ def questionBalance_65(name, nota_mat, dfResult):
             print("ignorar")
         else:
             pdf.set_fill_color(255, 112, 79) 
-            pdf.cell(0, 10, strLC, 0, 1, 'L', 1)
+            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
             pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
             # obter as dimensões da imagem
@@ -145,12 +124,43 @@ def questionBalance_65(name, nota_mat, dfResult):
             pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
             # adicionar quebra de página
-            pdf.add_page()  
+            pdf.add_page()
+
+    #GAB
+    page_width = 190
+    cell_width = 38
+    max_cols = int(page_width / cell_width)
+
+    # Junta as colunas do dataframe
+    dfResult_MT['merged'] = 'Q'+dfResult_MT['CO_POSICAO'].astype(str) + ' - ' +dfResult_MT['ANO'].astype(str)+ ': ' + dfResult_MT['TX_GABARITO'].astype(str)
+
+    # Divide os dados em grupos de até max_cols colunas
+    data = [dfResult_MT['merged'][i:i+max_cols].tolist() for i in range(0, len(dfResult_MT), max_cols)]
+
+    # Calcula a largura das células de acordo com o número de colunas
+    cell_width = page_width / max_cols
+
+    # Cria a tabela
+    pdf.set_fill_color(89, 162, 165)
+    # Title
+    pdf.cell(0, 6, 'GABARITO', 0, 1, 'C', 1)
+    pdf.ln(5)
+    pdf.set_font('Arial', 'B', 12)
+
+    for row in data:
+        for col in row:
+            pdf.cell(cell_width, 10, col, 1, 0, 'C')
+        pdf.ln() # quebra de linha para a próxima linha da tabela 
+
+    pdf.ln(5)
+    pdf.set_font('Arial', 'BI', 8)
+    pdf.cell(0, 10, '*Mesma ordem da lista', 0, 0, 'L') 
 
     strOut = 'Saidas/' + name + '_65_TRI.pdf'            
 
     pdf.output(strOut, 'F')
 
+#Funçao que gera a lista de Revisão da TRI
 def questionBalance_99(name, nota_mat, dfResult):
 
     nota_matMaior = nota_mat * 2
@@ -187,7 +197,7 @@ def questionBalance_99(name, nota_mat, dfResult):
         # Background color
     pdf.set_fill_color(255, 112, 79)
         # Title
-    pdf.cell(0, 6, 'QUESTÕES DE REVISÃO PARA TRI: MATEMÁTICA', 0, 1, 'L', 1)
+    pdf.cell(0, 6, 'QUESTÕES DE REVISÃO PARA TRI: MATEMÁTICA', 0, 1, 'C', 1)
         # Line break
     pdf.ln(4)
     pdf.set_font('Times', 'B', 12)
@@ -198,7 +208,7 @@ def questionBalance_99(name, nota_mat, dfResult):
             print("ignorar")
         else:
             pdf.set_fill_color(89, 162, 165) 
-            pdf.cell(0, 10, strLC, 0, 1, 'L', 1)
+            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
             pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
             # obter as dimensões da imagem
@@ -215,12 +225,66 @@ def questionBalance_99(name, nota_mat, dfResult):
             pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
             # adicionar quebra de página
-            pdf.add_page()  
+            pdf.add_page()
+    
+    #GAB
+    page_width = 190
+    cell_width = 38
+    max_cols = int(page_width / cell_width)
 
+    # Junta as colunas do dataframe
+    dfResult_MT['merged'] = 'Q'+dfResult_MT['CO_POSICAO'].astype(str) + ' - ' +dfResult_MT['ANO'].astype(str)+ ': ' + dfResult_MT['TX_GABARITO'].astype(str)
+
+    # Divide os dados em grupos de até max_cols colunas
+    data = [dfResult_MT['merged'][i:i+max_cols].tolist() for i in range(0, len(dfResult_MT), max_cols)]
+
+    # Calcula a largura das células de acordo com o número de colunas
+    cell_width = page_width / max_cols
+
+    # Cria a tabela
+    pdf.set_fill_color(255, 112, 79)
+    # Title
+    pdf.cell(0, 6, 'GABARITO', 0, 1, 'C', 1)
+    pdf.ln(5)
+    pdf.set_font('Arial', 'B', 12)
+
+    for row in data:
+        for col in row:
+            pdf.cell(cell_width, 10, col, 1, 0, 'C')
+        pdf.ln() # quebra de linha para a próxima linha da tabela 
     strOut = 'Saidas/' + name + '_99_TRI.pdf'
+
+    pdf.ln(5)
+    pdf.set_font('Arial', 'BI', 8)
+    pdf.cell(0, 10, '*Mesma ordem da lista', 0, 0, 'L')
 
     pdf.output(strOut, 'F')    
 
-questionBalance_65('Niedson Emanoel', 684, dItens2016)
-questionBalance_99('Niedson Emanoel', 684, dItens2016)
+#Função que Gera lista de Treino e Revisão TRI
+def questionBalance(nome, nota, dfItens):
+    questionBalance_65(nome, nota, dfItens)
+    questionBalance_99(nome, nota, dfItens)
+    print('Concluido!')
+
+#Leitura dos dados de 2016 e Escolha da Prova [303 - MT 2 dia]
+dItens2016 = pd.read_csv("itens_prova_2016.csv", sep=";", encoding="latin-1")
+provas2016 = [303]
+dItens2016['ANO'] = 2016    
+
+#Colocando as proficiências nas provas e nos dataframes indicados
+dItens2016 = thetaToCsv(provas2016, dItens2016)
+
+#Gerando as Listas
+nota = float(input("Qual sua nota TRI em Matemática?"))
+nome=input("Qual o seu Nome?")
+questionBalance(nome, nota, dItens2016)
+
+
+pip
+
+
+
+
+
+
 
