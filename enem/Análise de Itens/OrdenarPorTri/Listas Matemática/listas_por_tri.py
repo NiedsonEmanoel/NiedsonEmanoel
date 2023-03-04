@@ -151,6 +151,7 @@ def questionBalance_99(name, nota_mat, dfResult):
     pdf.ln(4)
     pdf.set_font('Times', 'B', 12)
 
+
     for i in dfResult_MT.index:
         strLC ="Questão " + str(dfResult_MT.loc[i, "CO_POSICAO"])+" - ENEM " + str(dfResult_MT.loc[i, "ANO"]) + ' - H'+str(dfResult_MT.loc[i, "CO_HABILIDADE"])+ " - Proficiência: " + str(dfResult_MT.loc[i, "theta_065"].round(2))
         if 'dtype:' in strLC:
@@ -160,21 +161,25 @@ def questionBalance_99(name, nota_mat, dfResult):
             pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
             pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+            # tentar abrir a imagem
+            try:
+                with Image.open('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                    # calcular a posição y para centralizar a imagem
+                    y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                    # ajustar as coordenadas de posição e o tamanho da imagem
+                    pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                    # adicionar quebra de página
+                    pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo não encontrado: ", str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png')
+
     
     #GAB
     page_width = 190
@@ -216,9 +221,8 @@ def questionBalance(nome, nota, dfItens):
     print('Concluido!')
 
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
-dItens = dItens[dItens['ANO'] == 2016]
 
 #Gerando as Listas
-nota = float(input("Qual sua nota TRI em Matemática? gerando 2016"))
+nota = float(input("Qual sua nota TRI em Matemática?"))
 nome=input("Qual o seu Nome?")
 questionBalance(nome, nota, dItens)

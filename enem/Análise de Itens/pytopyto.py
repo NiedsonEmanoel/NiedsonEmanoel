@@ -42,7 +42,7 @@ x = np.array([[1, 0, 1], [0, 1, 1], [1, 1, 0]])
 # Encontra o valor de theta que maximiza a função de verossimilhança para cada candidato usando o método de Brent
 theta_max_list = []
 for i in range(x.shape[1]):
-    result = minimize_scalar(verossimilhanca, args=(a, b, c, x[:, i]), bounds=(-4, 5), method='bounded')
+    result = minimize_scalar(verossimilhanca, args=(a, b, c, x[:, i]), bounds=(-3, 5), method='bounded')
     theta_max_list.append((result.x*100)+500)
 
 print(f"Valores de theta que maximizam a função de verossimilhança para cada candidato: {theta_max_list}")
