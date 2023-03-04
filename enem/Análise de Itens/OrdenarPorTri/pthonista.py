@@ -165,7 +165,7 @@ def questionBalance(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
     dfResult = dfResult[dfResult['IN_ITEM_ABAN'] == 0]
     dfResult = dfResult[dfResult['TP_LINGUA'] != 0]
     dfResult = dfResult[dfResult['TP_LINGUA'] != 1]
-    dfResult = dfResult[dfResult['theta_065'] <= 1100]
+    dfResult = dfResult[dfResult['theta_065'] <= 1300]
 
     cols_to_drop = ['TP_LINGUA', 'TX_MOTIVO_ABAN', 'IN_ITEM_ABAN', 'IN_ITEM_ADAPTADO', 'NU_PARAM_A', 'NU_PARAM_B', 'NU_PARAM_C', 'CO_ITEM']
     dfResult.drop(cols_to_drop, axis=1, inplace=True)
