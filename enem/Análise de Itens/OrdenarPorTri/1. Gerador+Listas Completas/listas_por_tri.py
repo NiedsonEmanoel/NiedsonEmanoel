@@ -82,9 +82,7 @@ def questionBalance_65(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
     nota_matMaior = nota_mat + 50
     nota_matMenor = nota_mat - 101
 
-    dfResult = dfResult[dfResult['IN_ITEM_ABAN'] == 0]
-    dfResult = dfResult[dfResult['TP_LINGUA'] != 0]
-    dfResult = dfResult[dfResult['TP_LINGUA'] != 1]
+    dfResult = dfResult.query("IN_ITEM_ABAN == 0 and TP_LINGUA not in [0, 1]")
 
     cols_to_drop = ['TP_LINGUA', 'TX_MOTIVO_ABAN', 'IN_ITEM_ABAN', 'IN_ITEM_ADAPTADO', 'NU_PARAM_A', 'NU_PARAM_B', 'NU_PARAM_C']
     dfResult.drop(cols_to_drop, axis=1, inplace=True)
@@ -137,25 +135,29 @@ def questionBalance_65(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
         if 'dtype:' in strLC:
             print("Calculando...")
         else:
-            pdf.set_fill_color(255, 112, 79) 
-            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-            pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+            try:
+                pdf.set_fill_color(255, 112, 79) 
+                pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
+                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+                # obter as dimensões da imagem
+                with Image.open('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                # calcular a posição y para centralizar a imagem
+                y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                # ajustar as coordenadas de posição e o tamanho da imagem
+                pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                # adicionar quebra de página
+                pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png')
+                continue
 
     #GAB
     page_width = 190
@@ -206,25 +208,30 @@ def questionBalance_65(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
         if 'dtype:' in strLC:
             print("Calculando...")
         else:
-            pdf.set_fill_color(255, 112, 79) 
-            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-            pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+            try:
+            
+                pdf.set_fill_color(255, 112, 79) 
+                pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
+                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+                # obter as dimensões da imagem
+                with Image.open('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                # calcular a posição y para centralizar a imagem
+                y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                # ajustar as coordenadas de posição e o tamanho da imagem
+                pdf.image('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                # adicionar quebra de página
+                pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png')
+                continue
 
     #GAB
     page_width = 190
@@ -275,25 +282,29 @@ def questionBalance_65(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
         if 'dtype:' in strLC:
             print("Calculando...")
         else:
-            pdf.set_fill_color(255, 112, 79) 
-            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-            pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+            try:
+                pdf.set_fill_color(255, 112, 79) 
+                pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
+                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+                # obter as dimensões da imagem
+                with Image.open('Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                # calcular a posição y para centralizar a imagem
+                y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                # ajustar as coordenadas de posição e o tamanho da imagem
+                pdf.image('Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                # adicionar quebra de página
+                pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png')
+                continue
 
     #GAB
     page_width = 190
@@ -343,25 +354,29 @@ def questionBalance_65(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
         if 'dtype:' in strLC:
             print("Calculando...")
         else:
-            pdf.set_fill_color(255, 112, 79) 
-            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-            pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+            try:
+                pdf.set_fill_color(255, 112, 79) 
+                pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
+                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+                # obter as dimensões da imagem
+                with Image.open('Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                # calcular a posição y para centralizar a imagem
+                y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                # ajustar as coordenadas de posição e o tamanho da imagem
+                pdf.image('Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                # adicionar quebra de página
+                pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png')
+                continue
 
     #GAB
     page_width = 190
@@ -476,25 +491,29 @@ def questionBalance_99(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
         if 'dtype:' in strLC:
             print("Calculando...")
         else:
-            pdf.set_fill_color(89, 162, 165) 
-            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-            pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+            try:
+                pdf.set_fill_color(89, 162, 165) 
+                pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
+                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+                # obter as dimensões da imagem
+                with Image.open('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                # calcular a posição y para centralizar a imagem
+                y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                # ajustar as coordenadas de posição e o tamanho da imagem
+                pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                # adicionar quebra de página
+                pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png')
+                continue
     
     #GAB
     page_width = 190
@@ -546,25 +565,29 @@ def questionBalance_99(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
         if 'dtype:' in strLC:
             print("Calculando...")
         else:
-            pdf.set_fill_color(89, 162, 165) 
-            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-            pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+            try:
+                pdf.set_fill_color(89, 162, 165) 
+                pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
+                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+                # obter as dimensões da imagem
+                with Image.open('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                # calcular a posição y para centralizar a imagem
+                y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                # ajustar as coordenadas de posição e o tamanho da imagem
+                pdf.image('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                # adicionar quebra de página
+                pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png')
+                continue
     
     #GAB
     page_width = 190
@@ -616,25 +639,29 @@ def questionBalance_99(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
         if 'dtype:' in strLC:
             print("Calculando...")
         else:
-            pdf.set_fill_color(89, 162, 165) 
-            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-            pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+            try:
+                pdf.set_fill_color(89, 162, 165) 
+                pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
+                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+                # obter as dimensões da imagem
+                with Image.open('Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                # calcular a posição y para centralizar a imagem
+                y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                # ajustar as coordenadas de posição e o tamanho da imagem
+                pdf.image('Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                # adicionar quebra de página
+                pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_HM.loc[i, "CO_ITEM"]) + '.png')
+                continue
     
     #GAB
     page_width = 190
@@ -686,25 +713,29 @@ def questionBalance_99(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
         if 'dtype:' in strLC:
             print("Calculando...")
         else:
-            pdf.set_fill_color(89, 162, 165) 
-            pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-            pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+            try:
+                pdf.set_fill_color(89, 162, 165) 
+                pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
+                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
 
-            # obter as dimensões da imagem
-            with Image.open('Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png') as img:
-                img.thumbnail((160, 160))
+                # obter as dimensões da imagem
+                with Image.open('Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png') as img:
+                    img.thumbnail((160, 160))
 
-                # obter as dimensões da imagem redimensionada
-                width, height = img.size
+                    # obter as dimensões da imagem redimensionada
+                    width, height = img.size
 
-            # calcular a posição y para centralizar a imagem
-            y = pdf.get_y()
+                # calcular a posição y para centralizar a imagem
+                y = pdf.get_y()
 
-            # ajustar as coordenadas de posição e o tamanho da imagem
-            pdf.image('Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                # ajustar as coordenadas de posição e o tamanho da imagem
+                pdf.image('Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
 
-            # adicionar quebra de página
-            pdf.add_page()
+                # adicionar quebra de página
+                pdf.add_page()
+            except FileNotFoundError:
+                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png')
+                continue
     
     #GAB
     page_width = 190
@@ -737,9 +768,7 @@ def questionBalance_99(name, nota_lc, nota_hm, nota_nat, nota_mat, dfResult):
     pdf.set_font('Arial', 'BI', 8)
     pdf.cell(0, 10, '*Mesma ordem da lista', 0, 0, 'L')     
 
-    pdf.output(strOut, 'F')    
-
-
+    pdf.output(strOut, 'F')  
 
 #Função que Gera lista de Treino e Revisão TRI
 def questionBalance(nome, nota_lc, nota_hm, nota_nat, nota_mat, dfItens):
