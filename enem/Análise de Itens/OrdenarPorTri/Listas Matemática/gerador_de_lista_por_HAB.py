@@ -46,7 +46,7 @@ def questionBalance_Hab(hab, dfResult):
     pdf.set_font('Times', 'B', 12)
 
     for i in dfResult_MT.index:
-        print("Nº"+str(dfResult_MT.loc[i, 'indexacao'])+"/"+str(dfResult_MT.size))
+        print("Nº"+str(dfResult_MT.loc[i, 'indexacao'])+"/"+str(len(dfResult_MT)))
         strLC ="Nº"+str(dfResult_MT.loc[i, 'indexacao'])+" - Q" + str(dfResult_MT.loc[i, "CO_POSICAO"])+':'+str(dfResult_MT.loc[i, "ANO"]) + ' - H'+str(dfResult_MT.loc[i, "CO_HABILIDADE"].astype(int))+ " - Proficiência: " + str(dfResult_MT.loc[i, "theta_065"].round(2))
         if 'dtype:' in strLC:
             print("CaMTulando...")
@@ -96,7 +96,7 @@ def questionBalance_Hab(hab, dfResult):
     pdf.set_fill_color(89, 162, 165)
     # Title
     pdf.ln(15)
-    pdf.cell(0, 10, 'GABARITO - Matemática', 0, 1, 'C', 1)
+    pdf.cell(0, 10, str('GABARITO - Matemática '+name), 0, 1, 'C', 1)
     pdf.ln(10)
     pdf.set_font('Arial', 'B', 12)
 
@@ -114,6 +114,7 @@ def questionBalance_Hab(hab, dfResult):
 
 
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
+
 
 for i in range(1, 31):
     questionBalance_Hab(i, dItens)
