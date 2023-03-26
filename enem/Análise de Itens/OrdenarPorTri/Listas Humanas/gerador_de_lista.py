@@ -138,7 +138,7 @@ def questionBalance_99(name, nota_hm, dfResult):
     pdf.alias_nb_pages()
     pdf.set_title(name)
 
-#CH
+#HM
     pdf.add_page()
     pdf.image('humanas.png', x=0, y=0, w=pdf.w, h=pdf.h, type='png')
     pdf.add_page()

@@ -96,7 +96,7 @@ def questionBalance_Hab(hab, dfResult):
     pdf.set_fill_color(89, 162, 165)
     # Title
     pdf.ln(15)
-    pdf.cell(0, 10, str('GABARITO - Matemática '+name), 0, 1, 'C', 1)
+    pdf.cell(0, 10, str('GABARITO '+name), 0, 1, 'C', 1)
     pdf.ln(10)
     pdf.set_font('Arial', 'B', 12)
 

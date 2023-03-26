@@ -147,14 +147,15 @@ def questionBalance_99(name, nota_MT, dfResult):
     pdf.set_font('Times', 'B', 12)
 
     for i in dfResult_MT.index:
-        strLC ="Questão " + str(dfResult_MT.loc[i, "CO_POSICAO"])+" - ENEM " + str(dfResult_MT.loc[i, "ANO"]) + ' - H'+str(dfResult_MT.loc[i, "CO_HABILIDADE"].round(0))+ " - Proficiência: " + str(dfResult_MT.loc[i, "theta_065"].round(2))
+        strLC ="Q" + str(dfResult_MT.loc[i, "CO_POSICAO"])+" - ENEM " + str(dfResult_MT.loc[i, "ANO"]) + ' - H'+str(dfResult_MT.loc[i, "CO_HABILIDADE"].round(0))+ " - Proficiência: " + str(dfResult_MT.loc[i, "theta_065"].round(2))
         if 'dtype:' in strLC:
             print("CaMTulando...")
         else:
             try:
-                pdf.set_fill_color(89, 162, 165) 
+                pdf.set_fill_color(255, 112, 79) 
+                pdf.ln(15)
                 pdf.cell(0, 10, strLC, 0, 1, 'C', 1)
-                pdf.ln(5)  # adicionar espaço entre o texto e a imagem
+                pdf.ln(10)  # adicionar espaço entre o texto e a imagem
 
                 # obter as dimensões da imagem
                 with Image.open('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png') as img:
@@ -194,7 +195,7 @@ def questionBalance_99(name, nota_MT, dfResult):
     pdf.set_fill_color(255, 112, 79)
     # Title
     pdf.ln(15)
-    pdf.cell(0, 6, 'GABARITO - Matemática', 0, 1, 'C', 1)
+    pdf.cell(0, 10, 'GABARITO - Matemática', 0, 1, 'C', 1)
     pdf.ln(10)
     pdf.set_font('Arial', 'B', 12)
 
