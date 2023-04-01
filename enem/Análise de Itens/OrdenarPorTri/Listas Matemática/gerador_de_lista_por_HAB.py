@@ -119,3 +119,10 @@ dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=','
 for i in range(1, 31):
     questionBalance_Hab(i, dItens)
     print("H" + str(i)+" Pronta!")
+
+# Falta ainda classificar as provas quando PPL 
+    #def toYoutube(textPrompt):
+    #    search_query = "https://www.youtube.com/results?search_query=" + "+".join(textPrompt.split())
+    #    print(search_query)
+    #
+    #toYoutube('Q175:2016 PPL 2 aplicacao matematica azul')
