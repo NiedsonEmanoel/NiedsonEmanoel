@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulário de Avaliação de Lista de Questões</title>
+  <!-- Adiciona os arquivos CSS do Bootstrap -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous">
+</head>
+<body>
+  <div class="container">
+    <h1>Formulário de Avaliação de Lista de Questões</h1>
+    <form>
+      <div class="form-group">
+        <label for="dificuldade">1. Em uma escala de 1 a 5, quão difícil você achou a lista de questões?</label>
+        <input type="range" class="form-control-range" id="dificuldade" min="1" max="5">
+        <span>1 (muito fácil)</span>
+        <span>5 (muito difícil)</span>
+      </div>
+      <div class="form-group">
+        <label for="adequacao">2. Em uma escala de 1 a 5, quão adequadas foram as questões para avaliar seu conhecimento na área específica da lista?</label>
+        <input type="range" class="form-control-range" id="adequacao" min="1" max="5">
+        <span>1 (nada adequadas)</span>
+        <span>5 (totalmente adequadas)</span>
+      </div>
+      <div class="form-group">
+        <label for="satisfacao">3. Em uma escala de 1 a 5, quão satisfeito você está com a lista de questões ordenadas pela TRI?</label>
+        <input type="range" class="form-control-range" id="satisfacao" min="1" max="5">
+        <span>1 (extremamente insatisfeito)</span>
+        <span>5 (extremamente satisfeito)</span>
+      </div>
+      <div class="form-group">
+        <label for="recomendacao">4. Você recomendaria essa lista de questões ordenadas pela TRI para um colega que esteja estudando para a mesma prova ou concurso?</label>
+        <select class="form-control" id="recomendacao">
+          <option value="1">Não recomendaria de forma alguma</option>
+          <option value="2">Não recomendaria</option>
+          <option value="3">Recomendaria com ressalvas</option>
+          <option value="4">Recomendaria</option>
+          <option value="5">Recomendaria com certeza</option>
+        </select>
+      </div>
+      <button type="submit" class="btn btn-primary">Enviar</button>
+    </form>
+  </div>
+  <!-- Adiciona os arquivos JS do Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+          integrity="sha384-q8i/X+965DzO0rT7abK41JStQIA
