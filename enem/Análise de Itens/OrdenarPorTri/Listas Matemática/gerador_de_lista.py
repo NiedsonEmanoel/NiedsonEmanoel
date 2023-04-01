@@ -208,7 +208,6 @@ def questionBalance_99(name, nota_MT, dfResult):
   
     pdf.output(strOut, 'F') 
 
-
 #Função que Gera lista de Treino e Revisão TRI
 def questionBalance(nome, nota_MT, dfItens):
     questionBalance_65(nome, nota_MT, dfItens)
