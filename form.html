@@ -9,13 +9,13 @@
         crossorigin="anonymous">
 </head>
 <body>
-  <div class="container">
-    <h1>Formulário de Avaliação de Lista de Questões</h1>
+  <div class="container mt-5">
+    <h1 class="text-center mb-5">Formulário de Avaliação de Lista de Questões</h1>
     <form>
       <div class="form-group">
         <label for="dificuldade">1. Em uma escala de 1 a 5, quão difícil você achou a lista de questões?</label>
         <input type="range" class="form-control-range" id="dificuldade" min="1" max="5">
-        <div class="d-flex justify-content-between">
+        <div class="d-flex justify-content-between mt-2">
           <span>1 (muito fácil)</span>
           <span>5 (muito difícil)</span>
         </div>
@@ -23,7 +23,7 @@
       <div class="form-group">
         <label for="adequacao">2. Em uma escala de 1 a 5, quão adequadas foram as questões para avaliar seu conhecimento na área específica da lista?</label>
         <input type="range" class="form-control-range" id="adequacao" min="1" max="5">
-        <div class="d-flex justify-content-between">
+        <div class="d-flex justify-content-between mt-2">
           <span>1 (nada adequadas)</span>
           <span>5 (totalmente adequadas)</span>
         </div>
@@ -31,7 +31,7 @@
       <div class="form-group">
         <label for="satisfacao">3. Em uma escala de 1 a 5, quão satisfeito você está com a lista de questões ordenadas pela TRI?</label>
         <input type="range" class="form-control-range" id="satisfacao" min="1" max="5">
-        <div class="d-flex justify-content-between">
+        <div class="d-flex justify-content-between mt-2">
           <span>1 (extremamente insatisfeito)</span>
           <span>5 (extremamente satisfeito)</span>
         </div>
@@ -46,11 +46,12 @@
           <option value="5">Recomendaria com certeza</option>
         </select>
       </div>
-      <button type="submit" class="btn btn-primary">Enviar</button>
+      <button type="submit" class="btn btn-primary btn-block mt-4">Enviar</button>
     </form>
-  </div>
+  </div> 
   
   <!-- Adiciona os arquivos JS do Bootstrap -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
           integrity="sha384-q8i/X+965DzO0rT7abK41JStQIA
 </body/>
+
