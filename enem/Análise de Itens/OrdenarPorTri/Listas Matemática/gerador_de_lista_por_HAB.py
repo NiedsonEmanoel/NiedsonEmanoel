@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+#dfResult_MT
+#matematica.png
 import pandas as pd
 from fpdf import FPDF
 from PIL import Image
@@ -136,7 +138,7 @@ def questionBalance_Hab(hab, dfResult):
                 # ajustar as coordenadas de posição e o tamanho da imagem
                 pdf.image('Itens BNI/' + str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
                 pdf.ln(10)
-                stringCorr = str("Questao " + str(dfResult_MT.loc[i, "CO_POSICAO"])+' ENEM '+str(dfResult_MT.loc[i, "ANO"]) +' '+ str(dfResult_MT.loc[i, "QSEARCH"]))
+                stringCorr = str("Questao " + str(dfResult_MT.loc[i, "CO_POSICAO"])+' Matematica ENEM '+str(dfResult_MT.loc[i, "ANO"]) +' '+ str(dfResult_MT.loc[i, "QSEARCH"]))
 
                 link = toYoutube(stringCorr)        
                 pdf.add_my_link(170, 25, "RESOLUÇÃO", link)

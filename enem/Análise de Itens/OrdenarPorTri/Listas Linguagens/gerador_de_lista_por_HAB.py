@@ -1,11 +1,37 @@
+# -*- coding: utf-8 -*-
+
+#dfResult_LC
+#linguagens.png
+#Linguagens
+#LC
+
 import pandas as pd
 from fpdf import FPDF
 from PIL import Image
+
+pd.options.mode.chained_assignment = None
 
 #Definindo Classe do PDF de Saída
 class PDF(FPDF):
     def header(self):
         self.image('fundo.png', x=0, y=0, w=self.w, h=self.h, type='png')
+
+    def add_my_link(self, x, y, txt, link):
+        self.set_xy(x, y)
+        self.set_text_color(0, 0, 0)
+        self.set_font('Times', 'BI', 12)
+        self.add_link()
+        
+        # obter a largura do texto
+        w = self.get_string_width(txt) + 6  # adicione uma margem de 3 em cada lado
+        
+        # desenhar o retângulo em torno do texto
+        self.set_fill_color(255, 112, 79)
+        self.cell(w, 10, '', border=0, ln=0, fill=True, align='C', link=link)
+        
+        # adicionar o texto com o link
+        self.set_xy(x, y)
+        self.cell(w, 10, txt, border=0, ln=1, align='C', link=link)
         
     # Page footer
     def footer(self):
@@ -15,6 +41,52 @@ class PDF(FPDF):
         self.set_font('Arial', 'BI', 8)
         # Page number
         self.cell(0, 12, 'Página ' + str(self.page_no()) + '/{nb}' + ' por @niedson.studiesmed', 0, 0, 'C')
+
+def toYoutube(textPrompt):
+    search_query = "https://www.youtube.com/results?search_query=" + "+".join(textPrompt.split())
+    return(search_query)
+
+
+def get_prova_string(ano, co_prova):
+    if ano == 2016:
+        if co_prova in [303]:
+            return 'PROVA AZUL'
+    if ano == 2018:
+        if co_prova in [456, 452]:
+            return 'PROVA AMARELA'
+        elif co_prova in [449, 462]:
+            return 'PROVA CINZA'
+        elif co_prova in [496, 492]:
+            return 'PROVA AMARELA PPL REAPLICACAO'
+        else:
+            return 'PROVA CINZA PPL REAPLICACAO'
+    if ano == 2019:
+        if co_prova in [512, 508]:
+            return 'PROVA AMARELA'
+        elif co_prova in [505, 518]:
+            return 'PROVA CINZA'
+        elif co_prova in [552, 548]:
+            return 'PROVA AMARELA PPL REAPLICACAO'
+        else:
+            return 'PROVA CINZA PPL REAPLICACAO'
+    elif ano == 2020:
+        if co_prova in [578, 568]:
+            return 'PROVA AMARELA'
+        elif co_prova in [599, 590]:
+            return 'PROVA CINZA'
+        elif co_prova in [658, 648]:
+            return 'PROVA AMARELA PPL REAPLICACAO'
+        else:
+            return 'PROVA CINZA PPL REAPLICACAO'
+    else: #2021
+        if co_prova in [890, 880]:
+            return 'PROVA AMARELA'
+        elif co_prova in [902, 911]:
+            return 'PROVA CINZA'
+        elif co_prova in [960, 970]:
+            return 'PROVA AMARELA PPL REAPLICACAO'
+        else:
+            return 'PROVA CINZA PPL REAPLICACAO' 
 
 #Função que gera a lista de Treino de TRI
 def questionBalance_Hab(hab, dfResult):
@@ -30,6 +102,7 @@ def questionBalance_Hab(hab, dfResult):
     dfResult_LC = dfResult[dfResult['SG_AREA'] == 'LC']
     dfResult_LC = dfResult_LC[dfResult_LC['CO_HABILIDADE'] == hab]
     dfResult_LC.sort_values('theta_065', ascending=True, inplace=True)
+    dfResult_LC['QSEARCH'] = dfResult_LC.apply(lambda row: get_prova_string(row['ANO'], row['CO_PROVA']), axis=1)
     dfResult_LC['indexacao'] = dfResult_LC.reset_index().index + 1
 
     pdf = PDF()
@@ -44,8 +117,8 @@ def questionBalance_Hab(hab, dfResult):
     pdf.set_font('Times', 'B', 12)
 
     for i in dfResult_LC.index:
-        print("Nº"+str(dfResult_LC.loc[i, 'indexacao'])+"/"+str(len(dfResult_LC)))
-        strLC ="Nº"+str(dfResult_LC.loc[i, 'indexacao'])+" - Q" + str(dfResult_LC.loc[i, "CO_POSICAO"])+':'+str(dfResult_LC.loc[i, "ANO"]) + ' - H'+str(dfResult_LC.loc[i, "CO_HABILIDADE"].astype(int))+ " - Proficiência: " + str(dfResult_LC.loc[i, "theta_065"].round(2))
+        print("N"+str(dfResult_LC.loc[i, 'indexacao'])+"/"+str(len(dfResult_LC)))
+        strLC ="N"+str(dfResult_LC.loc[i, 'indexacao'])+" - Q" + str(dfResult_LC.loc[i, "CO_POSICAO"])+':'+str(dfResult_LC.loc[i, "ANO"]) + ' - H'+str(dfResult_LC.loc[i, "CO_HABILIDADE"].astype(int))+ " - Proficiência: " + str(dfResult_LC.loc[i, "theta_065"].round(2))
         if 'dtype:' in strLC:
             print("CaLCulando...")
         else:
@@ -68,6 +141,13 @@ def questionBalance_Hab(hab, dfResult):
 
                 # ajustar as coordenadas de posição e o tamanho da imagem
                 pdf.image('Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                pdf.ln(10)
+                stringCorr = str("Questao " + str(dfResult_LC.loc[i, "CO_POSICAO"])+' Linguagens ENEM '+str(dfResult_LC.loc[i, "ANO"]) +' '+ str(dfResult_LC.loc[i, "QSEARCH"]))
+
+                link = toYoutube(stringCorr)        
+                pdf.add_my_link(170, 25, "RESOLUÇÃO", link)
+                pdf.set_text_color(0, 0, 0)
+                pdf.set_font('Times', 'B', 12)
 
                 # adicionar quebra de página
                 pdf.add_page()
@@ -113,8 +193,12 @@ def questionBalance_Hab(hab, dfResult):
 
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
 
-
 for i in range(1, 31):
     if i <= 4 or (i >= 9 and i <= 30):
         questionBalance_Hab(i, dItens)
         print("H" + str(i) + " Pronta!")
+
+
+
+
+    
