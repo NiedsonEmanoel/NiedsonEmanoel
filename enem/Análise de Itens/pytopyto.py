@@ -14,7 +14,48 @@ def calcular_probabilidade(theta, a, b, c):
     Retorna:
         Probabilidade de uma resposta correta.
     """
-    return c + (1 - c) * (1 / (1 + np.exp(-a * (theta - b))))
+    return c + (1 - c) * (1 / (1 + np.exp(-1.7 * a * (theta - b))))
+
+def find_theta(a, b, c, targ):
+    left = -100
+    right = 100
+    tol = 1e-5
+    target = targ
+    while (right - left) / 2 > tol:
+        theta = (left + right) / 2
+        value = calcular_probabilidade(theta, a, b, c)
+        if value > target:
+            right = theta
+        else:
+            left = theta
+    return theta * 100 + 500 
+
+def find_targ(a, b, c):
+    theta = b
+    left = 0
+    right = 1
+    tol = 1e-5
+    while (right - left) / 2 > tol:
+        target = (left + right) / 2
+        value = calcular_probabilidade(theta, a, b, c)
+        if value > target:
+            right = target
+        else:
+            left = target
+    return target       
+
+aq = 2.53465
+bq = 2.4095
+cq = 0.0954
+
+print('Parâmetro A: '+str(aq))
+print('Parâmetro B: '+str(bq))
+print('Parâmetro C: '+str(cq))
+
+print('A proficiência sem ajuste é: ' + str(500+bq*100)+' dado por: ((B*100)+500))')
+print('Com ajuste (60%) é: ' + str(round(find_theta(aq, bq, cq, 0.60), 2)))
+
+print('O Item foi acertado por: ' + str(round(((1+cq)/2*100), 2)) + '% dos participantes')
 
 def calcular_verossimilhanca(theta, a, b, c, x):
     # theta: valor da proficiência do candidato
