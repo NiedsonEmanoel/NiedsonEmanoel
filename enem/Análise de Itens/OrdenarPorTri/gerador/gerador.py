@@ -94,7 +94,7 @@ def thetaToCsv(provas, dfItens):
             dfItens.loc[i, "NU_PARAM_A"],
             dfItens.loc[i, "NU_PARAM_B"],
             dfItens.loc[i, "NU_PARAM_C"],
-            0.65,
+            0.60,
         )
         dfItens.loc[i, "theta_080"] = find_theta(
             dfItens.loc[i, "NU_PARAM_A"],

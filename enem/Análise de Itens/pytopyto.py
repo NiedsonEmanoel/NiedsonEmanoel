@@ -14,7 +14,7 @@ def calcular_probabilidade(theta, a, b, c):
     Retorna:
         Probabilidade de uma resposta correta.
     """
-    return c + (1 - c) * (1 / (1 + np.exp(-1.7 * a * (theta - b))))
+    return c + (1 - c) * (1 / (1 + np.exp(-1.7 *a * (theta - b))))
 
 def find_theta(a, b, c, targ):
     left = -100
@@ -53,7 +53,7 @@ print('Parâmetro B: '+str(bq))
 print('Parâmetro C: '+str(cq))
 
 print('A proficiência sem ajuste é: ' + str(500+bq*100)+' dado por: ((B*100)+500))')
-print('Com ajuste (60%) é: ' + str(round(find_theta(aq, bq, cq, 0.60), 2)))
+print('Com ajuste (65%) é: ' + str(round(find_theta(aq, bq, cq, 0.60), 2)))
 
 print('O Item foi acertado por: ' + str(round(((1+cq)/2*100), 2)) + '% dos participantes')
 
