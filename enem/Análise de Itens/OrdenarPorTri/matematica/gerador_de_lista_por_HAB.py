@@ -128,7 +128,7 @@ def questionBalance_Hab(hab, dfResult):
     # Criar um modelo para os flashcards
     modelo = genanki.Model(
         generate_random_number(),
-        'Modelo Habs',
+        str(generate_random_number()),
         fields=[
             {'name': 'MyMedia'},
             {'name': 'Questão'},
@@ -185,7 +185,7 @@ def questionBalance_Hab(hab, dfResult):
     # Especificar a pasta onde estão as imagens
     pacote.media_folder = pasta
 
-    pacote.write_to_file('Saidas/Habilidades/' + name + '.apkg')
+    pacote.write_to_file('Saidas/Flashcards/' + name + '.apkg')
 
 
     for i in dfResult_MT.index:

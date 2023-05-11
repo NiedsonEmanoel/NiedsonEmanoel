@@ -1,8 +1,86 @@
 import pandas as pd
 from fpdf import FPDF
 from PIL import Image
-
+import random
+import time
+import genanki
+import os
 pd.options.mode.chained_assignment = None
+
+def generate_random_number():
+    # Obter o timestamp atual em segundos
+    timestamp = int(time.time())
+
+    # Definir o timestamp como semente para a função random
+    random.seed(timestamp)
+
+    # Gerar um número inteiro aleatório entre 0 e 100000
+    return random.randint(0, 100000)
+
+# Criar um modelo para os flashcards
+modelo = genanki.Model(
+    generate_random_number(),
+    str(generate_random_number()),
+    fields=[
+        {'name': 'MyMedia'},
+        {'name': 'Questão'},
+        {'name': 'Resposta'}
+    ],
+    templates=[
+        {
+            'name': 'Cartão 1',
+            'qfmt': '<b>{{Questão}}</b><hr>{{MyMedia}}',
+            'afmt': '{{FrontSide}}<br><hr><b>{{Resposta}}</b>',
+        },
+    ])
+
+def geraAnkiCompleto(dfResult):
+    dfResult_CN = dfResult[dfResult['SG_AREA'] == 'CN']
+    dfResult_CN.sort_values('theta_065', ascending=True, inplace=True)
+    dfResult_CN['indexacao'] = dfResult_CN.reset_index().index + 1
+    baralho = genanki.Deck(
+        generate_random_number(), # Um número aleatório que identifica o baralho
+        str('TRI::Natureza') # O nome do baralho
+    )
+
+    # Criar uma lista para armazenar as informações dos flashcards
+    flashcards = []
+
+    # Obter o caminho absoluto da pasta onde estão as imagens
+    pasta = os.path.abspath('Itens BNI')
+
+    # Percorrer as linhas do dataframe dfResult_CN
+    for i in dfResult_CN.index:
+        # Obter o nome do arquivo de imagem da questão
+        imagem = str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png'
+        caminho_imagem = os.path.join(pasta, imagem)
+        
+        # Obter a resposta da questão
+        resposta = str(dfResult_CN.loc[i, 'TX_GABARITO']) 
+        inic = "Q" + str(dfResult_CN.loc[i, "CO_POSICAO"]) + ':' + str(dfResult_CN.loc[i, "ANO"]) + ' - H' + str(dfResult_CN.loc[i, "CO_HABILIDADE"].astype(int)) + " - Proficiência: " + str(dfResult_CN.loc[i, "theta_065"].round(2))
+
+        # Criar um flashcard com a imagem e a resposta
+        flashcard = genanki.Note(
+            model=modelo,
+            fields=[inic,'<img src="https://raw.githubusercontent.com/NiedsonEmanoel/NiedsonEmanoel/main/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
+        )
+        
+        # Adicionar o flashcard à lista de flashcards
+        flashcards.append(flashcard)
+
+    for flashcard in flashcards:
+        baralho.add_note(flashcard)
+
+    # Obter o caminho absoluto das imagens
+    imagens = [os.path.join(pasta, imagem) for imagem in os.listdir(pasta)]
+
+    # Criar um pacote com o baralho e as imagens
+    pacote = genanki.Package(baralho)
+    pacote.media_files = imagens
+    # Especificar a pasta onde estão as imagens
+    pacote.media_folder = pasta
+
+    pacote.write_to_file('Saidas/Flashcards/NaturezaCompleto.apkg')
 
 #Definindo Classe do PDF de Saída
 class PDF(FPDF):
@@ -46,6 +124,51 @@ def questionBalance_65(name, nota_CN, dfResult):
     pdf.add_page()
 
     pdf.set_font('Times', 'B', 12)
+
+    # Criar um baralho para armazenar os flashcards
+    baralho = genanki.Deck(
+        generate_random_number(), # Um número aleatório que identifica o baralho
+        str('TRI::Treino::Natureza') # O nome do baralho
+    )
+
+    # Criar uma lista para armazenar as informações dos flashcards
+    flashcards = []
+
+    # Obter o caminho absoluto da pasta onde estão as imagens
+    pasta = os.path.abspath('Itens BNI')
+
+    # Percorrer as linhas do dataframe dfResult_CN
+    for i in dfResult_CN.index:
+        # Obter o nome do arquivo de imagem da questão
+        imagem = str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png'
+        caminho_imagem = os.path.join(pasta, imagem)
+        
+        # Obter a resposta da questão
+        resposta = str(dfResult_CN.loc[i, 'TX_GABARITO']) 
+        inic = "Q" + str(dfResult_CN.loc[i, "CO_POSICAO"]) + ':' + str(dfResult_CN.loc[i, "ANO"]) + ' - H' + str(dfResult_CN.loc[i, "CO_HABILIDADE"].astype(int)) + " - Proficiência: " + str(dfResult_CN.loc[i, "theta_065"].round(2))
+
+        # Criar um flashcard com a imagem e a resposta
+        flashcard = genanki.Note(
+            model=modelo,
+            fields=[inic,'<img src="https://raw.githubusercontent.com/NiedsonEmanoel/NiedsonEmanoel/main/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
+        )
+        
+        # Adicionar o flashcard à lista de flashcards
+        flashcards.append(flashcard)
+
+    for flashcard in flashcards:
+        baralho.add_note(flashcard)
+
+    # Obter o caminho absoluto das imagens
+    imagens = [os.path.join(pasta, imagem) for imagem in os.listdir(pasta)]
+
+    # Criar um pacote com o baralho e as imagens
+    pacote = genanki.Package(baralho)
+    pacote.media_files = imagens
+    # Especificar a pasta onde estão as imagens
+    pacote.media_folder = pasta
+
+    pacote.write_to_file('Saidas/Flashcards/Natureza_'+name+'_065.apkg')
 
     for i in dfResult_CN.index:
         strLC ="Nº"+str(dfResult_CN.loc[i, 'indexacao'])+" - Q" + str(dfResult_CN.loc[i, "CO_POSICAO"])+':'+str(dfResult_CN.loc[i, "ANO"]) + ' - H'+str(dfResult_CN.loc[i, "CO_HABILIDADE"].astype(int))+ " - Proficiência: " + str(dfResult_CN.loc[i, "theta_065"].round(2))
@@ -145,6 +268,51 @@ def questionBalance_99(name, nota_CN, dfResult):
 
     pdf.set_font('Times', 'B', 12)
 
+         # Criar um baralho para armazenar os flashcards
+    baralho = genanki.Deck(
+        generate_random_number(), # Um número aleatório que identifica o baralho
+        str('TRI::Revisão::Natureza') # O nome do baralho
+    )
+
+    # Criar uma lista para armazenar as informações dos flashcards
+    flashcards = []
+
+    # Obter o caminho absoluto da pasta onde estão as imagens
+    pasta = os.path.abspath('Itens BNI')
+
+    # Percorrer as linhas do dataframe dfResult_CN
+    for i in dfResult_CN.index:
+        # Obter o nome do arquivo de imagem da questão
+        imagem = str(dfResult_CN.loc[i, "CO_ITEM"]) + '.png'
+        caminho_imagem = os.path.join(pasta, imagem)
+        
+        # Obter a resposta da questão
+        resposta = str(dfResult_CN.loc[i, 'TX_GABARITO']) 
+        inic = "Q" + str(dfResult_CN.loc[i, "CO_POSICAO"]) + ':' + str(dfResult_CN.loc[i, "ANO"]) + ' - H' + str(dfResult_CN.loc[i, "CO_HABILIDADE"].astype(int)) + " - Proficiência: " + str(dfResult_CN.loc[i, "theta_065"].round(2))
+
+        # Criar um flashcard com a imagem e a resposta
+        flashcard = genanki.Note(
+            model=modelo,
+            fields=[inic,'<img src="https://raw.githubusercontent.com/NiedsonEmanoel/NiedsonEmanoel/main/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
+        )
+        
+        # Adicionar o flashcard à lista de flashcards
+        flashcards.append(flashcard)
+
+    for flashcard in flashcards:
+        baralho.add_note(flashcard)
+
+    # Obter o caminho absoluto das imagens
+    imagens = [os.path.join(pasta, imagem) for imagem in os.listdir(pasta)]
+
+    # Criar um pacote com o baralho e as imagens
+    pacote = genanki.Package(baralho)
+    pacote.media_files = imagens
+    # Especificar a pasta onde estão as imagens
+    pacote.media_folder = pasta
+
+    pacote.write_to_file('Saidas/Flashcards/Natureza_'+name+'_099.apkg')
+
     for i in dfResult_CN.index:
         strLC ="Nº"+str(dfResult_CN.loc[i, 'indexacao'])+" - Q" + str(dfResult_CN.loc[i, "CO_POSICAO"])+':'+str(dfResult_CN.loc[i, "ANO"]) + ' - H'+str(dfResult_CN.loc[i, "CO_HABILIDADE"].astype(int))+ " - Proficiência: " + str(dfResult_CN.loc[i, "theta_065"].round(2))
         if 'dtype:' in strLC:
@@ -220,3 +388,4 @@ nome=input("Qual o seu Nome?")
 nota_CN = float(input("Qual sua nota TRI em Natureza?"))
 
 questionBalance(nome, nota_CN, dItens)
+geraAnkiCompleto(dItens)
