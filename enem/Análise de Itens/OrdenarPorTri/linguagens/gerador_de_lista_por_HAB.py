@@ -12,6 +12,7 @@ import random
 import time
 import genanki
 pd.options.mode.chained_assignment = None
+egorger = []
 
 def generate_random_number():
     # Obter o timestamp atual em segundos
@@ -226,8 +227,9 @@ def questionBalance_Hab(hab, dfResult):
                 # adicionar quebra de página
                 pdf.add_page()
             except FileNotFoundError:
-                print("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png')
-                print(strLC)
+                erGorger = ("Arquivo de imagem não encontrado: "+'Itens BNI/' + str(dfResult_LC.loc[i, "CO_ITEM"]) + '.png - \n'+ strLC +' '+ str(dfResult_LC.loc[i, "CO_PROVA"]))
+                egorger.append(erGorger)
+                print(erGorger)
                 continue
 
     #GAB
@@ -266,8 +268,24 @@ def questionBalance_Hab(hab, dfResult):
 
 
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
+dItens = dItens[dItens['SG_AREA'] == 'LC']
+
+#OTIMIZAÇÃO 
+folder_path = os.path.abspath('Itens BNI')
+co_items = set(dItens["CO_ITEM"].astype(str))
+
+# Percorra os arquivos na pasta e apague aqueles que não possuem o valor da coluna "CO_ITEM" no seu nome (sem a extensão)
+for filename in os.listdir(folder_path):
+    name, extension = os.path.splitext(filename)
+    if extension == ".png" and name not in co_items:
+        os.remove(os.path.join(folder_path, filename))
+        print(f"Arquivo excluído: {filename}")
+#
 
 for i in range(1, 31):
     if i <= 4 or (i >= 9 and i <= 30):
         questionBalance_Hab(i, dItens)
         print("H" + str(i) + " Pronta!")
+
+print('\nImagens faltando:')
+print(egorger)

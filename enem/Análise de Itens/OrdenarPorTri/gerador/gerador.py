@@ -148,8 +148,8 @@ def Make():
     dItens2022 = thetaToCsv(provas2022, dItens2022)
     del dItens2020['TP_VERSAO_DIGITAL']
 
-    result = pd.concat([dItens2016,dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
-    result.to_csv('provasOrdernadasPorTri16-22.csv', index=False, encoding='utf-8', decimal=',')
+    result = pd.concat([dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
+    result.to_csv('provasOrdernadasPorTri.csv', index=False, encoding='utf-8', decimal=',')
 
     return result
 

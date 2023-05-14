@@ -76,7 +76,7 @@ def geraAnkiCompleto(dfResult):
         # Criar um flashcard com a imagem e a resposta
         flashcard = genanki.Note(
             model=modelo,
-            fields=[inic,'<img src="https://raw.githubusercontent.com/NiedsonEmanoel/NiedsonEmanoel/main/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
+            fields=[inic,'<img src="https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
         )
         
         # Adicionar o flashcard à lista de flashcards
@@ -150,7 +150,7 @@ def questionBalance_65(name, nota_LC, dfResult):
         # Criar um flashcard com a imagem e a resposta
         flashcard = genanki.Note(
             model=modelo,
-            fields=[inic,'<img src="https://raw.githubusercontent.com/NiedsonEmanoel/NiedsonEmanoel/main/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
+            fields=[inic,'<img src="https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
         )
         
         # Adicionar o flashcard à lista de flashcards
