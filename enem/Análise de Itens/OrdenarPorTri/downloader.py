@@ -11,18 +11,18 @@ df = pd.DataFrame(columns=["Tarefa", "Prioridade", "Tempo estimado"])
 # Adicionar tarefas ao dataframe
 df.loc[len(df)] = ["Tarefa 1", 1, 240] # Tarefa 1, Prioridade 2, 60 minutos estimados
 df.loc[len(df)] = ["Tarefa 2", 2, 60] # Tarefa 2, Prioridade 1, 30 minutos estimados
-df.loc[len(df)] = ["Tarefa 3", 3, 45] # Tarefa 3, Prioridade 3, 45 minutos estimados
+df.loc[len(df)] = ["Tarefa 3", 3, 30] # Tarefa 3, Prioridade 3, 30 minutos estimados
 
 # Ordenar o dataframe por prioridade (ordem crescente) e tempo estimado (ordem decrescente)
 df = df.sort_values(by=["Prioridade", "Tempo estimado"], ascending=[True, False])
 
-# Dividir as tarefas em 7 dias da semana, das 8h às 22h, com intervalos de 45 minutos entre cada tarefa e no máximo 6 horas de tarefas por dia
+# Dividir as tarefas em 7 dias da semana, das 8h às 21h, com intervalos de 30 minutos entre cada tarefa e no máximo 6 horas de tarefas por dia
 agenda = {}
 horario_atual = datetime.time(hour=8)
-minutos_disponiveis = (22 - horario_atual.hour) * 60
+minutos_disponiveis = (21 - horario_atual.hour) * 60
 for dia in range(7):
     agenda[dia] = []
-    minutos_disponiveis = (22 - horario_atual.hour) * 60
+    minutos_disponiveis = (21 - horario_atual.hour) * 60
     minutos_de_trabalho = 0
     while minutos_disponiveis > 0 and len(df) > 0 and minutos_de_trabalho < 360:
         tarefa = df.iloc[0]
@@ -34,7 +34,7 @@ for dia in range(7):
             horario_fim = horario_atual.strftime("%H:%M")
             agenda[dia].append((tarefa["Tarefa"], horario_inicio, horario_fim))
             minutos_disponiveis -= tarefa["Tempo estimado"]
-            minutos_de_trabalho += tarefa["Tempo estimado"] + 45
+            minutos_de_trabalho += tarefa["Tempo estimado"] + 30
             df = df.drop(df.index[0])
         else:
             break
