@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import locale
-Disciplina = "CN"
+Disciplina = "LC"
 
 # Definir o locale para pt-BR
 locale.setlocale(locale.LC_ALL, 'pt_BR.utf8')
@@ -11,6 +11,7 @@ totPart = dfENEM.shape[0]
 Ano = dfENEM.loc[0, "NU_ANO"]
 
 dfENEM = dfENEM[dfENEM['TP_PRESENCA_'+Disciplina] == 1]
+totPartRela = dfENEM.shape[0]
 
 for x in dfENEM.keys():
     if x == "TX_RESPOSTAS_"+Disciplina:
@@ -30,10 +31,13 @@ def CalculaPercentNota(Df, Nota):
     Df = Df[Df["NU_NOTA_"+Disciplina] >= Nota]
     qtd = Df.shape[0]
     percent = (qtd/totPart)*100
+    percentRel = (qtd/totPartRela)*100
 
     qtd = locale.format("%.0f", Df.shape[0], grouping=True)
-    percent = locale.format("%.2f", percent, grouping=True)
+    percent = locale.format("%.3f", percent, grouping=True)
     thisTot = locale.format("%.0f", totPart, grouping=True)
+    thisTotRela = locale.format("%.3f", percentRel, grouping=True)
+
     return (
             str(qtd)
             + " Alunos tiraram "
@@ -46,15 +50,17 @@ def CalculaPercentNota(Df, Nota):
             + str(thisTot)
             + "\nEm porcentagem: "
             + str(percent)
+            + "%"
+            + "\nEm porcentagem (relativa): "
+            + str(thisTotRela)
             + "%\n\n"
-        )
-d900 = CalculaPercentNota(dfENEM, 900)
-d800 = CalculaPercentNota(dfENEM, 800)
-d700 = CalculaPercentNota(dfENEM, 700)
-d650 = CalculaPercentNota(dfENEM, 650)
-d600 = CalculaPercentNota(dfENEM, 600)
 
-dcomplete = str(d600)+ str(d650)+ str(d700)+ str(d800)+ str(d900) 
+        )
+        
+dcomplete = ""
+for nota in range(900, 199, -100):
+    d = CalculaPercentNota(dfENEM, nota)
+    dcomplete += str(d)
 
 def CalculaAcerto(Disciplina, Df):
     campo_resp = 'TX_RESPOSTAS_'+Disciplina
@@ -127,4 +133,4 @@ Quaest = TratamentoQuestoes(dfENEM, Disciplina)
 frames = [Quaest]
 dfTabelinhas = pd.concat(frames, ignore_index=True)
 dfTabelinhas.to_csv('AcertosXTriEnem'+Disciplina+'_'+str(Ano)+'.csv', index=False, encoding='utf-8', decimal=',')
-salvar_em_txt(dcomplete, 'Percent_600to900_'+Disciplina+'_'+str(Ano)+'.txt')
+salvar_em_txt(dcomplete, 'Percent_200to900_'+Disciplina+'_'+str(Ano)+'.txt')
