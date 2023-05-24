@@ -6,8 +6,39 @@ dfENEM = pd.read_csv('mc.csv', sep=';', encoding='latin-1')
 
 # Filtra apenas as linhas em que o aluno esteve presente (TP_PRESENCA_MT = 1), 
 # a prova matemática (CO_PROVA_MT = 303) e a nota de matemática é maior que 1
+
+for x in dfENEM.keys():
+    if x == "TX_RESPOSTAS_MT":
+        print('IGNORED')
+    elif x == "NU_NOTA_MT":
+        print('IGNORED')
+    elif x == "TX_GABARITO_MT":
+        print("IGNORED")
+
+    elif x == "TX_RESPOSTAS_LC":
+        print('IGNORED')    
+    elif x == "NU_NOTA_LC":
+        print('IGNORED')
+    elif x == "TX_GABARITO_LC":
+        print("IGNORED")
+
+    elif x == "TX_RESPOSTAS_CH":
+        print('IGNORED')    
+    elif x == "NU_NOTA_CH":
+        print('IGNORED')
+    elif x == "TX_GABARITO_CH":
+        print("IGNORED")
+
+    elif x == "TX_RESPOSTAS_CN":
+        print('IGNORED')    
+    elif x == "NU_NOTA_CN":
+        print('IGNORED')
+    elif x == "TX_GABARITO_CN":
+        print("IGNORED")    
+    else:
+        del dfENEM[x]
+
 dfENEM = dfENEM[dfENEM['TP_PRESENCA_MT'] == 1]
-dfENEM = dfENEM[dfENEM['CO_PROVA_MT'] == 303]
 dfENEM = dfENEM[dfENEM['NU_NOTA_MT'] > 1]
 
 # Remove colunas que não serão utilizadas

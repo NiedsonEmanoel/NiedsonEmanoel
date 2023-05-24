@@ -46,7 +46,7 @@ def find_targ(a, b, c):
 
 aq = 2.53465
 bq = 2.4095
-cq = 0.0954
+cq = 0.1897
 
 print('Parâmetro A: '+str(aq))
 print('Parâmetro B: '+str(bq))

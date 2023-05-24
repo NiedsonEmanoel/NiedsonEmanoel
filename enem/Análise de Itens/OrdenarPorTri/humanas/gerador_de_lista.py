@@ -251,8 +251,8 @@ def questionBalance_99(name, nota_hm, dfResult):
     dfResult.drop(cols_to_drop, axis=1, inplace=True)
 
     dfResult_HM = dfResult[dfResult['SG_AREA'] == 'CH']
-    dfResultInterc = dfResult_HM[dfResult_HM['theta_065'] <= nota_hm+50]
-    dfResultInterc = dfResult_HM[dfResult_HM['theta_065'] >= nota_hm-101]
+    dfResultInterc = dfResult_HM[dfResult_HM['theta_065'] <= nota_hm+100]
+    dfResultInterc = dfResult_HM[dfResult_HM['theta_065'] >= nota_hm-5]
     dfResult_HM = dfResult_HM[dfResult_HM['theta_099'] <= nota_hmMaior]
     dfResult_HM = dfResult_HM[dfResult_HM['theta_099'] >= nota_hmMenor]
     dfResult_HM = dfResult_HM[~dfResult_HM['theta_065'].isin(dfResultInterc['theta_065'])]

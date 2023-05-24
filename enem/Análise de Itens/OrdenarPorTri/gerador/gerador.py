@@ -21,6 +21,9 @@ def find_theta(a, b, c, targ):
             left = theta
     return theta * 100 + 500
 
+def find_quantile(c):
+    return round(((1+c)/2*100), 2)    
+
 def get_prova_string(ano, co_prova):
     if ano == 2016:
         if co_prova in [303]:
@@ -87,6 +90,7 @@ def thetaToCsv(provas, dfItens):
     dfItens["theta_065"] = 0
     dfItens["theta_080"] = 0
     dfItens["theta_099"] = 0
+    dfItens["PercentEspAcerto"] = 0
     dfItens['CO_PROVA'] = dfItens.apply(lambda row: get_prova_string(row['ANO'], row['CO_PROVA']), axis=1)
 
     for i in dfItens.index:    
@@ -107,6 +111,9 @@ def thetaToCsv(provas, dfItens):
             dfItens.loc[i, "NU_PARAM_B"],
             dfItens.loc[i, "NU_PARAM_C"],
             0.99,
+        )
+        dfItens.loc[i, 'PercentEspAcerto'] = find_quantile(
+            dfItens.loc[i, "NU_PARAM_C"]
         )
     return dfItens
 

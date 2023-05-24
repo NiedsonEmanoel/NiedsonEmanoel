@@ -109,8 +109,8 @@ def questionBalance_65(name, nota_CN, dfResult):
 
     # Para a área de Natureza (CN)
     dfResult_CN = dfResult[dfResult['SG_AREA'] == 'CN']
-    dfResult_CN = dfResult_CN[dfResult_CN['theta_065'] <= nota_CNMaior]
-    dfResult_CN = dfResult_CN[dfResult_CN['theta_065'] >= nota_CNMenor]
+  #  dfResult_CN = dfResult_CN[dfResult_CN['theta_065'] <= nota_CNMaior]
+  #  dfResult_CN = dfResult_CN[dfResult_CN['theta_065'] >= nota_CNMenor]
     dfResult_CN.sort_values('theta_065', ascending=True, inplace=True)
     dfResult_CN['indexacao'] = dfResult_CN.reset_index().index + 1
 
@@ -249,8 +249,8 @@ def questionBalance_99(name, nota_CN, dfResult):
     dfResult.drop(cols_to_drop, axis=1, inplace=True)
 
     dfResult_CN = dfResult[dfResult['SG_AREA'] == 'CN']
-    dfResultInterc = dfResult_CN[dfResult_CN['theta_065'] <= nota_CN+50]
-    dfResultInterc = dfResult_CN[dfResult_CN['theta_065'] >= nota_CN-101]
+    dfResultInterc = dfResult_CN[dfResult_CN['theta_065'] <= nota_CN+100]
+    dfResultInterc = dfResult_CN[dfResult_CN['theta_065'] >= nota_CN-5]
     dfResult_CN = dfResult_CN[dfResult_CN['theta_099'] <= nota_CNMaior]
     dfResult_CN = dfResult_CN[dfResult_CN['theta_099'] >= nota_CNMenor]
     dfResult_CN = dfResult_CN[~dfResult_CN['theta_065'].isin(dfResultInterc['theta_065'])]
