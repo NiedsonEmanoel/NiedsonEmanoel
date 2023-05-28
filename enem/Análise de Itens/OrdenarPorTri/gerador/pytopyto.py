@@ -1,5 +1,15 @@
 import numpy as np
+import pandas as pd
 from scipy.optimize import minimize_scalar
+Disciplina = 'MT'
+Habilidade = 1
+
+dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
+
+dItens = dItens[dItens['SG_AREA'] == Disciplina]
+dItens = dItens[dItens['CO_HABILIDADE'] == Habilidade]
+dItens.sort_values('theta_065', ascending=True, inplace=True)
+dItens['indexacao'] = dItens.reset_index().index + 1
 
 def calcular_probabilidade(theta, a, b, c):
     """
@@ -14,76 +24,53 @@ def calcular_probabilidade(theta, a, b, c):
     Retorna:
         Probabilidade de uma resposta correta.
     """
-    return c + (1 - c) * (1 / (1 + np.exp(-1.7 *a * (theta - b))))
-
-def find_theta(a, b, c, targ):
-    left = -100
-    right = 100
-    tol = 1e-5
-    target = targ
-    while (right - left) / 2 > tol:
-        theta = (left + right) / 2
-        value = calcular_probabilidade(theta, a, b, c)
-        if value > target:
-            right = theta
-        else:
-            left = theta
-    return theta * 100 + 500 
-
-def find_targ(a, b, c):
-    theta = b
-    left = 0
-    right = 1
-    tol = 1e-5
-    while (right - left) / 2 > tol:
-        target = (left + right) / 2
-        value = calcular_probabilidade(theta, a, b, c)
-        if value > target:
-            right = target
-        else:
-            left = target
-    return target       
-
-aq = 2.53465
-bq = 2.4095
-cq = 0.1897
-
-print('Parâmetro A: '+str(aq))
-print('Parâmetro B: '+str(bq))
-print('Parâmetro C: '+str(cq))
-
-print('A proficiência sem ajuste é: ' + str(500+bq*100)+' dado por: ((B*100)+500))')
-print('Com ajuste (65%) é: ' + str(round(find_theta(aq, bq, cq, 0.60), 2)))
-
-print('O Item foi acertado por: ' + str(round(((1+cq)/2*100), 2)) + '% dos participantes')
+    return c + (1 - c) / (1 + np.exp(-a * (theta - b)))
 
 def calcular_verossimilhanca(theta, a, b, c, x):
-    # theta: valor da proficiência do candidato
-    # a, b, c: parâmetros dos itens
-    # x: matriz de respostas dos candidatos (0 para erro e 1 para acerto)
     if x.ndim == 1:
         x = np.expand_dims(x, axis=1)
     num_itens, num_candidatos = x.shape
     verossimilhanca = np.ones(num_candidatos)
-    for i in range(num_itens):
+    for i, item in enumerate(x):
         p = calcular_probabilidade(theta, a[i], b[i], c[i])
-        verossimilhanca *= np.power(p, x[i]) * np.power(1-p, 1-x[i])
+        verossimilhanca *= np.power(p, item) * np.power(1 - p, 1 - item)
     return np.prod(verossimilhanca)
 
-# Define a função de verossimilhança como uma função de theta
-def verossimilhanca(theta, a, b, c, x):
-    return -calcular_verossimilhanca(theta, a, b, c, x.flatten())  # O sinal negativo é usado porque o objetivo é maximizar a função
+def encontrar_theta_max(a, b, c, x):
+    if len(a) != x.shape[0] or len(b) != x.shape[0] or len(c) != x.shape[0]:
+        raise ValueError("O comprimento das listas de parâmetros a, b e c deve corresponder ao número de itens em x.")
+
+    if x.ndim == 1:
+        x = np.expand_dims(x, axis=1)
+
+    theta_max_list = []
+    for i in range(x.shape[1]):
+        result = minimize_scalar(lambda theta: -calcular_verossimilhanca(theta, a, b, c, x[:, i]), bounds=(-3, 5), method='bounded')
+        theta_max_list.append(result.x * 100 + 500)
+    return theta_max_list
 
 # Define os parâmetros dos itens e a matriz de respostas dos candidatos
-a = [2.53465, 2.5914, 1.41618]
-b = [2.4095, 1.40589, 0.30941]
-c = [0.0954, 0.13998, 0.07884]
-x = np.array([[1, 0, 1], [0, 1, 1], [1, 1, 0]])
+a, b, c = zip(*dItens[['NU_PARAM_A', 'NU_PARAM_B', 'NU_PARAM_C']].values.tolist())
 
-# Encontra o valor de theta que maximiza a função de verossimilhança para cada candidato usando o método de Brent
-theta_max_list = []
-for i in range(x.shape[1]):
-    result = minimize_scalar(verossimilhanca, args=(a, b, c, x[:, i]), bounds=(-3, 5), method='bounded')
-    theta_max_list.append((result.x*100)+500)
+total = len(a)
 
-print(f"Valores de theta que maximizam a função de verossimilhança para cada candidato: {theta_max_list}")
+x = np.ones(total)  # Initializing x with all 1s
+
+i = 0
+while i < total:
+    answer = input("Digite 1 ou 0 como resposta da questão "+(str(i+1))+": ")
+    if answer == "1":
+        x[i] = 1
+        i += 1
+    elif answer == "0":
+        x[i] = 0
+        i += 1
+    else:
+        print("Resposta inválida. Digite apenas 1 ou 0.")
+
+# Encontra o valor de theta que maximiza a função de verossimilhança para o candidato
+try:
+    theta_max_list = encontrar_theta_max(a, b, c, x)
+    print(f"Nota TRI H{Habilidade} - {Disciplina}: {theta_max_list[0]}")
+except ValueError as e:
+    print(f"Erro: {str(e)}")

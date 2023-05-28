@@ -10,8 +10,13 @@ df = pd.DataFrame(columns=["Tarefa", "Prioridade", "Tempo estimado"])
 
 # Adicionar tarefas ao dataframe
 df.loc[len(df)] = ["Tarefa 1", 1, 240] # Tarefa 1, Prioridade 2, 60 minutos estimados
-df.loc[len(df)] = ["Tarefa 2", 2, 60] # Tarefa 2, Prioridade 1, 30 minutos estimados
 df.loc[len(df)] = ["Tarefa 3", 3, 30] # Tarefa 3, Prioridade 3, 30 minutos estimados
+df.loc[len(df)] = ["Tarefa 1", 1, 240] # Tarefa 1, Prioridade 2, 60 minutos estimados
+df.loc[len(df)] = ["Tarefa 1", 1, 240] # Tarefa 1, Prioridade 2, 60 minutos estimados
+df.loc[len(df)] = ["Tarefa 1", 1, 240] # Tarefa 1, Prioridade 2, 60 minutos estimados
+
+
+
 
 # Ordenar o dataframe por prioridade (ordem crescente) e tempo estimado (ordem decrescente)
 df = df.sort_values(by=["Prioridade", "Tempo estimado"], ascending=[True, False])
@@ -42,8 +47,7 @@ for dia in range(7):
 
 dados = []
 for dia in range(7):
-    dados.append([f"Agenda para o dia {dia+1}", "", ""])
-    dados.append(["Tarefa", "Início", "Fim"])
+    dados.append([f"{dia+1}", "Início", "Fim"])
     for tarefa in agenda[dia]:
         dados.append([tarefa[0], tarefa[1], tarefa[2]])
     dados.append(["", "", ""])
