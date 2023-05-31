@@ -11,6 +11,8 @@ totPart = dfENEM.shape[0]
 Ano = dfENEM.loc[0, "NU_ANO"]
 
 dfENEM = dfENEM[dfENEM['TP_PRESENCA_'+Disciplina] == 1]
+dfENEM = dfENEM[dfENEM["NU_NOTA_"+Disciplina] != 0]
+
 totPartRela = dfENEM.shape[0]
 
 for x in dfENEM.keys():
@@ -66,18 +68,6 @@ def CalculaAcerto(Disciplina, Df):
     campo_resp = 'TX_RESPOSTAS_'+Disciplina
     campo_gab = 'TX_GABARITO_'+Disciplina
 
-    # Remove as posições do gabarito de acordo com TP_LINGUA se disciplina for LC
-    #if Disciplina == 'LC':
-        #tp_lingua = Df['TP_LINGUA'].iloc[0]
-        #if tp_lingua == 0:
-            #gabarito = Df[campo_gab].iloc[0]
-            #Df[campo_gab] = gabarito[:5] + gabarito[10:]
-
-        #elif tp_lingua == 1:
-            #gabarito = Df[campo_gab].iloc[0]
-            #Df[campo_gab] = gabarito[5:]
-
-    # Define uma função para contar o número de acertos em uma linha do DataFrame
     def conta_acertos(row):
         respostas = row[campo_resp]
         gabarito = row[campo_gab]
