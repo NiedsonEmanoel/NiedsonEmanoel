@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script>
+    function submitQuiz() {
+      // Verifica as respostas selecionadas
+      var answers = document.querySelectorAll('input[type="radio"]:checked');
+      var score = 0;
+
+      // Calcula a pontuação
+      for (var i = 0; i < answers.length; i++) {
+        var questionNumber = parseInt(answers[i].name.substr(1));
+
+        // Conta 2 pontos para as questões de q1 a q18
+        if (questionNumber >= 1 && questionNumber <= 18) {
+          if (answers[i].value === "sim") {
+            score += 2;
+          }
+        }
+
+        // Subtrai 1 ponto para as questões de q19 a q48
+        if (questionNumber >= 19 && questionNumber <= 48) {
+          if (answers[i].value === "sim") {
+            score -= 1;
+          }
+        }
+      }
+
+      // Exibe o alerta com a pontuação
+      alert("Sua pontuação é: " + score);
+    }
+  </script>
+</head>
+
+<body>
+  <form id="quiz-form" action="">
+    <ol>
+      <li>
+        <p>Ela é obsessiva com os relacionamentos?</p>
+        <label><input type="radio" name="q1" value="sim"> Sim</label>
+        <label><input type="radio" name="q1" value="nao"> Não</label>
+      </li>
+      <li>
+        <p>Ela mente ou evita pessoas para disfarçar o que ocorre numa relação?</p>
+        <label><input type="radio" name="q2" value="sim"> Sim</label>
+        <label><input type="radio" name="q2" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela repete atitudes para controlar a relação?</p>
+        <label><input type="radio" name="q3" value="sim"> Sim</label>
+        <label><input type="radio" name="q3" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela culpa e acusa seus relacionamentos pela infelicidade da sua vida?</p>
+        <label><input type="radio" name="q4" value="sim"> Sim</label>
+        <label><input type="radio" name="q4" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela procura agradar as pessoas com quem se relaciona, e esquece-se de si mesma?</p>
+        <label><input type="radio" name="q5" value="sim"> Sim</label>
+        <label><input type="radio" name="q5" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela só se sente viva ou completa quando tem um relacionamento amoroso?</p>
+        <label><input type="radio" name="q6" value="sim"> Sim</label>
+        <label><input type="radio" name="q6" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela já tentou diversas vezes sair de um relacionamento, mas não conseguiu?</p>
+        <label><input type="radio" name="q7" value="sim"> Sim</label>
+        <label><input type="radio" name="q7" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela sofre mudanças de humor inexplicáveis?</p>
+        <label><input type="radio" name="q8" value="sim"> Sim</label>
+        <label><input type="radio" name="q8" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela sofre acidentes devido à distração?</p>
+        <label><input type="radio" name="q9" value="sim"> Sim</label>
+        <label><input type="radio" name="q9" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela pratica atos irracionais?</p>
+        <label><input type="radio" name="q10" value="sim"> Sim</label>
+        <label><input type="radio" name="q10" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela tem ataques de ira, depressão, culpa ou ressentimentos?</p>
+        <label><input type="radio" name="q11" value="sim"> Sim</label>
+        <label><input type="radio" name="q11" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela já teve ataques de violência física contra si mesma ou contra outras pessoas?</p>
+        <label><input type="radio" name="q12" value="sim"> Sim</label>
+        <label><input type="radio" name="q12" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela sente ódio de si mesma e se auto justifica?</p>
+        <label><input type="radio" name="q13" value="sim"> Sim</label>
+        <label><input type="radio" name="q13" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela sofre doenças físicas devido às enfermidades produzidas por estresse?</p>
+        <label><input type="radio" name="q14" value="sim"> Sim</label>
+        <label><input type="radio" name="q14" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela cuida excessivamente dos membros de sua família?</p>
+        <label><input type="radio" name="q15" value="sim"> Sim</label>
+        <label><input type="radio" name="q15" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela não consegue se divertir sem a presença do(a) seu(sua) parceiro(a)?</p>
+        <label><input type="radio" name="q16" value="sim"> Sim</label>
+        <label><input type="radio" name="q16" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela se sente exausta por assumir mais responsabilidades num relacionamento?</p>
+        <label><input type="radio" name="q17" value="sim"> Sim</label>
+        <label><input type="radio" name="q17" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela se sente incompreendida por todos?</p>
+        <label><input type="radio" name="q18" value="sim"> Sim</label>
+        <label><input type="radio" name="q18" value="nao"> Não</label>
+      </li>
+<hr>
+      <li>
+        <p>Ela é tímida?</p>
+        <label><input type="radio" name="q19" value="sim"> Sim</label>
+        <label><input type="radio" name="q19" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Pai amoroso e forte?</p>
+        <label><input type="radio" name="q20" value="sim"> Sim</label>
+        <label><input type="radio" name="q20" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Gosta de cozinhar?</p>
+        <label><input type="radio" name="q21" value="sim"> Sim</label>
+        <label><input type="radio" name="q21" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Cor de cabelo natural?</p>
+        <label><input type="radio" name="q22" value="sim"> Sim</label>
+        <label><input type="radio" name="q22" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Pés bonitos e limpos?</p>
+        <label><input type="radio" name="q23" value="sim"> Sim</label>
+        <label><input type="radio" name="q23" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não "se dá" com vários homens, não é cercada por vários homens?</p>
+        <label><input type="radio" name="q24" value="sim"> Sim</label>
+        <label><input type="radio" name="q24" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não fala palavrão?</p>
+        <label><input type="radio" name="q25" value="sim"> Sim</label>
+        <label><input type="radio" name="q25" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não bebe álcool para se divertir?</p>
+        <label><input type="radio" name="q26" value="sim"> Sim</label>
+        <label><input type="radio" name="q26" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Se veste de forma modesta?</p>
+        <label><input type="radio" name="q27" value="sim"> Sim</label>
+        <label><input type="radio" name="q27" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Quer filhos?</p>
+        <label><input type="radio" name="q28" value="sim"> Sim</label>
+        <label><input type="radio" name="q28" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não está numa competição com o namorado?</p>
+        <label><input type="radio" name="q29" value="sim"> Sim</label>
+        <label><input type="radio" name="q29" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Usa vestidos?</p>
+        <label><input type="radio" name="q30" value="sim"> Sim</label>
+        <label><input type="radio" name="q30" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>É submissa?</p>
+        <label><input type="radio" name="q31" value="sim"> Sim</label>
+        <label><input type="radio" name="q31" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Deixa você tomar as decisões?</p>
+        <label><input type="radio" name="q32" value="sim"> Sim</label>
+        <label><input type="radio" name="q32" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Sempre se preocupa em ouvir tudo que você tem a dizer?</p>
+        <label><input type="radio" name="q33" value="sim"> Sim</label>
+        <label><input type="radio" name="q33" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não é ciumenta?</p>
+        <label><input type="radio" name="q34" value="sim"> Sim</label>
+        <label><input type="radio" name="q34" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Tem poucos ex-namorados?</p>
+        <label><input type="radio" name="q35" value="sim"> Sim</label>
+        <label><input type="radio" name="q35" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não quer "fazer coisas de homem", não quer frequentar ambientes masculinos?</p>
+        <label><input type="radio" name="q36" value="sim"> Sim</label>
+        <label><input type="radio" name="q36" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não faz drama?</p>
+        <label><input type="radio" name="q37" value="sim"> Sim</label>
+        <label><input type="radio" name="q37" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Fala calmamente?</p>
+        <label><input type="radio" name="q38" value="sim"> Sim</label>
+        <label><input type="radio" name="q38" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Sorri sempre?</p>
+        <label><input type="radio" name="q39" value="sim"> Sim</label>
+        <label><input type="radio" name="q39" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Reconhece os erros?</p>
+        <label><input type="radio" name="q40" value="sim"> Sim</label>
+        <label><input type="radio" name="q40" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela dá o primeiro passo para ficarem bem quando existe briga?</p>
+        <label><input type="radio" name="q41" value="sim"> Sim</label>
+        <label><input type="radio" name="q41" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não ouve música degenerada?</p>
+        <label><input type="radio" name="q42" value="sim"> Sim</label>
+        <label><input type="radio" name="q42" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>É feminina?</p>
+        <label><input type="radio" name="q43" value="sim"> Sim</label>
+        <label><input type="radio" name="q43" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Quando você diz algo, ela não vai pedir para outra pessoa avaliar se o que você disse é certo?</p>
+        <label><input type="radio" name="q44" value="sim"> Sim</label>
+        <label><input type="radio" name="q44" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Ela confia em você?</p>
+        <label><input type="radio" name="q45" value="sim"> Sim</label>
+        <label><input type="radio" name="q45" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não é impertinente?</p>
+        <label><input type="radio" name="q46" value="sim"> Sim</label>
+        <label><input type="radio" name="q46" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não desautoriza você na frente dos outros?</p>
+        <label><input type="radio" name="q47" value="sim"> Sim</label>
+        <label><input type="radio" name="q47" value="nao"> Não</label>
+      </li>
+
+      <li>
+        <p>Não fala fora de hora?</p>
+        <label><input type="radio" name="q48" value="sim"> Sim</label>
+        <label><input type="radio" name="q48" value="nao"> Não</label>
+      </li>
+    </ol>
+    <button type="button" onclick="submitQuiz()">Submit</button>
+  </form>
+</body>
+</html>
