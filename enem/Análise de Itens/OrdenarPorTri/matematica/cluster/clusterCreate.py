@@ -1,5 +1,8 @@
 import pandas as pd
 from pycaret.clustering import *
+import matplotlib.pyplot as plt
+import os
+
 Disciplina = 'MT'
 
 # Carregar os dados
@@ -20,6 +23,13 @@ model = create_model('kmeans')
 # Avaliar o modelo
 evaluate_model(model)
 
+plot_types = ['elbow', 'silhouette', 'distance', 'distribution']
+for plot_type in plot_types:
+    # Plotar o gráfico do modelo
+    plot_model(model, plot=plot_type, save=True)
+
+os.rename('Distribution Plot.png', 'Distribution Plot.html')
+
 # Atribuir os clusters a cada item
 assigned_clusters = assign_model(model)
 
@@ -32,7 +42,7 @@ unique_clusters = dItens_with_clusters['Cluster'].unique()
 for cluster in unique_clusters:
     cluster_items = dItens_with_clusters[dItens_with_clusters['Cluster'] == cluster]
     cluster_csv_name = f'{Disciplina}_{column_for_clustering}_{cluster}.csv'
-    cluster_items.to_csv(cluster_csv_name, index=False, encoding='utf-8', decimal=',')
+    cluster_items.to_csv('clusters/'+cluster_csv_name, index=False, encoding='utf-8', decimal=',')
     print(f"Arquivo CSV para o cluster {cluster} foi exportado como {cluster_csv_name}")
 
 dItens_with_clusters.to_csv('provasOrdernadasPorTri'+'_'+Disciplina+'_CLUSTERED.csv', index=False, encoding='utf-8', decimal=',')
