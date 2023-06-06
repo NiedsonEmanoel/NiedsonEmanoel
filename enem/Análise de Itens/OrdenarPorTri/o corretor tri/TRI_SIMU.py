@@ -51,20 +51,28 @@ total = len(a)
 x = np.ones(total)  # Initializing x with all 1s
 
 i = 0
+acertos = 0
 while i < total:
-    answer = input("Digite 1 ou 0 como resposta da questão "+(str(i+1))+": ")
-    if answer == "1":
-        x[i] = 1
-        i += 1
-    elif answer == "0":
-        x[i] = 0
+    resposta = input("Digite a resposta da questão " + str(dItens.loc[i, 'CO_POSICAO']) + ": ")
+    resposta = resposta.upper()  # Converter a resposta para letras maiúsculas
+    
+    gabarito = dItens.loc[i, 'TX_GABARITO']
+    gabarito = gabarito.upper()  # Converter o gabarito para letras maiúsculas
+    
+    if resposta in ['A', 'B', 'C', 'D', 'E', 'X'] and len(resposta) == 1:
+        if resposta == gabarito:
+            x[i] = 1  # Atribuir 1 para acerto
+            acertos +=1
+        else:
+            x[i] = 0  # Atribuir 0 para erro
         i += 1
     else:
-        print("Resposta inválida. Digite apenas 1 ou 0.")
-
+        print("Resposta inválida. Digite apenas as letras A, B, C, D, E ou X.")
+        
 # Encontra o valor de theta que maximiza a função de verossimilhança para o candidato
 try:
     theta_max_list = encontrar_theta_max(a, b, c, x)
     print(f"Nota TRI: {theta_max_list[0]}")
+    print(f'Acertos: {acertos}')
 except ValueError as e:
     print(f"Erro: {str(e)}")
