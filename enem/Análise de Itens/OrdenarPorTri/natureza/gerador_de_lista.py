@@ -109,8 +109,8 @@ def questionBalance_65(name, nota_CN, dfResult):
 
     # Para a área de Natureza (CN)
     dfResult_CN = dfResult[dfResult['SG_AREA'] == 'CN']
-  #  dfResult_CN = dfResult_CN[dfResult_CN['theta_065'] <= nota_CNMaior]
-  #  dfResult_CN = dfResult_CN[dfResult_CN['theta_065'] >= nota_CNMenor]
+    dfResult_CN = dfResult_CN[dfResult_CN['theta_065'] <= nota_CNMaior]
+    dfResult_CN = dfResult_CN[dfResult_CN['theta_065'] >= nota_CNMenor]
     dfResult_CN.sort_values('theta_065', ascending=True, inplace=True)
     dfResult_CN['indexacao'] = dfResult_CN.reset_index().index + 1
 

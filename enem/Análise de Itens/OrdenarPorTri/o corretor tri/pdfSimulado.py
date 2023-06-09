@@ -3,7 +3,7 @@ from fpdf import FPDF
 from PIL import Image
 import os
 pd.options.mode.chained_assignment = None
-Disciplina = 'LC'
+Disciplina = 'MT'
 
 #Definindo Classe do PDF de Saída
 class PDF(FPDF):
@@ -17,7 +17,7 @@ class PDF(FPDF):
         # Arial italic 8
         self.set_font('Arial', 'BI', 8)
         # Page number
-        self.cell(0, 12, 'Página ' + str(self.page_no()) + '/{nb}' + ' Simulado por @niedson.studiesmed', 0, 0, 'C')
+        self.cell(0, 12, 'Página ' + str(self.page_no()) + '/{nb}' + ' - Simulado por @niedson.studiesmed', 0, 0, 'C')
 
 #Função que gera a lista de Treino de TRI
 def geraPDFSIMU(name, dfResult):

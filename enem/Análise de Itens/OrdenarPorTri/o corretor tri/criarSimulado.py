@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-Disciplina = 'LC'
+Disciplina = 'MT'
 
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
 

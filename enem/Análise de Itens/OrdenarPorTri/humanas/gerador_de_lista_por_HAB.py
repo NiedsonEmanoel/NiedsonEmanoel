@@ -104,7 +104,6 @@ def get_prova_string(ano, co_prova):
 
 #Função que gera a lista de Treino de TRI
 def questionBalance_Hab(hab, dfResult):
-    strHTML = '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"></head><body>'
 
     dfResult = dfResult.query("IN_ITEM_ABAN == 0 and TP_LINGUA not in [0, 1]")
 
@@ -266,7 +265,6 @@ def questionBalance_Hab(hab, dfResult):
     pdf.set_font('Arial', 'BI', 8)
 
     strOut = 'Saidas/Habilidades/' + name + '.pdf'            
-    strHTML += '</body></html>'
     pdf.output(strOut, 'F')
 
 
