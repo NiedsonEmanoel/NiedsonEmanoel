@@ -1,6 +1,6 @@
 Disciplina = input("Digite a sigla da disciplina desejada: MT, LC, CH, CN: ").upper()
 proficiencia_inicial = ((float(input("Digite a proficiência inicial: "))+500)/2)
-qtdQuestoes = 2
+qtdQuestoes = 25
 
 import numpy as np
 import pandas as pd
@@ -429,8 +429,12 @@ try:
 except ValueError as e:
     strTri = (f"Erro: {str(e)}")
 
-os.system('cls')
 resultado = resultado[resultado['Acerto'] == 0]
+
+questionNow(resultado)
+
+os.system('cls')
+enviar_email('niedsonemanoeltbm@gmail.com')
 
 print(strTri)
 print('\n')
@@ -440,7 +444,7 @@ print('\n')
 show_results(strResu, strTri)
 
 print('As questões erradas serão enviadas para seu e-mail.')
-questionNow(resultado)
+
 
 
 
