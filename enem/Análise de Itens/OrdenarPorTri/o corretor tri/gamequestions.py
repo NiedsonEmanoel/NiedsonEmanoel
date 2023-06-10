@@ -282,7 +282,7 @@ def enviar_email(receiver_email):
     smtp_server='smtp.gmail.com'
     smtp_port=587
     smtp_username='smtp.niedson@gmail.com'
-    smtp_password=''
+    smtp_password='hpvepsdpvtstsjiz'
 
     filename = 'erradas.pdf'
 
