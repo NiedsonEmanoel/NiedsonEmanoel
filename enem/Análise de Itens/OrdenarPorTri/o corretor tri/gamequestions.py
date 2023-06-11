@@ -118,6 +118,14 @@ def show_image(image_path, zoom):
     image = pygame.image.fromstring(scaled_image.tobytes(), scaled_image.size, scaled_image.mode)
     image_rect = image.get_rect(center=screen.get_rect().center)
 
+    left_click_color = (0, 0, 0)  # Caneta preta
+    draw_color = None  # Cor de desenho atual
+
+    all_drawings = []  # Lista para armazenar todas as marcações
+    current_drawing = []  # Lista para armazenar os pontos da marcação atual
+    marker_size = 5  # Tamanho inicial do marcador
+    drawing = False  # Flag para indicar se o mouse está sendo pressionado para desenhar
+
     running = True
     while running:
         for event in pygame.event.get():
@@ -125,10 +133,19 @@ def show_image(image_path, zoom):
                 running = False
                 pygame.quit()
                 sys.exit()
+
             elif event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_a:
                     resposta = 'A'
                     running = False
+                elif event.key == pygame.K_UP:  # Seta para cima
+                    image_rect.y -= 10
+                elif event.key == pygame.K_DOWN:  # Seta para baixo
+                    image_rect.y += 10
+                elif event.key == pygame.K_RIGHT:  # Seta para direita
+                    image_rect.x += 10
+                elif event.key == pygame.K_LEFT:  # Seta para esquerda
+                    image_rect.x -= 10
                 elif event.key == pygame.K_b:
                     resposta = 'B'
                     running = False
@@ -144,6 +161,10 @@ def show_image(image_path, zoom):
                 elif event.key == pygame.K_x:
                     resposta = 'X'
                     running = False
+                elif event.key == pygame.K_0:
+                    scaled_image = original_image.resize((int(image_width ), int(image_height)))
+                    image = pygame.image.fromstring(scaled_image.tobytes(), scaled_image.size, scaled_image.mode)
+                    image_rect = image.get_rect(center=screen.get_rect().center)
                 elif event.key == pygame.K_KP_PLUS or (event.key == pygame.K_EQUALS and pygame.key.get_mods() & pygame.KMOD_CTRL):
                     zoom += 0.1
                     scaled_image = original_image.resize((int(image_width * zoom), int(image_height * zoom)))
@@ -156,9 +177,43 @@ def show_image(image_path, zoom):
                     scaled_image = original_image.resize((int(image_width * zoom), int(image_height * zoom)))
                     image = pygame.image.fromstring(scaled_image.tobytes(), scaled_image.size, scaled_image.mode)
                     image_rect = image.get_rect(center=screen.get_rect().center)
+                elif event.key == pygame.K_KP_MULTIPLY or event.key == pygame.K_ASTERISK:
+                    marker_size += 1
+                elif event.key == pygame.K_SLASH or event.key == pygame.K_KP_DIVIDE:
+                    marker_size -= 1
+                    if marker_size < 1:
+                        marker_size = 1
+                elif event.key == pygame.K_l:
+                    all_drawings = []
+
+            elif event.type == pygame.MOUSEBUTTONDOWN:
+                if event.button == 1:  # Botão esquerdo
+                    draw_color = left_click_color
+
+                drawing = True
+
+            elif event.type == pygame.MOUSEBUTTONUP:
+                if event.button == 1:
+                    all_drawings.append(current_drawing)
+                    current_drawing = []
+                    drawing = False
+
+        if drawing:
+            # Adiciona o ponto atual do mouse à marcação atual
+            current_drawing.append(pygame.mouse.get_pos())
 
         screen.fill((255, 255, 255))
         screen.blit(image, image_rect)
+
+        # Desenha todas as marcações
+        for drawing_points in all_drawings:
+            if len(drawing_points) > 1:
+                pygame.draw.lines(screen, draw_color, False, drawing_points, marker_size)
+
+        # Desenha a marcação atual separadamente
+        if len(current_drawing) > 1:
+            pygame.draw.lines(screen, draw_color, False, current_drawing, marker_size)
+
         pygame.display.flip()
         clock.tick(60)
 
