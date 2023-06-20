@@ -1,6 +1,6 @@
 Disciplina = input("Digite a sigla da disciplina desejada: MT, LC, CH, CN: ").upper()
+qtdtt =(int(input('Digite a quantidade de Questões [12 - 45]: ')))
 proficiencia_inicial = ((float(input("Digite a proficiência inicial: "))+500)/2)
-qtdQuestoes = 25
 
 import numpy as np
 import pandas as pd
@@ -16,10 +16,19 @@ from email import encoders
 from fpdf import FPDF
 from scipy.optimize import minimize_scalar
 pd.options.mode.chained_assignment = None
-
+timeExec = 0
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
 dItens = dItens[dItens['SG_AREA'] == Disciplina]
 dItens = dItens.query("IN_ITEM_ABAN == 0 and TP_LINGUA not in [0, 1]")
+
+if (qtdtt>=45):
+    qtdtt = 45
+elif(qtdtt<=12):
+    qtdtt = 12
+else:
+    qtdtt = qtdtt
+
+qtdQuestoes = qtdtt
 
 def toYoutube(textPrompt):
     search_query = "https://www.youtube.com/results?search_query=" + "+".join(textPrompt.split())
@@ -104,8 +113,27 @@ def encontrar_theta_max(a, b, c, x):
         theta_max_list.append(result.x * 100 + 500)
     return theta_max_list
 
-def show_image(image_path, zoom):
+def converter_tempo(s):
+    segundos = int(s)
+    minutos = segundos // 60
+    segundos %= 60
+    horas = minutos // 60
+    minutos %= 60
+
+    tempo_formatado = "{:02d}h {:02d}min {:02d}s".format(horas, minutos, segundos)
+    return tempo_formatado
+
+def show_image(image_path, zoom, quaestNow, timeExec):
     pygame.init()
+    l = timeExec
+    font = pygame.font.Font(None, 40)
+    fontTime = pygame.font.Font(None, 40)
+
+    text_color = (0, 0, 0)
+
+    tst = str(quaestNow)+ '/' +str(qtdQuestoes)
+    tstRendered = font.render(tst, True, text_color)
+
     infoObject = pygame.display.Info()
     screen_width = infoObject.current_w
     screen_height = infoObject.current_h
@@ -128,6 +156,7 @@ def show_image(image_path, zoom):
 
     running = True
     while running:
+        l = l+1
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
@@ -202,7 +231,14 @@ def show_image(image_path, zoom):
             # Adiciona o ponto atual do mouse à marcação atual
             current_drawing.append(pygame.mouse.get_pos())
 
+        s = l/60
+        tempo_formatado = converter_tempo(s)
+
+        timeRendered = fontTime.render(str(tempo_formatado), True, text_color)
+
         screen.fill((255, 255, 255))
+        screen.blit(tstRendered, (screen_width/2.05, 50))
+        screen.blit(timeRendered, (screen_width/2.2, screen_height-30))
         screen.blit(image, image_rect)
 
         # Desenha todas as marcações
@@ -217,10 +253,12 @@ def show_image(image_path, zoom):
         pygame.display.flip()
         clock.tick(60)
 
-    return resposta
+    return resposta, l
 
-def show_results(results, triString):
+def show_results(results, triString, timeExec):
     pygame.init()
+    timeExec = timeExec/60
+    timeExec = converter_tempo(timeExec)
     infoObject = pygame.display.Info()
     screen_width = infoObject.current_w
     screen_height = infoObject.current_h
@@ -242,11 +280,17 @@ def show_results(results, triString):
 
         rendered_textTRI = font.render(triString, True, text_color)
         screen.blit(rendered_textTRI, (screen_width/3, 50))
+        
+        TotalTime = 'Tempo total: '+timeExec
+
+        rende = font.render(TotalTime, True, text_color)
+        screen.blit(rende, (screen_width/2.65, 150))
 
         pygame.display.flip()
         clock.tick(60)
 
-def jogo_proficiencia(df):
+def jogo_proficiencia(df, timeExec):
+    quaestNow = 1
     proficiencia_atual = proficiencia_inicial
     pd_resultado = pd.DataFrame(columns=['TX_GABARITO', 'ANO', 'CO_PROVA', "CO_POSICAO", 'CO_HABILIDADE','NU_PARAM_A', 'NU_PARAM_B', 'NU_PARAM_C', 'CO_ITEM', 'theta_065', 'Acerto'])
 
@@ -260,8 +304,9 @@ def jogo_proficiencia(df):
         caminho_imagem = '../1. Itens BNI/' + str(questao['CO_ITEM']) + '.png'
         gabarito = questao['TX_GABARITO']
 
-        resposta = show_image(caminho_imagem, 1.0).upper()
-
+        resposta, l = show_image(caminho_imagem, 1.0, quaestNow, timeExec)
+        timeExec=+l
+        resposta = resposta.upper()
         if resposta == gabarito:
             proficiencia_atual += 50
             acerto = 1
@@ -287,7 +332,8 @@ def jogo_proficiencia(df):
         if len(pd_resultado) >= 2 and pd_resultado.iloc[-1]['Acerto'] == 0 and pd_resultado.iloc[-2]['Acerto'] == 0:
             proficiencia_atual -= 50
 
-    return pd_resultado
+        quaestNow = quaestNow+1
+    return pd_resultado, timeExec
 
 def get_prova_string(ano, co_prova):
     if ano == 2016:
@@ -462,8 +508,10 @@ def questionNow(dfResult):
     strOut = 'erradas.pdf'            
     pdf.output(strOut, 'F')
 
-resultado = jogo_proficiencia(dItens)
+resultado, timeExecs = jogo_proficiencia(dItens, timeExec)
 a, b, c, x = zip(*resultado[['NU_PARAM_A', 'NU_PARAM_B', 'NU_PARAM_C', 'Acerto']].values.tolist())
+
+timeExec = timeExecs
 
 del resultado['NU_PARAM_A']
 del resultado['NU_PARAM_B']
@@ -489,6 +537,8 @@ resultado = resultado[resultado['Acerto'] == 0]
 questionNow(resultado)
 
 os.system('cls')
+print('As questões erradas serão enviadas para seu e-mail.')
+print('')
 enviar_email('niedsonemanoeltbm@gmail.com')
 
 print(strTri)
@@ -496,17 +546,5 @@ print('\n')
 print(strResu)
 print('\n')
 
-show_results(strResu, strTri)
-
-print('As questões erradas serão enviadas para seu e-mail.')
-
-
-
-
-
-
-
-
-
-
+show_results(strResu, strTri, timeExec)
 
