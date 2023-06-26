@@ -1,4 +1,5 @@
 Disciplina = input("Digite a sigla da disciplina desejada: MT, LC, CH, CN: ").upper()
+Email = input('Digite seu email: ')
 qtdtt =(int(input('Digite a quantidade de Questões [12 - 45]: ')))
 
 if (qtdtt>=45):
@@ -12,7 +13,7 @@ qtdQuestoes = qtdtt
 pComple = 0
 
 if (qtdQuestoes == 45):
-    provaComple = (input('Prova completa? [S ou N | Y or N]')).upper()
+    provaComple = (input('Prova completa? [S ou N | Y or N]: ')).upper()
     if((provaComple == 'S') or (provaComple == 'Y')):
         pComple = 1
     else:
@@ -83,7 +84,7 @@ def calcular_probabilidade(theta, a, b, c):
 #Definindo Classe do PDF de Saída
 class PDF(FPDF):
     def header(self):
-        self.image('../natureza/fundo.png', x=0, y=0, w=self.w, h=self.h, type='png')
+        self.image('fundo.png', x=0, y=0, w=self.w, h=self.h, type='png')
 
     def add_my_link(self, x, y, txt, link):
         self.set_xy(x, y)
@@ -665,9 +666,9 @@ resultado = resultado[resultado['Acerto'] == 0]
 questionNow(resultado)
 
 os.system('cls')
-print('As questões erradas serão enviadas para seu e-mail.')
+print('As questões erradas serão enviadas para seu e-mail. '+Email)
 print('')
-enviar_email('niedsonemanoeltbm@gmail.com')
+enviar_email(Email)
 
 print(strTri)
 print('\n')
