@@ -59,7 +59,7 @@ print(resultado.max())
 print('')
 print(resultado.min())
 
-resultado = resultado.sample(frac=1)
 
+resultado = resultado.sample(frac=1)
 resultado.to_csv('Simulados/simulado'+Disciplina+'.csv', index=False, encoding='utf-8', decimal=',')
 

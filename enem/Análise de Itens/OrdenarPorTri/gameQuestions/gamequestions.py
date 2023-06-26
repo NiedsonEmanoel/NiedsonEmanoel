@@ -1,6 +1,27 @@
 Disciplina = input("Digite a sigla da disciplina desejada: MT, LC, CH, CN: ").upper()
 qtdtt =(int(input('Digite a quantidade de Questões [12 - 45]: ')))
-proficiencia_inicial = ((float(input("Digite a proficiência inicial: "))+500)/2)
+
+if (qtdtt>=45):
+    qtdtt = 45
+elif(qtdtt<=12):
+    qtdtt = 12
+else:
+    qtdtt = qtdtt
+
+qtdQuestoes = qtdtt
+pComple = 0
+
+if (qtdQuestoes == 45):
+    provaComple = (input('Prova completa? [S ou N | Y or N]')).upper()
+    if((provaComple == 'S') or (provaComple == 'Y')):
+        pComple = 1
+    else:
+        pComple = 0
+        
+proficiencia_inicial = 0
+
+if(pComple == 0):
+    proficiencia_inicial = ((float(input("Digite a proficiência inicial: "))+500)/2)
 
 import numpy as np
 import pandas as pd
@@ -508,10 +529,117 @@ def questionNow(dfResult):
     strOut = 'erradas.pdf'            
     pdf.output(strOut, 'F')
 
-resultado, timeExecs = jogo_proficiencia(dItens, timeExec)
+def createSampre(dItens):
+    dItens = dItens[dItens['CO_HABILIDADE'].between(1, 30)]
+    dItens = dItens[dItens['IN_ITEM_ABAN'] == 0]
+
+    dItens.sort_values('theta_065', ascending=True, inplace=True)
+
+    if Disciplina == 'LC':
+        dItens = dItens[~dItens['CO_HABILIDADE'].isin([5, 6, 7, 8])]
+
+    # Selecionar um item de cada habilidade de 1 a 30
+    habilidades_unicas = dItens.groupby('CO_HABILIDADE').sample(1)
+
+    # Selecionar os 12 itens restantes permitindo repetições, mas no máximo 3 repetições por habilidade
+    habilidades_repetidas = dItens.groupby('CO_HABILIDADE').apply(lambda x: x.sample(min(len(x), 3)))
+    habilidades_repetidas = habilidades_repetidas.sample(n=12, replace=True)
+
+    # Combinar os dataframes resultantes
+    resultado = pd.concat([habilidades_unicas, habilidades_repetidas])
+
+    # Obter as habilidades presentes no resultado atual
+    habilidades_presentes = resultado['CO_HABILIDADE'].unique()
+
+    # Verificar se todas as 30 habilidades estão presentes
+    if Disciplina != 'LC':
+        if len(habilidades_presentes) < 30:
+            # Calcular o número de habilidades faltantes
+            habilidades_faltantes = np.setdiff1d(range(1, 31), habilidades_presentes)
+            num_faltantes = 30 - len(habilidades_presentes)
+
+            # Selecionar itens adicionais para as habilidades faltantes
+            itens_faltantes = dItens[dItens['CO_HABILIDADE'].isin(habilidades_faltantes)].sample(n=num_faltantes, replace=True)
+
+            # Combinar os itens faltantes com os resultados atuais
+            resultado = pd.concat([resultado, itens_faltantes])
+
+    # Verificar o número de itens atual
+    num_itens = len(resultado)
+
+    # Remover itens extras se o número atual for maior que 45
+    if num_itens > 45:
+        resultado = resultado.sample(n=45)
+
+    # Preencher com itens adicionais se o número atual for menor que 45
+    if num_itens < 45:
+        num_adicionais = 45 - num_itens
+        itens_adicionais = dItens.sample(n=num_adicionais, replace=True)
+        resultado = pd.concat([resultado, itens_adicionais])
+    
+    resultado = resultado.sample(frac=1)
+
+    return resultado
+
+def jogoQuarentaECinco(df, timeExec):
+    quaestNow = 1
+    pd_resultado = pd.DataFrame(columns=['TX_GABARITO', 'ANO', 'CO_PROVA', "CO_POSICAO", 'CO_HABILIDADE','NU_PARAM_A', 'NU_PARAM_B', 'NU_PARAM_C', 'CO_ITEM', 'theta_065', 'Acerto'])
+
+    items_visitados = set()  # Conjunto para armazenar os itens já visitados
+
+    while quaestNow <= qtdQuestoes:
+        itens_disponiveis = df.loc[~df['CO_ITEM'].isin(items_visitados)]
+        if len(itens_disponiveis) == 0:
+            break  # Todos os itens já foram visitados, interrompe o loop
+
+        questao = itens_disponiveis.sample(n=1).iloc[0]
+
+        caminho_imagem = '../1. Itens BNI/' + str(questao['CO_ITEM']) + '.png'
+        gabarito = questao['TX_GABARITO']
+
+        resposta, l = show_image(caminho_imagem, 1.0, quaestNow, timeExec)
+        timeExec = l
+        
+        resposta = resposta.upper()
+        if resposta == gabarito:
+            acerto = 1
+        else:
+            acerto = 0
+
+        pd_resultado = pd_resultado.append({
+            'CO_PROVA': questao['CO_PROVA'],
+            'CO_POSICAO': questao['CO_POSICAO'],
+            'TX_GABARITO': questao['TX_GABARITO'],
+            'CO_ITEM': questao['CO_ITEM'],
+            'ANO': questao['ANO'],
+            'CO_HABILIDADE': questao['CO_HABILIDADE'],
+            'NU_PARAM_A': questao['NU_PARAM_A'],
+            'NU_PARAM_B': questao['NU_PARAM_B'],
+            'NU_PARAM_C': questao['NU_PARAM_C'],
+            'theta_065': questao['theta_065'],
+            'Acerto': acerto
+        }, ignore_index=True)
+
+        items_visitados.add(questao['CO_ITEM'])  # Adiciona o item visitado ao conjunto
+
+        quaestNow += 1
+    return pd_resultado, timeExec
+
+if (pComple == 1):
+    dItens = createSampre(dItens)
+    resultado, timeExecsA = jogoQuarentaECinco(dItens, timeExec)
+
+if(pComple == 0):
+    resultado, timeExecsS = jogo_proficiencia(dItens, timeExec)
+
 a, b, c, x = zip(*resultado[['NU_PARAM_A', 'NU_PARAM_B', 'NU_PARAM_C', 'Acerto']].values.tolist())
 
-timeExec = timeExecs
+if (pComple == 1):
+    timeExec = timeExecsA
+
+if(pComple == 0):
+    timeExec = timeExecsS
+
 
 del resultado['NU_PARAM_A']
 del resultado['NU_PARAM_B']
