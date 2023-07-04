@@ -1,12 +1,13 @@
 import numpy as np
 import pandas as pd
 from scipy.optimize import minimize_scalar
-Disciplina = 'MT'
-Habilidade = 1
+Disciplina = 'mt'.upper()
+Habilidade = 4
 
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
 
 dItens = dItens[dItens['SG_AREA'] == Disciplina]
+dItens = dItens[dItens['IN_ITEM_ABAN'] == 0]
 dItens = dItens[dItens['CO_HABILIDADE'] == Habilidade]
 dItens.sort_values('theta_065', ascending=True, inplace=True)
 dItens['indexacao'] = dItens.reset_index().index + 1
