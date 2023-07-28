@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-Disciplina = 'MT'
+Disciplina = 'CN'
 
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
 
@@ -55,9 +55,9 @@ if num_itens < 45:
     resultado = pd.concat([resultado, itens_adicionais])
 
 # Exibir o resultado
-print(resultado.max())
+print('Proficiência QMaisDificil: '+str(resultado.max()['theta_065']))
 print('')
-print(resultado.min())
+print('Proficiência QMaisFacil: '+str(resultado.min()['theta_065']))
 
 
 resultado = resultado.sample(frac=1)

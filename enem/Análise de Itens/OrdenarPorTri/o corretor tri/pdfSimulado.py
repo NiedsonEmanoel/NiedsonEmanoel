@@ -3,7 +3,7 @@ from fpdf import FPDF
 from PIL import Image
 import os
 pd.options.mode.chained_assignment = None
-Disciplina = 'MT'
+Disciplina = 'CN'
 
 #Definindo Classe do PDF de Saída
 class PDF(FPDF):
