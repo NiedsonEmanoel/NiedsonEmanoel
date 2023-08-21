@@ -1,10 +1,27 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
+import cv2
+import pytesseract
+pytesseract.pytesseract.tesseract_cmd = './Tesseract/Tesseract.exe'
+pd.options.mode.chained_assignment = None
 
 def tri_3pl_enem(theta, a, b, c):
     return c + (1 - c) * (1 / (1 + np.exp(-1.7 * a * (theta - b))))
+
+def imageApi(code):
+    code = str(str(code) + '.png')
+    imagem = 'https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + code
+    return imagem
+
+def ocrImage(code):
+    code = str('../1. Itens BNI/'+str(code) + '.png')
+    try:
+        img = cv2.imread(code)
+        ocrT = str(pytesseract.image_to_string(img, lang='por'))
+    except:
+        ocrT = 'N/A'
+    return ocrT
 
 # Encontrando o valor de theta que resulta em targ (padrão 0.65)
 def find_theta(a, b, c, targ):
@@ -83,11 +100,12 @@ def get_prova_string(ano, co_prova):
         else:
             return 'PROVA CINZA PPL REAPLICACAO' 
    
-
 def thetaToCsv(provas, dfItens):
     dfItens = dfItens[dfItens.CO_PROVA.isin(provas)]
-
     dfItens["theta_065"] = 0
+    countt = 0
+    dfItens["imagAPI"] = ''
+    dfItens["OCRSearch"] = ''
     dfItens["theta_080"] = 0
     dfItens["theta_099"] = 0
     dfItens["PercentEspAcerto"] = 0
@@ -115,6 +133,10 @@ def thetaToCsv(provas, dfItens):
         dfItens.loc[i, 'PercentEspAcerto'] = find_quantile(
             dfItens.loc[i, "NU_PARAM_C"]
         )
+        dfItens.loc[i, 'imagAPI'] = imageApi(dfItens.loc[i, 'CO_ITEM'])
+        dfItens.loc[i, 'OCRSearch'] = ocrImage(dfItens.loc[i, 'CO_ITEM'])
+        print(str(countt)+'/2266')
+        countt=countt+1
     return dfItens
 
 def Make():
@@ -157,44 +179,11 @@ def Make():
 
     result = pd.concat([dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
     result.to_csv('provasOrdernadasPorTri.csv', index=False, encoding='utf-8', decimal=',')
+    result.to_excel("provasOrdernadasPorTri.xlsx")
 
     return result
 
-# Ler os dados do arquivo CSV
-dfItens = Make()
-dfItens = dfItens[dfItens["IN_ITEM_ABAN"] == 0]
-dfItens = dfItens[dfItens["ANO"] == 2022]
-dfItens = dfItens[dfItens["SG_AREA"] == "MT"]
+Make()
 
-# Definir limites aceitáveis para theta_065
-limite_inferior = dfItens['theta_065'].quantile(0.05)
-limite_superior = dfItens['theta_065'].quantile(0.99)
 
-# Filtrar o dataframe com base nos limites aceitáveis
-dfItens = dfItens[(dfItens['theta_065'] >= limite_inferior) & (dfItens['theta_065'] <= limite_superior)]
-
-# Crie um gráfico de barras com habilidade no eixo x e theta_065 no eixo y
-plt.bar(dfItens['CO_HABILIDADE'], dfItens['theta_065'], color='blue', width=0.8)
-
-# Adicione rótulos aos eixos x e y e título do gráfico
-plt.xlabel('Habilidade')
-plt.ylabel('Proficiência')
-plt.title('Proficiência x Habilidades - Matemática')
-
-limite_superior = 1000 if limite_superior >= 1000 else limite_superior
-
-# Definir intervalo do eixo y
-plt.ylim([limite_inferior, limite_superior])
-plt.xticks(dfItens['CO_HABILIDADE'])
-
-# Definir estilo da grade
-plt.grid(True, linestyle='--', alpha=0.5)
-
-# Definir tamanho da fonte dos rótulos dos eixos e do título
-plt.xticks(fontsize=7)
-plt.yticks(fontsize=10)
-plt.title(fontsize=12)
-
-# Exiba o gráfico
-plt.show()
 
