@@ -76,7 +76,7 @@ def geraAnkiCompleto(dfResult):
         # Criar um flashcard com a imagem e a resposta
         flashcard = genanki.Note(
             model=modelo,
-            fields=[inic,'<img src="https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
+            fields=[inic,'<img src="https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/' + imagem + '"]', resposta]
         )
         
         # Adicionar o flashcard à lista de flashcards
@@ -118,7 +118,6 @@ def questionBalance_65(name, nota_LC, dfResult, genAnki):
     pdf.alias_nb_pages()
     pdf.set_title(name)
 
-#LC
     pdf.add_page()
     pdf.image('linguagens.png', x=0, y=0, w=pdf.w, h=pdf.h, type='png')
     pdf.add_page()
@@ -150,7 +149,7 @@ def questionBalance_65(name, nota_LC, dfResult, genAnki):
             # Criar um flashcard com a imagem e a resposta
             flashcard = genanki.Note(
                 model=modelo,
-                fields=[inic,'<img src="https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + imagem + '"]', resposta]
+                fields=[inic,'<img src="https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/' + imagem + '"]', resposta]
             )
             
             # Adicionar o flashcard à lista de flashcards
@@ -262,7 +261,7 @@ def questionBalance_99(name, nota_LC, dfResult,genAnki):
     pdf.alias_nb_pages()
     pdf.set_title(name)
 
-#LC
+
     pdf.add_page()
     pdf.image('linguagens.png', x=0, y=0, w=pdf.w, h=pdf.h, type='png')
     pdf.add_page()
