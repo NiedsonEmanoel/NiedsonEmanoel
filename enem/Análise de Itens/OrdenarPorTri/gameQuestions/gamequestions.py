@@ -323,7 +323,7 @@ def jogo_proficiencia(df, timeExec):
         else:
             questao = questoes_disponiveis.sample(n=1).iloc[0]
 
-        caminho_imagem = '../1. Itens BNI/' + str(questao['CO_ITEM']) + '.png'
+        caminho_imagem = '../1. Itens BNI_/' + str(questao['CO_ITEM']) + '.png'
         gabarito = questao['TX_GABARITO']
 
         resposta, l = show_image(caminho_imagem, 1.0, quaestNow, timeExec)
@@ -468,7 +468,7 @@ def questionNow(dfResult):
         else:
             try:
                 # obter as dimensões da imagem
-                with Image.open('../1. Itens BNI/' + str(dfResult.loc[i, "CO_ITEM"]) + '.png') as img:
+                with Image.open('../1. Itens BNI_/' + str(dfResult.loc[i, "CO_ITEM"]) + '.png') as img:
                     img.thumbnail((160, 160))
 
                     # obter as dimensões da imagem redimensionada
@@ -482,7 +482,7 @@ def questionNow(dfResult):
                 y = pdf.get_y()
 
                 # ajustar as coordenadas de posição e o tamanho da imagem
-                pdf.image('../1. Itens BNI/' + str(dfResult.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
+                pdf.image('../1. Itens BNI_/' + str(dfResult.loc[i, "CO_ITEM"]) + '.png', x=pdf.w / 2 - width / 2, y=y, w=width, h=height)
                 pdf.ln(10)
                 stringCorr = str("Questao " + str(dfResult.loc[i, "CO_POSICAO"])+' '+ DisciplinaCompleto +' ENEM '+str(dfResult.loc[i, "ANO"]) +' '+ str(dfResult.loc[i, "QSEARCH"]))
 
@@ -595,7 +595,7 @@ def jogoQuarentaECinco(df, timeExec):
 
         questao = itens_disponiveis.sample(n=1).iloc[0]
 
-        caminho_imagem = '../1. Itens BNI/' + str(questao['CO_ITEM']) + '.png'
+        caminho_imagem = '../1. Itens BNI_/' + str(questao['CO_ITEM']) + '.png'
         gabarito = questao['TX_GABARITO']
 
         resposta, l = show_image(caminho_imagem, 1.0, quaestNow, timeExec)

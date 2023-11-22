@@ -157,7 +157,6 @@ def questionBalance_Hab(hab, dfResult):
     for i in dfResult_MT.index:
         # Obter o nome do arquivo de imagem da questão
         imagem = str(dfResult_MT.loc[i, "CO_ITEM"]) + '.png'
-        caminho_imagem = os.path.join(pasta, imagem)
         
         # Obter a resposta da questão
         resposta = str(dfResult_MT.loc[i, 'TX_GABARITO']) 
@@ -175,14 +174,8 @@ def questionBalance_Hab(hab, dfResult):
     for flashcard in flashcards:
         baralho.add_note(flashcard)
 
-    # Obter o caminho absoluto das imagens
-    imagens = [os.path.join(pasta, imagem) for imagem in os.listdir(pasta)]
-
     # Criar um pacote com o baralho e as imagens
     pacote = genanki.Package(baralho)
-    pacote.media_files = imagens
-    # Especificar a pasta onde estão as imagens
-    pacote.media_folder = pasta
 
     pacote.write_to_file('Saidas/Flashcards/' + name + '.apkg')
 

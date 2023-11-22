@@ -381,8 +381,8 @@ def questionBalance_99(name, nota_hm, dfResult, genAnki):
 
 #Função que Gera lista de Treino e Revisão TRI
 def questionBalance(nome, nota_hm, dfItens):
-    questionBalance_65(nome, nota_hm, dfItens, False)
-    questionBalance_99(nome, nota_hm, dfItens, False)
+    questionBalance_65(nome, nota_hm, dfItens, True)
+    questionBalance_99(nome, nota_hm, dfItens, True)
     print('Concluido!')
 
 dItens = pd.read_csv('provasOrdernadasPorTri.csv', encoding='utf-8', decimal=',')
