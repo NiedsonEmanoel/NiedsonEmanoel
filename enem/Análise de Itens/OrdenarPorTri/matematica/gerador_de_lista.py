@@ -239,8 +239,8 @@ def questionBalance_65(name, nota_MT, dfResult):
 #Funçao que gera a lista de Revisão da TRI
 def questionBalance_99(name, nota_MT, dfResult):
 
-    nota_MTMaior = nota_MT + 200
-    nota_MTMenor = nota_MT - 25
+    nota_MTMaior = nota_MT + 130
+    nota_MTMenor = nota_MT - 10
 
     dfResult = dfResult[dfResult['IN_ITEM_ABAN'] == 0]
     dfResult = dfResult[dfResult['TP_LINGUA'] != 0]
