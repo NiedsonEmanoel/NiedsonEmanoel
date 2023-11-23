@@ -11,7 +11,7 @@ def tri_3pl_enem(theta, a, b, c):
 
 def imageApi(code):
     code = str(str(code) + '.png')
-    imagem = 'https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI/' + code
+    imagem = 'https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/' + code
     return imagem
 
 def ocrImage(code):
