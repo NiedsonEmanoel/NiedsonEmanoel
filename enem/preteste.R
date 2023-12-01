@@ -1,11 +1,12 @@
 library(mirt)
 
 #Lê os dados do arquivo
-dados <- read.delim("F:/Niedson Emanoel/Desktop/Past2a1.txt", header=FALSE)
+dados <- read.delim("F:/Niedson Emanoel/Desktop/dados.txt", header=TRUE)
 View(dados)
 
 #Ajusta o modelo TRI 3PL
-mod3 <- mirt(arquivo_tabulado, 1, itemtype = '3PL')
+mod3 <- mirt(dados, 1, itemtype = '3PL')
+coef(mod3, simplify=TRUE, IRTpars=TRUE)
 
 #Extrai os coeficientes e salva em um data frame
 coeficientes <- coef(mod3, simplify=TRUE, IRTpars=TRUE)
