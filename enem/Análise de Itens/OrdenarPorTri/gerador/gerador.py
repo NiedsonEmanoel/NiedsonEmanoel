@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import cv2
 import pytesseract
+
 pytesseract.pytesseract.tesseract_cmd = './Tesseract/Tesseract.exe'
 pd.options.mode.chained_assignment = None
 
@@ -141,6 +142,7 @@ def thetaToCsv(provas, dfItens):
 
 def Make():
     #Leitura dos dados de 2016 e Escolha da Prova [303 - MT 2 dia]
+#    dItens2014 = pd.read_csv("ITENS_PROVA_2014.csv", sep=";", encoding="latin-1")
     dItens2016 = pd.read_csv("itens_prova_2016.csv", sep=";", encoding="latin-1")
     dItens2017 = pd.read_csv("ITENS_PROVA_2017.csv", sep=";", encoding="latin-1")
     dItens2018 = pd.read_csv("ITENS_PROVA_2018.csv", sep=";", encoding="latin-1")
@@ -149,6 +151,7 @@ def Make():
     dItens2021 = pd.read_csv("ITENS_PROVA_2021.csv", sep=";", encoding="latin-1")
     dItens2022 = pd.read_csv("ITENS_PROVA_2022.csv", sep=";", encoding="latin-1")
 
+#    provas2014 = [197, 211, 223, 201, 212, 224, 204, 213, 225]
     provas2016 = [303]
     provas2017 = [393,432,396,436,400,440,406,444]
     provas2018 = [449, 488, 452, 492, 456, 496, 462, 500]
@@ -157,7 +160,7 @@ def Make():
     provas2021 = [911, 991, 880, 960, 890, 970, 902, 982] 
     provas2022 = [1087, 1167, 1056, 1136, 1066, 1146, 1078, 1158] 
 
-
+    dItens2014['ANO'] = 2014
     dItens2016['ANO'] = 2016
     dItens2017['ANO'] = 2017      
     dItens2018['ANO'] = 2018    
@@ -168,6 +171,7 @@ def Make():
 
 
     #Colocando as proficiências nas provas e nos dataframes indicados
+    dItens2014 = thetaToCsv(provas2014, dItens2014)
     dItens2016 = thetaToCsv(provas2016, dItens2016)
     dItens2017 = thetaToCsv(provas2017, dItens2017)
     dItens2018 = thetaToCsv(provas2018, dItens2018)
@@ -177,7 +181,7 @@ def Make():
     dItens2022 = thetaToCsv(provas2022, dItens2022)
     del dItens2020['TP_VERSAO_DIGITAL']
 
-    result = pd.concat([dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
+    result = pd.concat([dItens2014, dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
     result.to_csv('provasOrdernadasPorTri.csv', index=False, encoding='utf-8', decimal=',')
     result.to_excel("provasOrdernadasPorTri.xlsx")
 
