@@ -151,7 +151,7 @@ def Make():
     dItens2021 = pd.read_csv("ITENS_PROVA_2021.csv", sep=";", encoding="latin-1")
     dItens2022 = pd.read_csv("ITENS_PROVA_2022.csv", sep=";", encoding="latin-1")
 
-#    provas2014 = [197, 211, 223, 201, 212, 224, 204, 213, 226]
+#    provas2014 = [197, 211, 223, 201, 212, 224, 204, 213, 225, 208, 214, 226]
     provas2016 = [303]
     provas2017 = [393,432,396,436,400,440,406,444]
     provas2018 = [449, 488, 452, 492, 456, 496, 462, 500]
