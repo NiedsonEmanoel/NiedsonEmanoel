@@ -43,6 +43,19 @@ def find_quantile(c):
     return round(((1+c)/2*100), 2)    
 
 def get_prova_string(ano, co_prova):
+    if ano == 2014:
+      if co_prova in [197, 201]:
+          return 'PROVA BRANCA REGULAR'
+      elif co_prova in [211, 212]:
+          return 'PROVA BRANCA PPL1'
+      elif co_prova in [223, 224]:
+          return 'PROVA BRANCA PPL2'
+      elif co_prova in [204, 208]:
+          return 'PROVA CINZA REGULAR'
+      elif co_prova in [213, 214]:
+          return 'PROVA CINZA PPL1'    
+      else:
+          return 'PROVA CINZA PPL2'
     if ano == 2016:
         if co_prova in [303]:
             return 'PROVA AZUL'
