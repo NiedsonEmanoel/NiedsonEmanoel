@@ -4,8 +4,14 @@ import os
 import time
 
 ano = '2022'
+adit = '/'
+#adit = '-2/'
+
 df = pd.read_csv('ITENS_PROVA_'+ano+'.csv', sep=";", encoding="latin-1")
+ano = str(ano)+str(adit)
+
 provas = [1106, 1096, 1126, 1116]
+
 df = df[df.CO_PROVA.isin(provas)]
 df = df.query("IN_ITEM_ABAN == 0 and TP_LINGUA not in [0, 1]")
 
@@ -24,7 +30,7 @@ for i in df.index:
         lo = '1dia'
     else:
         lo = '2dia'
-    po = 'https://www.curso-objetivo.br/vestibular/resolucao_comentada/enem/'+ano+'-2/'+lo+'/'+li+'.gif?v1'
+    po = 'https://www.curso-objetivo.br/vestibular/resolucao_comentada/enem/'+ano+lo+'/'+li+'.gif?v1'
 
     # Obter o nome do arquivo a partir da URL
     filename = os.path.join(output_directory, nameIten)
