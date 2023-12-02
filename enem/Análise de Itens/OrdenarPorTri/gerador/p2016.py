@@ -2,8 +2,8 @@ import pandas as pd
 import requests
 import os
 import time
-
-ano = '2019'
+#FALTA 2016
+ano = '2016'
 adit = '/'
 #adit = '-2/'
 #adit = '/digital/'
@@ -12,11 +12,21 @@ adit = '/'
 df = pd.read_csv('ITENS_PROVA_'+ano+'.csv', sep=";", encoding="latin-1")
 ano = str(ano)+str(adit)
 
-provas = [512, 508, 504, 516]
+provas = [395, 399, 391, 403]
 
 df = df[df.CO_PROVA.isin(provas)]
 df = df.query("IN_ITEM_ABAN == 0 and TP_LINGUA not in [0, 1]")
 #df = df.query("TP_VERSAO_DIGITAL not in [1]")
+
+for i in df.index:
+    if df.loc[i, 'SG_AREA'] == 'LC':
+        print('ok')
+    elif df.loc[i, 'SG_AREA'] == 'CH':
+        df.loc[i, 'CO_POSICAO'] += 45
+    elif df.loc[i, 'SG_AREA'] == 'CN':
+        df.loc[i, 'CO_POSICAO'] += 90
+    else:
+        df.loc[i, 'CO_POSICAO'] += 135 
 
 output_directory = 'ComentadaCorrecao'
 os.makedirs(output_directory, exist_ok=True)
@@ -27,12 +37,15 @@ for i in df.index:
     li = str(df.loc[i, 'CO_POSICAO']).zfill(3) + str(df.loc[i, 'TX_GABARITO']).lower()
     lo = '.'
     nameIten = str(df.loc[i, 'CO_ITEM'])+ '.gif'
-    if df.loc[i, 'SG_AREA'] == 'LC':
-        lo = '1dia'
-    elif df.loc[i, 'SG_AREA'] == 'CH':
-        lo = '1dia'
-    else:
-        lo = '2dia'
+
+#    if df.loc[i, 'SG_AREA'] == 'LC':
+#        lo = '1dia'
+#    elif df.loc[i, 'SG_AREA'] == 'CH':
+#        lo = '1dia'
+#    else:
+#        lo = '2dia'
+
+    lo = ''
     po = 'https://www.curso-objetivo.br/vestibular/resolucao_comentada/enem/'+ano+lo+'/'+li+'.gif?v1'
     print(po)
     # Obter o nome do arquivo a partir da URL
@@ -49,5 +62,4 @@ for i in df.index:
         print(f'Imagem salva em: {filename}')
 
 
-#doesngetbeen = []
-#df = df[df.CO_ITEM.isin(doesngetbeen)]
+
