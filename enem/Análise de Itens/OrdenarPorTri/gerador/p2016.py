@@ -3,14 +3,14 @@ import requests
 import os
 import time
 
-ano = '2022'
+ano = '2021'
 adit = '/'
-#adit = '-2/'
+adit = '-2/'
 
 df = pd.read_csv('ITENS_PROVA_'+ano+'.csv', sep=";", encoding="latin-1")
 ano = str(ano)+str(adit)
 
-provas = [1106, 1096, 1126, 1116]
+provas = [971, 962, 990, 980]
 
 df = df[df.CO_PROVA.isin(provas)]
 df = df.query("IN_ITEM_ABAN == 0 and TP_LINGUA not in [0, 1]")
