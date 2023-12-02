@@ -168,9 +168,9 @@ def Make():
     provas2016 = [303]
     provas2017 = [393,432,396,436,400,440,406,444]
     provas2018 = [449, 488, 452, 492, 456, 496, 462, 500]
-    provas2019 = [512, 552, 508, 548, 505, 544, 518, 556]
-    provas2020 = [599, 679, 568, 648, 578, 658, 590, 670]
-    provas2021 = [911, 991, 880, 960, 890, 970, 902, 982] 
+    provas2019 = [512, 552, 508, 548, 505, 544, 518, 556] #DGITALDIGITALGIDAL
+    provas2020 = [599, 679, 568, 648, 578, 658, 590, 670, 688, 692, 700, 696]
+    provas2021 = [911, 991, 880, 960, 890, 970, 902, 982] #DGITALDIGITALGIDAL
     provas2022 = [1087, 1167, 1056, 1136, 1066, 1146, 1078, 1158] 
 
     dItens2014['ANO'] = 2014
@@ -192,6 +192,8 @@ def Make():
     dItens2020 = thetaToCsv(provas2020, dItens2020)
     dItens2021 = thetaToCsv(provas2021, dItens2021)
     dItens2022 = thetaToCsv(provas2022, dItens2022)
+
+    dItens2020 = dItens2020.query("TP_VERSAO_DIGITAL not in [1]")
     del dItens2020['TP_VERSAO_DIGITAL']
 
     result = pd.concat([dItens2014, dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])

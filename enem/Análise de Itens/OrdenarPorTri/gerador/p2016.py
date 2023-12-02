@@ -3,24 +3,27 @@ import requests
 import os
 import time
 
-ano = '2021'
-adit = '/'
-adit = '-2/'
+ano = '2020'
+#adit = '/'
+#adit = '-2/'
+adit = '/digital/'
+#adit = '/presencial/'
 
 df = pd.read_csv('ITENS_PROVA_'+ano+'.csv', sep=";", encoding="latin-1")
 ano = str(ano)+str(adit)
 
-provas = [971, 962, 990, 980]
+provas = [688, 692, 700, 696]
 
 df = df[df.CO_PROVA.isin(provas)]
 df = df.query("IN_ITEM_ABAN == 0 and TP_LINGUA not in [0, 1]")
+#df = df.query("TP_VERSAO_DIGITAL not in [1]")
 
 output_directory = 'ComentadaCorrecao'
 os.makedirs(output_directory, exist_ok=True)
 
 
 for i in df.index:
-#    time.sleep(1)
+#    time.sleep(10)
     li = str(df.loc[i, 'CO_POSICAO']).zfill(3) + str(df.loc[i, 'TX_GABARITO']).lower()
     lo = '.'
     nameIten = str(df.loc[i, 'CO_ITEM'])+ '.gif'
@@ -31,7 +34,7 @@ for i in df.index:
     else:
         lo = '2dia'
     po = 'https://www.curso-objetivo.br/vestibular/resolucao_comentada/enem/'+ano+lo+'/'+li+'.gif?v1'
-
+    print(po)
     # Obter o nome do arquivo a partir da URL
     filename = os.path.join(output_directory, nameIten)
 
