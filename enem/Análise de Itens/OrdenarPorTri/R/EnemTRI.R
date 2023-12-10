@@ -9,13 +9,22 @@ library(tidyverse)
 library(ggmirt)
 
 #Lê os dados do arquivo
-dados <- read.delim("F:/Niedson Emanoel/Desktop/dados.txt", header = FALSE)
+
+#SEM HEADER
+caminho_leitura <- file.path(caminho_pasta_script, "dados.txt")
+dados <- read.delim(caminho_leitura, header = FALSE)
+
+#COM HEADER
+# caminho_leitura <- file.path(caminho_pasta_script, "dados.txt")
+# dados <- read.delim(caminho_leitura, header = TRUE)
+ 
 View(dados)
 
 caminho_pasta_script <- getwd()
 
 #Dados simulados
-# dados <- sim_irt(1600, 15)
+
+# dados <- sim_irt(5000, 45)
 
 #Ajusta o modelo TRI 3PL
 mod3 <- mirt(dados, 1, itemtype = '3PL')
@@ -33,26 +42,34 @@ write.csv(coeficientes, file = caminho_saida, row.names = FALSE)
 
 #Plots e outras análises...
 
-plot(mod3)
+#Comportamento Exame
+scaleCharPlot(mod3)
 
 #Infit: Pessoas de alto theta errando questões fáceis
 #Outfit: pessoas de baixo theta acertando questões difíceis
 itemfitPlot(mod3)
 
 #FitPlots
+#(Distribuição da população em infit e outfit)
 personfitPlot(mod3)
 
 #FitPlots
+#Comportamento do Exame em Theta
 itempersonMap(mod3)
 
+#CCI ITENS
 tracePlot(mod3)
 
+#CCI TODOS OS ITENS
 tracePlot(mod3, facet = F, legend = T) + scale_color_brewer(palette = "Set1")
 
+#CCI ITENS SELECIONADOS
 tracePlot(mod3,items = c(1:3), facet = F, legend = T) + scale_color_brewer(palette = "Set2")
 
+#INFORMAÇÃ0 CURVAS ITENS
 itemInfoPlot(mod3, facet = T)
 
+# INFORMAÇÀO DO TESTE (NOTAS MAX E MIN)
 testInfoPlot(mod3, adj_factor = 2)
 
 
@@ -60,7 +77,7 @@ testInfoPlot(mod3, adj_factor = 2)
 notas <- (fscores(mod3, method = 'EAP')*100)+500
 
 #Correlacao das Notas
-sumscore <- rowSums(data)
+sumscore <- rowSums(dados)
 cor.test(notas, sumscore)
 
 # Adiciona as pontuações latentes ao conjunto de dados original
