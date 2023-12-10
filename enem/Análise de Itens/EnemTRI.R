@@ -13,7 +13,7 @@ dados <- read.delim("F:/Niedson Emanoel/Desktop/dados.txt", header = FALSE)
 View(dados)
 
 #Dados simulados
-# data <- sim_irt(1600, 15)
+# dados <- sim_irt(1600, 15)
 
 #Ajusta o modelo TRI 3PL
 mod3 <- mirt(dados, 1, itemtype = '3PL')
