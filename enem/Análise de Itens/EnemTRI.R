@@ -12,6 +12,8 @@ library(ggmirt)
 dados <- read.delim("F:/Niedson Emanoel/Desktop/dados.txt", header = FALSE)
 View(dados)
 
+caminho_pasta_script <- getwd()
+
 #Dados simulados
 # dados <- sim_irt(1600, 15)
 
@@ -23,7 +25,7 @@ coeficientes <- coef(mod3, simplify=TRUE, IRTpars=TRUE)
 round(coeficientes$items, 3)
 
 #Especifica o caminho do arquivo CSV de saída
-caminho_saida <- "resultados_coef.csv"
+caminho_saida <- file.path(caminho_pasta_script, "resultados_coef.csv")
 
 #Escreve os coeficientes no arquivo CSV
 write.csv(coeficientes, file = caminho_saida, row.names = FALSE)
@@ -68,5 +70,6 @@ dados_com_notas <- cbind(dados, notas)
 View(dados_com_notas)
 
 # Salva o conjunto de dados com as pontuações latentes em um arquivo CSV
-write.csv(dados_com_notas, file = "dados_com_notas.csv", row.names = FALSE)
+caminho_saida <- file.path(caminho_pasta_script, "dados_com_notas.csv")
+write.csv(dados_com_notas, file = caminho_saida, row.names = FALSE)
 
