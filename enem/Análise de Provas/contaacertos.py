@@ -122,8 +122,8 @@ def TratamentoQuestoes(dfENEM, Disciplina):
 
     df_result = pd.DataFrame({'QTD_ACERTOS': qtd_acertos,
                             'NOTA_MIN': notas_min,
-                            'NOTA_MAX': notas_max,
                             'NOTA_MEDIANA': notas_mediana,
+                            'NOTA_MAX': notas_max,
                             'Disciplina': Disciplina,
                             'ANO': Ano})
     return(df_result)
@@ -133,6 +133,6 @@ Quaest = TratamentoQuestoes(dfENEM, Disciplina)
 frames = [Quaest]
 dfTabelinhas = pd.concat(frames, ignore_index=True)
 dfTabelinhas.to_csv('AcertosXTriEnem'+Disciplina+'_'+str(Ano)+'.csv', index=False, encoding='utf-8', decimal=',')
-dfTabelinhas.to_excel('AcertosXTriEnem'+Disciplina+'_'+str(Ano)+'.xlsx', index=False, encoding='utf-8', decimal=',')
+dfTabelinhas.to_excel('AcertosXTriEnem'+Disciplina+'_'+str(Ano)+'.xlsx')
 
 salvar_em_txt(dcomplete, 'Percent_200to900_'+Disciplina+'_'+str(Ano)+'.txt')
