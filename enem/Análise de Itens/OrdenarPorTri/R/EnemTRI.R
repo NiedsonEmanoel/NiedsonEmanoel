@@ -27,7 +27,7 @@ caminho_pasta_script <- getwd()
 # dados <- sim_irt(5000, 45)
 
 #Ajusta o modelo TRI 3PL
-mod3 <- mirt(dados, 1, itemtype = '3PL')
+mod3 <- mirt(dados, 1, itemtype = '3PL', technical = list(NCYCLES = 10000))
 
 #Extrai os coeficientes e salva em um data frame
 coeficientes <- coef(mod3, simplify=TRUE, IRTpars=TRUE)
