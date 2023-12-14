@@ -1,25 +1,31 @@
+import cv2
 import numpy as np
+import requests
+from io import BytesIO
 import pandas as pd
 import matplotlib.pyplot as plt
-import cv2
 import pytesseract
 
 pytesseract.pytesseract.tesseract_cmd = './Tesseract/Tesseract.exe'
 pd.options.mode.chained_assignment = None
 
 def tri_3pl_enem(theta, a, b, c):
-    return c + (1 - c) * (1 / (1 + np.exp(-1.7 * a * (theta - b))))
-
+    return c + (1 - c) / (1 + np.exp(-a * (theta - b)))
+    
 def imageApi(code):
     code = str(str(code) + '.png')
     imagem = 'https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/' + code
     return imagem
 
 def ocrImage(code):
-    code = str('../1. Itens BNI/'+str(code) + '.png')
+    code = 'https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/'+str(str(code) + '.png')
     try:
-        img = cv2.imread(code)
-        ocrT = str(pytesseract.image_to_string(img, lang='por'))
+      response = requests.get(code)
+      img_array = np.array(bytearray(response.content), dtype=np.uint8)
+
+      # Decodificar a imagem usando o OpenCV
+      img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
+      ocrT = str(pytesseract.image_to_string(img, lang='por'))
     except:
         ocrT = 'N/A'
     return ocrT
@@ -130,7 +136,7 @@ def thetaToCsv(provas, dfItens):
             dfItens.loc[i, "NU_PARAM_A"],
             dfItens.loc[i, "NU_PARAM_B"],
             dfItens.loc[i, "NU_PARAM_C"],
-            0.60,
+            (find_quantile(dfItens.loc[i, "NU_PARAM_C"])/100),
         )
         dfItens.loc[i, "theta_080"] = find_theta(
             dfItens.loc[i, "NU_PARAM_A"],
@@ -169,11 +175,11 @@ def Make():
     provas2017 = [393,432,396,436,400,440,406,444]
     provas2018 = [449, 488, 452, 492, 456, 496, 462, 500]
     provas2019 = [512, 552, 508, 548, 505, 544, 518, 556] #DGITALDIGITALGIDAL
-    provas2020 = [599, 679, 568, 648, 578, 658, 590, 670, 688, 692, 700, 696]
+    provas2020 = [599, 679, 568, 648, 578, 658, 590, 670]#, 688, 692, 700, 696]
     provas2021 = [911, 991, 880, 960, 890, 970, 902, 982] #DGITALDIGITALGIDAL
     provas2022 = [1087, 1167, 1056, 1136, 1066, 1146, 1078, 1158] 
 
-    dItens2014['ANO'] = 2014
+  #  dItens2014['ANO'] = 2014
     dItens2016['ANO'] = 2016
     dItens2017['ANO'] = 2017      
     dItens2018['ANO'] = 2018    
@@ -184,7 +190,7 @@ def Make():
 
 
     #Colocando as proficiências nas provas e nos dataframes indicados
-    dItens2014 = thetaToCsv(provas2014, dItens2014)
+    #dItens2014 = thetaToCsv(provas2014, dItens2014)
     dItens2016 = thetaToCsv(provas2016, dItens2016)
     dItens2017 = thetaToCsv(provas2017, dItens2017)
     dItens2018 = thetaToCsv(provas2018, dItens2018)
@@ -196,13 +202,15 @@ def Make():
     dItens2020 = dItens2020.query("TP_VERSAO_DIGITAL not in [1]")
     del dItens2020['TP_VERSAO_DIGITAL']
 
-    result = pd.concat([dItens2014, dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
+    #result = pd.concat([dItens2014, dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
+    result = pd.concat([dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
     result.to_csv('provasOrdernadasPorTri.csv', index=False, encoding='utf-8', decimal=',')
     result.to_excel("provasOrdernadasPorTri.xlsx")
 
     return result
 
 Make()
+
 
 
 
