@@ -11,9 +11,15 @@ library(tidyverse)
 library(ggmirt)
 
 
+caminho_pasta_script <- getwd()
+
 #SEM HEADER
 caminho_leitura <- file.path(caminho_pasta_script, "dados.txt")
 dados <- read.delim(caminho_leitura, header = FALSE)
+
+#CSV COM HEADER
+caminho_leitura <- file.path(caminho_pasta_script, "dados.csv")
+dados <- read.table(caminho_leitura, sep=',', header = TRUE)
 
 #COM HEADER
 # caminho_leitura <- file.path(caminho_pasta_script, "dados.txt")
@@ -21,23 +27,31 @@ dados <- read.delim(caminho_leitura, header = FALSE)
 
 #Dados simulados
 
-# dados <- sim_irt(500, 5)
+# dados <- sim_irt(500, 45)
 
 View(dados)
 
-caminho_pasta_script <- getwd()
+caminho_leitura <- file.path(caminho_pasta_script, "datatri.csv")
+dataParam = read.table(caminho_leitura, sep=',', h=T)
+View(dataParam)
 
+a <- as.numeric(gsub(",", ".", dataParam[,8]))
+b <- as.numeric(gsub(",", ".", dataParam[,9]))
+c <- as.numeric(gsub(",", ".", dataParam[,10]))
+
+
+d <- -a*b
 #COLOCANDO VALORES PADRÕES NOS ITENS
 sv <- mirt(dados, 1, itemtype = '3PL', pars = 'values')
 
 #PARAMETRO A                  #I1 #I2  #I3...
-sv$value[sv$name == 'a1'] <- c(1, 0.9, 0.8, 1, 1.1)
+sv$value[sv$name == 'a1'] <- a
 
 #PARAMETRO B
-sv$value[sv$name == 'd'] <- c(-1, 0, 1.5, -1.5, 0)
+sv$value[sv$name == 'd'] <- d
 
 #PARAMETRO C
-sv$value[sv$name == 'g'] <- c(0.2, 0.15, 0.17, 0.19, 0.15)
+sv$value[sv$name == 'g'] <- c
 sv$est <- FALSE
 
 #CRIAÇÃO DO MODELO
@@ -88,7 +102,8 @@ testInfoPlot(mod3, adj_factor = 2)
 notas <- (fscores(mod3, method = 'EAP')*100)+500
 
 #F1 - PARA RESPOSTAS ESPECIFICAS
-(fscores(mod3, response.pattern = c(1,1,1,1,1), method = 'EAP')*100)+500
+(fscores(mod3, response.pattern = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                                    1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), method = 'EAP')*100)+500
 
 #Correlacao das Notas
 sumscore <- rowSums(dados)
