@@ -27,7 +27,7 @@ dados <- read.table(caminho_leitura, sep=',', header = TRUE)
 
 #Dados simulados
 
-# dados <- sim_irt(500, 45)
+# dados <- sim_irt(18000, 45)
 
 View(dados)
 
@@ -100,10 +100,14 @@ testInfoPlot(mod3, adj_factor = 2)
 
 # Calcula as pontuações latentes (notas) dos participantes
 notas <- (fscores(mod3, method = 'EAP')*100)+500
-
-#F1 - PARA RESPOSTAS ESPECIFICAS
+View(notas)
+#F1 - PARA RESPOSTAS MÁXIMAS
 (fscores(mod3, response.pattern = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
                                     1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), method = 'EAP')*100)+500
+
+#F1 - PARA RESPOSTAS MÍNIMAS
+(fscores(mod3, response.pattern = c(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0), method = 'EAP')*100)+500
 
 #Correlacao das Notas
 sumscore <- rowSums(dados)
