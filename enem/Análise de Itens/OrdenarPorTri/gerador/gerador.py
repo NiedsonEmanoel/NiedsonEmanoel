@@ -59,66 +59,92 @@ def get_prova_string(ano, co_prova):
       elif co_prova in [204, 208]:
           return 'PROVA CINZA REGULAR'
       elif co_prova in [213, 214]:
-          return 'PROVA CINZA PPL1'    
+          return 'PROVA CINZA PPL1'
       else:
           return 'PROVA CINZA PPL2'
+    if ano == 2015:
+        if co_prova in [232, 236]:
+            return 'PROVA AMARELA REGULAR'
+        elif co_prova in [240, 244]:
+            return 'PROVA CINZA REGULAR'
+        elif co_prova in [272, 276]:
+            return 'PROVA AMARELA PPL'
+        else:
+            return 'PROVA CINZA PPL'
     if ano == 2016:
         if co_prova in [303]:
-            return 'PROVA AZUL'
+            return 'PROVA AZUL REGULAR'
+        if co_prova in [296, 292]:
+            return 'PROVA AMARELA REGULAR'
+        elif co_prova in [302]:
+            return 'PROVA CINZA REGULAR'
+        elif co_prova in [337, 332]:
+            return 'PROVA AMARELA PPL'
+        else:
+            return 'PROVA CINZA PPL'
     if ano == 2017:
         if co_prova in [400, 396]:
-            return 'PROVA AMARELA'
+            return 'PROVA AMARELA REGULAR'
         elif co_prova in [406, 393]:
-            return 'PROVA CINZA'
+            return 'PROVA CINZA REGULAR'
         elif co_prova in [436, 440]:
-            return 'PROVA AMARELA PPL REAPLICACAO'
+            return 'PROVA AMARELA PPL'
         else:
-            return 'PROVA CINZA PPL REAPLICACAO'    
+            return 'PROVA CINZA PPL'
     if ano == 2018:
         if co_prova in [456, 452]:
-            return 'PROVA AMARELA'
+            return 'PROVA AMARELA REGULAR'
         elif co_prova in [449, 462]:
-            return 'PROVA CINZA'
+            return 'PROVA CINZA REGULAR'
         elif co_prova in [496, 492]:
-            return 'PROVA AMARELA PPL REAPLICACAO'
+            return 'PROVA AMARELA PPL'
         else:
-            return 'PROVA CINZA PPL REAPLICACAO'
+            return 'PROVA CINZA PPL'
     if ano == 2019:
         if co_prova in [512, 508]:
-            return 'PROVA AMARELA'
+            return 'PROVA AMARELA REGULAR'
         elif co_prova in [505, 518]:
-            return 'PROVA CINZA'
+            return 'PROVA CINZA REGULAR'
         elif co_prova in [552, 548]:
-            return 'PROVA AMARELA PPL REAPLICACAO'
+            return 'PROVA AMARELA PPL'
         else:
-            return 'PROVA CINZA PPL REAPLICACAO'
+            return 'PROVA CINZA PPL'
     elif ano == 2020:
+
         if co_prova in [578, 568]:
-            return 'PROVA AMARELA'
+            return 'PROVA AMARELA REGULAR'
         elif co_prova in [599, 590]:
-            return 'PROVA CINZA'
+            return 'PROVA CINZA REGULAR'
         elif co_prova in [658, 648]:
-            return 'PROVA AMARELA PPL REAPLICACAO'
+            return 'PROVA AMARELA PPL'
+        elif co_prova == 688:
+            return 'HUMANAS DIGITAL AMARELA'
+        elif co_prova == 692:
+            return 'LINGUAGENS DIGITAL AMARELA'
+        elif co_prova == 700:
+            return 'NATUREZA DIGITAL AMARELA'
+        elif co_prova == 696:
+            return 'MATEMATICA DIGITAL AMARELA'
         else:
-            return 'PROVA CINZA PPL REAPLICACAO'
+            return 'PROVA CINZA PPL'
     if ano == 2022:
         if co_prova in [1056, 1066]:
-            return 'PROVA AMARELA'
+            return 'PROVA AMARELA REGULAR'
         elif co_prova in [1078, 1087]:
-            return 'PROVA CINZA'
+            return 'PROVA CINZA REGULAR'
         elif co_prova in [1136, 1146]:
-            return 'PROVA AMARELA PPL REAPLICACAO'
+            return 'PROVA AMARELA PPL'
         else:
-            return 'PROVA CINZA PPL REAPLICACAO'
+            return 'PROVA CINZA PPL'
     else: #2021
         if co_prova in [890, 880]:
-            return 'PROVA AMARELA'
+            return 'PROVA AMARELA REGULAR'
         elif co_prova in [902, 911]:
-            return 'PROVA CINZA'
+            return 'PROVA CINZA REGULAR'
         elif co_prova in [960, 970]:
-            return 'PROVA AMARELA PPL REAPLICACAO'
+            return 'PROVA AMARELA PPL'
         else:
-            return 'PROVA CINZA PPL REAPLICACAO' 
+            return 'PROVA CINZA PPL'
    
 def thetaToCsv(provas, dfItens):
     dfItens = dfItens[dfItens.CO_PROVA.isin(provas)]
@@ -175,7 +201,7 @@ def Make():
     provas2017 = [393,432,396,436,400,440,406,444]
     provas2018 = [449, 488, 452, 492, 456, 496, 462, 500]
     provas2019 = [512, 552, 508, 548, 505, 544, 518, 556] #DGITALDIGITALGIDAL
-    provas2020 = [599, 679, 568, 648, 578, 658, 590, 670]#, 688, 692, 700, 696]
+    provas2020 = [599, 679, 568, 648, 578, 658, 590, 670, 688, 692, 700, 696]
     provas2021 = [911, 991, 880, 960, 890, 970, 902, 982] #DGITALDIGITALGIDAL
     provas2022 = [1087, 1167, 1056, 1136, 1066, 1146, 1078, 1158] 
 
