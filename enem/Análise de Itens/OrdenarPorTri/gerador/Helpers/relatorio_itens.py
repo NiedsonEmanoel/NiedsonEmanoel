@@ -83,7 +83,6 @@ def questHab(dfResult_CN, name):
     try:
         cols_to_drop = ['TP_LINGUA', 'TX_MOTIVO_ABAN', 'IN_ITEM_ABAN', 'IN_ITEM_ADAPTADO', 'NU_PARAM_A', 'NU_PARAM_B', 'NU_PARAM_C']
         dfResult.drop(cols_to_drop, axis=1, inplace=True)
-        Capa(dfResult_CN)
     except:
         pass
 
