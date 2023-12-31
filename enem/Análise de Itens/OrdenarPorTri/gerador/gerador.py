@@ -5,7 +5,6 @@ from io import BytesIO
 import pandas as pd
 import matplotlib.pyplot as plt
 import pytesseract
-from concurrent.futures import ThreadPoolExecutor
 
 pytesseract.pytesseract.tesseract_cmd = './Tesseract/Tesseract.exe'
 pd.options.mode.chained_assignment = None
@@ -151,7 +150,6 @@ def thetaToCsv(provas, dfItens):
     dfItens = dfItens[dfItens.CO_PROVA.isin(provas)]
     dfItens["theta_065"] = 0
     countt = 0
-    quantidade_itens = dfItens.shape[0]
     dfItens["imagAPI"] = ''
     dfItens["OCRSearch"] = ''
     dfItens["theta_080"] = 0
@@ -183,13 +181,9 @@ def thetaToCsv(provas, dfItens):
         )
         dfItens.loc[i, 'imagAPI'] = imageApi(dfItens.loc[i, 'CO_ITEM'])
         dfItens.loc[i, 'OCRSearch'] = ocrImage(dfItens.loc[i, 'CO_ITEM'])
-        print(str(countt)+'/'+str(quantidade_itens))
+        print(str(countt)+'/2266')
         countt=countt+1
     return dfItens
-
-def process_area(provas, ditem):
-    thetaToCsv(provas, ditem)
-
 
 def Make():
     #Leitura dos dados de 2016 e Escolha da Prova [303 - MT 2 dia]
@@ -222,15 +216,14 @@ def Make():
 
 
     #Colocando as proficiências nas provas e nos dataframes indicados
-    with ThreadPoolExecutor(max_workers=os.cpu_count()) as executor:
-        #executor.submit(process_area, provas2014, dItens2014
-        executor.submit(process_area, provas2016, dItens2016)
-        executor.submit(process_area, provas2017, dItens2017)
-        executor.submit(process_area, provas2018, dItens2018)
-        executor.submit(process_area, provas2019, dItens2019)
-        executor.submit(process_area, provas2020, dItens2020)
-        executor.submit(process_area, provas2021, dItens2021)
-        executor.submit(process_area, provas2022, dItens2022)
+    #dItens2014 = thetaToCsv(provas2014, dItens2014)
+    dItens2016 = thetaToCsv(provas2016, dItens2016)
+    dItens2017 = thetaToCsv(provas2017, dItens2017)
+    dItens2018 = thetaToCsv(provas2018, dItens2018)
+    dItens2019 = thetaToCsv(provas2019, dItens2019)
+    dItens2020 = thetaToCsv(provas2020, dItens2020)
+    dItens2021 = thetaToCsv(provas2021, dItens2021)
+    dItens2022 = thetaToCsv(provas2022, dItens2022)
 
     dItens2020 = dItens2020.query("TP_VERSAO_DIGITAL not in [1]")
     del dItens2020['TP_VERSAO_DIGITAL']
