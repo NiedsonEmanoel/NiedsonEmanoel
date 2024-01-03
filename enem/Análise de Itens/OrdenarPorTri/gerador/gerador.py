@@ -18,7 +18,7 @@ def imageApi(code):
     return imagem
 
 def ocrImage(code):
-    code = 'https://niedsonemanoel.com.br/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/'+str(str(code) + '.png')
+    code = 'https://raw.githubusercontent.com/NiedsonEmanoel/NiedsonEmanoel/main/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/'+str(str(code) + '.png')
     try:
       response = requests.get(code)
       img_array = np.array(bytearray(response.content), dtype=np.uint8)
@@ -109,7 +109,7 @@ def get_prova_string(ano, co_prova):
             return 'PROVA AMARELA PPL'
         else:
             return 'PROVA CINZA PPL'
-    elif ano == 2020:
+    if ano == 2020:
 
         if co_prova in [578, 568]:
             return 'PROVA AMARELA REGULAR'
