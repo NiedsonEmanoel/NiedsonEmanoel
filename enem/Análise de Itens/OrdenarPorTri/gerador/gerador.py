@@ -182,14 +182,14 @@ def thetaToCsv(provas, dfItens):
         )
         dfItens.loc[i, 'imagAPI'] = imageApi(dfItens.loc[i, 'CO_ITEM'])
         dfItens.loc[i, 'OCRSearch'] = ocrImage(dfItens.loc[i, 'CO_ITEM'])
-        print(str(countt)+'/'+str(numero_de_linhas))
+        print(str(countt)+'/'+str(numero_de_linhas)+' - '+str(dfItens.loc[i, 'ANO']))
         countt=countt+1
     return dfItens
 
 def Make():
     #Leitura dos dados de 2016 e Escolha da Prova [303 - MT 2 dia]
     dItens2014 = pd.read_csv("ITENS_PROVA_2014.csv", sep=";", encoding="latin-1")
-    dItens2015 = pd.read_csv("ITENS_PROVA_2014.csv", sep=";", encoding="latin-1")
+    dItens2015 = pd.read_csv("ITENS_PROVA_2015.csv", sep=";", encoding="latin-1")
     dItens2016 = pd.read_csv("itens_prova_2016.csv", sep=";", encoding="latin-1")
     dItens2017 = pd.read_csv("ITENS_PROVA_2017.csv", sep=";", encoding="latin-1")
     dItens2018 = pd.read_csv("ITENS_PROVA_2018.csv", sep=";", encoding="latin-1")
