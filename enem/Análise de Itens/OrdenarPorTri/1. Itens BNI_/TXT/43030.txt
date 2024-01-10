@@ -1,0 +1,35 @@
+QUESTÃO 180
+Um clube tem um campo de futebol com área total
+
+de 8 000 mê, correspondente ao gramado. Usualmente, a
+
+poda da grama desse campo é feita por duas máquinas.
+
+do clube próprias para o serviço. Trabalhando no mesmo
+
+ritmo, as duas máquinas podam juntas 200 mê por hora.
+
+Por motivo de urgência na realização de uma partida
+
+de futebol, o administrador do campo precisará solicitar
+
+ao clube vizinho máquinas iguais às suas para fazer o
+
+serviço de poda em um tempo máximo de 5h
+
+Utilizando as duas máquinas que o clube já possui, qual
+
+o número mínimo de máquinas que o administrador do
+
+campo deverá solicitar ao clube vizinho?
+
+04
+
+06
+
+es
+
+ou
+
+e 16
+

@@ -1,0 +1,21 @@
+QUESTÃO 171! — ===
+
+Em Economia, costuma-se representar o consumo
+mensal C de uma família poruma função linear C =c, + c,Y,em
+que c, é o consumo independente da renda, c, é a chamada
+propensão ao consumo e Y é a renda mensal da família.
+
+Uma determinada família possui a seguinte função
+consumo: C = 500 + 0,8Y. Nesse caso, ela possui um
+gasto de R$ 500,00, independente da renda, e propensão
+ao consumo de 0,8. Nessa família, a renda mensal
+provém somente dos salários do pai e da mãe, que são,
+respectivamente, R$ 3 000,00 e R$ 4 000,00.
+
+Qual o consumo mensal dessa família?
+
+O R$2900,00.
+O R$3300,00
+O R$3700,00.
+O R$6100,00.
+& R$6600,00

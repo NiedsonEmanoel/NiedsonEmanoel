@@ -1,0 +1,38 @@
+QUESTÃO 156 trio
+Para garantir a segurança de um grande evento
+
+público que terá início às 4 h da tarde, um organizador
+
+precisa monitorar a quantidade de pessoas presentes em
+
+cada instante. Para cada 2 000 pessoas se faz necessária
+
+a presença de um policial. Além disso, estima-se uma
+
+densidade de quatro pessoas por metro quadrado de área
+
+de terreno ocupado. Às 10 h da manhá, o organizador
+
+verifica que a área de terreno já ocupada equivale a um
+
+quadrado com lados medindo 500 m. Porém, nas horas
+
+seguintes, espera-se que o público aumente a uma taxa
+
+de 120 000 pessoas por hora até o início do evento,
+
+quando não será mais permitida a entrada de público.
+
+Quantos policiais serão necessários no início do evento
+
+para garantir a segurança?
+
+o 3
+
+o 485
+
+e 5%
+
+o 74
+
+e sc

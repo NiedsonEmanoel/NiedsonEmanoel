@@ -1,0 +1,35 @@
+QUESTÃO 88 >>> um
+
+A escolha de uma determinada substância
+para ser utilizada como combustível passa pela
+análise da poluição que ela causa ao ambiente
+e pela quantidade de energia liberada em sua
+combustão completa. O quadro apresenta a entalpia
+de combustão de algumas substâncias. As massas
+molares dos elementos H, C e O são, respectivamente,
+iguais a 1 g/mal, 12 g/mol e 16 g/mol.
+
+Entalpia de
+Substância Fórmula combustão
+(klmol)
+Acetileno CH, -1.298
+Etano CH, -1558
+Etanol CHOH -1366
+Hidrogênio H -242
+Metanol CH,OH -558
+
+Levando-se em conta somente o aspecto energético, a
+substância mais eficiente para a obtenção de energia, na
+combustão de 1 kg de combustível, é o
+
+O etano
+
+etanol
+
+metanol.
+
+acetileno.
+
+hidrogênio.
+
+voo

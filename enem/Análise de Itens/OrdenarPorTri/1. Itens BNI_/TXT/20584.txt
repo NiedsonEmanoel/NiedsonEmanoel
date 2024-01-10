@@ -1,0 +1,34 @@
+QUESTÃO 146
+
+A diretoria de uma empresa de alimentos resolve
+apresentar para seus acionistas uma proposta de novo
+produto. Nessa reunião, foram apresentadas as notas
+médias dadas por um grupo de consumidores que
+experimentaram o novo produto e dois produtos similares
+concorrentes (A e B).
+
+so Nota média
+8s
+80
+75
+70
+es
+80
+Forma Textura Cor Tamanho Sabor Odor
+mProposto A =
+A característica que dá a maior vantagem relativa ao
+
+produto proposto e que pode ser usada, pela diretoria,
+para incentivar a sua produção é a
+
+textura.
+
+cor
+
+tamanho.
+
+sabor.
+
+odor.
+
+0000

@@ -1,0 +1,31 @@
+QUESTÃO 100
+
+A ozonólise, reação utilizada na indústria madeireira
+para a produção de papel, é também utilizada em
+escala de laboratório na sintese de aldeídos e cetonas.
+As duplas ligações dos alcenos são clivadas pela oxidação
+como ozônio (0,), em presença de água e zinco metálico,
+e a reação produz aldeídos e/ou cetonas, dependendo do
+grau de substituição da ligação dupla. Ligações duplas
+dissubstituídas geram cetonas, enquanto as ligações
+duplas terminais ou monossubstituídas dão origem a
+aldeídos, como mostra o esquema,
+
+o
+o,.H0 H
+» +
+A Y 4 No
+But-f-eno Propanal Metanal
+
+Considere a ozonólise do composto 1-fenil2-metiiprop-1-eno:
+
+1 fenil-2-metilprop-1-eno
+MARTINO, A. Química a ciência global Gon Esta W, 2014 (asagiado
+Quais são os produtos formados nessa reação?
+
+O Benzaldeido e propanona.
+O Propanal e benzaldeído.
+& 2feniletanal e metanal
+O Benzeno e propanona.
+
+O Benzaldeído e etanal

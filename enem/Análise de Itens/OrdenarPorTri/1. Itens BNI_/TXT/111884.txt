@@ -1,0 +1,30 @@
+QUESTÃO 20
+Farejador de Plágio: uma ferramenta conta a cópia ilegal
+
+No mundo acadêmico cu nos veiculos de
+comunicação, as cópias legais podem surgir de diversas
+maneiras, sendo integrais, parciais ou paráirases. Para
+ajudar a combater esso crime, O professor Maxiniiano
+Zambonatio Pezan, engenheiro de computação,
+“desenvolveu junto. com 08. seus. alunos O programa
+Farejador de Plágio
+
+O programa é capaz de detectar trechos contínuos.
+é fragmentados, frases sotas, pares de texos
+Teorganizados, fases reescritas, mudanças na ordem
+dos periodos e erros fonético e sintático
+
+Mas como o programa realmente funciona?
+Considerando o texto como uma sequência de palavras,
+à ferramenta analisa e busca trecho por trecho nos sites
+“e busca, assm como um professor desconfado de um
+aluno faia. À diferença é que o programa permite que se
+pesquise em vários buscadores, gerando assim muito
+mais resultados.
+Segundo o texto, a ferramenta Farejador de Plágio
+alcança seu objeto por meio ca
+O seleção de cópias integrais.
+O busca em stes especializados.
+O simulação da atvidade docente
+O comparação de padrões estruturais.
+& idortficação do soquência do fonemas.

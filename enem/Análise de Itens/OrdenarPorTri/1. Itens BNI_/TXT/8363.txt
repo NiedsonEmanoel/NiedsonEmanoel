@@ -1,0 +1,27 @@
+QUESTÃO 161
+
+Desde 1999 houve uma significativa mudança
+nas placas dos carros particulares em todo o Brasil.
+As placas, que antes eram formadas apenas por seis
+caracteres alfanuméricos, foram acrescidas de uma
+letra, passando a ser formadas por sete caracteres,
+sendo que os três primeiros caracteres devem ser
+letras (dentre as 26 letras do alfabeto) e os quatro
+últimos devem ser algarismos (de O a 9). Essa mudança
+possibilitou a criação de um cadastro nacional unificado
+de todos os veículos licenciados e ainda aumentou
+significativamente a quantidade de combinações
+possíveis de placas. Não são utilizadas placas em que
+todos os algarismos sejam iguais a zero.
+
+Disponível em: http:Ig1 globo.com. Acesso em: 14 jan. 2012 (adaptado)
+
+Nessas condições, a quantidade de placas que podem
+ser utilizadas é igual a
+
+O 26+9
+O 26:x9
+
+O 26(10-1)
+O (26: +10)-1
+O (28:x 109)-1

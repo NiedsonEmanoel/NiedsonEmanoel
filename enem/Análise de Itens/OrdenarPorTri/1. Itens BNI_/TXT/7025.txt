@@ -1,0 +1,29 @@
+QUESTÃO 163
+
+A bandeira de um estado é formada por cinco faixas,
+A,B,C, De E, dispostas conforme a figura
+
+B
+c
+D
+E
+
+Deseja-se pintar cada faixa com uma das cores verde,
+azul ou amarelo, de tal forma que faixas adjacentes não
+sejam pintadas com a mesma cor.
+
+A
+
+O cálculo do número de possibilidades distintas de se
+pintar essa bandeira, com a exigência acima, é
+1x2x1x1x2
+
+3x2x1x1x2
+
+3x2x1x1x3
+
+3x2x1x2x2
+
+3x2x2x2x2
+
+vo000

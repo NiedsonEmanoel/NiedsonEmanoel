@@ -1,0 +1,26 @@
+QUESTÃO 160
+
+Uma indústria tem um setor totalmente automatizado.
+São quatro máquinas iguais, que trabalham simultânea
+e ininterruptamente durante uma jornada de 6 horas.
+Após esse período, as máquinas são desligadas por
+30 minutos para manutenção. Se alguma máquina
+precisar de mais manutenção, ficará parada até a próxima
+manutenção.
+
+Certo dia, era necessário que as quatro máquinas
+produzissem um total de 9 000 itens. O trabalho
+começou a ser feito às 8 horas. Durante uma jornada de
+6 horas, produziram 6 000 itens, mas na manutenção
+observou-se que uma máquina precisava ficar parada.
+Quando o serviço foi finalizado, as três máquinas
+que continuaram operando passaram por uma nova
+manutenção, chamada manutenção de esgotamento.
+
+Em que horário começou a manutenção de esgotamento?
+
+O 16h45min
+O 18h30min
+O 19h50min
+O 21h15min
+€ 22h30min

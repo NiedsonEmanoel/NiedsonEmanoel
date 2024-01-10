@@ -1,0 +1,26 @@
+QUESTÃO 74 => ummmum
+
+Os manuais dos fornos micro-ondas desaconselham,
+sob pena de perda da garantia, que eles sejam ligados em
+paralelo juntamente a outros aparelhos eletrodomésticos
+por meio de tomadas múltiplas, popularmente conhecidas
+como “benjamins” ou 'tês”, devido ao alto risco de incêndio
+e derretimento dessas tomadas, bem como daquelas dos
+próprios aparelhos.
+
+Os riscos citados são decorrentes da
+
+O resistividade da conexão, que diminui devido à
+variação de temperatura do circuito.
+
+O corrente elétrica superior ao máximo que a tomada
+múltipla pode suportar.
+
+O resistência elétrica elevada na conexão simultânea
+de aparelhos eletrodomésticos.
+
+O tensão insuficiente para manter todos os aparelhos
+eletrodomésticos em funcionamento.
+
+O intensidade do campo elétrico elevada, que causa o
+rompimento da rigidez dielétrica da tomada múltipla.

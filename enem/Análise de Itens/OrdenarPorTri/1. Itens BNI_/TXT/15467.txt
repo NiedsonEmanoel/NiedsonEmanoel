@@ -1,0 +1,26 @@
+QUESTÃO 141 TZ Ot TP POC
+
+Até o fim do Império, as mulheres eram tolhidas em seu acesso à escola. Já na década de 1930, o número de
+meninas e meninos nas instituições de ensino fica igual. Hoje, as mulheres são maioria em todos os níveis de ensino
+— do fundamental à pós-graduação. Veja a tabela a seguir
+
+Pessoas com 10 anos ou mais, segundo o sexo e os grupos de anos de estudos, em %
+
+Anos de estudo | Menos de 1 1a3 4a7 8a10 11 ou mais
+Homens 10,3 135] 291 174 29,6
+Mulheres, 10,0 18 274 NA 33,4
+
+Considerando os dados apresentados tem-se que, escolhida ao acaso uma brasileira com mais de 10 anos,
+a probabilidade de que ela possua oito anos ou mais de estudos é igual a
+
+17,1%.
+
+29,0%.
+
+34,5%.
+
+50,5%.
+
+63,0%.
+
+vovo

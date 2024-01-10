@@ -1,0 +1,30 @@
+QUESTÃO 168 >>>"
+
+Um agricultor vive da plantação de morangos que
+são vendidos para uma cooperativa. A cooperativa faz um
+contrato de compra e venda no qual o produtor informa a
+área plantada.
+
+Para permitir o crescimento adequado das plantas, as
+mudas de morango são plantadas no centro de uma área
+retangular, de 10 cm por 20 cm, como mostra a figura.
+
+20em
+20em
+
+10cm | 10cm
+
+Atualmente, sua plantação de morangos ocupa
+uma área de 10 000 mº, mas a cooperativa quer que ele
+aumente sua produção. Para isso, o agricultor deverá
+aumentar a área plantada em 20%, mantendo o mesmo
+padrão de plantio.
+
+O aumento (em unidade) no número de mudas de
+morango em sua plantação deve ser de
+
+O 10000.
+O 60000.
+O 100000.
+O 500000.
+O 600000.

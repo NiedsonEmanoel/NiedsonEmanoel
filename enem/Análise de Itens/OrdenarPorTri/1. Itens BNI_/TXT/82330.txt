@@ -1,0 +1,27 @@
+QUESTÃO 172 00000
+
+A insulina é utilizada no tratamento de pacientes
+com diabetes para o controle glicêmico. Para facilitar sua
+aplicação, foi desenvolvida uma “caneta” na qual pode ser
+inserido um refil contendo 3 mL de insulina, como mostra
+
+aimagem
+/ A
+
+Para controle das aplicações, definiu-se a unidade
+de insulina como 0,01 mL. Antes de cada aplicação, é
+necessário descartar 2 unidades de insulina, de forma a
+retirar possíveis bolhas de ar.
+
+A um paciente foram prescritas duas aplicações
+
+diárias: 10 unidades de insulina pela manhã e 10 à noite.
+Qual o número máximo de aplicações por refil que o
+paciente poderá utilizar com a dosagem prescrita?
+25
+15
+13
+12
+8
+
+vo 000

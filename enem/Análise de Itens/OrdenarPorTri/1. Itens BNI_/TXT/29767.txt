@@ -1,0 +1,25 @@
+QUESTÃO 158.
+
+Uma pessoa possui um espaço retangular de lados
+11,5me 14 m no quintal de sua casa e pretende fazer
+um pomar doméstico de maçãs. Ao pesquisar sobre o
+plantio dessa fruta, descobriu que as mudas de maçã
+devem ser plantadas em covas com uma única muda e
+com espaçamento mínimo de 3 metros entre elas e entre
+elas e as laterais do terreno. Ela sabe que conseguirá
+plantar um número maior de mudas em seu pomar se
+dispuser as covas em filas alinhadas paralelamente ao
+lado de maior extensão.
+
+O número máximo de mudas que essa pessoa poderá
+plantar no espaço disponível é
+
+04
+
+os
+
+e9
+
+o 12
+
+e 27»

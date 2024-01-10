@@ -1,0 +1,18 @@
+QUESTÃO 95 a
+
+As especificações de um chuveiro elétrico são:
+potência de 4 000 W, consumo máximo mensal de
+21,6kWhe vazão máxima de 3 Lmin. Em um mês, durante
+os banhos, esse chuveiro foi usado com vazão máxima,
+consumindo o valor máximo de energia especificado.
+O calor específico da água é de 4 200 JI(kg *C) e sua
+densidade é igual a 1 kg/L.
+
+Avariação da temperatura da água usada nesses banhos
+foi mais próxima de
+
+O 16%.
+O 19%.
+e gr
+O s7'c
+e 60º

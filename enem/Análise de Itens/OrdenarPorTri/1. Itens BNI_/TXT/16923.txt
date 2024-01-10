@@ -1,0 +1,22 @@
+QUESTÃO 161
+
+Um bairro residencial tem cinco mil moradores, dos
+quais mil são classificados como vegetarianos. Entre os
+vegetarianos, 40% são esportistas, enquanto que, entre
+os não vegetarianos, essa porcentagem cai para 20%.
+
+Uma pessoa desse bairro, escolhida ao acaso, é
+esportista.
+
+A probabilidade de ela ser vegetariana é
+
+2
+o
+1
+os
+1
+º 4
+1
+o
+5
+e,

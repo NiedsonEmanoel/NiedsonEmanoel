@@ -1,0 +1,63 @@
+QUESTÃO 177
+
+Nas informações veiculadas nos órgãos de
+comunicação quando da ocorrência de um terremoto,
+faz-se referência à magnitude (M), que se refere a
+quantos graus o fenômeno atingiu na escala Richter.
+Essa medida quantifica a energia liberada no epicentro
+do terremoto, e em seu cálculo utilizam-se como
+parâmetros as medidas da amplitude sísmica (A),
+em micrômetro, e da frequência (f), em hertz. Esses
+parâmetros são medidos por aparelhos especiais
+chamados sismógrafos, e relacionam-se segundo a
+função M = log (A x f) + 3,3. Pela magnitude do terremoto
+na escala Richter, pode-se estimar seus efeitos de acordo
+com o quadro, onde não estão considerados terremotos
+de magnitudes superiores a 7,9.
+
+Magnitude Efeitos do terremoto segundo
+(Grau) a escala Ricther
+M <38 Registrado (pelos aparelhos), mas não
+
+perceptível pelas pessoas.
+Percebido, com pequenos tremores
+
+35<M<5,4
+notados pelas pessoas.
+Destrutivo, com consequências
+54<M<6,0 |significativas em edificações pouco
+estruturadas.
+Destrutivo, com consequências
+60<M<6, |significativas para todo tipo de
+edificação.
+
+Destrutivo, retiram os edifícios de suas
+fundações, causam fendas no solo e
+danificam as tubulações contidas no
+subsolo.
+
+69<M<7,9
+
+Um terremoto teve sua amplitude e frequências
+medidas e obteve-se A = 1 000 micrômetros e f = 0,2 hertz.
+Use -0,7 como aproximação para log (0,2).
+
+Disponível em: ww mundoducacao.com br. Acesso em: 11 jul. 2012 (adaptado)
+Considerando o quadro apresentado, e analisando o
+resultado da expressão que fornece a magnitude desse
+terremoto, conclui-se que ele foi
+OQ registrado, mas não percebido pelas pessoas.
+
+O percebido, com pequenos tremores notados pelas
+pessoas.
+
+destrutivo, com consequências significativas em
+edificações pouco estruturadas.
+
+destrutivo, com consequências significativas para
+todo tipo de edificação.
+
+destrutivo, com consequências nas fundações dos
+edifícios, fendas no solo e tubulações no subsolo.
+
+v o o

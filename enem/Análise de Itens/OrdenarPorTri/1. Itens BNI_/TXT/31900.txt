@@ -1,0 +1,25 @@
+QUESTÃO 105
+
+A célula fotovoltaica é uma aplicação prática do efeito
+fotoelétrico. Quando a luz incide sobre certas substâncias,
+libera elétrons que, circulando livremente de átomo
+para átomo, formam uma corrente elétrica. Uma célula
+fotovoltaica é composta por uma placa de ferro recoberta
+por uma camada de selênio e uma película transparente
+de ouro. A luz atravessa a película, incide sobre o selênio
+e retira elétrons, que são atraídos pelo ouro, um ótimo
+condutor de eletricidade. A película de ouro é conectada à
+placa de ferro, que recebe os elétrons e os devolve para
+o selênio, fechando o circuito e formando uma corrente
+elétrica de pequena intensidade.
+DIAS, 8. Célua fotovoltaica. Disponível em: super abeicom br
+Acesso em: 18 ago. 2012 (adaptado
+O processo biológico que se assemelha ao descrito é a
+
+fotossíntese
+fermentação
+quimiossintese
+hidrólise de ATP.
+respiração celular.
+
+v0000

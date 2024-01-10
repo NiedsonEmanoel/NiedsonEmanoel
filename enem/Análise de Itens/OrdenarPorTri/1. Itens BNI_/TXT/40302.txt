@@ -1,0 +1,33 @@
+QUESTÃO 143 000000.)
+
+Segundo o Instituto Brasileiro de Geografia e
+Estatística (IBGE), produtos sazonais são aqueles que
+apresentam ciclos bem definidos de produção, consumo
+e preço. Resumidamente, existem épocas do ano em
+que a sua disponibilidade nos mercados varejistas ora
+é escassa, com preços elevados, ora é abundante, com
+preços mais baixos, o que ocorre no mês de produção
+máxima da safra.
+
+A partir de uma série histórica, observou-se que o preço
+P, em reais, do quilograma de um certo produto sazonal
+
+mx=a
+pode ser descrito pela função P(x) = 8 + 5cos ( ç )
+
+onde x representa o mês do ano, sendo x = 1 associado
+ao mês de janeiro, x = 2 ao mês de fevereiro, e assim
+sucessivamente, até x = 12 associado ao mês de
+dezembro.
+
+Dispoiel em we gov Aco em 2 ag. 2012 (adaptado
+Na safra, o mês de produção máxima desse produto é
+O janeiro.
+
+O abril
+
+O junho.
+
+O julho.
+
+O outubro.

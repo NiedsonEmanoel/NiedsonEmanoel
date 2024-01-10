@@ -1,0 +1,18 @@
+QUESTÃO 144
+
+Uma empresa necessita colorir parte de suas
+embalagens, com formato de caixas cúbicas, para que
+possa colocar produtos diferentes em caixas distintas
+pela cor, utilizando para isso um recipiente com tinta,
+conforme Figura 1. Nesse recipiente, mergulhou-se um
+cubo branco, tal como se ilustra na Figura 2. Desta forma,
+aparte do cubo que ficou submersa adquiriu a cor da tinta.
+
+GD
+= &
+
+Figura 1 Figura 2
+Qual é a planificação desse cubo após submerso?
+
+LE TAI.
+

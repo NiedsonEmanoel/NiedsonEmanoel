@@ -1,0 +1,21 @@
+QUESTÃO 160
+
+Um grupo de escoteiros mirins, numa atividade no
+parque da cidade onde moram, montou uma barraca
+conforme a foto da Figura 1. A Figura 2 mostra o esquema
+da estrutura dessa barraca, em forma de um prisma reto,
+em que foram usadas hastes metálicas.
+
+ER VT Ha
+
+roms Foma
+Após a armação das hastes, um dos escoteiros
+observou um inseto deslocar-se sobre elas, partindo do
+vértice A em direção ao vértice B, deste em direção ao
+vértice E e, finalmente, fez o trajeto do vértice E ao C.
+Considere que todos esses deslocamentos foram feitos.
+pelo caminho de menor distância entre os pontos.
+A projeção do deslocamento do inseto no plano que
+contém a base ABCD é dada por
+
+S/A

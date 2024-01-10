@@ -1,0 +1,42 @@
+QUESTÃO 85. O0000c===——
+
+Uma forma de organização de um sistema biológico
+é a presença de sinais diversos utilizados pelos
+indivíduos para se comunicarem. No caso das abelhas
+da espécie Apis meliifera, os sinais utilizados podem ser
+feromônios. Para saírem e voltarem de suas colmeias,
+usam um feromônio que indica a trilha percorrida por elas
+(Composto A). Quando pressentem o perigo, expelem um
+feromônio de alarme (Composto B), que serve de sinal
+para um combate coletivo. O que diferencia cada um
+desses sinais utilizados pelas abelhas são as estruturas e
+funções orgânicas dos feromônios.
+
+cH,oH
+
+Composto A
+
+cH,
+CH,COO(CH,)CH o
+=es,
+
+Composto B
+
+QUADROS, A L Os feromônio e o ensino de química
+Química Nova na Escola, n. 7, maio 1908 (adaptado)
+
+As funções orgânicas que caracterizam os feromônios de
+trilha e de alarme são, respectivamente,
+
+álcool e éster.
+
+aldeído e cetona
+
+éter e hidrocarboneto
+
+enol e ácido carboxílico.
+
+vovos
+
+ácido carboxílico e amida.
+

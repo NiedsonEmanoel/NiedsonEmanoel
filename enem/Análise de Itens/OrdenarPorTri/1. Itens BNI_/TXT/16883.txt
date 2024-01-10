@@ -1,0 +1,11 @@
+QUESTÃO 158
+
+Duas amigas irão fazer um curso no exterior durante
+60 dias e usarão a mesma marca de xampu. Uma delas
+gasta um frasco desse xampu em 10 dias enquanto que
+a outra leva 20 dias para gastar um frasco com o mesmo
+volume. Elas combinam de usar, conjuntamente, cada
+frasco de xampu que levarem.
+
+O número mínimo de frascos de xampu que deverão levar
+nessa viagem é

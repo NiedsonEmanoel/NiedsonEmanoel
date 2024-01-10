@@ -1,0 +1,32 @@
+iai
+Em uma empresa de móveis, um cliente encomenda
+
+um guarda-roupa nas dimensões 220 cm de altura, 120 cm
+
+de largura e 50 cm de profundidade. Alguns dias depois, o
+
+projetista, com o desenho elaborado na escala 1 : 8, entra
+
+em contato com o cliente para fazer sua apresentação.
+
+No momento da impressão, o profissional percebe que
+
+o desenho não caberia na folha de papel que costumava
+
+usar. Para resolver o problema, configurou a impressora
+
+para que a figura fosse reduzida em 20%.
+
+Aaltura, a largura e a profundidade do desenho impresso
+
+para a apresentação serão, respectivamente,
+
+O 2200cm, 12,00 cme 5,00 cm
+
+O 27.50cm, 15,00 cme 6,25cm
+
+O 3437cm, 18,75cme 7.81 cm
+
+O 3520cm, 19,20 cme 8,00 cm
+
+O 44,00 cm, 24,00 cmee 10,00 cm

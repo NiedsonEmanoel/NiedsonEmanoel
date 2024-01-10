@@ -1,0 +1,24 @@
+QUESTAO 150
+Para a construção de isolamento acústico numa
+parede cuja área mede 9 mº, sabe-se que, se a fonte
+sonora estiver a 3 m do plano da parede, o custo é
+de R$ 500,00. Nesse tipo de isolamento, a espessura
+do material que reveste a parede é inversamente
+proporcional ao quadrado da distância até a fonte
+Sonora, e o custo É diretamente proporcional ao volume.
+do material do revestimento.
+Uma expressão que fornece o custo para revestir
+uma parede de área A (em metro quadrado), situada
+a D metros da fonte sonora, é
+
+500- 81
+A-D?
+500-A
+p
+500: Dº
+A
+500: A: Dê
+E
+500-3-D?
+A
+

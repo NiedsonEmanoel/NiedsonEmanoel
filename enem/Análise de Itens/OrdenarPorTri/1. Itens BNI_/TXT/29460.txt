@@ -1,0 +1,45 @@
+QUESTÃO 117
+
+A toxicidade de algumas substâncias é normalmente
+representada por um índice conhecido como DL, (dose
+letal mediana). Ele representa a dosagem aplicada a
+uma população de seres vivos que mata 50% desses
+indivíduos e é normalmente medido utilizando-se ratos
+como cobaias. Esse índice é muito importante para
+os seres humanos, pois ao se extrapolar os dados
+obtidos com o uso de cobaias, pode-se determinar o
+nível tolerável de contaminação de alimentos, para que
+possam ser consumidos de forma segura pelas pessoas.
+O quadro apresenta três pesticidas e suas toxicidades.
+A unidade mg/kg indica a massa da substância ingerida
+pela massa da cobaia.
+
+Pesticidas DL, (mglkg)
+
+Diazinon 70
+Malation 1000
+Atrazina 3100
+
+Sessenta ratos, com massa de 200 g cada, foram
+divididos em três grupos de vinte. Três amostras de ração,
+contaminadas, cada uma delas com um dos pesticidas
+indicados no quadro, na concentração de 3 mg por
+grama de ração, foram administradas para cada grupo de
+cobaias. Cada rato consumiu 100 g de ração.
+
+Qual(ais) grupo(s) terá(ão) uma mortalidade mínima de
+10 ratos?
+
+O grupo que se contaminou somente com atrazina.
+
+O grupo que se contaminou somente com diazinon.
+Os grupos que se contaminaram com atrazina e
+malation.
+
+Os grupos que se contaminaram com diazinon e
+malation.
+
+Nenhum dos grupos contaminados com atrazina,
+diazinon e malation.
+
+o o 0060

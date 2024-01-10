@@ -1,0 +1,30 @@
+QUESTÃO 142
+
+Em uma cantina, o sucesso de venda no verão são sucos
+preparados à base de polpa de frutas. Um dos sucos mais
+vendidos é o de morango com acerola, que é preparado com
+2 1
+
+5 Je polpa de morango e + de polpa de acerola
+
+Para o comerciante, as polpas são vendidas em
+embalagens de igual volume. Atualmente, a embalagem
+da polpa de morango custa R$ 18,00 e a de acerola,
+R$ 14,70. Porém, está prevista uma alta no preço
+da embalagem da polpa de acerola no próximo mês,
+passando a custar R$ 15,30.
+
+Para não aumentar o preço do suco, o comerciante
+negociou com o fomecedor uma redução no preço da
+embalagem da polpa de morango.
+
+A redução, em real, no preço da embalagem da polpa de
+morango deverá ser de
+
+1,20
+0,90
+0,60
+0,40
+0,30.
+
+v0000

@@ -1,0 +1,45 @@
+QUESTÃO 157.
+
+Para analisar o desempenho de um método
+diagnóstico, realizam-se estudos em populações
+contendo pacientes sadios e doentes. Quatro situações
+distintas podem acontecer nesse contexto de teste:
+
+1) Paciente TEM a doença e o resultado do teste é
+POSITIVO.
+
+2) Paciente TEM a doença e o resultado do teste é
+NEGATIVO.
+
+3) Paciente NÃO TEM a doença e o resultado do
+teste é POSITIVO.
+
+4) Paciente NÃO TEM a doença e o resultado do
+teste é NEGATIVO.
+
+Um índice de desempenho para avaliação de um
+teste diagnóstico é a sensibilidade, definida como a
+probabilidade de o resultado do teste ser POSITIVO se o
+paciente estiver com a doença.
+
+O quadro refere-se a um teste diagnóstico para
+a doença A, aplicado em uma amostra composta por
+duzentos indivíduos
+
+Resultado do| Doença A
+teste Presente | Ausente
+Positivo 95 15
+Negativo 5 85
+
+BENSEROR. 1 M;LOTUFO, P.A Epidemiologia: abortagem prática
+“São Paulo: Sanvir, 2017 (adapéado)
+
+Conforme o quadro do teste proposto, a sensibilidade
+dele é de
+47,5%.
+85,0%.
+86,3%.
+94,4%.
+95,0%.
+
+voos

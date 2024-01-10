@@ -1,0 +1,18 @@
+QUESTÃO 149—————>—>—>——===
+
+Muitas pessoas, de modo descuidado, armazenam
+em caixas plásticas restos de alimentos em locais não
+apropriados, criando condições para o aparecimento
+de formigas e roedores. Suponha que uma formiga,
+localizada no vértice J de uma caixa plástica que ficou
+destampada, avista um torrão de açúcar no vértice P da
+caixa, conforme ilustra a figura seguinte. Caminhando
+sobre a superfície da caixa (arestas e lados) ela poderá
+seguir várias trajetórias até ele:
+
+Observação: Considere que R é o ponto médio da
+aresta NQ.
+
+Para que o caminho percorrido pela formiga tenha o
+menor comprimento possível, ela deve seguir o caminho
+

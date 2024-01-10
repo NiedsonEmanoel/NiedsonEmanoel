@@ -1,0 +1,32 @@
+QUESTÃO 125
+
+A figura mostra como é a emissão de radiação
+eletromagnética para cinco tipos de lâmpada: haleto
+metálico, tungstênio, mercúrio, xênon e LED (diodo
+emissor de luz). As áreas marcadas em cinza são
+proporcionais à intensidade da energia liberada pela
+lâmpada. As linhas pontilhadas mostram a sensibilidade
+do olho humano aos diferentes comprimentos de onda.
+UVe IV são as regiões do ultravioleta e do infravermelho,
+respectivamente.
+
+Um arquiteto deseja iluminar uma sala usando uma
+lâmpada que produza boa iluminação, mas que não
+aqueça o ambiente.
+
+Haleto metálico
+
+Intensidade emitida
+
+200 300 400 500 600 700 800 900
+
+UV Iv
+Comprimento de onda (nm)
+
+Disponivel e: paes campus magnetituedu Aesso em: maio 2017 (saido,
+Qual tipo de lâmpada melhor atende ao desejo do arquiteto?
+O Haleto metálico.
+O Tungstênio
+O Mercúrio.
+O Xenon
+e LED

@@ -1,0 +1,26 @@
+QUESTÃO 151 =>=>>>>>>>>>>>>>———
+Para comemorar o aniversário de uma cidade, a
+
+prefeitura organiza quatro dias consecutivos de atrações
+
+culturais. A experiência de anos anteriores mostra que, de
+
+um dia para o outro, o número de visitantes no evento é
+
+triplicado. É esperada a presença de 345 visitantes para
+
+o primeiro dia do evento.
+
+Uma representação possível do número esperado de
+
+participantes para o último dia é
+
+O 3x345
+
+O (3+3+3)x345
+
+O 3x345
+
+O 3x4x345
+
+O 3x345

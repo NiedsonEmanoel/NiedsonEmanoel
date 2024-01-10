@@ -1,0 +1,21 @@
+QUESTÃO 175
+
+Uma pessoa encheu o cartão de memória de sua
+câmera duas vezes, somente com vídeos e fotos.
+Na primeira vez, conseguiu armazenar 10 minutos de
+vídeo e 190 fotos. Já na segunda, foi possível realizar
+15 minutos de vídeo e tirar 150 fotos. Todos os vídeos
+possuem a mesma qualidade de imagem entre si,
+assim como todas as fotos. Agora, essa pessoa deseja
+armazenar nesse cartão de memória exclusivamente
+fotos, com a mesma qualidade das anteriores.
+
+Disponível em: wrmwtechlider.com br. Acesso em: 31 ju. 2012.
+
+O número máximo de fotos que ela poderá armazenar é
+
+O 200.
+e 209.
+O 270.
+O 340.
+o 475.

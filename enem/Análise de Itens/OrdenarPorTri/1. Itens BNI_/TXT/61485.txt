@@ -1,0 +1,18 @@
+QUESTÃO 138 =ezezezezezezecececezezezem=
+
+Um morador de uma região metropolitana tem 50%
+de probabilidade de atrasar-se para o trabalho quando
+chove na região; caso não chova, sua probabilidade de
+atraso é de 25%. Para um determinado dia, o serviço
+de meteorologia estima em 30% a probabilidade da
+ocorrência de chuva nessa região.
+
+Qual é a probabilidade de esse morador se atrasar para o
+serviço no dia para o qual foi dada a estimativa de chuva?
+0,075
+0,150
+0,325
+0,600
+0.800
+
+voos

@@ -1,0 +1,31 @@
+QUESTÃO 147
+
+Uma pessoa precisa comprar creme dental. Ao entrar
+em um supermercado, encontra uma marca em promoção,
+
+conforme o quadro seguinte
+
+Creme dental
+
+Promoção
+
+Embalagem nº 1
+
+Leve 3 pague 2
+
+Embalagem nº 2 Leve 4 pague 3
+Embalagem nº 3 Leve 5 pague 4
+Embalagem nº 4 Leve 7 pague 5
+
+Embalagem nº 5
+
+Leve 10 pague 7
+
+Pensando em economizar seu dinheiro, o consumidor
+resolve levar a embalagem de número
+
+01
+02
+es
+os
+es

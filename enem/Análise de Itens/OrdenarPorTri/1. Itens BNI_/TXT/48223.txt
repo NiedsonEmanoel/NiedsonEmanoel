@@ -1,0 +1,22 @@
+QUESTÃO 176
+
+Um reservatório é abastecido com água por uma
+torneira e um ralo faz a drenagem da água desse
+reservatório. Os gráficos representam as vazões Q,
+em litro por minuto, do volume de água que entra no
+reservatório pela tomeira e do volume que sai pelo ralo,
+em função do tempo t, em minuto.
+
+o tam q Etr)
+ao tumeta ao sab
+
+ia teto [O 6 ao asi
+
+Em qual intervalo de tempo, em minuto, o reservatório
+tem Uma vazão constante de enchimento?
+
+O Deoa1o
+O De5a10.
+O De5a15
+O De15a25
+O De0a25

@@ -1,0 +1,16 @@
+QUESTÃO 13E—————>—>—>—>—————===
+
+Ao elaborar um programa de condicionamento
+para um atleta, um preparador físico estipula que ele
+deve correr 1 000 metros no primeiro dia e, nos dias
+seguintes, 200 metros a mais do que correu no dia
+anterior. O treinador deseja que, ao final dos dias de
+treinamento, o atleta tenha percorrido, em média,
+1.700 m por dia
+
+Esse atleta deve participar desse programa por
+O Sdias.
+O Edias.
+O 5dias.
+O 4dias.
+O 2dias.

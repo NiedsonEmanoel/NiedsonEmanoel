@@ -1,0 +1,22 @@
+QUESTÃO 147 0000»
+
+Um concurso é composto por cinco etapas.
+Cada etapa vale 100 pontos. A pontuação final de cada
+candidato é a média de suas notas nas cinco etapas.
+A classificação obedece à ordem decrescente das
+pontuações finais. O critério de desempate baseia-se
+na maior pontuação na quinta etapa.
+
+E Média nas quatro | Pontuação na
+Candidato | mrimeiras etapas | quinta etapa
+A so 60
+B 85 85
+c E 95
+D E E
+E E 100
+Aordem de classificação final desse concurso é
+O ABCGED
+O BACED
+O CBEAD
+O CBDA
+O E c.D.5,A

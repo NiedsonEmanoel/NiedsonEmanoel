@@ -1,0 +1,18 @@
+QUESTÃO 76
+
+Para lavar e refrescar o ambiente, que estava a 40 C,
+uma pessoa resolveu jogar água sobre um piso de granito.
+Ela observou que o líquido se concentrou em algumas
+regiões, molhando parcialmente a superfície. Ao adicionar
+detergente sobre essa água, a pessoa verificou que o
+líquido se espalhou e deixou o piso totalmente molhado.
+
+A molhabilidade da superfície foi melhorada em função da
+
+solubilidade do detergente em água ser alta
+tensão superficial da água ter sido reduzida.
+pressão de vapor da água ter sido diminuída
+densidade da solução ser maior que a da água.
+viscosidade da solução ser menor que a da água.
+
+0000

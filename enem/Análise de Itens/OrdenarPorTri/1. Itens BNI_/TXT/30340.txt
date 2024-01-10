@@ -1,0 +1,29 @@
+QUESTÃO 145
+
+Um sistema de depreciação linear, estabelecendo
+que após 10 anos o valor monetário de um bem será zero,
+é usado nas declarações de imposto de renda de alguns
+países. O gráfico ilustra essa situação.
+
+Valor monetário (dólar)
+
+(o) 10
+
+Tempo (ano)
+
+Uma pessoa adquiriu dois bens, A e B, pagando
+1 200 e 900 dólares, respectivamente.
+
+Considerando as informações dadas, após 8 anos, qual
+será a diferença entre os valores monetários, em dólar,
+desses bens?
+
+[A]
+
+o 6
+
+o 75
+
+o 240
+
+e 300

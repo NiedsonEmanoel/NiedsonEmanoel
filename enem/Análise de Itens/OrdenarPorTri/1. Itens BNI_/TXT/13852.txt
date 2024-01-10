@@ -1,0 +1,22 @@
+QUESTÃO 73
+
+O aquecimento de água em residências com o uso de energia solar é uma alternativa ao uso de outras fontes
+de energia. A radiação solar, ao incidir nas placas, promove o aquecimento da água. O cobre é um dos materiais
+empregados na produção dos tubos que conduzem a água nos coletores solares. Outros materiais poderiam também
+ser empregados.
+
+Atabela a seguir apresenta algumas propriedades de metais que poderiam substituir o cobre:
+
+Metal
+Propriedad
+ropriedades Aluminio | Chumbo | Ferro | Níquel | Zinco
+Calor de fusão, KJ/mo! 107 48 138 175 73
+Condutividade térmica, WImK) 237 35 80 9 16
+Capacidade calorifica, JImoNK) 242 255] 251 261 55
+De acordo com as propriedades dos metais listadas na tabela, o melhor metal para substituir o cobre seria o
+O alumínio.
+O chumbo.
+O ferro
+O níquel
+
+& zinco.

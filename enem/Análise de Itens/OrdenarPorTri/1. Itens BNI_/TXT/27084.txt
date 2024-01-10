@@ -1,0 +1,59 @@
+QUESTÃO 141
+
+O ferro é um mineral fundamental para que as células mantenham seu bom funcionamento. Ele é essencial ao
+transporte de oxigênio, sintese de DNA e metabolismo energético. É recomendado para meninos de 9 a 13 anos]
+ingerirem, pelo menos, 8 mg de ferro por dia.
+
+Pesquisadores elaboraram a tabela com alguns alimentos e as suas respectivas quantidades de ferro:
+
+Alimento (100 9) Ferro (mg)
+Coração de frango 65
+Sardinha em conserva 35
+Amêndoa 31
+Caldo de cana 23
+Lentilha] 15
+Batata-doce 15
+Feijão carioca 13
+Filé de frango (peito) 03
+
+A diretora de uma escola sabe que deve escolher para o almoço de seus alunos o máximo de cardápios possíveis|
+entre três cardápios existentes, no(s) qual(is) cada porção equivale a 100 g e cada copo a 50 9.
+
+| CARDÁPIO 1
+
+o | CARDÁPIO 2
+
+e | CARDÁPIO 3
+
+e | 2 porções de feijão carioca
+
+e|2copos de caldo de cana
+
+e |2porções de lentilha
+
+e | 1 porção de coração de frango
+
+e| 1 porção de sardinha em conserva
+
+3 porções de filé de frango
+
+e [1 porção de amêndoa
+
+e| 2porções de feijão carioca
+
+e |2 porções de batata doce
+
+Disponível em: wu rg com br Acesso em: 2 ag. 2012 (adaptado
+
+Para ter certeza de que seus alunos estão ingerindo a quantidade mínima de ferro recomendada, a diretora deve
+
+escolher o(s) cardápio(s)
+01
+
+02
+
+e3
+
+O 10u2
+
+O 10u3.

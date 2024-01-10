@@ -1,0 +1,43 @@
+QUESTÃO 169
+
+Uma desenhista projetista deverá desenhar uma
+tampa de panela em forma circular. Para realizar esse
+desenho, ela dispõe, no momento, de apenas um
+compasso, cujo comprimento das hastes é de 10 cm, um
+transferidor e uma folha de papel com um plano cartesiano.
+Para esboçar o desenho dessa tampa, ela afastou as
+hastes do compasso de forma que o ângulo formado por
+elas fosse de 120". A ponta seca está representada pelo
+ponto C, a ponta do grafite está representada pelo ponto
+B e a cabeça do compasso está representada pelo ponto
+A conforme a figura.
+
+A
+
+Após concluir o desenho, ela o encaminha para o
+setor de produção. Ao receber o desenho com a indicação
+do raio da tampa, verificará em qual intervalo este se
+encontra e decidirá o tipo de material a ser utilizado na
+sua fabricação, de acordo com os dados.
+
+Tipo de material | Intervalo de valores do raio (cm)
+1 O<R<5
+u 5<R<10
+ui 10<R<15
+y 15<R<21
+vi 2<R<40
+
+Considere 1,7 como aproximação para 3
+
+O tipo de material a ser utilizado pelo setor de
+produção será
+
+01
+
+ou
+
+en
+
+ou.
+
+ev.

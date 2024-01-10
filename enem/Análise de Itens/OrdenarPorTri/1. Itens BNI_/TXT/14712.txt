@@ -1,0 +1,22 @@
+QUESTÃO 139 ooo...
+
+Em uma central de atendimento, cem pessoas
+receberam senhas numeradas de 1 até 100. Uma das
+senhas é sorteada ao acaso.
+
+Qual é a probabilidade de a senha sorteada ser um
+número de 1 a 20?
+
+1
+
+9 o
+19
+9 “o
+20
+9 o
+”
+O o
+so
+o
+
+100

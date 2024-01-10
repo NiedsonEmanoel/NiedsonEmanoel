@@ -1,0 +1,12 @@
+QUESTÃO 174 mm
+
+Um sinalizador de trânsito tem o formato de um
+cone circular reto. O sinalizador precisa ser revestido
+extemamente com adesivo fluorescente, desde sua
+base (base do cone) até a metade de sua altura, para
+sinalização notuma. O responsável pela colocação do
+adesivo precisa fazer o corte do material de maneira que
+a forma do adesivo corresponda exatamente à parte da
+superfície lateral a ser revestida
+
+Qual deverá ser a forma do adesivo?

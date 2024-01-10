@@ -1,0 +1,19 @@
+QUESTÃO 86 mm
+
+Em um experimento, foram separados três recipientes A, B e G, contendo 200 mL de líquidos distintos: o
+recipiente A continha água, com densidade de 1,00 g/mL,; o recipiente B, álcool etílico, com densidade de 0,79 g/mL;
+eo recipiente C, clorofórmio, com densidade de 1,48 giml. Em cada um desses recipientes foi adicionada uma
+pedra de gelo, com densidade próxima a 0,90 gimL.
+
+No experimento apresentado, observou-se que a pedra de gelo
+flutuou emA, flutuou em B e flutuou em C.
+
+flutuou ema, afundou em B e flutuou em G.
+
+afundou em A, afundou em B e flutuou em C.
+
+afundou em A, flutuou em B e afundou em C.
+
+flutuou emA, afundou em B e afundou em C.
+
+voos

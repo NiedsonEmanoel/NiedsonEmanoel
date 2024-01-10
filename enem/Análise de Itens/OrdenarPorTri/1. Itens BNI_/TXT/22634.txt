@@ -1,0 +1,20 @@
+QUESTÃO 162
+
+Na construção de um conjunto habitacional de casas
+populares, todas serão feitas num mesmo modelo,
+ocupando, cada uma delas, terrenos cujas dimensões
+são iguais a 20 m de comprimento por 8 m de largura.
+Visando a comercialização dessas casas, antes do início
+das obras, a empresa resolveu apresentá-las por meio de
+maquetes construídas numa escala de 1 : 200.
+
+As medidas do comprimento e da largura dos terrenos,
+respectivamente, em centimetros, na maquete construída,
+foram de
+
+O 4e1
+O 5e2z
+
+O 10e4
+O 2068
+e 50e20.

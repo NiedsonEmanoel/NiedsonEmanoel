@@ -1,0 +1,37 @@
+QUESTÃO 140 000000
+
+Alguns medicamentos para felinos são
+administrados com base na superfície corporal do
+animal. Foi receitado a um felino pesando 3,0 kg um
+medicamento na dosagem diária de 250 mg por metro
+quadrado de superfície corporal
+
+O quadro apresenta a retação entre a massa do felino,
+em quilogramas, e a área de sua superfície corporal, em
+metros quadrados.
+
+Relação entre a massa de um felino
+e a área de sua superfície corporal
+
+Massa (kg) Área (m*)
+10 0,100
+20 0,159
+30 0.208
+40 0,252
+50 0,292
+
+NORSHORTHY 6. D. O paciente feno. São Pau: roca 2000.
+A dose diária, em miligramas, que esse felino deverá
+receber é de
+
+0,624
+
+520.
+
+156,0.
+
+750,0.
+
+12019.
+
+0000

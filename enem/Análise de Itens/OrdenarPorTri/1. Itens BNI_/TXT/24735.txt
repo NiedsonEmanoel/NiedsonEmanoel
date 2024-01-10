@@ -1,0 +1,33 @@
+QUESTÃO 173
+
+Um promotor de eventos foi a um supermercado para
+comprar refrigerantes para uma festa de aniversário.
+Ele verificou que os refrigerantes estavam em garrafas
+de diferentes tamanhos e preços. A quantidade de
+refrigerante e o preço de cada garrafa, de um mesmo
+refrigerante, estão na tabela.
+
+Quantidade de | p,
+
+Garrafa refrigerante (RS)
+(litro) (R$)
+Tipo | 05 068
+Tipo 10 0,88
+Tipo Il 15 1,08
+Tipo IV 20 1,68
+Tipo V 30 258
+
+Para economizar o máximo possível, o promotor de
+eventos deverá comprar garrafas que tenham o menor
+preço por litro de refrigerante.
+
+O promotor de eventos deve comprar garrafas do tipo
+o
+
+oi
+
+en
+
+o
+
+ev

@@ -1,0 +1,17 @@
+QUESTÃO 144 ooo... ==
+
+Uma família composta por sete pessoas adultas,
+após decidir o itinerário de sua viagem, consultou
+o site de uma empresa aérea e constatou que o voo
+para a data escolhida estava quase lotado. Na figura,
+disponibilizada pelo site, as poltronas ocupadas estão
+marcadas com X e as únicas poltronas disponíveis são
+as mostradas em branco.
+
+Disponivel em: gnt Acesso em: 3 ut 2013 (adaptado
+
+O número de formas distintas de se acomodar a família
+nesse voo é calculado por
+
+o
+2

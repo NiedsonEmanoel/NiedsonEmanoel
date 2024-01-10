@@ -1,0 +1,21 @@
+QUESTÃO 180 222220000]
+
+Em 2011, um terremoto de magnitude 9,0 na escala
+Richter causou um devastador tsunami no Japão,
+provocando um alerta na usina nuclear de Fukushima.
+Em 2013, outro terremoto, de magnitude 7,0 na mesma
+escala, sacudiu Sichuan (sudoeste da China), deixando
+centenas de mortos e milhares de feridos. A magnitude
+de um terremoto na escala Richter pode ser calculada por
+
+5 ! ( 5)
+tog|-=),
+3 Veg,
+sendo E a energia, em kWh, liberada pelo terremoto e
+E, uma constante real positiva. Considere que E, e
+E, representam as energias liberadas nos terremotos
+ocorridos no Japão e na China, respectivamente.
+
+Done em: nte om be Acso em: 15 99 20 (adaptado
+Qual a relação entre E,e E?
+

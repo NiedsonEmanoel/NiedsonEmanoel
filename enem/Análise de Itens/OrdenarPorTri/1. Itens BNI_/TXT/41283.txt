@@ -1,0 +1,35 @@
+QUESTÃO 138 === mm
+
+Durante uma epidemia de uma gripe viral, o secretário
+de saúde de um município comprou 16 galões de álcool
+emgel, com litros de capacidade cada um, para distribuir
+igualmente em recipientes para 10 escolas públicas do
+município. O fornecedor dispõe à venda diversos tipos de
+recipientes, com suas respectivas capacidades listadas:
+
+* Recipiente |: 0,125 litro
+
+* Recipiente Il: 0,250 litro
+
+* Recipiente ll: 0,320 litro
+
+* Recipiente IV: 0,500 litro
+
+* Recipiente V: 0,800 litro
+
+O secretário de saúde comprará recipientes de
+um mesmo tipo, de modo a instalar 20 deles em cada
+escola, abastecidos com álcool em ge! na sua capacidade
+máxima, de forma a utilizar todo o gel dos galões de uma
+só vez
+
+Que tipo de recipiente o secretário de saúde deve comprar?
+ol
+
+o
+
+em
+
+oiv
+
+ev

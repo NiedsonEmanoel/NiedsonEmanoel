@@ -1,0 +1,24 @@
+QUESTAO 173 ———
+
+Na figura, estão indicadas as medidas reais da largura
+e do comprimento de uma casa.
+
+Um arquiteto fez a planta dessa casa numa folha de
+papel retangular utilizando a escala 1 : 30, deixando 6 cm
+em cada uma das margens da folha (direita, esquerda,
+inferior e superior).
+
+Quais são, respectivamente, o comprimento e a largura,
+em centímetros, da folha de papel utilizada?
+
+50e 30
+
+5042
+
+56e 36
+
+62e30
+
+B2e472
+
+voos

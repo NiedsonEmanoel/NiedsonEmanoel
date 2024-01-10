@@ -1,0 +1,40 @@
+QUESTÃO 146
+Uma pessoa comercializa picolés. No segundo dia de
+
+certo evento ela comprou 4 caixas de picolés, pagando
+
+R$ 16,00 a caixa com 20 picolés para revendê-los no
+
+evento. No dia anterior, ela havia comprado a mesma
+
+quantidade de picolés, pagando a mesma quantia, e
+
+obtendo um lucro de R$ 40,00 (obtido exclusivamente
+
+pela diferença entre o valor de venda e o de compra dos
+
+picolés) com a venda de todos os picolés que possuía.
+Pesquisando o perfil do público que estará presente
+
+no evento, a pessoa avalia que será possível obter um
+
+lucro 20% maior do que o obtido com a venda no primeiro
+
+dia do evento.
+
+Para atingir seu objetivo, e supondo que todos os picolés
+
+disponíveis foram vendidos no segundo dia, o valor de
+
+venda de cada picolé, no segundo dia, deve ser
+
+O R$056
+
+O R$ 1,00
+
+O R$1,40
+
+O R$150
+
+O R$1,5.
+

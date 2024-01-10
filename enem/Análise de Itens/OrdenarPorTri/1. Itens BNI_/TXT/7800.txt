@@ -1,0 +1,25 @@
+QUESTÃO 157
+
+Um cliente fez um orçamento com uma cozinheira
+para comprar 10 centos de quibe e 15 centos de coxinha
+eo valor total foi de R$ 680,00. Ao finalizar a encomenda,
+decidiu aumentar as quantidades de salgados e acabou
+comprando 20 centos de quibe e 30 centos de coxinha.
+Com isso, ele conseguiu um desconto de 10% no preço
+do cento do quibe e de 15% no preço do cento de coxinha,
+eo valor total da compra ficou em R$ 1 182,00
+
+De acordo com esses dados, qual foi o valor que o cliente
+pagou pelo cento da coxinha?
+
+R$23,40
+
+R$23,80
+
+R$24,90
+
+R$25,30
+
+R$37,80
+
+vo0000

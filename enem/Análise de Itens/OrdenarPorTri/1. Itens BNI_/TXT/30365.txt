@@ -1,0 +1,39 @@
+QUESTÃO 149 000000====———————————————
+
+Devido ao aumento do fluxo de passageiros, uma
+empresa de transporte coletivo urbano está fazendo
+estudos para a implantação de um novo ponto de parada
+em uma determinada rota. A figura mostra o percurso,
+indicado pelas setas, realizado por um ônibus nessa rota
+e a localização de dois de seus atuais pontos de parada,
+representados por Pe Q.
+
+y
+
+ol 30 55 x
+
+Os estudos indicam que o novo ponto T deverá
+ser instalado, nesse percurso, entre as paradas
+já existentes P e Q, de modo que as distâncias
+percorridas pelo ônibus entre os pontos P e T e entre
+os pontos T e Q sejam iguais.
+
+De acordo com os dados, as coordenadas do novo ponto
+de parada são
+
+e (290 ; 20).
+
+410; 0)
+
+410; 20)
+
+440 ; 0)
+
+o (
+(
+(
+(440; 20).
+
+e
+ED)
+e

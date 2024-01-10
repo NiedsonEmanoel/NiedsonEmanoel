@@ -1,0 +1,35 @@
+QUESTAO 166  IrmIIIrrrrrooooororooooooooooO
+
+Em uma cidade será construída uma galeria
+subterrânea que receberá uma rede de canos para o
+transporte de água de uma fonte (F) até o reservatório de
+um novo bairro (8).
+
+Após avaliações, foram apresentados dois projetos
+para o trajeto de construção da galeria: um segmento de reta.
+que atravessaria outros bairros ou uma semicircunterência
+que contomaria esses bairros, conforme ilustrado no
+sistema de coordenadas xOy da figura, em que a unidade
+de medida nos eixos é o quilômetro.
+
+yôm)
+4
+
+x0m)
+
+2-0)
+Estudos de viabilidade técnica mostraram que, pelas
+caracteristicas do solo, a construção de 1 m de galeria
+via segmento de reta demora 1,0 h, enquanto que 1 m de
+construção de galeria via semicircunterência demora 0,6 h.
+Há urgência em disponibilizar água para esse bairro.
+Use 3 como aproximação para x e 1,4 como
+aproximação para (2
+O menor tempo possível, em hora, para conclusão da
+construção da galeria, para atender às necessidades de
+água do bairro, é de
+O 120.
+O 2520.
+O 2800.
+O 3600.
+e 4000.

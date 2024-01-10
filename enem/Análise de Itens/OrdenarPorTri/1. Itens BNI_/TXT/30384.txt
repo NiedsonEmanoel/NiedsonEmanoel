@@ -1,0 +1,43 @@
+QUESTÃO 159
+
+Considere que os quarteirões de um bairro tenham
+sido desenhados no sistema cartesiano, sendo a origem
+o cruzamento das duas ruas mais movimentadas
+desse bairro. Nesse desenho, as ruas têm suas
+larguras desconsideradas e todos os quarteirões são
+quadrados de mesma área e a medida de seu lado é a
+unidade do sistema.
+
+A seguir há uma representação dessa situação, em
+que os pontos A, B, C e D representam estabelecimentos.
+comerciais desse bairro.
+
+x
+
+»x
+
+1 quarteirão:
+
+Suponha que uma rádio comunitária, de fraco sinal,
+garante área de cobertura para todo estabelecimento que
+Se encontre num ponto cujas coordenadas satisfaçam à
+inequação: 2 +y-2x—4y-3150.
+
+A fim de avaliar a qualidade do sinal, e proporcionar
+uma futura melhora, a assistência técnica da rádio realizou
+uma inspeção para saber quais estabelecimentos estavam
+dentro da área de cobertura, pois estes conseguem ouvir
+a rádio enquanto os outros não.
+
+Os estabelecimentos que conseguem ouvir a rádio são
+apenas
+
+O ec.
+
+O Bec.
+
+O Ben.
+
+O A Bec
+
+O B.ceD.

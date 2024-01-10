@@ -1,0 +1,23 @@
+QUESTÃO 107
+
+O resultado de um teste de DNA para identificar o
+filho de um casal, entre cinco jovens, está representado
+na figura. As barras escuras correspondem aos genes
+compartilhados.
+
+Mãe Pai 1 u u v v
+— T—
+Too O
+— T—
+T— T— Too
+To
+T— T— T—
+T—
+T— Too
+TR T—
+T— T—
+To o Too
+Tu
+E
+
+01

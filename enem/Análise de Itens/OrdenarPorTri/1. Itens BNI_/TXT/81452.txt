@@ -1,0 +1,49 @@
+QUESTÃO 166
+
+Neste modelo de termômetro, os filetes na cor preta
+registram as temperaturas mínima e máxima do dia anterior
+e os filetes na cor cinza registram a temperatura ambiente
+atual, ou seja, no momento da leitura do termômetro.
+
+“o
+
+»
+
+ao
+
+a
+
+so o
+
+Por isso ele tem duas colunas. Na da esquerda, os
+números estão em ordem crescente, de cima para baixo,
+de -30 ºC até 50 *C. Na coluna da direita, os números
+estão ordenados de forma crescente, de baixo para cima,
+de -30 ºC até 50 *C.
+
+Aleitura é feita da seguinte maneira:
+
++ a temperatura mínima é indicada pelo nível inferior
+do filete preto na coluna da esquerda;
+
++ a temperatura máxima é indicada pelo nível inferior
+do filete preto na coluna da direita;
+
++ a temperatura atual é indicada pelo nível superior
+dos filetes cinza nas duas colunas.
+Disponivel em: manage Acesso em: 28 ago. 201 (adiado
+
+Qual é a temperatura máxima mais aproximada registrada
+nesse termômetro?
+
+5ºc
+
+7ºc
+
+13ºC
+
+15ºC
+
+19ºC
+
+vo000

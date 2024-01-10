@@ -1,0 +1,21 @@
+QUESTÃO 141
+
+Um garçom precisa escolher uma bandeja de base
+retangular para servir quatro taças de espumante que
+precisam ser dispostas em uma única fileira, paralela
+ao lado maior da bandeja, e com suas bases totalmente
+apoiadas na bandeja. A base e a borda superior das taças
+são círculos de raio 4 cm e 5 cm, respectivamente.
+
+A bandeja a ser escolhida deverá ter uma área mínima,
+em centímetro quadrado, igual a
+
+o 192
+
+o 300.
+
+o 4
+
+o 320.
+
+e 400.

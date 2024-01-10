@@ -1,0 +1,21 @@
+QUESTÃO 173
+
+Em um exame, foi feito o monitoramento dos níveis de
+duas substâncias presentes (Ae B) na corrente sanguínea
+de uma pessoa, durante um período de 24 h, conforme
+o resultado apresentado na figura. Um nutricionista, no
+intuito de prescrever uma dieta para essa pessoa, analisou
+os níveis dessas substâncias, determinando que, para
+uma dieta semanal eficaz, deverá ser estabelecido um
+parâmetro cujo valor será dado pelo número de vezes em
+que os níveis de A e de B forem iguais, porém, maiores
+que o nível mínimo da substância À durante o período de
+duração da dieta.
+
+Considere que o padrão apresentado no resultado
+do exame, no período analisado, se repita para os dias
+subsequentes.
+
+O valor do parâmetro estabelecido pelo nutricionista, para
+uma dieta semanal, será igual a
+02

@@ -1,0 +1,28 @@
+QUESTÃO 166——===
+
+Um paciente inicia um tratamento em que deve
+ingerir uma dose de um determinado remédio a cada
+duas horas. Ao ingerir essa dose, a quantidade Q de uma
+substância no seu organismo aumenta instantaneamente
+em 2 unidades. Nas próximas duas horas, essa
+quantidade decresce de maneira linear até atingir
+a quantidade existente no momento imediatamente
+anterior à ingestão do remédio. Por descuido, esse
+paciente tomou a segunda dose do remédio uma hora
+depois da primeira. A partir daí, não cometeu mais esse
+tipo de engano, tomando o remédio a cada duas horas.
+Antes da primeira dose, a quantidade da substância na
+corrente sanguínea do paciente era de 1 unidade.
+
+O gráfico que melhor representa a quantidade da
+substância no organismo do paciente nas sete primeiras
+horas do tratamento é
+
+La
+
+PR E O PT
+a
+[E O A
+
+tom horas)
+

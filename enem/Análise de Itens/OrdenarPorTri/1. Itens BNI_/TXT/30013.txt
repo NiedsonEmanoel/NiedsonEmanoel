@@ -1,0 +1,37 @@
+QUESTÃO 47
+
+O urânio é um elemento cujos átomos contêm 92 prótons,
+92 elétrons e entre 135 e 148 nêutrons. O isótopo de
+urânio =sU é utilizado como combustível em usinas
+nucleares, onde, ao ser bombardeado por nêutrons, sofre
+fissão de seu núcleo e libera uma grande quantidade
+de energia (2,35x10º kuimol). O isótopo =:U ocorre
+naturalmente em minérios de urânio, com concentração
+de apenas 0,7%. Para ser uflizado na geração de
+energia nuclear, o minério é submetido a um processo
+de enriquecimento, visando aumentar a concentração do
+isótopo =ºU para, aproximadamente, 3% nas pastilhas.
+Em décadas anteriores, houve um movimento mundial
+para aumentar a geração de energia nuclear buscando
+substituir, parcialmente, a geração de energia elétrica
+a partir da queima do canção, o que diminui a emissão
+atmosférica de CO, (gás com massa molar igual a 44 g'mol)
+Aqueimado carvão é representada pela equação química:
+
+C(s)+0.(9) > CO, (9) AH =-400 klimol
+
+Qual é a massa de CO,, em toneladas, que deixa de ser
+liberada na atmosfera, para cada 100 g de pastilhas de
+urânio enriquecido utilizadas em substituição ao carvão
+como fonte de energia?
+
+9210
+
+o 77
+
+e 900
+
+o 30
+
+e 300
+

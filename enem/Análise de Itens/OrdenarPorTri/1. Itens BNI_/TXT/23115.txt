@@ -1,0 +1,14 @@
+QUESTÃO 180
+
+Uma equipe de ambientalistas apresentou um mapa de uma reserva ambiental em que faltava a especificação da
+escala utilizada para a sua confecção. O problema foi resolvido, pois um dos integrantes da equipe lembrava-se de
+que a distância real de 72 km, percorrida na reserva, equivalia a 3,6 cm no mapa.
+
+Qual foi a escala utilizada na confecção do mapa?
+
+01:20
+
+O 1:2000
+O 1:20000
+O 1:200000
+6 1:2000000

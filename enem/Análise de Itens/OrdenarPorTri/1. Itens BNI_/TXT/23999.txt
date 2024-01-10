@@ -1,0 +1,48 @@
+QUESTÃO 137——==
+
+Um medidor de velocidade funciona com dois
+sensores instalados sob o asfalto. Um microprocessador
+recebe os sinais elétricos emitidos pelos sensores,
+calculando a velocidade v em função da distância fixa
+entre os sensores e o tempo gasto durante a passagem
+
+distância
+tempo
+
+do veículo, assim, v
+
+Se a velocidade for maior do que a máxima permitida
+para a via, um sistema de vídeo é acionado para capturar
+a imagem do veículo infrator. Dois destes medidores estão
+instalados em uma avenida, onde a velocidade máxima
+permitida é de 60 km/h e a distância entre os sensores é
+de meio metro (0,5 m)
+
+Um motorista dirige um carro, nessa avenida, com o
+velocímetro descalibrado. Ao passar pelo primeiro medidor
+ele se lembra da existência dos medidores, reduzindo
+em 10 kmh a velocidade do seu veículo, e passa pelo
+segundo medidor. Sabe-se que o microprocessador do
+primeiro medidor registrou que o veículo passou entre os
+sensores em 0,024 segundos e, pela legislação vigente,
+a multa é classificada em.
+
+Média: se a velocidade do veículo é maior do que
+60 km/h e menor ou igual a 72 km/h;
+
+Grave: se a velocidade do veículo é maior do que
+72 kmih e menor ou igual a 90 km/h;
+
+Gravíssima: se a velocidade do veículo é maior do
+que 90 kmih.
+
+(Para transformar a velocidade de m/s para km/h
+multiplica-se por 3,6).
+Qual(ais) multa(s) esse infrator recebeu?
+Somente uma média
+Somente uma grave.
+Uma grave e uma média.
+Somente uma gravíssima.
+Duas multas gravíssimas.
+
+vovoo

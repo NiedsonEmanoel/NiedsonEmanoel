@@ -1,0 +1,24 @@
+QUESTÃO 109
+
+A figura mostra a bateria de um computador portátil,
+a qual necessita de uma corrente elétrica de 2 A para
+funcionar corretamente.
+
+BATERIA DE Lírio MODELO; C 9
+no ASMA Ani, 11.1V == 4400mAh 48.84Wh
+
+Ceg
+
+Quando a bateria está completamente carregada, o tempo
+máximo, em minuto, que esse notebook pode ser usado
+antes que ela “descarregue” completamente é
+
+oO 244.
+
+oO 367.
+
+o 132
+
+o 33.
+
+e 528.

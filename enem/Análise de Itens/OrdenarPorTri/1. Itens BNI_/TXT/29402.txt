@@ -1,0 +1,29 @@
+QUESTÃO 173
+
+Quanto tempo você fica conectado à intemet? Para respondera essa pergunta foi criado um miniaplicativo de computador
+que roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa
+acessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso
+da sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias.
+
+Tempo de acesso na sexta-feira (minuto) Tempo de acesso no sábado (minuto)
+Sitox Sitox
+12 E
+Siteu siteu
+0 Sinrey 56
+30 Sney
+E
+sitez snez
+sirew 10 Sie, 1
+38 E
+
+Analisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado,
+foi no site
+
+ox
+
+vovo
+
+Y
+Zz
+W.
+u.

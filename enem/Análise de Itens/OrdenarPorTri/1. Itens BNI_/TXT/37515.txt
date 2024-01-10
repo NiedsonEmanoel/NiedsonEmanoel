@@ -1,0 +1,27 @@
+QUESTÃO 157
+
+A permanência de um gerente em uma empresa está
+condicionada à sua produção no semestre. Essa produção
+é avaliada pela média do lucro mensal do semestre. Se a
+média for, no mínimo, de 30 mil reais, o gerente permanece
+no cargo, caso contrário, ele será despedido. O quadro
+mostra o lucro mensal, em milhares de reais, dessa
+empresa, de janeiro a maio do ano em curso.
+
+Janeiro [Fevereiro[ Março | Abril | Maio
+2” 35 2” 30 38
+
+Qual deve ser o lucro mínimo da empresa no mês de
+junho, em milhares de reais, para o gerente continuar no
+cargo no próximo semestre?
+
+oz
+
+02
+
+e 3
+
+031
+
+03
+

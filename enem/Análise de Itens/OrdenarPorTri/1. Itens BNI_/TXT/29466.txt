@@ -1,0 +1,30 @@
+QUESTÃO 140 =>>>>>>>">">">""""""—=
+Para que o pouso de um avião seja autorizado em um
+aeroporto, a aeronave deve satisfazer, necessariamente,
+as seguintes condições de segurança:
+L a envergadura da aeronave (maior distância
+entre as pontas das asas do avião) deve ser, no
+máximo, igual à medida da largura da pista;
+IL o comprimento da aeronave deve ser inferior a 60 m;
+IL a carga máxima (soma das massas da aeronave
+e sua carga) não pode exceder 110 t
+Suponha que a maior pista desse aeroporto tenha
+0,045 km de largura, e que os modelos de aviões utilizados
+pelas empresas aéreas, que utilizam esse aeroporto,
+sejam dados pela tabela.
+
+Modelo | compr ver gadura) [Carga máxima
+A 4457 mx 34,/10m 110000 kg
+B 44,00 m x 34,00m 95 000 kg
+c 44,50m x 39.50m 121 000kg
+D 61,50mx3433m 79010 kg
+E 44,00 m x 34,00m 120 000 kg
+
+Os únicos aviões aptos a pousar nesse aeroporto, de
+acordo com as regras de segurança, são os de modelos
+
+O Aec
+O es
+O BeD
+O Ber
+O cer

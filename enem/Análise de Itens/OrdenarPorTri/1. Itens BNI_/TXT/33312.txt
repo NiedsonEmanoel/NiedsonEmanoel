@@ -1,0 +1,18 @@
+QUESTÃO 171
+
+No próximo final de semana, um grupo de alunos
+participará de uma aula de campo. Em dias chuvosos,
+aulas de campo não podem ser realizadas. A ideia é que
+essa aula seja no sábado, mas, se estiver chovendo no
+sábado, a aula será adiada para o domingo. Segundo a
+meteorologia, a probabilidade de chover no sábado é de
+30% e a de chover no domingo é de 25%
+
+A probabilidade de que a aula de campo ocorra no
+domingo é de
+
+O 50%
+O 75%
+O 25%
+O 300%
+O 750%

@@ -1,0 +1,26 @@
+QUESTÃO 147 === mmumum
+
+Um executivo sempre viaja entre as cidades A e B, que
+estão localizadas em fusos horários distintos. O tempo de
+duração da viagem de avião entre as duas cidades é de
+6 horas. Ele sempre pega um voo que sai de A às 15h e
+chega à cidade B às 18h (respectivos horários locais)
+
+Certo dia, ao chegar à cidade B, soube que precisava
+estar de volta à cidade A, no máximo, até as 13h do dia
+seguinte (horário local de A)
+
+Para que o executivo chegue à cidade Ano horário correto
+e admitindo que não haja atrasos, ele deve pegar um voo
+saindo da cidade B, em horário local de B, no máximo à(s)
+16h
+
+10h
+
+7.
+
+an.
+
+1h.
+
+voos

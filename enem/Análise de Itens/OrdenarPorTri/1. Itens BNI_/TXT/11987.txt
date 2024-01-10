@@ -1,0 +1,25 @@
+QUESTAO 199/——>—>—————
+
+Tanto na natureza, quanto na indústria, existem
+diversos tipos de fluídos. Fluidos Newtonianos são
+aqueles que apresentam crescimento linear da tensão
+cisalhante com relação ao gradiente de velocidade, com
+coeficiente angular não nulo. Apresentam ainda tensão
+cisalhante nula com gradiente de velocidade zero. Afigura
+apresenta a relação da tensão cisalhante com o gradiente
+de velocidade para diversos tipos de fluidos.
+
+25
+
+TENSÃO CISALHANTE (Pa)
+3 a Bs
+
+a
+
+o 2 4 6 8
+Gradiente de velocidade (5º)
+
+Dentre as curvas da figura, determine qual(is) é(são) de
+fluido(s) Newtoniano(s)
+
+OA

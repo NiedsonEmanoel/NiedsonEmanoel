@@ -1,0 +1,25 @@
+QUESTÃO 163 =>>>"">">"""=
+
+Um lapidador recebeu de um joalheiro a encomenda
+para trabalhar em uma pedra preciosa cujo formato é
+o de uma pirâmide, conforme ilustra a Figura 1. Para
+tanto, o lapidador fará quatro cortes de formatos iguais
+nos cantos da base. Os cantos retirados correspondem a
+pequenas pirâmides, nos vértices P, Q, R e S, ao longo
+dos segmentos tracejados, ilustrados na Figura 2
+
+s s
+
+Figura 1
+
+Depois de efetuados os cortes, o lapidador obteve, a partir
+da pedra maior, uma joia poliédrica cujos números de
+faces, arestas e vértices são, respectivamente, iguais a
+
+9,20e 13.
+9,24 13
+7.15e12
+10,16e5.
+11,16e5.
+
+0000

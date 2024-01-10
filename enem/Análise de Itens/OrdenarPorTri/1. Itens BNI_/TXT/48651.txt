@@ -1,0 +1,36 @@
+QUESTÃO 135
+
+A aquisição de um telescópio deve levar em
+consideração diversos fatores, entre os quais estão o
+aumento angular, a resolução ou poder de separação e
+a magnitude limite. O aumento angular informa quantas
+vezes mais próximo de nós percebemos o objeto
+observado e é calculado como sendo a razão entre as
+distâncias focais da objetiva (F,) e da ocular (F,).
+Aresolução do telescópio (P) informa o menor ângulo
+que deve existir entre dois pontos observados para
+que seja possível distingui-los. A magnitude limite (M)
+indica o menor brilho que um telescópio pode captar.
+Os valores numéricos de P e M são calculados
+
+pelas expressões: P= & e M=7,1+5(log D), em que
+
+D é o valor numérico do diâmetro da objetiva do telescópio,
+expresso em centímetro.
+
+Disponível em: wnww telescopiosastronomicos.com br. Acesso em: 13 maio 2013 (adaptado)
+
+Ao realizar a observação de um planeta distante e de
+baixa luminosidade, não se obteve uma imagem nítida.
+Para melhorar a qualidade dessa observação, os valores
+de D, F, e F, devem ser, respectivamente,
+
+OQ aumentado, aumentado e diminuído.
+
+O aumentado, diminuído e aumentado.
+
+O aumentado, diminuído e diminuído.
+
+O diminuído, aumentado e aumentado.
+
+Q diminuído, aumentado e diminuído.

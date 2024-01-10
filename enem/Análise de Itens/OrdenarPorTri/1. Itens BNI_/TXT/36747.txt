@@ -1,0 +1,25 @@
+QUESTÃO 178
+Uma pessoa pede informação na recepção de um prédio comercial de como chegar a uma sala, e recebe as
+
+seguintes instruções: suba a escada em forma de U à frente, ao final dela vire à esquerda, siga um pouco à frente e
+em seguida vire à direita e siga pelo corredor. Ao final do corredor, vire à direita.
+
+Uma possível projeção vertical dessa trajetória no plano da base do prédio é:
+
+Sala
+
+o me À
+
+Início 1
+escada
+
+Sala
+
+meio À e
+
+Início 1
+escada
+
+Início Í
+escada
+

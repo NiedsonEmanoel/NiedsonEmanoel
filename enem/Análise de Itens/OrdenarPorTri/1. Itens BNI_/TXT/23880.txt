@@ -1,0 +1,36 @@
+QUESTÃO 154 === gmmwmum
+
+Na alimentação de gado de corte, o processo de cortar
+a forragem, colocá-la no solo, compactá-la e protegê-la
+com uma vedação denomina-se silagem. Os silos mais
+comuns são os horizontais, cuja forma é a de um prisma
+reto trapezoidal, conforme mostrado na figura.
+
+Legends:
+Brlergura do fundo
+
+Elergura do topo
+Ge comprimento do sto
+h-aturadosio,
+
+Considere um silo de 2 m de altura, 6 m de largura
+de topo e 20 m de comprimento. Para cada metro de
+altura do silo, a largura do topo tem 0,5 m a mais do que a
+largura do fundo. Após a silagem, 1 tonelada de forragem
+ocupa 2 mê desse tipo de silo.
+
+EMBRAPA. Gado de corte. Disponível em: wnennpge embrapatr
+Acesso em: 1 ago. 2012 (adaptado)
+
+Após a silagem, a quantidade máxima de forragem que
+cabe no silo, em toneladas, é
+
+Ono
+
+o 125
+
+e 130
+
+o 20
+
+e 260

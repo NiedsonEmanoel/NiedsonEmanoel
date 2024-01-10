@@ -1,0 +1,11 @@
+QUESTÃO 160 000000
+
+Para o modelo de um troféu foi escolhido um poliedro
+P, obtido a partir de cortes nos vértices de um cubo. Com
+um corte plano em cada um dos cantos do cubo, retira-se
+o canto, que é um tetraedro de arestas menores do que
+metade da aresta do cubo. Cada face do poliedro P. então,
+é pintada usando uma cor distinta das demais faces.
+
+Com base nas informações, qual é a quantidade de cores
+que serão utilizadas na pintura das faces do troféu?

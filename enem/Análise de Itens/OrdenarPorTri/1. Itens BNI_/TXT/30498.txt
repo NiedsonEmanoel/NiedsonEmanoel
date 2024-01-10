@@ -1,0 +1,52 @@
+QUESTÃO 147
+
+Os maias desenvolveram um sistema de numeração vigesimal que podia representar qualquer número inteiro,
+não negativo, com apenas três símbolos. Uma concha representava o zero, um ponto representava o número 1 e uma
+barrinha horizontal, o número 5. Até o número 19, os maias representavam os números como mostra a Figura 1
+
+W=|=|c É
+
+Figura 1
+
+pesção ax 2
+
+| posição
+So ge ora!
+
+DO É
+
+Figura 2
+
+Números superiores a 19 são escritos na vertical, seguindo potências de 20 em notação posicional, como mostra
+
+aFigura2
+
+Ou seja, o número que se encontra na primeira posição é multiplicado por 20º = 1, o número que se encontra na
+segunda posição é multiplicado por 20! = 20 e assim por diante. Os resultados obtidos em cada posição são somados
+
+para obter o número no sistema decimal
+
+Um arqueólogo achou o hierogiifo da Figura 3 em um sítio arqueológico:
+
+se. Terceira
+
+— | posição
+
+“| segunda
+
+a [is
+
+0000 | pímia
+
+— | posição
+Figura 3
+
+Disponível em: hi//mdmat mat urgs br Acesso em: 13 ago. 2012 (adaptado)
+
+O número, no sistema decimal, que o hieroglifo da Figura 3 representa é igual a
+
+o 275
+os
+O 2619
+O 5219
+e 7613.

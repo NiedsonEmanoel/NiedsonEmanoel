@@ -1,0 +1,33 @@
+QUESTÃO 110
+
+O ácido acetilsalicíico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico
+(massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a
+equação química:
+
+o HM ou MH
+
+o o
+om A A Hso, q a
++ Hc 50 Den, DS CH, + Hoc
+oH
+
+ico Anidrido acético Ácido acetilsalicílico Ácido acético
+
+Após a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às suas propriedades
+farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na
+forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.
+
+Ácido sali
+
+Uma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do
+texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?
+
+o 23
+
+o 35
+
+eau
+
+O 690
+
+o 228

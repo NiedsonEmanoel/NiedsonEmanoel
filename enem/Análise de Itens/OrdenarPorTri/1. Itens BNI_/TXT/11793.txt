@@ -1,0 +1,19 @@
+QUESTÃO 95
+
+Em algumas residências, cercas eletrificadas são utilizadas com o objetivo de afastar possíveis invasores. Uma
+cerca eletrificada funciona com uma diferença de potencial elétrico de aproximadamente 10 000 V. Para que não seja
+letal, a corrente que pode ser transmitida através de uma pessoa não deve ser maior do que 0,01 A. Já a resistência
+elétrica corporal entre as mãos e os pés de uma pessoa é da ordem de 1 000 0.
+
+Para que a corrente não seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tensão deve possuir uma
+resistência intema que, em relação à do corpo humano, é
+
+praticamente nula.
+aproximadamente igual.
+milhares de vezes maior.
+
+da ordem de 10 vezes maior.
+
+voos
+
+da ordem de 10 vezes menor.

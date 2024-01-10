@@ -1,0 +1,25 @@
+QUESTÃO 155
+
+Um motorista de um carro flex (bicombustível) calcula
+que, abastecido com 45 litros de gasolina ou com 60 litros
+de etanol, o carro percorre a mesma distância.
+
+Chamando de xo valor do litro de gasolina e de y o valor do
+litro de etanol, a situação em que abastecer com gasolina
+é economicamente mais vantajosa do que abastecer com
+etanol é expressa por
+
+x.4
+
+033
+
+x.3
+
+oa
+
+4
+
+3
+
+x,3
+º y

@@ -1,0 +1,26 @@
+QUESTÃO 87
+
+Durante uma aula experimental de física, os
+estudantes construíram um sistema ressonante com
+pêndulos simples. As caracteristicas de cada pêndulo
+são apresentadas no quadro. Inicialmente, os estudantes.
+colocaram apenas o pêndulo A para oscilar.
+
+a Comprimento
+Pêndulo Massa do barbante
+A M L
+1 M L
+2 M 2L
+2
+L
+3 2M En
+M L
+é 2 Es
+5 2M L
+Quais pêndulos, além desse, passaram também a oscilar?
+01,234e5
+O 1,2e3
+O tes
+O tes
+
+O 3e4

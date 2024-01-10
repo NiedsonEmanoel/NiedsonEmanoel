@@ -1,0 +1,27 @@
+QUESTÃO 153 000000
+
+O gerente de um cinema fornece anualmente
+ingressos gratuitos para escolas. Este ano serão
+distribuídos 400 ingressos para uma sessão vespertina
+e 320 ingressos para uma sessão noturma de um
+mesmo filme. Várias escolas podem ser escolhidas
+para receberem ingressos. Há alguns critérios para a
+distribuição dos ingressos:
+
+1) cada escola deverá receber ingressos para uma
+única sessão;
+
+2) todas as escolas contempladas deverão receber
+o mesmo número de ingressos;
+
+3) não haverá sobra de ingressos (ou seja, todos os
+ingressos serão distribuídos).
+
+O número mínimo de escolas que podem ser escolhidas
+para obter ingressos, segundo os critérios estabelecidos, é
+
+02
+04
+es
+o“
+es

@@ -1,0 +1,24 @@
+QUESTÃO 136
+
+Uma empresa que embala seus produtos em caixas
+de papelão, na forma de hexaedro regular, deseja que
+seu logotipo seja impresso nas faces opostas pintadas de
+cinza, conforme a figura:
+
+A gráfica que fará as impressões dos logotipos
+apresentou as seguintes sugestões planificadas:
+
+” |]
+
+Que opção sugerida pela gráfica atende ao desejo da
+empresa?
+
+91
+
+oi
+
+ein
+
+oi
+ev
+

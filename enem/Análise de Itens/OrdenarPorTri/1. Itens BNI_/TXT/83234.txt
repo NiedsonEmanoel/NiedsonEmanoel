@@ -1,0 +1,31 @@
+QUESTÃO 158 jin romeo
+
+Um dos grandes desafios do Brasil é o gerenciamento
+dos seus recursos naturais, sobretudo Os recursos
+hídricos. Existe uma demanda crescente por água e o
+risco de racionamento não pode ser descartado. O nível
+de água de um reservatório foi monitorado por um período,
+sendo o resultado mostrado no gráfico. Suponha que essa
+tendência linear observada no monitoramento se prolongue
+pelos próximos meses.
+
+níveldo masrvatórt
+
+Porcentagem com relação
+à capacidade máxima
+
+Nas condições dadas, qual o tempo mínimo, após o sexto
+mês, para que o reservatório atinja o nível zero de sua
+capacidade?
+
+2 meses e meio.
+
+3 meses e meio.
+
+1.mês e meio.
+
+4 meses,
+
+1 mês.
+
+0000

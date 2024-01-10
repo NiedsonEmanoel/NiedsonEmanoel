@@ -1,0 +1,28 @@
+QUESTÃO 64
+
+Amagnetohipertermia é um procedimento terapêutico
+que se baseia na elevação da temperatura das células
+de uma região específica do corpo que estejam afetadas
+por um tumor. Nesse tipo de tratamento, nanopartículas
+magnéticas são fagocitadas pelas células tumorais, e
+um campo magnético alternado externo é utilizado para
+promover a agitação das nanopartículas e consequente
+aquecimento da célula.
+
+A elevação de temperatura descrita ocorre porque
+
+O o campo magnético gerado pela oscilação das
+nanopartículas é absorvido pelo tumor.
+
+O o campo magnético alternado faz as nanopartículas
+girarem, transferindo calor por atrito.
+
+O as nanopartículas interagem magneticamente com as
+células do corpo, transferindo calor.
+
+O o campo magnético alternado fornece calor para as
+nanopartículas que o transfere às células do corpo.
+
+O asnanopartículas são aceleradas em um único sentido
+em razão da interação com o campo magnético,
+fazendo-as colidir com as células e transferir calor.

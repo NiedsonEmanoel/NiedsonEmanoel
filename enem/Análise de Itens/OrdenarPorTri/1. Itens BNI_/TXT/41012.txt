@@ -1,0 +1,22 @@
+QUESTÃO 51. === mm
+
+Um pesquisador percebe que o rótulo de um dos vidros
+em que guarda um concentrado de enzimas digestivas
+está ilegível. Ele não sabe qual enzima o vidro contém,
+mas desconfia de que seja uma protease gástrica, que
+age no estômago digerindo proteinas. Sabendo que a
+digestão no estômago é ácida e no intestino é básica, ele
+monta cinco tubos de ensaio com alimentos diferentes,
+adiciona o concentrado de enzimas em soluções com
+pH determinado e aguarda para ver se a enzima age em
+algum deles
+O tubo de ensaio em que a enzima deve agir para indicar
+
+que a hipótese do pesquisador está correta é aquele que
+contém
+
+O cubo de batata em solução com pH = 9
+pedaço de came em solução com pH =5.
+clara de ovo cozida em solução com pH = 9
+porção de macarrão em solução com pH = 5
+bolinha de manteiga em solução com pH = 9.

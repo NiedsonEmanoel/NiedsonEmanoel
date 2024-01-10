@@ -1,0 +1,27 @@
+QUESTÃO 156
+
+O banheiro de uma escola pública, com paredes
+e piso em formato retangular, medindo 5 metros de
+largura, 4 metros de comprimento e 3 metros de altura,
+precisa de revestimento no piso e nas paredes intemas,
+excluindo a área da porta, que mede 1 metro de largura
+por 2 metros de altura. Após uma tomada de preços
+com cinco fornecedores, foram verificadas as seguintes
+combinações de azulejos para as paredes e de lajotas
+para o piso, com os preços dados em reais por metro
+quadrado, conforme a tabela.
+
+Fornecedor | Azulejo (R$/m?) | Lajota (R$/m?)
+A 31,00 31,00
+B 33,00 30,00
+c 29,00 39,00
+D 30,00 33,00
+E 40,00 29,00
+
+Desejando-se efetuar a menor despesa total, deverá ser
+escolhido o fornecedor
+
+os
+
+000
+moos

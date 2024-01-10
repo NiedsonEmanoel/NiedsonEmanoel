@@ -1,0 +1,32 @@
+QUESTÃO 83
+
+Uma pessoa, lendo o manual de uma ducha que
+acabou de adquirir para a sua casa, observa o gráfico,
+que relaciona a vazão na ducha com a pressão, medida
+em metros de coluna de água (mca),
+
+14
+
+Vazão (Lmin)
+
+12345 6789
+Pressão Estática (mca)
+
+Nessa casa residem quatro pessoas. Cada uma delas
+toma um banho por dia, com duração média de & minutos,
+permanecendo o registro aberto com vazão máxima
+durante esse tempo. A ducha é instalada em um ponto
+seis metros abaixo do nível da lâmina de água, que se
+mantém constante dentro do reservatório.
+Ao final de 30 dias, esses banhos consumirão um volume
+de água, em litros, igual a
+
+O 69120
+
+O 17280.
+
+O 11520
+
+O 8640
+
+e 2880

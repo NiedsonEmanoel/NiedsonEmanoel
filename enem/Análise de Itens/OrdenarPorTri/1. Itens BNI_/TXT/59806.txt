@@ -1,0 +1,25 @@
+QUESTÃO 162.
+
+Um professor, depois de corrigir as provas de sua
+turma, percebeu que várias questões estavam muito
+difíceis. Para compensar, decidiu utilizar uma função
+polinomial f, de grau menor que 3, para alterar as notas x
+da prova para notas y = (x), da seguinte maneira:
+
++ Anota zero permanece zero.
++ Anota 10 permanece 10
+* Anota5passaaser6,
+
+A expressão da função y = fx) a ser utilizada pelo
+professor é
+
+7
+
+oy--Jx+ dr
+o y=x +»
+7
+Aesl
+O y= 58" + 72"
+oy=-&x+2
+
+O y-x

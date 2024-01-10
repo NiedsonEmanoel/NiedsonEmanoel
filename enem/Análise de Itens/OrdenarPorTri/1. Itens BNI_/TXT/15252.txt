@@ -1,0 +1,22 @@
+QUESTÃO 146
+
+O modelo predador-presa foi proposto de forma
+independente por Alfred J. Lotka, em 1925, e Vito
+Volterra, em 1926. Esse modelo descreve a interação
+entre duas espécies, sendo que uma delas dispõe de
+alimentos para sobreviver (presa) e a outra se alimenta
+da primeira (predador). Considere que o gráfico
+representa uma interação predador-presa, relacionando
+a população do predador com a população da sua presa
+ao longo dos anos
+
+Dlponies em: evenicupe com e Acesco em: 22 mar 2012 (adapta
+
+De acordo com o gráfico, nos primeiros quarenta anos,
+quantas vezes a população do predador se igualou à
+da presa?
+
+02
+
+000
+onsu

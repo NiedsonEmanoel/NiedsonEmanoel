@@ -1,0 +1,25 @@
+QUESTÃO 52
+
+Alguns sistemas de segurança incluem detectores de
+movimento. Nesses sensores, existe uma substância que
+se polariza na presença de radiação eletromagnética de
+certa região de frequência, gerando uma tensão que pode
+ser amplificada e empregada para efeito de controle.
+Quando uma pessoa se aproxima do sistema, a radiação
+emitida por seu corpo é detectada por esse tipo de sensor.
+
+WENDLING, Sensores Disponivel em: vw fgunesptr
+
+“caso em: 7 mao 2014 (atado
+
+A radiação captada por esse detector encontra-se na
+região de frequência
+
+O daluz visível
+O do ultravioleta.
+
+O do infravermelho.
+
+O das micro-ondas.
+
+O das ondas longas de rádio.

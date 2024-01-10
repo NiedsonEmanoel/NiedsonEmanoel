@@ -1,0 +1,19 @@
+QUESTÃO 145 === mm
+
+Diariamente, uma residência consome 20160 Wh
+Essa residência possui 100 células solares retangulares
+(dispositivos capazes de converter a luz solar em energia
+elétrica) de dimensões 6 cm x 8 cm. Cada uma das tais
+células produz, ao longo do dia, 24 Wh por centímetro de
+diagonal. O proprietário dessa residência quer produzir,
+por dia, exatamente a mesma quantidade de energia que
+sua casa consome.
+
+Qual deve ser a ação desse proprietário para que ele
+atinja o seu objetivo?
+
+O Retirar 16 células.
+O Retirar 40 células.
+O Acrescentar 5 células.
+O Acrescentar 20 células.
+O Acrescentar 40 células.

@@ -1,0 +1,22 @@
+QUESTÃO 126
+
+Sabendo-se que as enzimas podem ter sua atividade regulada por diferentes condições de temperatura e
+pH, foi realizado um experimento para testar as condições ótimas para a atividade de uma determinada enzima.
+Os resultados estão apresentados no gráfico.
+
+Atividade da enzima
+
+10C, pH<7 20 ºC, pH<7 30 ºC, pH<7 10 ºC, pH>8 20 ºC, pH>8 30 ºC, pH>8
+Em relação ao funcionamento da enzima, os resultados obtidos indicam que o(a)
+
+aumento do pH leva a uma atividade maior da enzima.
+
+temperatura baixa (10 ºC) é o principal inibidor da enzima.
+
+ambiente básico reduz a quantidade de enzima necessária na reação.
+
+ambiente básico reduz a quantidade de substrato metabolizado pela enzima.
+
+temperatura ótima de funcionamento da enzima é 30 “C, independentemente do pH.
+
+VOVoao

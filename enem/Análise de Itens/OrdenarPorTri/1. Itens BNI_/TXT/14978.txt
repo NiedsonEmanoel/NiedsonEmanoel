@@ -1,0 +1,34 @@
+QUESTÃO 64
+
+O quadro a seguir refere-se aos grupos sanguíneos humanos e seus respectivos genótipos, e o esquema seguinte
+representa as possibilidades de doação entre esses diferentes grupos.
+
+Grupos sanguíneos, Genótipos
+A FF ou fã
+B EE ou Ei
+AB PE
+o ii
+
+>
+
+CA
+N
+
+o
+
++
+
+o
+rd
+
+Um casal tem três filhos, sendo um do grupo A, outro do grupo B e o terceiro do grupo O. Considerando-se somente o
+sistema ABO para fins de tranfusão sanguínea, a probabilidade de o casal dar à luz uma menina que no futuro possa
+
+doar sangue para todos seus irmãos é de
+75,0%.
+50,0%.
+37,5%.
+25,0%.
+12,5%.
+
+vovo

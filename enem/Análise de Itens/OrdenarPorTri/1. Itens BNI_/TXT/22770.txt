@@ -1,0 +1,22 @@
+QUESTÃO 146
+
+Um homem, determinado a melhorar sua saúde,
+resolveu andar diariamente numa praça circular que hã
+em frente à sua casa. Todos os dias ele dá exatamente
+15 voltas em torno da praça, que tem 50 m de raio.
+
+Use 3 como aproximação para TL.
+Qual é a distância percorrida por esse homem em sua
+caminhada diária?
+
+0,30km
+
+0,75km
+
+1,50km
+
+225km
+
+450km
+
+voos

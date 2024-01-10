@@ -1,0 +1,15 @@
+QUESTÃO 138
+
+Corta-se um cubo ABCDEFGH por um plano
+ortogonal às faces ABCD e EFGH que contém os
+pontos médios / e J das arestas CD e BC e elimina-se,
+em seguida, o prisma LJCLKG, obtendo-se o prisma
+ABJIDEFKLH
+
+E)
+
+A planificação da superfície do prisma resultante
+ABJIDEFKLH corresponde à figura
+
+o
+

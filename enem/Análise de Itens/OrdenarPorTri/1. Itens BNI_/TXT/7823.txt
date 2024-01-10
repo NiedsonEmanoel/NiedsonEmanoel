@@ -1,0 +1,20 @@
+QUESTÃO 142———— ===
+
+Um fabricante planeja colocar no mercado duas
+linhas de cerâmicas para revestimento de pisos. Diversas
+formas possíveis para as cerâmicas foram apresentadas
+e decidiu-se que o conjunto P de formas possíveis seria
+composto apenas por figuras poligonais regulares.
+
+Duas formas geométricas que fazem parte de P são
+triângulo e pentágono.
+
+triângulo e hexágono.
+
+triângulo e octógono.
+
+hexágono e heptágono.
+
+hexágono e octógono.
+
+VOovoo

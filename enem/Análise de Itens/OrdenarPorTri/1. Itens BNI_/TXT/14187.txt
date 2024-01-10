@@ -1,0 +1,23 @@
+QUESTÃO 167 => mm
+
+Conforme regulamento da Agência Nacional de
+Aviação Civil (Anac), o passageiro que embarcar em voo
+doméstico poderá transportar bagagem de mão, contudo
+asoma das dimensões da bagagem (altura + comprimento
++ largura) não pode ser superior a 115 cm.
+
+Afigura mostra a planificação de uma caixa que tem a
+forma de um paralelepípedo retângulo
+
+24cm,
+
+90 cm
+
+O maior valor possível para x, em centimetros, para que
+a caixa permaneça dentro dos padrões permitidos pela
+Anac é
+os
+oa
+o 4
+os
+e 4

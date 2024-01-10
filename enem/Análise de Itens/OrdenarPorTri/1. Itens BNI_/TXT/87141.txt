@@ -1,0 +1,26 @@
+QUESTÃO 153
+
+Um empréstimo foi feito à taxa mensal de 1%, usando
+juros compostos, em oito parcelas fixas e iguais a P.
+
+O devedor tem a possibilidade de quitar a dívida
+antecipadamente a qualquer momento, pagando
+para isso o valor atual das parcelas ainda a pagar.
+Após pagar a 5º parcela, resolve quitar a dívida no ato
+de pagar a 6º parcela
+
+A expressão que corresponde ao valor total pago pela
+quitação do empréstimo é
+
+1
+Bj
+qu 2
+(rjoo)
+1
+ly
+(+00)
+1 1 1
+or 11
+i Bj 3
+(eo (Do) (+50)
+

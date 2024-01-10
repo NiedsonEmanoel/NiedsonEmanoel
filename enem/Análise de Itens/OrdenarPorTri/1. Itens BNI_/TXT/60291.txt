@@ -1,0 +1,35 @@
+QUESTÃO 152 rm
+
+Um adolescente vai a um parque de diversões
+tendo, prioritariamente, o desejo de ir a um brinquedo
+que se encontra na área Iv, dentre as áreas 1, 1, I, IV
+e V existentes. O esquema ilustra o mapa do parque,
+com a localização da entrada, das cinco áreas com os
+brinquedos disponíveis e dos possíveis caminhos para se
+chegara cada área. O adolescente não tem conhecimento
+do mapa do parque e decide ir caminhando da entrada
+
+até chegar à área IV.
+
+antada
+
+Suponha que relativamente a cada ramificação,
+as opções existentes de percurso pelos. caminhos
+apresentem iguais probabilidades de escolha, que a
+caminhada foi feita escolhendo ao acaso os caminhos
+existentes e que, ao tomar um caminho que chegue a
+uma área distinta da IV, o adolescente necessariamente
+passa por ela ou retoma
+
+Nessas condições, a probabilidade de ele chegar à área
+IV sem passar por outras áreas e sem retornar é igual a
+
+E]
+
+o
+
+o o
+Elo =- elfo e|- s|-
+
+o
+

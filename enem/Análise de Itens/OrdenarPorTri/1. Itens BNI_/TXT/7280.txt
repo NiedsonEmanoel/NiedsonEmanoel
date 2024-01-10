@@ -1,0 +1,21 @@
+QUESTÃO158s———==
+
+Em uma determinada estrada existem dois telefones
+instalados no acostamento: um no quilômetro 30 e outro
+no quilômetro 480. Entre eles serão colocados mais 8
+telefones, mantendo-se entre dois telefones consecutivos
+sempre a mesma distância.
+
+Qual a sequência numérica que corresponde à
+quilometragem em que os novos telefones serão
+instalados?
+
+O 30,90, 150, 210, 270, 330, 390, 450
+
+O 75,120, 165,210, 255, 300, 345, 290
+
+O 78,126,174,222,270, 318, 366, 414
+
+O 20,130, 180, 230, 280, 330, 380, 430
+
+O 81,132,183,234, 285, 336, 387, 438

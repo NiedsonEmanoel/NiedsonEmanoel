@@ -1,0 +1,21 @@
+QUESTÃO 88
+
+Visando minimizar impactos ambientais, a legislação
+brasileira determina que resíduos químicos lançados
+diretamente no corpo receptor tenham pH entre 5,0 e 9,0.
+Um resíduo líquido aquoso gerado em um processo
+industrial tem concentração de íons hidroxila igual a
+1,0 x 10-ºmol/L. Para atender a legislação, um químico
+separou as seguintes substâncias, disponibilizadas no
+almoxarifado da empresa: CH,COOH, Na SO, CH;OH,
+KO, e NH.CI
+
+Para que o resíduo possa ser lançado diretamente no
+corpo receptor, qual substância poderia ser empregada
+no ajuste do pH?
+
+O cH.cooH
+O Naso,
+O cHoH
+O Kco,
+e NHcI

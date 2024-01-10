@@ -1,0 +1,33 @@
+QUESTÃO 157
+
+Um protocolo tem como objetivo firmar acordos
+e discussões intemacionais para conjuntamente
+estabelecer metas de redução de emissão de gases de
+efeito estufa na atmosfera. O quadro mostra alguns dos
+países que assinaram o protocolo, organizados de acordo
+com o continente ao qual pertencem.
+
+Países da América | pa Asi
+SS Países da Ásia
+Estados Unidos
+da América China
+Canadá Índia
+México Japão
+
+Em um dos acordos firmados, ao final do ano, dois
+dos países relacionados serão escolhidos aleatoriamente,
+um após o outro, para verificar se as metas de redução do
+protocolo estão sendo praticadas.
+
+A probabilidade de o primeiro país escolhido pertencer à
+América do Norte e o segundo pertencer 0 continente
+asiático é
+
+q
+o+
+a
+3
+“o
+2
+ºs
+

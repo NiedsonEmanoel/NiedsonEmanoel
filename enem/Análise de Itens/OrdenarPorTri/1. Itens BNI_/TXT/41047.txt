@@ -1,0 +1,32 @@
+QUESTÃO 162 ——————————————————
+
+Três alunos, X, Y e Z, estão matriculados em um curso
+de inglês. Para avaliar esses alunos, o professor optou por
+fazer cinco provas. Para que seja aprovado nesse curso,
+o aluno deverá ter a média aritmética das notas das cinco
+provas maior ou igual a 6. Na tabela, estão dispostas as
+notas que cada aluno tirou em cada prova.
+
+asma | E z» a a s
+Prova | Prova | Prova | Prova | Prova
+
+x 5 5 5 10 6
+
+Y 4 9 3 9 5
+
+Zz 5 5 8 5 6
+
+Com base nos dados da tabela e nas informações dadas,
+ficará(ão) reprovado(s)
+
+apenas o aluno Y.
+
+apenas o aluno Z
+
+apenas os alunos X e Y.
+
+apenas os alunos X e Z.
+
+osalunosX, Ye Z.
+
+voos

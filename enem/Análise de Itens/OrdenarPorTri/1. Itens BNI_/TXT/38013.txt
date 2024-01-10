@@ -1,0 +1,35 @@
+QUESTÃO 146 om
+
+Alguns exames médicos requerem uma ingestão de
+água maior do que a habitual. Por recomendação médica,
+antes do horário do exame, uma paciente deveria ingerir
+1. copo de água de 150 mililitros a cada meia hora, durante
+as 10 horas que antecederiam um exame. A paciente foi
+a um supermercado comprar água e verificou que havia
+garrafas dos seguintes tipos:
+
+* Garrafa: 0,15 litro
+
+* Garrafa I1:0,30 litro
+
+* Garrafa III:0,75 litro
+
+* Garrafa Iv: 1,50 litro
+
+* Garrafa V: 3,00 litros
+
+A paciente decidiu comprar duas garrafas do mesmo
+tipo, procurando atender à recomendação médica
+e, ainda, de modo a consumir todo o liquido das duas
+garrafas antes do exame.
+
+Qual o tipo de garrafa escolhida pela paciente?
+o
+
+oi
+
+ein
+
+oiv
+
+ev

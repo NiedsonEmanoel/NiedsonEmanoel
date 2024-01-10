@@ -1,0 +1,26 @@
+QUESTÃO 164.
+
+Afim de expandir seus investimentos, um banco está
+avaliando os resultados financeiros de duas seguradoras
+de veículos de uma cidade.
+
+O seguro de um carro custa, em média, R$ 2 000,00
+na seguradora X e R$ 3 000,00 na seguradora Y; já o
+valor pago pela seguradora a um cliente, vítima de roubo,
+é de R$ 42 000,00 na seguradora X e de R$ 63 000,00 na
+seguradora Y.
+
+Pesquisas revelam que, nesta cidade, a probabilidade
+de um veículo ser roubado é de 1%.
+
+Sabe-se que essas duas seguradoras têm a mesma
+quantidade de clientes e que o banco optará pela
+seguradora que possuir o maior lucro médio por veículo.
+A seguradora escolhida pelo banco e o lucro médio por
+veículo nessa escolha serão, respectivamente,
+
+O veR$2970,00.
+O veR$2370,00.
+O veR$2340,00
+O XeR$ 158000.
+O Xe R$1560,00

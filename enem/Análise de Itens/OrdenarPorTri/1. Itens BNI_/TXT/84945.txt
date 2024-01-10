@@ -1,0 +1,25 @@
+QUESTÃO 154
+
+Para realizar a viagem dos sonhos, uma pessoa
+precisava fazer um empréstimo no valor de R$ 5 000,00
+Para pagar as prestações, dispõe de, no máximo,
+R$ 400,00 mensais. Para esse valor de empréstimo,
+o valor da prestação (P) é calculado em função do
+número de prestações (n) segundo a fórmula
+
+5 000x1013º x0,013
+(10137 -1)
+
+Se necessário, utilize 0,005 como aproximação para
+log 1,013; 2,602 como aproximação para log 400; 2,525
+como aproximação para log 335
+De acordo com a fórmula dada, o menor número de
+parcelas cujos valores não comprometem o limite definido
+pela pessoa é
+12
+14
+15
+16
+17
+
+v0000

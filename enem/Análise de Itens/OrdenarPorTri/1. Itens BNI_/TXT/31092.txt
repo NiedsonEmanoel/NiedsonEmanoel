@@ -1,0 +1,21 @@
+QUESTÃO 148
+
+Em alguns países anglo-saxões, a unidade de volume
+utilizada para indicar o conteúdo de alguns recipientes
+é a onça fluida britânica. O volume de uma onça fluida
+britânica corresponde a 28,4130625 mL.
+
+A título de simplificação, considere uma onça fluida
+britânica correspondendo a 28 mL.
+
+Nessas condições, o volume de um recipiente com
+capacidade de 400 onças fluidas britânicas, em cm?, é
+igual a
+
+o
+
+11200.
+O 1120.
+o 112
+o 11,2
+e 1,12.

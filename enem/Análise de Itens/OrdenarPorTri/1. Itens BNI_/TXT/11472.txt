@@ -1,0 +1,22 @@
+QUESTÃO 136  rrrrrrrrrrrrrororoorrroorrrr
+
+Em regiões agrícolas, é comum a presença de silos
+para armazenamento e secagem da produção de grãos,
+no formato de um cilindro reto, sobreposto por um cone,
+e dimensões indicadas na figura. O silo fica cheio e o
+transporte dos grãos é feito em caminhões de carga cuja
+capacidade é de 20 mº. Uma região possui um silo cheio
+é apenas um caminhão para transportar os grãos para a
+usina de beneficiamento.
+
+Utilize 3 como aproximação para x
+O número mínimo de viagens que o caminhão
+
+precisará fazer para transportar todo o volume de grãos
+armazenados no silo é
+
+06
+o 16
+17
+os
+e 2

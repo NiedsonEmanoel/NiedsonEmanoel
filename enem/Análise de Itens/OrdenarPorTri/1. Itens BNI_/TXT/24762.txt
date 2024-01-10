@@ -1,0 +1,23 @@
+QUESTÃO 136 ===
+
+Em uma escola, cinco atletas disputam a medalha de
+ouro em uma competição de salto em distância. Segundo
+o regulamento dessa competição, a medalha de ouro será
+dada ao atleta mais regular em uma série de três saltos.
+Os resultados e as informações dos saltos desses cinco
+atletas estão no quadro.
+
+Atleta[fº salto|2º salto 3º salto| Média Mediana | pesvio
+1 [29 [34 [81/31/31 [025
+nm [33/28/36 [32/33 [04%
+m[36[33[33/[34/ 33 [01
+v[23[33[34[30] 33 [06
+vlar[35 [22/31/35 [om
+
+A medalha de ouro foi conquistada pelo atleta número
+
+o1
+ou
+ei
+ou
+ev

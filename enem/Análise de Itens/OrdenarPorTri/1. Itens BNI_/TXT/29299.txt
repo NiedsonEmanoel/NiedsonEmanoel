@@ -1,0 +1,27 @@
+QUESTÃO 169
+
+Uma indústria de perfumes embala seus produtos,
+atualmente, em frascos esféricos de raio R, com volume
+dado por SR?
+
+Observou-se que haverá redução de custos se forem
+utilizados frascos clndricos com raio da base 2, cujo
+volume será dado pora(2) . h, sendo ha altura da nova.
+
+embalagem.
+
+Para que seja mantida a mesma capacidade do frasco
+esférico, a altura do frasco cilíndrico (em termos de R)
+deverá ser igual a
+
+2R.
+
+ar.
+
+er
+
+9R.
+
+12R
+
+0000

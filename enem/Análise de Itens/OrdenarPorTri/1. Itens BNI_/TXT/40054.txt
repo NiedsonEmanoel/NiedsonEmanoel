@@ -1,0 +1,18 @@
+QUESTÃO 176
+Um banco de sangue recebe 450 ml de sangue de
+cada doador. Após separar o plasma sanguíneo das
+hemácias, o primeiro é armazenado em bolsas de 250 ml
+de capacidade. O banco de sangue aluga refrigeradores
+de uma empresa para estocagem das bolsas de plasma,
+segundo a sua necessidade. Cada refrigerador tem uma
+capacidade de estocagem de 50 bolsas. Ao longo de uma
+semana, 100 pessoas doaram sangue âquele banco.
+Admita que, de cada 60 mL de sangue, extraem-se
+40 ml de plasma.
+O número mínimo de congeladores que o banco precisou
+alugar, para estocar todas as bolsas de plasma dessa
+semana, foi
+02
+
+000
+sor

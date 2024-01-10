@@ -1,0 +1,34 @@
+QUESTÃO 80
+
+Observações astronômicas indicam que no centro
+de nossa galáxia, a Via Láctea, provavelmente exista um
+buraco negro cuja massa é igual a milhares de vezes a
+massa do Sol. Uma técnica simples para estimar a massa
+desse buraco negro consiste em observar algum objeto
+que orbite ao seu redor e medir o período de uma rotação
+completa, 7, bem como o raio médio, R, da órbita do objeto,
+que supostamente se desloca, com boa aproximação, em
+movimento circular uniforme. Nessa situação, considere
+que a força resultante, devido ao movimento circular, é
+igual, em magnitude, à força gravitacional que o buraco
+negro exerce sobre o objeto.
+
+A partir do conhecimento do período de rotação, da
+distância média e da constante gravitacional, G, a massa
+do buraco negro é
+
+4eRS
+cr
+
+RR
+267:
+
+Zero
+cr
+
+4eRo
+cr
+
+mr
+cr
+

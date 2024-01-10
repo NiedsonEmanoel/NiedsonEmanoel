@@ -1,0 +1,34 @@
+QUESTÃO 96
+
+A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes
+de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e
+a fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver
+até 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel,
+também líquida (partição líquido-lquido). Os componentes capazes de formar interações intermoleculares mais fortes
+com a fase estacionária migram mais lentamente.
+
+Uma mistura de hexano com 5% (viv) de acetona foi utilizada como fase móvel na separação dos componentes
+de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.
+
+vo
+Db
+
+Licopeno
+Capsorubina
+s OH
+a-caroteno
+As "
+ads : :
+5 - o-criptoxantina
+y-caroteno
+
+RIBEIRO, LM: NUNES, C.R Análi de iomenos de pinentes por cromatografia em papi Química Nova na Esoia. 2, ao. 208 (adapédo
+A substância presente na mistura que migra mais lentamente é o(a)
+
+O licopeno
+O accaroteno.
+O yearoteno.
+O capsorubina
+o
+
+o-criptoxantina.

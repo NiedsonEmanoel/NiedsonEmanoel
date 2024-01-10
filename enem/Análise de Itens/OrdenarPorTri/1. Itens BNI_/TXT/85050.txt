@@ -1,0 +1,33 @@
+QUESTÃO 172 ur
+
+Um marceneiro está construindo um material didático
+que corresponde ao encaixe de peças de madeira com
+10 cm de altura e formas geométricas variadas, num bloco
+de madeira em que cada peça se posicione na perfuração
+com seu formato correspondente, conforme ilustra a
+figura. O bloco de madeira já possui três perfurações
+prontas de bases distintas: uma quadrada (Q),
+de lado 4 cm, uma retangular (R), com base 3 cm e aliura
+4 cm, e uma em forma de um triângulo equilátero (T), de
+lado 6,8 cm. Falta realizar uma perfuração de base
+circular (C).
+
+O marceneiro não quer que as outras peças caibam
+na perfuração circular e nem que a peça de base circular
+caiba nas demais perfurações e, para isso, escolherá o
+diâmetro do círculo que atenda a fais condições. Procurou
+em suas ferramentas uma serra copo (broca com formato
+circular) para perfurar a base em madeira, encontrando
+cinco exemplares, com diferentes medidas de diâmetros,
+como segue: (1) 3,8 cm; (11) 4,7 cm; (111) 5,6 cm;
+(1V) 7,2 cm e (V) 9,4 cm
+
+Considere 1,4 e 1,7 como aproximações para 2
+e v3, respectivamente.
+Para que seja atingido o seu objetivo, qual dos exemplares.
+de serra copo o marceneiro deverá escolher?
+o
+oi
+on
+oi
+ev

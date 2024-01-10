@@ -1,0 +1,29 @@
+QUESTÃO 67
+
+Na Antiguidade, algumas pessoas acreditavam que,
+no lançamento oblíquo de um objeto, a resultante das
+forças que atuavam sobre ele tinha o mesmo sentido da
+velocidade em todos os instantes do movimento. Isso
+não está de acordo com as interpretações científicas
+atualmente utilizadas para explicar esse fenômeno.
+
+Desprezando a resistência do ar, qual é a direção e o
+sentido do vetor força resultante que atua sobre 0 objeto
+no ponto mais alto da trajetória?
+
+O Indefinido, pois ele é nulo, assim como a velocidade
+vertical nesse ponto.
+
+Vertical para baixo, pois somente o peso está presente
+durante o movimento.
+
+Horizontal no sentido do movimento, pois devido à
+inércia o objeto mantém seu movimento.
+
+Inclinado na direção do lançamento, pois a força
+inicial que atua sobre o objeto é constante.
+
+Inclinado para baixo e no sentido do movimento, pois
+aponta para o ponto onde o objeto cairá.
+
+vo oo

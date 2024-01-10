@@ -1,0 +1,32 @@
+QUESTÃO 175 000000=————————.
+
+Um investidor inicia um dia com x ações de uma
+empresa. No decorrer desse dia, ele efetua apenas
+dois tipos de operações, comprar ou vender ações.
+Para realizar essas operações, ele segue estes critérios:
+
+1. vende metade das ações que possui, assim que
+seu valor fica acima do valor ideal (Vi);
+
+Il. compra a mesma quantidade de ações que
+possui, assim que seu valor fica abaixo do valor
+mínimo (Vm);
+
+1. vende todas as ações que possui, quando seu
+valor fica acima do valor ótimo (Vo).
+
+O gráfico apresenta o período de operações e a variação
+
+do valor de cada ação, em reais, no decorrer daquele dia e
+a indicação dos valores ideal, mínimo e ótimo.
+
+Valor da ação (R$)
+N
+
+TON E BW E Ju nºTemo(on)
+
+Quantas operações o investidor fez naquele dia?
+os
+
+0.0
+sous

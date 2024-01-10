@@ -1,0 +1,32 @@
+QUESTÃO 150 =======D["===============—
+
+Num dia de tempestade, a alteração na profundidade
+de um rio, num determinado local, foi registrada durante
+um período de 4 horas. Os resultados estão indicados no
+gráfico de linhas. Nele, a profundidade h, registrada às
+13 horas, não foi anotada e, a partir de h, cada unidade
+sobre o eixo vertical representa um metro.
+
+Registro de profundidade
+4
+
+Profundidade (m)
+
+>»
+13 14 15 16 1T Hora
+
+Foi informado que entre 15 horas e 16 horas, a
+profundidade do rio diminuiu em 10%
+
+Às 16 horas, qual é a profundidade do rio, em metro, no
+local onde foram feitos os registros?
+
+oi
+
+o 2
+
+ou
+
+o 3
+
+e 40

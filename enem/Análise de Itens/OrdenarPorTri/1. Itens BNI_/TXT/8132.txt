@@ -1,0 +1,16 @@
+QUESTÃO 158
+
+Ao se perfurar um poço no chão, na forma de um
+cilindro circular reto, toda a terra retirada é amontoada
+na forma de um cone circular reto, cujo raio da base é
+o triplo do raio do poço e a altura é 2.4 metros. Sabe-se
+que o volume desse cone de terra é 20% maior do que o
+volume do poço cilíndrico, pois a terra fica mais fofa após.
+ser escavada.
+
+Qual é a profundidade, em metros, desse poço?
+oiM
+o 600
+e 720
+os
+e 36,00

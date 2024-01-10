@@ -1,0 +1,30 @@
+QUESTÃO 165
+
+Um funcionário da Secretaria de Meio Ambiente de
+um município resolve apresentar ao prefeito um plano
+de priorização para a limpeza das lagoas da cidade.
+Para a execução desse plano, o prefeito decide voltar
+suas ações, primeiramente, para aquela lagoa que
+tiver o maior coeficiente de impacto, o qual é definido
+como o produto entre o nível de contaminação médio
+por mercúrio em peixes e o tamanho da população
+ribeirinha. O quadro mostra as lagoas do município e
+suas correspondentes informações.
+
+Cenfraliedo Tamanho da
+7 PA população
+agoa mercúrio ribeirinha
+em peixes habitante)
+(miligrama) ( )
+Antiga 241 1522
+Bela 34 2508
+Delícia 42,9 2476
+Salgada 53,9 2455
+Vermelha 61,4 145
+A primeira lagoa que sofrerá a intervenção planejada será a
+O Antiga.
+O Bela.
+O Delícia.
+O Salgada.
+
+e Vermelha.

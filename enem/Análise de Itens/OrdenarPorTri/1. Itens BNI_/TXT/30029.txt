@@ -1,0 +1,17 @@
+QUESTÃO 170
+
+Ao iniciar suas atividades, um ascensorista registra tanto o número de pessoas que entram quanto o número
+de pessoas que saem do elevador em cada um dos andares do edifício onde ele trabalha. O quadro apresenta os
+registros do ascensorista durante a primeira subida do térreo, de onde partem ele e mais três pessoas, ao quinto andar
+
+do edifício.
+Número de pessoas Térreo 1ºandar | 2ºandar | Sºandar | 4ºandar | 5ºandar
+que entram no elevador 4 4 1 2 2 2
+que saem do elevador [) 3 1 2 [o 6
+
+Com base no quadro, qual é a moda do número de pessoas no elevador durante a subida do térreo ao quinto andar?
+
+02
+
+000
+ans o

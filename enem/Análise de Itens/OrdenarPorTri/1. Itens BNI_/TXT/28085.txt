@@ -1,0 +1,19 @@
+QUESTÃO 144
+
+O hábito cristalino é um termo utilizado por
+mineralogistas para descrever a aparência típica de
+um cristal em termos de tamanho e forma. A granada
+é um mineral cujo hábito cristalino é um poliedro com
+30 arestas e 20 vértices. Um mineralogista construiu um
+modelo ilustrativo de um cristal de granada pela junção
+dos polígonos correspondentes às faces.
+
+Supondo que o poliedro ilustrativo de um cristal de
+granada é convexo, então a quantidade de faces utilizadas
+na montagem do modelo ilustrativo desse cristal é igual a
+
+o 10.
+o 12.
+o 2.
+o 42.
+e 50.

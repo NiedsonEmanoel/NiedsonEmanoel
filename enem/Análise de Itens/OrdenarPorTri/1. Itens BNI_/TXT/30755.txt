@@ -1,0 +1,26 @@
+QUESTÃO 165 0000...
+
+Um casal realiza um financiamento imobiliário de
+R$ 180 000,00, a ser pago em 360 prestações mensais,
+com taxa de juros efetiva de 1% ao mês. A primeira
+prestação é paga um mês após a liberação dos recursos
+e o valor da prestação mensal é de R$ 500,00 mais juro
+de 1% sobre o saldo devedor (valor devido antes do
+pagamento). Observe que, a cada pagamento, o saldo
+devedor se reduz em R$ 500,00 e considere que não há
+prestação em atraso.
+
+Efetuando o pagamento dessa forma, o valor, em reais, a
+ser pago ao banco na décima prestação é de
+
+207500
+
+2.093,00
+
+2.138,00
+
+2.255,00
+
+2 300,00.
+
+0000

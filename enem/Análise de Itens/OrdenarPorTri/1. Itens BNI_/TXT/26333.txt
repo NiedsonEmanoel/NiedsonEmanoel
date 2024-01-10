@@ -1,0 +1,27 @@
+QUESTÃO 49
+
+Em uma flauta, as notas musicais possuem
+frequências e comprimentos de onda (A) muito bem
+definidos. As figuras mostram esquematicamente
+um tubo de comprimento L, que representa de forma
+simplificada uma flauta, em que estão representados:
+em A o primeiro hamônico de uma nota musical
+(comprimento de onda À,), em B seu segundo harmônico
+(comprimento de onda ),) e em C o seu terceiro
+harmônico (comprimento de onda À,). onde À, > À, > À,
+
+!
+A !
+
+Em função do comprimento do tubo, qual o comprimento
+de onda da oscilação que forma o próximo harmônico?
+
+L
+“a
+o L
+5
+o L
+2
+, À
+ºs
+

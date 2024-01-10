@@ -1,0 +1,27 @@
+QUESTÃO 163 000000======———————————
+
+O acréscimo de tecnologias no sistema produtivo
+industrial tem por objetivo reduzir custos e aumentar a
+produtividade. No primeiro ano de funcionamento, uma
+indústria fabricou 8 000 unidades de um determinado
+produto. No ano seguinte, investiu em tecnologia adquirindo
+novas máquinas e aumentou a produção em 50%
+Estima-se que esse aumento percentual se repita nos
+próximos anos, garantindo um crescimento anual de 50%.
+Considere P a quantidade anual de produtos fabricados
+no ano t de funcionamento da indústria.
+
+Se a estimativa for alcançada, qual é a expressão que
+determina o número de unidades produzidas P em função
+det, para t>1?
+
+O P()=0,5-t'+8000
+
+O P()=50-t!+8000
+
+e P()=4000-t'+ 8000
+
+O P()=8000-(0,5)!-!
+
+e P()=8000-(1,5)-!
+

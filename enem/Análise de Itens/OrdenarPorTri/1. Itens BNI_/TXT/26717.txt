@@ -1,0 +1,34 @@
+QUESTÃO 55
+
+Christiaan Huygens, em 1656, criou o relógio de
+pêndulo. Nesse dispositivo, a pontualidade baseia-se na
+regularidade das pequenas oscilações do pêndulo. Para
+mantera precisão desse relógio, diversos problemas foram
+contomados. Por exemplo, a haste passou por ajustes até
+que, no início do século XX, houve uma inovação, que foi
+sua fabricação usando uma liga metálica que se comporta
+regularmente em um largo intervalo de temperaturas.
+
+YODER 6. Uvoling Time: Chisizan Huygens and he masheatao ot nat
+
+Cambridge: Cambróge Univesãy Pres, 2004 (acapiado
+Desprezando a presença de forças dissipativas e
+considerando a aceleração da gravidade constante, para
+que esse tipo de relógio realize corretamente a contagem
+do tempo, é necessário que o(a)
+
+o
+
+comprimento da haste seja mantido constante.
+massa do corpo suspenso pela haste seja pequena.
+material da haste possua alta condutividade térmica.
+amplitude da oscilação seja constante a qualquer
+temperatura.
+
+energia potencial gravitacional do corpo suspenso se
+mantenha constante.
+
+o
+o
+o
+(E)

@@ -1,0 +1,24 @@
+QUESTÃO 143
+
+Uma fábrica de rapadura vende seus produtos
+empacotados em uma caixa com as seguintes
+dimensões: 25 cm de comprimento; 10 cm de altura e
+15 cm de profundidade. O lote mínimo de rapaduras
+vendido pela fábrica é um agrupamento de 125 caixas
+dispostas conforme a figura
+
+Qual é o volume do lote mínimo comercializado pela
+fábrica de rapaduras?
+
+Qual é o volume do lote mínimo comercializado pela
+fábrica de rapaduras?
+
+O 3750m
+
+O 18750m
+
+O 93750m
+
+O 468750cm?
+
+O 2343750cm?

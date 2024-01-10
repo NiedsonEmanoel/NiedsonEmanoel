@@ -1,0 +1,30 @@
+QUESTÃO 68 === mm
+
+O funcionamento dos geradores de usinas elétricas
+baseia-se no fenômeno da indução eletromagnética,
+descoberto por Michael Faraday no século XIX. Pode-se
+observar esse fenômeno ao se movimentar um imã e uma
+espira em sentidos opostos com módulo da velocidade
+igual a v, induzindo uma corrente elétrica de intensidade i,
+como ilustrado na figura.
+
+A fim de se obter uma corrente com o mesmo sentido da
+apresentada na figura, utilizando os mesmos materiais,
+outra possibilidade é mover a espira para a
+
+O esquerda e o imá para a direita com polaridade
+
+invertida.
+
+O direita e o imã para a esquerda com polaridade
+invertida.
+
+& esquerda e o imã para a esquerda com mesma
+polaridade.
+
+O direita e manter o imã em repouso com polaridade
+invertida.
+
+O esquerda e manter o imã em repouso com mesma
+
+polaridade.

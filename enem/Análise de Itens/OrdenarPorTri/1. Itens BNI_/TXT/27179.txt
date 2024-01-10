@@ -1,0 +1,29 @@
+QUESTÃO 63
+
+Em altos-fomos siderúrgicos, as temperaturas acima
+de 600 *C são mensuradas por meio de pirômetros óticos.
+Esses dispositivos apresentam a vantagem de medir a
+temperatura de um objeto aquecido sem necessidade
+de contato. Dentro de um pirômetro ótico, um filamento
+metálico é aquecido pela passagem de corrente elétrica.
+até que sua cor seja a mesma que a do objeto aquecido
+em observação. Nessa condição, a temperatura
+conhecida do filamento é idêntica à do objeto aquecido
+em observação.
+
+poem um Aa em ag. 01 sapo,
+
+A propriedade da radiação eletromagnética avaliada
+nesse processo é a
+
+amplitude.
+
+coerência
+
+frequência
+
+intensidade.
+
+velocidade.
+
+0000

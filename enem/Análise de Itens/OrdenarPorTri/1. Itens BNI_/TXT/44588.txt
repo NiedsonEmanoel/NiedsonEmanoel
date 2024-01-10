@@ -1,0 +1,30 @@
+QUESTÃO 154
+
+Cinco regiões de um país estão buscando recursos
+no Governo Federal para diminuir a taxa de desemprego
+de sua população. Para decidir qual região receberia o
+recurso, foram colhidas as taxas de desemprego, em
+porcentagem, dos últimos três anos. Os dados estão
+apresentados na tabela.
+
+Taxa de desemprego (%)
+
+Região | Região | Região | Região | Região
+A B c D E
+
+Anol| 12,1 12,5 11,9 11,8 82
+
+Ano ll 11,7 10,5 12,7 9,5 12,6
+
+Ano Ill) 12,0 11,6 10,9 128 12,7
+
+Ficou decidido que a região contemplada com a maior
+parte do recurso seria aquela com a maior mediana das
+taxas de desemprego dos últimos três anos.
+
+A região que deve receber a maior parte do recurso é a
+
+OA
+
+VOO
+mDom

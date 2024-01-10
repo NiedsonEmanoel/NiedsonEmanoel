@@ -1,0 +1,19 @@
+QUESTÃO 164
+
+Um artesão fabrica vários tipos de potes cilindricos.
+Mostrou a um cliente um pote de raio de base a e altura
+b Esse cliente, por sua vez, quer comprar um pote como
+dobro do volume do pote apresentado. O artesão diz que
+possui potes com as seguintes dimensões:
+
+- Potekraioae altura 2b
+- Potelkraio 29 alturab
+- Pote raio 2a e altura 2b
+- Pote IV:raio 4a e altura b
+- PoteV:raio 4a e altura 2b
+O pote que satisfaz a condição imposta pelo cliente é o
+91
+oi
+ein
+ou
+ev.

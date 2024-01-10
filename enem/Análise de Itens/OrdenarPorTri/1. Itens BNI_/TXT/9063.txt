@@ -1,0 +1,20 @@
+QUESTÃO 160————————==
+
+Um indivíduo possui uma renda mensal de R$ 1 200,00
+e deseja comprar um refrigerador. Na loja que ele decide
+fazer sua compra, o refrigerador custa R$ 1 800,00. Esse
+valor deverá ser pago em 12 prestações mensais iguais e
+sem juros.
+
+Uma forma de representar a quantia da renda mensal do
+indivíduo que será usada para pagar cada prestação é
+
+9
+1
+92
+1
+a
+2
+ss
+3
+e

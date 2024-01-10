@@ -1,0 +1,17 @@
+QUESTÃO 94 e
+
+O aproveitamento da luz solar como fonte de energia
+renovável tem aumentado significativamente nos últimos
+anos. Uma das aplicações é o aquecimento de água
+(Diga = 1 Kg/L) para uso residencial. Em um local, a
+intensidade da radiação solar efetivamente captada
+por um painel solar com área de 1 mê é de 0,03 kWim?
+O valor do calor específico da água é igual 4,2 kJ/(kg *C)
+Nessa situação, em quanto tempo é possivel aquecer
+litro de água de 20 *C até 70 *C?
+
+O 490s
+O 2800s
+O 6300s
+O 7000s
+e 98005

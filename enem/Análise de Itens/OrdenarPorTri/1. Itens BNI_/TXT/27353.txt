@@ -1,0 +1,26 @@
+QUESTÃO 56
+
+Um engenheiro decidiu instalar um aquecedor solar em sua casa, conforme mostra o esquema.
+
+CAIXA
+FRIA
+
+BOLER
+
+COLETOR
+SOLAR
+
+De acordo com as instruções de montagem, para se ter um aproveitamento máximo da incidência solar, as placas
+
+do coletor solar devem ser instaladas com um ângulo de inclinação determinado.
+O parâmetro que define o valor do ângulo de inclinação dessas placas coletoras é a
+
+O atitude.
+
+O latitude.
+
+O longitude.
+
+O nebulosidade
+
+Q umidade relativa do ar.

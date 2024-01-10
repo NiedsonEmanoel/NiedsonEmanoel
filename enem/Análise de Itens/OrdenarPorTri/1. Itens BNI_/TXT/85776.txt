@@ -1,0 +1,18 @@
+QUESTÃO 152
+
+Afigura ilustra uma partida de Campo Minado, o jogo
+presente em praticamente todo computador pessoal
+Quatro quadrados em um tabuleiro 16 x 16 foram abertos,
+e os números em suas faces indicam quantos dos seus
+8 vizinhos contêm minas (a serem evitadas). O número
+40 no canto inferior direito é o número total de minas no
+tabuleiro, cujas posições foram escolhidas ao acaso, de
+forma uniforme, antes de se abrir qualquer quadrado.
+
+Em sua próxima jogada, o jogador deve escolher
+dentre os quadrados marcados com as letras P, Q, R, S
+e Tum para abrir, sendo que deve escolher aquele com a
+menor probabilidade de conter uma mina
+
+O jogador deverá abrir o quadrado marcado com a letra
+

@@ -1,0 +1,39 @@
+QUESTÃO 69
+
+O trilho de ar é um dispositivo utilizado em laboratórios de física para analisar movimentos em que corpos de prova
+(carrinhos) podem se mover com atrito desprezível. A figura ilustra um trilho horizontal com dois carrinhos (1 e 2) em
+que se realiza um experimento para obter a massa do carrinho 2. No instante em que o carrinho 1, de massa 150,0 g,
+passa a se mover com velocidade escalar constante, o carrinho 2 está em repouso. No momento em que o carrinho 1
+se choca com o carrinho 2, ambos passam a se movimentar juntos com velocidade escalar constante. Os sensores
+eletrônicos distribuídos ao longo do trilho determinam as posições e registram os instantes associados à passagem de
+
+cada carrinho, gerando os dados do quadro.
+
+eengor
+
+T
+
+censor
+
+1
+
+sengora
+
+camhho 2
+
+Carrinho 1 Carrinho 2
+
+Posição (cm) | Instante(s) | Posição (cm) | Instante (s)
+15,0 00 450 00
+30,0 10 450 10
+750 80 750 E
+90,0 11,0 90,0 11,0
+
+Com base nos dados experimentais, o valor da massa do carrinho 2 é igual a
+
+O 5009
+O 25009
+O 30009
+O 45009
+e 60009.
+

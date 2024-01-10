@@ -1,0 +1,27 @@
+QUESTÃO 178 =>>>>>>>>>>>>>>———
+
+Na figura estão representadas três retas no plano
+cartesiano, sendo P, Q e R os pontos de intersecções
+entre as retas, e A, B e C os pontos de intersecções
+dessas retas com o eixo x
+
+Essa figura é a representação gráfica de um sistema
+
+linear de três equações e duas incógnitas que
+
+O possui três soluções reais e distintas, representadas
+pelos pontos P, Q e R, pois eles indicam onde as
+retas se intersectam
+
+O possui três soluções reais e distintas, representadas
+pelos pontos 4, B e C, pois eles indicam onde as retas
+intersectam o eixo das abscissas.
+
+O possui infnitas soluções reais, pois as retas se
+intersectam em mais de um ponto.
+
+O não possui solução real, pois não há ponto que
+pertença simultaneamente às três retas.
+
+O possuiuma única solução real, pois as retas possuem
+pontos em que se intersectam.

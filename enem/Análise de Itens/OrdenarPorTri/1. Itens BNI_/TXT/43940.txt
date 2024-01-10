@@ -1,0 +1,36 @@
+QUESTÃO 157
+
+Em um parque há dois mirantes de alturas distintas
+que são acessados por elevador panorâmico. O topo
+do mirante 1 é acessado pelo elevador 1, enquanto
+que o topo do mirante 2 é acessado pelo elevador 2.
+Eles encontram-se a uma distância possível de ser
+percorrida a pé, e entre os mirantes há um teleférico que
+os liga que pode ou não ser utilizado pelo visitante.
+
+Mirante 1 Mirante 2
+O acesso aos elevadores tem os seguintes custos:
+
++ Subir pelo elevador 1: R$ 0,15;
++ Subir pelo elevador 2: R$ 1,80;
++ Descer pelo elevador 1: R$ 0,10;
++ Descer pelo elevador 2: R$ 2,30.
+
+O custo da passagem do teleférico partindo do topo
+do mirante 1 para o topo do mirante 2 é de R$ 2,00, e do
+topo do mirante 2 para o topo do mirante 1 é de R$ 2,50
+
+Qual é o menor custo, em real, para uma pessoa visitaros
+topos dos dois mirantes e retomar o solo?
+
+225
+
+3,90
+
+435
+
+4,40
+
+445
+
+voos

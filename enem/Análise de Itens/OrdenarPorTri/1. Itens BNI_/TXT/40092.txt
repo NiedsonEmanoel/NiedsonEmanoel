@@ -1,0 +1,23 @@
+QUESTÃO 163
+
+Pesquisas indicam que o número de bactérias X
+é duplicado a cada quarto de hora. Um aluno resolveu
+fazer uma observação para verificar a veracidade dessa
+afirmação. Ele usou uma população inicial de 10º bactérias
+X e encerrou a observação ao final de uma hora.
+
+Suponha que a observação do aluno tenha confirmado
+que o número de bactérias X se duplica a cada quarto de
+hora.
+
+Após uma hora do início do período de observação
+desse aluno, o número de bactérias X foi de
+22.10
+
+o 21.10
+
+o 210
+
+o 2.10
+
+e 210º

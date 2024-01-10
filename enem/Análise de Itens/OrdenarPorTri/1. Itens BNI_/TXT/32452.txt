@@ -1,0 +1,33 @@
+QUESTÃO 84
+
+O eletrocardiograma, exame utilizado para avaliar
+o estado do coração de um paciente, trata-se do
+registro da atividade elétrica do coração ao longo de
+um certo intervalo de tempo. A figura representa o
+eletrocardiograma de um paciente adulto, descansado,
+não fumante, em um ambiente com temperatura
+agradável. Nessas condições, é considerado normal um
+ritmo cardíaco entre 60 e 100 batimentos por minuto
+
+A
+
+Tensão (mV)
+
+>
+0 1 2 3 4 5 6
+Tempo (s)
+
+Com base no eletrocardiograma apresentado, identifica-se
+que a frequência cardíaca do paciente é
+
+normal
+
+acima do valor ideal
+
+abaixo do valor ideal.
+
+próxima do limite inferior.
+
+próxima do limite superior.
+
+0000

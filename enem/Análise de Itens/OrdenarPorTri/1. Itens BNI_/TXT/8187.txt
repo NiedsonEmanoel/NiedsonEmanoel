@@ -1,0 +1,21 @@
+QUESTÃO 163————>—>—>—>—>—>—— ==
+
+Em uma plantação de eucaliptos, um fazendeiro
+aplicará um fertilizante a cada 40 dias, um inseticida para
+combater as formigas a cada 32 dias e um pesticida a
+cada 28 dias. Ele iniciou aplicando os três produtos em
+um mesmo dia.
+
+De acordo com essas informações, depois de quantos
+dias, após a primeira aplicação, os três produtos serão
+aplicados novamente no mesmo dia?
+
+O 100
+
+o 14
+
+e 400
+
+o 1120
+
+e 35840

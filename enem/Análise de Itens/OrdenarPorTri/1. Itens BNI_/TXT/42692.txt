@@ -1,0 +1,27 @@
+QUESTÃO 164  rrrmrmrmrrIrrrrorroo
+No tanque de um certo carro de passeio cabem até
+50 L de combustível, e o rendimento médio deste carro na
+estrada é de 15 km/L de combustível. Ao sair para uma
+viagem de 600 km o motorista observou que o marcador
+de combustível estava exatamente sobre uma das marcas
+da escala divisória do medidor, conforme figura a seguir.
+
+Como o motorista conhece o percurso, sabe que
+existem, até a chegada a seu destino, cinco postos de
+abastecimento de combustível, localizados a 150 km,
+187 km, 450 km, 500 km e 570 km do ponto de partida.
+Qual a máxima distância, em quilômetro, que poderá
+percorrer até ser necessário reabastecer o veículo, de
+modo a não ficar sem combustível na estrada?
+
+s70
+
+500
+
+450
+
+187
+
+150
+
+0000

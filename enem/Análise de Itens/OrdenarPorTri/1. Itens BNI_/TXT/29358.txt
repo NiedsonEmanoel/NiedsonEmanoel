@@ -1,0 +1,33 @@
+QUESTÃO 81
+
+O quadro apresenta o consumo médio urbano
+de veículos do mesmo porte que utilizam diferentes
+combustíveis e seus respectivos preços. No caso do
+carro elétrico, o consumo está especificado em termos da
+distância percorrida em função da quantidade de energia
+elétrica gasta para carregar suas baterias.
+
+Combustível | Consumo na Preços (R$)
+Eletricidade 6 kmin 0.40/Wh
+Gasolina 13kmL 2701
+Diesel 12km 2101
+Etanol 9kmt 2101
+Gás natural 18 kmime 1.60/m?
+
+“Veleres aferido em agosto de 2012
+
+Considerando somente as informações contidas no
+quadro, o combustível que apresenta o maior custo por
+quilômetro rodado é o(a)
+
+diesel
+
+etanol
+
+gasolina
+
+eletricidade.
+
+gás natural.
+
+0000

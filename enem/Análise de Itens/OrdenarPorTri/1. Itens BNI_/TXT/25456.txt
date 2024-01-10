@@ -1,0 +1,20 @@
+QUESTÃOS? ————>—>—>—>—==
+
+Um tipo de radar utilizado para medir a velocidade
+de um carro baseia-se no efeito Doppler. Nesse caso,
+as ondas eletromagnéticas são enviadas pelo radar e
+refletem no veículo em movimento e, posteriormente, são
+detectadas de volta pelo radar.
+
+Um carro movendo-se em direção ao radar reflete ondas com
+altura menor.
+
+amplitude menor.
+
+frequência maior.
+
+intensidade maior.
+
+velocidade maior.
+
+vovo

@@ -1,0 +1,20 @@
+QUESTÃO 112
+
+O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (a-Fe,O,), a magnetita (Fe,0,)
+e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições
+adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para
+reduzir o FeO (sólido), conforme a equação química:
+
+Feo (s) + CO (9) — Fe (5) + CO, (9)
+Considere as seguintes equações termoquímicas:
+Fe,O, (s)+ 3 CO (9) > 2 Fe (s)+ 3 CO, (9)
+3 FeO (s)+CO, (9) — Fe,O, (s) + CO (9)
+
+2Fe,0,(s) + CO, (9) — 3 Fe,O, (s) + CO (9) AH =+47 klmol de CO,
+O valor mais próximo de 4,Htº, em kJimol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é
+ou
+o 7.
+o 50
+o a
+
+e -100.

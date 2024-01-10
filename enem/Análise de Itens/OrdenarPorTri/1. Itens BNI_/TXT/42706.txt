@@ -1,0 +1,27 @@
+QUESTÃO 149 mummmimaoooooooooooooooeo
+
+Para uma feira de ciências, dois projéteis de
+foguetes, A e B, estão sendo construídos para serem
+lançados. O planejamento é que eles sejam lançados
+juntos, com o objetivo de O projétil B interceptar o A
+quando esse alcançar sua altura máxima. Para que isso
+aconteça, um dos projéteis descreverá uma trajetória
+parabólica, enquanto o outro irá descrever uma trajetória
+supostamente retiinea. O gráfico mostra as alturas
+alcançadas por esses projéteis em função do tempo, nas
+simulações realizadas.
+
+Com base nessas simulações, observou-se que a
+trajetória do projétil B deveria ser alterada para que o
+objetivo fosse alcançado.
+
+Para alcançar o objetivo, o coeficiente angular da reta que
+representa a trajetória de B deverá
+diminuir em 2 unidades.
+
+diminuir em 4 unidades.
+aumentar em 2 unidades.
+aumentar em 4 unidades.
+aumentar em 8 unidades.
+
+00000

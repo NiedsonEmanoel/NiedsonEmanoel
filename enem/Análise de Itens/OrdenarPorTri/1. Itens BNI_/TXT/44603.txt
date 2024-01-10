@@ -1,0 +1,42 @@
+QUESTÃO 61. === mm
+
+As lentes fotocromáticas  escurecem quando
+expostas à luz solar por causa de reações químicas
+reversíveis entre uma espécie incolor e outra colorida.
+Diversas reações podem ser utilizadas, e a escolha
+do melhor reagente para esse fim se baseia em três
+principais aspectos: (i) o quanto escurece a lente; (ii) o
+tempo de escurecimento quando exposta à luz solar; e
+(ii) o tempo de esmaecimento em ambiente sem forte luz
+solar. A transmitância indica a razão entre a quantidade
+de luz que atravessa o meio e a quantidade de luz que
+incide sobre ele.
+
+Durante um teste de controle para o desenvolvimento
+de novas lentes fotocromáticas, foram analisadas cinco
+amostras, que utilizam reagentes químicos diferentes.
+No quadro, são apresentados os resultados.
+
+Transmitância
+Tempode | Tempode | [72
+
+lamostra|escurecimento | esmastimento ao empata
+(segundo) (segundo) [To oiao e)
+
+1 20 50 30
+
+2 40 30 90
+
+3 20 30 50
+
+4 50 50 50
+
+5 40 20 95
+
+Considerando os três aspectos, qual é a melhor amostra
+de lente fotocromática para se utilizar em óculos?
+
+1
+
+voo oo
+ns wn

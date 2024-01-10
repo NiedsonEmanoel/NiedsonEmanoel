@@ -1,0 +1,27 @@
+QUESTÃO47 ——==
+
+As cercas elétricas instaladas nas zonas urbanas são
+dispositivos de segurança planejados para inibir roubos
+e devem ser projetadas para, no máximo, assustar as
+pessoas que toquem a fiação que delimita os domínios
+de uma propriedade. A legislação vigente que trata sobre
+as cercas elétricas determina que a unidade de controle
+deverá ser constituída, no mínimo, de um aparelho
+energizador de cercas que apresente um transformador
+e um capacitor. Ela também menciona que o tipo de
+corrente elétrica deve ser pulsante.
+Considere que o transformador supracitado seja constituído
+basicamente por um enrolamento primário e outro
+secundário, e que este último está ligado indiretamente à
+fiação. A função do transformador em uma cerca elétrica é
+O reduzir a intensidade de corrente elétrica associada
+ao secundário.
+O aumentar a potência elétrica associada ao secundário.
+O amplificar a energia elétrica associada a este
+dispositivo.
+O proporcionar perdas de energia do primário ao
+secundário.
+E)
+
+provocar grande perda de potência elétrica no
+secundário.

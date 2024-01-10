@@ -1,0 +1,16 @@
+QUESTÃO 147
+
+Ao abrir um negócio, um microempresário descreveu suas vendas, em milhares de reais (unidade monetária
+brasileira), durante os dois primeiros anos. No primeiro ano, suas vendas cresceram de modo linear. Posteriormente,
+ele decidiu investir em propaganda, o que fez suas vendas crescerem de modo exponencial.
+
+Qual é o gráfico que melhor descreve as vendas em função do tempo?
+
+002 04 05 08 10 12 14 16 18 20 0002 04 05 05 10 12 14 15 15 20
+Tempo (ano) Tempo (ano)
+
+702 04 00 08 10 12 14 16 18 20 0002 04 06 05 10 12 14 16 15 20
+Tempo (ano) Tempo (ano)
+
+0 02 04 05 08 10 12 14 16 18 20
+Tempo (ano)

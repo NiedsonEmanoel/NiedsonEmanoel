@@ -1,0 +1,23 @@
+QUESTÃO 150 ==>"
+
+Um terreno retangular de lados cujas medidas, em
+metro, são x e y Será cercado para a construção de um
+parque de diversões. Um dos lados do terreno encontra-se
+às margens de um rio. Observe a figura.
+
+x
+
+Para cercar todo o terreno, o proprietário gastará
+R$ 7 500,00. O material da cerca custa R$ 4,00 por
+metro para os lados do terreno paralelos ao rio, e
+R$ 2,00 por metro para os demais lados.
+Nessas condições, as dimensões do terreno e o custo
+total do material podem ser relacionados pela equação
+
+O 4(2x+9)=7500
+O 4(x+2y)=7500
+O 2(x+y)=7500
+
+O 2(4x+y)=7500
+
+e 2(2x+y)=7500

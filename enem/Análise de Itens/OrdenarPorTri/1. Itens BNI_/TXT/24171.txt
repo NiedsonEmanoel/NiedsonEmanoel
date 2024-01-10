@@ -1,0 +1,19 @@
+QUESTÃO 145
+
+O sindicato de trabalhadores de uma empresa
+sugere que o piso salarial da classe seja de R$ 1 800,00,
+propondo um aumento percentual fixo por cada ano
+dedicado ao trabalho. A expressão que corresponde à
+proposta salarial (5), em função do tempo de serviço (9),
+em anos, é s(f) = 1800 - (1,03).
+
+De acordo com a proposta do sindicato, o salário de um
+profissional dessa empresa com 2 anos de tempo de
+serviço será, em reais,
+
+O 741600
+O 3819,24
+O 370962
+O 370800.
+e 19962
+

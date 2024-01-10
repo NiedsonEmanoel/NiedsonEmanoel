@@ -5,6 +5,7 @@ from io import BytesIO
 import pandas as pd
 import matplotlib.pyplot as plt
 import pytesseract
+import os
 
 pytesseract.pytesseract.tesseract_cmd = './Tesseract/Tesseract.exe'
 pd.options.mode.chained_assignment = None
@@ -18,15 +19,25 @@ def imageApi(code):
     return imagem
 
 def ocrImage(code):
+    output_file='../1. Itens BNI_/TXT/'+str(code)+'.txt'
+    if os.path.exists(output_file):
+        with open(output_file, 'r', encoding='utf-8') as file:
+            return file.read()
+
     code = 'https://raw.githubusercontent.com/NiedsonEmanoel/NiedsonEmanoel/main/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/'+str(str(code) + '.png')
     try:
-      response = requests.get(code)
-      img_array = np.array(bytearray(response.content), dtype=np.uint8)
+        response = requests.get(code)
+        img_array = np.array(bytearray(response.content), dtype=np.uint8)
 
-      # Decodificar a imagem usando o OpenCV
-      img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
-      ocrT = str(pytesseract.image_to_string(img, lang='por'))
-    except:
+        # Decodificar a imagem usando o OpenCV
+        img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
+        ocrT = str(pytesseract.image_to_string(img, lang='por'))
+
+        # Salvar o resultado no arquivo .txt se o arquivo não existir
+        with open(output_file, 'w', encoding='utf-8') as file:
+            file.write(ocrT)
+    except Exception as e:
+        print(f"Ocorreu um erro: {e}")
         ocrT = 'N/A'
     return ocrT
 
@@ -156,6 +167,8 @@ def thetaToCsv(provas, dfItens):
     dfItens["theta_080"] = 0
     dfItens["theta_099"] = 0
     dfItens["PercentEspAcerto"] = 0
+    dfItens['IN_ENCCEJA'] = 0
+    dfItens['IN_ENEM'] = 1
     dfItens['CO_PROVA'] = dfItens.apply(lambda row: get_prova_string(row['ANO'], row['CO_PROVA']), axis=1)
 
     for i in dfItens.index:    
@@ -241,6 +254,7 @@ def Make():
     return result
 
 Make()
+
 
 
 

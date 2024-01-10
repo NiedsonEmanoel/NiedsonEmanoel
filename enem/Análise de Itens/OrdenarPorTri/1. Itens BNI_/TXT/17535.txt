@@ -1,0 +1,15 @@
+QUESTÃO 173 mm
+
+Para comemorar o aniversário de uma cidade, um
+artista projetou uma escultura transparente e oca, cujo
+formato foi inspirado em uma ampulheta. Ela é formada
+por três partes de mesma altura: duas são troncos de
+cone iguais e a outra é um cilindro. A figura é a vista
+frontal dessa escultura,
+
+No topo da escultura foi ligada uma torneira que verte
+água, para dentro dela, com vazão constante.
+
+O gráfico que expressa a altura (h) da água na escultura
+em função do tempo (t) decorrido é
+

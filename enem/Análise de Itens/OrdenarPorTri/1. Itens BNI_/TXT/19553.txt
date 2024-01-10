@@ -1,0 +1,17 @@
+QUESTÃO 51
+
+Três lâmpadas idênticas foram ligadas no circuito
+esquematizado. A bateria apresenta resistência interna
+desprezível, e os fios possuem resistência nula.
+Um técnico fez uma análise do circuito para prever a
+corrente elétrica nos pontos: A, B, C, D e E; e rotulou
+essas correntes de |, ls. lo. ly € le, respectivamente.
+
+O técnico concluiu que as correntes que apresentam o
+mesmo valor são
+
+, apenas.
+1. apenas.
+1, apenas.
+
+0000

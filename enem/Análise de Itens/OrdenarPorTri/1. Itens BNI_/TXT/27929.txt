@@ -1,0 +1,27 @@
+QUESTÃO 75. 00000==""[]DD—=
+
+Para obter a posição de um telefone celular, a polícia
+baseia-se em informações do tempo de resposta do
+aparelho em relação às torres de celular da região de
+onde se originou a ligação. Em uma região, um aparelho
+está na área de cobertura de cinco torres, conforme o
+esquema
+
+(a)
+A IS
+(a)
+
+EM
+
+G) (a)
+
+Considerando que as torres e o celular são puntiformes e
+que estão sobre um mesmo plano, qual o número mínimo
+de torres necessárias para se localizar a posição do
+telefone celular que originou a ligação?
+O Uma
+O Duas
+O Três
+O Quatro.
+
+'Q Cinco.

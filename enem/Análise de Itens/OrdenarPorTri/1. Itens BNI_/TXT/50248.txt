@@ -1,0 +1,15 @@
+QUESTÃO 106 aa
+
+Uma lâmpada é conectada a duas pilhas de tensão
+nominal 1,5 V, ligadas em série. Um voltímetro, utilizado
+para medir a diferença de potencial na lâmpada, fornece
+uma leitura de 2,78 V e um amperimetro indica que a
+corrente no circuito é de 94,2 mA.
+
+O valor da resistência interna das pilhas é mais próximo de
+
+o 0020
+o 0,220
+e 0,260
+o 230
+e 20

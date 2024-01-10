@@ -1,0 +1,42 @@
+QUESTÃO 175
+
+Em uma confeitaria, um cliente comprou um cupcake
+(pequeno bolo no formato de um tronco de cone regular
+mais uma cobertura, geralmente composta por um
+creme), semelhante ao apresentado na figura:
+
+7em
+
+Como o bolinho não seria consumido no
+estabelecimento, o vendedor verificou que as caixas
+disponíveis para embalar o doce eram todas em formato
+deblocos retangulares, cujas medidas estão apresentadas.
+no quadro:
+
+Dimensões
+(comprimento x largura x altura)
+1 8.5 cm x 12.2 cm x 9,0 cm
+
+N 10 cm x 11 cm x 15cm
+
+tm 7.2 cmx 8,2 cm x 16 cm
+
+DZ 75cmx7,8emx9,5cm
+
+vi 15 cm x 8 cm x 9em
+
+Embalagem
+
+A embalagem mais apropriada para armazenar o doce,
+de forma a não deformá-lo e com menor desperdício de
+espaço na caixa, é
+
+91
+
+oi
+
+ein
+
+ou
+
+ev

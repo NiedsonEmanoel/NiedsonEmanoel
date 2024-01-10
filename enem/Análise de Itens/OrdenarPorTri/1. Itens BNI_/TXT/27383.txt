@@ -1,0 +1,19 @@
+QUESTÃO 165
+
+Atendendo à encomenda de um mecânico, um
+soldador terá de juntar duas barras de metais diferentes.
+A solda utilizada tem espessura de 18 mi
+conforme ilustrado na figura.
+
+18mm
+
+15m
+
+Qual o comprimento, em metros, da peça resultante após
+a soldagem?
+
+O 2,0230
+O 22300
+O 25018
+O 25180
+O 26800

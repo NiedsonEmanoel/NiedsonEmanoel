@@ -1,0 +1,43 @@
+QUESTÃO 137 0000
+
+Uma pesquisa de mercado foi realizada entre os
+consumidores das classes sociais A, B, C e D que
+costumam participar de promoções tipo sorteio ou
+concurso. Os dados comparativos, expressos no
+gráfico, revelam a participação desses consumidores
+em cinco categorias: via Correios (juntando
+embalagens ou recortando códigos de barra), via
+internet (cadastrando-se no site da empresa/marca
+promotora), via mídias sociais (redes sociais), via SMS
+(mensagem por celular) ou via rádio/TV.
+
+Participação em promoções do tipo sorteio ou concurso em uma região
+
+Percentual
+E ces
+
+E nine
+
+E Emas oras
+E Ess
+
+: Esso
+
+Uma empresa vai lançar uma promoção utilizando
+apenas uma categoria nas classes A e B (A/B) e uma
+categoria nas classes C e D (C/D).
+
+De acordo com o resultado da pesquisa, para atingir o
+maior número de consumidores das classes A/B e C/D, a
+empresa deve realizar a promoção, respectivamente, via
+Correios e SMS.
+
+intemet e Correios.
+
+intemet e internet
+
+intemet e mídias sociais.
+
+rádio/TV e rádiorTV.
+
+0000

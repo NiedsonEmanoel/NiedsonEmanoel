@@ -1,0 +1,48 @@
+QUESTÃO 90
+
+A fotografia feita sob luz polarizada é usada por
+dermatologistas para diagnósticos. Isso permite ver
+detalhes da superfície da pele que não são visíveis como
+reflexo da luzbranca comum. Para se obter uz polarizada,
+pode-se utilizar a luz transmitida por um polaroide ou a
+luz refletida por uma superfície na condição de Brewster,
+como mostra a figura. Nessa situação, o feixe da luz
+refratada forma um ângulo de 90º com o feixe da luz
+refletida, fenômeno conhecido como Lei de Brewster.
+Nesse caso, o ângulo de incidência 6, também chamado
+de ângulo de polarização, e o ângulo de refração 8, estão
+em conformidade com a Lei de Snell
+
+Raio de luz incidente
+(não polarizado)
+
+Raio de luz refletido
+(polarizado)
+
+Raio de luz refratado
+(parcialmente polarizado)
+
+Dado:
+sen 30º = cos 60º =
+
+sen 80º = cos 30º
+
+1
+
+2
+
+JE
+2
+
+Considere um feixe de luz não polarizada proveniente
+de um meio com índice de refração igual a 1, que incide
+sobre uma lâmina e faz um ânguio de refração 6, de 30º.
+
+Nessa situação, qual deve ser o índice de refração da
+
+lâmina para que o feixe refletido seja polarizado?
+
+os
+
+o
+

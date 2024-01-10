@@ -1,0 +1,42 @@
+O aaaaanaaa atas nea aaa
+De forma geral, os pneus radiais trazem em
+sua lateral uma marcação do tipo abcideRfg, como
+185/65R15. Essa marcação identifica as medidas do
+pneu da seguinte forma:
++ abo é a medida da largura do pneu, em milímetro;
++ de é igual ao produto de 100 pela razão entre a
+medida da altura (em milímetro) e a medida da
+largura do pneu (em milímetro);
+* Reignifca radial;
++ fg é a medida do diâmetro interno do pneu, em
+polegada
+
+A figura ilustra as variáveis relacionadas com
+esses dados.
+
+ata
+
+Dânem
+áteno
+
+Tama
+
+O proprietário de um veículo precisa trocar os pneus
+de seu carro e, ao chegar a uma loja, é informado
+por um vendedor que há somente pneus com os
+seguintes códigos: 175/65R15, 175/75R15, 175/80R15,
+185/60R15 e 205/55R15. Analisando, juntamente com
+o vendedor, as opções de pneus disponíveis, concluem
+que o pneu mais adequado para seu veículo é o que
+tem a menor altura.
+
+Desta forma, o proprietário do veículo deverá comprar o
+pneu com a marcação
+
+205/55R15.
+175165R15.
+AT5IT5RAS.
+175180R15.
+185/60R15.
+
+0000

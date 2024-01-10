@@ -1,0 +1,27 @@
+QUESTÃO 171
+
+O censo demográfico é um levantamento estatístico que permite a coleta de várias informações. A tabela apresenta
+os dados obtidos pelo censo demográfico brasileiro nos anos de 1940 e 2000, referentes à concentração da população
+total, na capital e no interior, nas cinco grandes regiões.
+
+População residente, na capital e interior segundo as Grandes Regiões 1940/2000
+
+População residente
+
+gas Total Capital Interior
+1940 2000 1940 2000 1940 2000
+
+Norte 1652917 | 12900704 368528 | 3895400 | 1264389 | 9005304
+Nordeste 14434080 | ATTATH | 1270729 | 10162346 | 15163351 | 37579965
+Sudeste 18276657 | 724124 | 334699 | 18822956 | 14951846 | 55569425
+Su 5735305 | 25107616 459659 | 3290220 | 5275646 | 2181739
+Centro-Oeste | 1088182 | 11696725 152189 | 4291120 995993 | 7345608
+
+Fore-IBSE Condo Demegáto asoooo
+O valor mais próximo do percentual que descreve o aumento da população nas capitais da Região Nordeste é
+
+O 125%
+O 21%
+o 331%
+O 700%
+O 800%

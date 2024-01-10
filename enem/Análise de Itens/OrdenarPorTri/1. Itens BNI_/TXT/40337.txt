@@ -1,0 +1,24 @@
+QUESTÃO 158.
+
+Uma pessoa usa um programa de computador que
+descreve o desenho da onda sonora correspondente a um
+som escolhido. A equação da onda é dada, num sistema
+de coordenadas cartesianas, por y = a - sen[b(x + c)],
+em que os parâmetros a, b, c são positivos. O programa
+permite ao usuário provocar mudanças no som, ao fazer
+alterações nos valores desses parâmetros. À pessoa
+deseja tornar o som mais agudo e, para isso, deve diminuir
+o período da onda
+
+O(s) “único(s) parâmetro(s) que necessita(m) ser
+alterado(s) é(são)
+
+0a
+
+o»
+
+8 c
+
+O aeb
+
+O bec

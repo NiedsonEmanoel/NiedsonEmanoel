@@ -1,0 +1,37 @@
+QUESTÃO 158 =>>>>>>>""""""""———=
+Um produtor de maracujá usa uma caixa-d'água,
+
+com volume V, para alimentar o sistema de irrigação
+
+de seu pomar. O sistema capta água através de um
+
+furo no fundo da caixa a uma vazão constante. Com
+
+a caixa-d'água cheia, o sistema foi acionado às 7 h
+
+da manhã de segunda-feira. Às 13 h do mesmo dia,
+
+verificou-se que já haviam sido usados 15% do volume
+
+da água existente na caixa. Um dispositivo eletrônico
+
+interrompe o funcionamento do sistema quando o
+
+volume restante na caixa é de 5% do volume total,
+
+para reabastecimento.
+
+Supondo que o sistema funcione sem falhas, a que horas
+
+o dispositivo eletrônico interromperá o funcionamento?
+
+O Às 15h de segunda-feira.
+
+O Àstlhdeterçafeira.
+
+O Às 14hdeterça-feira.
+
+O Às4h de quarta-feira.
+
+O Às21hdeterça-eira.
+

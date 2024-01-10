@@ -1,0 +1,27 @@
+QUESTÃO 47
+
+O benzeno, um importante solvente para a indústria química, é obtido industrialmente pela destilação do
+petróleo, Contudo, também pode ser sintetizado peta trimerização do acetileno catalisada por ferro metálico sob atas
+temperaturas, conforme a equação química:
+
+3CH, (9)— CH, ()
+
+A energia envolvida nesse processo pode ser calculada indiretamente pela variação de entalpia das reações de
+combustão das substâncias participantes, nas mesmas condições experimentais:
+
+L CH(9) + O, (9) 2C0, (9) + H,0 (1) AH, =-310 kcalimol
+
+n m0-D É 0,(9)— 6C0, (9)+3H,0() AH, = 780 keallmol
+
+Avariação de entalpia do processo de trimerização, em kcal, para a formação de um mol de benzeno é mais próxima de
+o “109
+
+150.
+
+-50
+
++57.
+
++470.
+
+000

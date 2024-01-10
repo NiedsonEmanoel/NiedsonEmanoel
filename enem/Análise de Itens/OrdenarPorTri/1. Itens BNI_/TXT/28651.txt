@@ -1,0 +1,23 @@
+QUESTÃO 151 900000=====———————————————
+
+Em uma seletiva para a final dos 100 metros livres de
+natação, numa olimpíada, os atletas, em suas respectivas
+raias, obtiveram os seguintes tempos:
+
+Ria [1|2]3/]4|5|6|7]8
+
+Tempo
+(Segundo)
+A mediana dos tempos apresentados no quadro é
+o 2070
+
+o 2077
+
+e 2080.
+
+O 2085
+
+e 2090.
+
+20.90 | 20,90] 2050 | 2080 | 20.60 | 20.60 | 20.90 [20.98
+

@@ -1,0 +1,27 @@
+QUESTÃO 136
+
+Em certa loja de roupas, o lucro na venda de uma
+camiseta é de 25% do preço de custo da camiseta pago
+pela loja. Já o lucro na venda de uma bermuda é de
+30% do preço de custo da bermuda, e na venda de uma
+calça o lucro é de 20% sobre o preço de custo da calça.
+Um cliente comprou nessa loja duas camisetas, cujo preço
+de custo foi R$ 40,00 cada uma, uma bermuda que teve
+preço de custo de R$ 60,00 e duas calças, ambas com
+mesmo preço de custo. Sabe-se que, com essa compra,
+o cliente proporcionou um lucro de R$ 78,00 para a loja.
+
+Considerando essas informações, qual foi o preço de
+custo, em real, pago por uma calça?
+
+90
+
+100
+
+125
+
+195
+
+200
+
+VOVoOo

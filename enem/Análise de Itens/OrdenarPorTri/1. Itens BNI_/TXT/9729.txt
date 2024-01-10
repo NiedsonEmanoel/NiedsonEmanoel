@@ -1,0 +1,23 @@
+QUESTÃO 171
+
+O número de frutos de uma determinada espécie
+de planta se distribui de acordo com as probabilidades
+apresentadas no quadro,
+
+Número de Probabilidade
+0 0,65
+1 015
+2 013
+3 0,03
+4 0,03
+5 ou mais 0,01
+
+A probabilidade de que, em tal planta, existam, pelo
+
+menos, dois frutos é igual a
+
+o%
+o 7%
+e 13%
+O 16%
+e 20%

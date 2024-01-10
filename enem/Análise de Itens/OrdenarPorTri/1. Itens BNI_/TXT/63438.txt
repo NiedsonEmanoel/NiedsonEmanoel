@@ -1,0 +1,28 @@
+QUESTÃO 149
+
+Boliche é um jogo em que se arremessa uma bola
+sobre uma pista para atingir dez pinos, dispostos em uma
+formação de base triangular, buscando derrubar o maior
+número de pinos. A razão entre o total de vezes em que
+o jogador derruba todos os pinos e o número de jogadas
+determina seu desempenho.
+
+Em uma disputa entre cinco jogadores, foram
+obtidos os seguintes resultados:
+
+Jogador | — Derrubou todos os pinos 50 vezes em
+
+85 jogadas.
+Jogador Il — Derrubou todos os pinos 40 vezes em
+65 jogadas.
+Jogador ll - Derrubou todos os pinos 20 vezes em
+65 jogadas.
+Jogador IV — Derrubou todos os pinos 30 vezes em
+40 jogadas.
+Jogador V — Derrubou todos os pinos 48 vezes em
+90 jogadas.
+Qual desses jogadores apresentou maior desempenho?
+ol
+o
+em
+oiv

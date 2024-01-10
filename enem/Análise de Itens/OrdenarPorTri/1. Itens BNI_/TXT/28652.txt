@@ -1,0 +1,33 @@
+QUESTÃO 82. O0000c====—=—
+
+Uma garrafa térmica tem como função evitar a
+troca de calor entre o líquido nela contido e o ambiente,
+mantendo a temperatura de seu conteúdo constante.
+Uma forma de orientar os consumidores na compra de
+uma garrafa térmica seria criar um selo de qualidade,
+como se faz atualmente para informar o consumo de
+energia de eletrodomésticos. O selo identificaria cinco
+categorias e informaria a variação de temperatura do
+conteúdo da garrafa, depois de decorridas seis horas de
+seu fechamento, por meio de uma porcentagem do valor
+inicial da temperatura de equilibrio do líquido na garrafa.
+O quadro apresenta as categorias e os intervalos de
+variação percentual da temperatura.
+
+Tipo de selo [Variação de temperatura
+A menor que 10%
+B entre 10% e 25%
+c entre 25% e 40%
+D entre 40% e 55%
+E maior que 55%
+
+Para atribuir uma categoria a um modelo de garrafa
+térmica, são preparadas e misturadas, em uma garrafa,
+duas amostras de água, uma a 10 *C e outra a 40 “C,
+na proporção de um terço de água fria para dois terços
+de água quente. A garrafa é fechada. Seis horas depois,
+abre-se a garrafa e mede-se a temperatura da água,
+obtendo-se 16 *C.
+
+Qual selo deveria ser posto na garrafa térmica testada?
+OA

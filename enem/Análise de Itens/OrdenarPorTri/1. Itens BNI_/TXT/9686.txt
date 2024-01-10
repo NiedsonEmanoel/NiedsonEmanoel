@@ -1,0 +1,23 @@
+QUESTÃO 54 mma
+
+Os bafômetros (etilômetros) indicam a quantidade de álcool, C,H,O (etanol), presente no organismo de uma
+pessoa através do ar expirado por ela. Esses dispositivos utilizam células a combustível que funcionam de acordo com
+as reações químicas representadas:
+
+(1 CH,O(9) > C,H,O (9)+2 H* (aq) + 2
+«m O: +2H (aq)+2e > H,0 (1)
+
+BRANTHEN, PC Há pad pio químico dobetômero. Química Nova na Esia, 5, meio 1987 (dogtado
+Na reação global de funcionamento do bafômetro, os reagentes e os produtos desse tipo de célula são
+
+O o álcool expirado como reagente; água, elétrons e H* como produtos
+
+o oxigênio do ar e H* como reagentes; água e elétrons como produtos.
+
+apenas o oxigênio do ar como reagente; apenas os elétrons como produto.
+
+apenas o álcool expirado como reagente; água, G,H,O e H* como produtos.
+
+o oxigênio do ar e o álcool expirado como reagentes; água e C,H,O como produtos.
+
+voo

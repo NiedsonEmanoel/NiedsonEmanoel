@@ -1,0 +1,26 @@
+QUESTÃO 119
+
+Dispositivos eletrônicos que utilizam materiais de
+baixo custo, como polímeros semicondutores, têm sido
+desenvolvidos para monitorar a concentração de amônia
+(gás tóxico e incolor) em granjas avícolas. A polianilina
+é um polímero semicondutor que tem o valor de sua
+resistência elétrica nominal quadruplicado quando exposta
+a altas concentrações de amônia. Na ausência de amônia,
+a polianilina se comporta como um resistor ôhmico e a sua
+resposta elétrica é mostrada no gráfico.
+
+Corrente (10: A)
+
+05 40 15 20 25 30
+
+Diferença de potencial (V)
+
+O valor da resistência elétrica da polianilina na presença
+de altas concentrações de amônia, em ohmm, é igual a
+
+o osx10
+O 20x10º
+e 25x10
+O 50x10:
+e 20x10º.

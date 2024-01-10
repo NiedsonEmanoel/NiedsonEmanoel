@@ -1,0 +1,26 @@
+QUESTÃO 162 === gmmum
+
+A vazão de água (em rm?lh) em tubulações pode ser
+medida pelo produto da área da seção transversal por onde.
+passa a água (em m?) pela velocidade da água (em m/h)
+Uma companhia de saneamento abastece uma indústria
+utilizando uma tubulação cilíndrica de raio r, cuja vazão da
+água enche um reservatório em 4 horas. Para se adaptar
+às novas normas técnicas, a companhia deve duplicar
+o raio da tubulação, mantendo a velocidade da água e
+mesmo material
+
+Qual o tempo esperado para encher o mesmo
+reservatório, após a adaptação às novas normas?
+
+1 hora
+
+2horas
+
+4horas
+
+8 horas
+
+16 horas
+
+voos

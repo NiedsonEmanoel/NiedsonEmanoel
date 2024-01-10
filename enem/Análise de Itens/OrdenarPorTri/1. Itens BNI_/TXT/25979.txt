@@ -1,0 +1,27 @@
+QUESTÃO 120
+
+Os combustíveis de origem fóssil, como o petróleo e o gás natural, geram um sério problema ambiental, devido
+à liberação de dióxido de carbono durante o processo de combustão. O quadro apresenta as massas molares e as
+reações de combustão não balanceadas de diferentes combustíveis.
+
+Combustível Massa molar (g/mol) Reação de combustão (não balanceada)
+Metano 16 CH, (9)+0, (9) — CO, (9) + HO (9)
+Acetileno 26 CH,(9)+0, (9) — CO, (9) + H,0 (9)
+Etano 30 CH; (9)+0, (9) — CO, (9) + HO (9)
+Propano au CH; (9)+0, (9) — CO, (9) + HO (9)
+Butano 58 CH. (9) + O, (9) — CO, (9) + H.0 (9)
+
+Considerando a combustão completa de 58 g de cada um dos combustíveis listados no quadro, a substância que emite
+mais CO, é o
+
+etano.
+
+butano.
+
+metano.
+
+propano.
+
+acetileno.
+
+Ovo

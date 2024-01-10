@@ -1,0 +1,22 @@
+QUESTÃO 173
+
+André, Carlos e Fábio estudam em uma mesma
+escola e desejam saber quem mora mais perto da escola.
+André mora a cinco vinte avos de um quilômetro da
+escola. Carlos mora a seis quartos de um quilômetro da
+escola. Já Fábio mora a quatro sextos de um quilômetro
+da escola.
+
+A ordenação dos estudantes de acordo com a ordem
+decrescente das distâncias de suas respectivas casas à
+escola é
+
+O André, Carlos e Fábio.
+
+O André, Fábio e Carlos.
+
+O Carlos, André e Fábio.
+
+O Carlos, Fábio e André
+
+Q Fábio, Carlos e André.

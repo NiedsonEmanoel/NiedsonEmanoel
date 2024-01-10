@@ -1,0 +1,56 @@
+QUESTÃO 149
+
+Uma empresa farmacêutica fez um estudo da
+eficácia (em porcentagem) de um medicamento durante
+12 h de tratamento em um paciente. O medicamento foi
+administrado em duas doses, com espaçamento de 6 h
+entre elas. Assim que foi administrada a primeira dose,
+a eficácia do remédio cresceu linearmente durante 1 h,
+até atingir a máxima eficácia (100%), e permaneceu em
+máxima eficácia durante 2 h. Após essas 2 h em que a
+eficácia foi máxima, ela passou a diminuir linearmente,
+atingindo 20% de eficácia ao completar as 6 h iniciais
+de análise. Nesse momento, foi administrada a segunda
+dose, que passou a aumentar linearmente, atingindo a
+máxima eficácia após 0,5 h e permanecendo em 100%
+por 3,5 h. Nas horas restantes da análise, a eficácia
+decresceu linearmente, atingindo ao final do tratamento
+50% de eficácia.
+
+Encácia 6)
+
+a)
+|
+n)
+a)
+a)
+aj
+
+BHO MTE tampo (h)
+
+Etcácia 6)
+GhebBeRBEE
+
+Considerando as grandezas tempo (em hora), no
+eixo das abscissas; e eficácia do medicamento (em
+porcentagem), no eixo das ordenadas, qual é o gráfico
+que representa tal estudo?
+
+[ES EE TE EE tempo
+1a]
+2º)
+Em 58
+Za É
+Ee Ea
+Oia iz
+3 oia
+Fr a
+O 1 TZ Tempo (h) 40
+E tempo (1)
+20)
+Em
+a
+o Fa
+a
+ii tempo (1)
+

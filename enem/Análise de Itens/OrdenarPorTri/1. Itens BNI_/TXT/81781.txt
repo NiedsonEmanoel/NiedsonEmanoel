@@ -1,0 +1,32 @@
+QUESTÃO 159 000000.
+
+Um engenheiro projetou um automóvel cujos vidros
+das portas dianteiras foram desenhados de forma que
+suas bordas superiores fossem representadas pela curva
+de equação y = log (x), conforme a figura.
+
+v(m)
+
+A forma do vidro foi concebida de modo que o eixo
+x sempre divida ao meio a altura h do vidro e a base
+do vidro seja paralela ao eixo x. Obedecendo a essas
+condições, o engenheiro determinou uma expressão que
+fornece a altura h do vidro em função da medida n de sua
+base, em metros.
+
+A expressão algébrica que determina a altura do vidro é
+
+e [22857
+
+avr)
+2
+
+ev [ifm(r]
+
+av [ifom(r]
+
+n+NETa
+O log 2 |
+
+(nm)
+e 20g|— —

@@ -1,0 +1,19 @@
+QUESTÃO 150 Ooo...
+
+Deseja-se comprar lentes para óculos. As lentes
+devem ter espessuras mais próximas possíveis da medida
+3 mm. No estoque de uma loja, há lentes de espessuras:
+310 mm: 3,021 mm; 2,96 mm; 2,099 mm e 3,07 mm.
+
+Se as lentes forem adquiridas nessa loja, a espessura
+escolhida será, em milímetros, de
+
+O 2099.
+
+o 29.
+
+o 3021
+
+o 307.
+
+e 3,10.

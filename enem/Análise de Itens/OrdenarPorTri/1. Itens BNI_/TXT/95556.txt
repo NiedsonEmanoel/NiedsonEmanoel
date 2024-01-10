@@ -1,0 +1,28 @@
+QUESTÃO 144
+
+Aimagem apresentada na figura é uma cópia em preto
+e branco da tela quadrada intitulada O peixe, de Marcos
+Pinto, que foi colocada em uma parede para exposição e
+fixada nos pontos A e B.
+
+Por um problema na fixação de um dos pontos, a tela
+se desprendeu, girando rente à parede. Após o giro, ela
+ficou posicionada como ilustrado na figura, formando um
+ângulo de 45º com a linha do horizonte
+
+Para recolocar a tela na sua posição original, deve-se
+gitá-la, rente à parede, no menor ângulo possível inferior
+a 360º
+
+Aformade recolocara telana posição original, obedecendo
+ao que foi estabelecido, é girando-a em um ângulo de
+
+O 90º no sentido horário.
+
+O 135º no sentido horário.
+
+O 180º no sentido anti-horário.
+
+O 270º no sentido anti-horário.
+
+O 315º no sentido horário.

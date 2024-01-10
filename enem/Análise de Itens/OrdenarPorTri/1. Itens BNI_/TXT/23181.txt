@@ -1,0 +1,33 @@
+QUESTÃO 57 =
+
+A água potável precisa ser límpida, ou seja, não
+deve conter partículas em suspensão, tais como terra
+ou restos de plantas, comuns nas águas de rios e
+lagoas. A remoção das partículas é feita em estações
+de tratamento, onde Ca(OH), em excesso e AL(SO,),
+são adicionados em um tanque para formar sulfato de
+cálcio e hidróxido de alumínio. Esse último se forma
+como flocos gelatinosos insolúveis em água, que
+são capazes de agregar partículas em suspensão.
+Em uma estação de tratamento, cada 10 gramas de
+hidróxido de alumínio é capaz de carregar 2 gramas de
+partículas. Após decantação e filtração, a água límpida
+é tratada com cloro e distribuída para as residências. As
+massas molares dos elementos H, O, AI, S e Ca são,
+respectivamente, 1 g/mol, 16 gimol, 27 g/mol, 32 gimol
+e40gimal.
+
+Considerando que 1 000 litros da água de um rio possuem
+45 gramas de partículas em suspensão, a quantidade
+mínima de AL(SO,), que deve ser utilizada na estação de
+tratamento de água, capaz de tratar 3 000 litros de água
+de uma só vez, para garantir que todas as partículas em
+suspensão sejam precipitadas, é mais próxima de
+
+59g.
+4939.
+987 g.
+14809.
+29609.
+
+voos

@@ -1,0 +1,18 @@
+QUESTÃO 155
+
+No jogo mostrado na figura, uma bolinha desloca-se
+somente de duas formas: ao longo de linhas retas ou por
+arcos de circunferências centradas no ponto O e raios
+variando de 1 a 8. Durante o jogo, a bolinha que estiver
+no ponto P deverá realizar a seguinte sequência de
+movimentos: 2 unidades no mesmo sentido utilizado para
+ir do ponto O até o ponto A e, no sentido anti-horário, um
+arco de circunferência cujo ângulo central é 120º.
+
+Após a sequência de movimentos descrita, a bolinha
+estará no ponto
+
+8
+
+vo000
+omnmo

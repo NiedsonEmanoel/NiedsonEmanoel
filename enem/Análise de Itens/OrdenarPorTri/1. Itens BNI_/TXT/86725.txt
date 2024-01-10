@@ -1,0 +1,44 @@
+QUESTÃO 78
+
+TEXTO |
+
+Biocélulas combustíveis são uma alternativa
+tecnológica para substituição das baterias convencionais.
+Em uma biocélula microbiológica, bactérias catalisam
+reações de oxidação de substratos orgânicos. Liberam
+elétrons produzidos na respiração celular para um
+eletrodo, onde fluem por um circuito externo até o cátodo
+do sistema, produzindo corrente elétrica. Uma reação
+típica que ocorre em biocélutas microbiológicas utiliza o
+acetato como substrato.
+AQUINO NETO . Preparação e caracterização de bioanodos para bicéa a combustível
+
+ano, Disponível em neles usp cesso em: 23jun 2015 (pad
+
+TEXTO
+
+Em sistemas  bioeletroquímicos, os potenciais
+padrão (E) apresentam valores característicos.
+Para as biocélulas de acetato, considere as seguintes
+semirreações de redução e seus respectivos potenciais:
+
+2C0,+7H'+86 —>CHC00-+2H0 — E!=-03V
+
+O, +4H'+4€ >2H0 E"=08V
+
+SCOTT, K: YU E H Merbil lecrocheical and fue cls funcamentas and
+aoplaicos. Woodhead Publishing Series in Energy n 8,2016 (adatado
+
+Nessas condições, qual é o número mínimo de biocélutas
+de acetato, ligadas em série, necessárias para se obter
+uma diferença de potencial de 4,4 V?
+
+os
+
+04
+
+voo
+
+6
+9
+1

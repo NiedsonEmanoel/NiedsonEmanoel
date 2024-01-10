@@ -1,0 +1,38 @@
+QUESTÃO 179
+
+Diante da hipótese do comprometimento da qualidade
+da água retirada do volume morto de alguns sistemas
+hídricos, os técnicos de um laboratório decidiram testar
+cinco tipos de filtros de água.
+
+Dentre esses, os quatro com melhor desempenho
+serão escolhidos para futura comercialização.
+
+Nos testes, foram medidas as massas de agentes
+contaminantes, em miligrama, que não são capturados por
+cada filtro em diferentes períodos, em dia, como segue:
+
+* Filtro 1 (F1):18mg Em 6 dias;
+
+* Filtro 2 (F2): 15 mg em 3 dias;
+
+* Filtro 3 (F3): 18 mg em 4 dias;
+
+* Filtro 4 (F4): 6 mg em 3 dias;
+
+* Filtro 5 (F5): 3 mg em 2 dias.
+
+Ao final, descarta-se o filtro com a maior razão entre
+a medida da massa de contaminantes não capturados
+e o número de dias, o que corresponde ao de pior
+desempenho.
+
+Disponível em: wwnyredebrasiatual com br. Acesso em: 12 jul. 2015 (adaptado)
+O filtro descartado é o
+Fa.
+F2.
+Fs.
+Fa.
+F5.
+
+VOO

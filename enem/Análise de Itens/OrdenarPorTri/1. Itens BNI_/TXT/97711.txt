@@ -1,0 +1,10 @@
+QUESTÃO 46
+
+Uma ambulância A em movimento retilineo e uniforme aproxima-se de um observador O, em repouso. A sirene
+emite um som de frequência constante 1,. O desenho ilustra as frentes de onda do som emitido pela ambulância.
+O observador possui um detector que consegue registrar, no esboço de um gráfico, a frequência da onda sonora
+detectada em função do tempo f,(1), antes e depois da passagem da ambulância por ele.
+
+Qual esboço gráfico representa a frequência f,(t) detectada pelo observador?
+e» e
+

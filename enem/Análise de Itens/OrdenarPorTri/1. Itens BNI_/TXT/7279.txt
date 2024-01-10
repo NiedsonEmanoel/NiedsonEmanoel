@@ -1,0 +1,31 @@
+QUESTÃO 175
+
+Um clube de futebol abriu inscrições para novos
+jogadores. Inscreveram-se 48 candidatos. Para realizar
+uma boa seleção, deverão ser escolhidos os que cumpram
+algumas exigências: os jogadores deverão ter mais de
+14 anos, estatura igual ou superior à mínima exigida e
+
+bom preparo físico. Entre os candidatos, têm mais de
+
+8
+14 anos e foram pré-selecionados. Dos pré-selecionados,
+
+1 têm estatura igual ou superior à mínima exigida e,
+2
+destes, 2 têm bom preparo físico.
+
+3
+
+A quantidade de candidatos selecionados pelo clube de
+futebol foi
+
+12
+
+ou
+
+e 16
+
+oa
+
+e 4.

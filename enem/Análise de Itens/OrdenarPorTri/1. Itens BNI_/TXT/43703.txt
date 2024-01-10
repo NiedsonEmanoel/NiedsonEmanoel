@@ -1,0 +1,37 @@
+QUESTÃO 93
+
+No manual fomecido pelo fabricante de uma ducha
+elétrica de 220 V é apresentado um gráfico com a variação
+da temperatura da água em função da vazão para três
+condições (momo, quente e superquente). Na condição
+superquente, a potência dissipada é de 6 500 W. Considere
+o calor específico da água igual a 4 200 Ji(kg *C) e
+densidade da água igual à 1 kgil.
+
+Elevação de temperatura x Curva vazão
+
+1-MORNO
+2-QUENTE
+aT(C) 3- SUPERQUENTE
+40:
+
+E
+
+20:
+4
+1 Ts
+Vazão
+
+723 4 5 6 7 5 9 10 (Lmin)
+
+Com base nasiinformações dadas, a potência na condição
+morno corresponde a que fração da potência na condição
+superquente?
+
+o
+
+PEN
+
+o
+
+vn mio mw aja

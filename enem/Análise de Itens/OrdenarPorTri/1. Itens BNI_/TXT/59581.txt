@@ -1,0 +1,27 @@
+QUESTÃO 159.
+
+Um cliente de uma videolocadora tem o hábito de
+alugar dois filmes por vez. Quando os devolve, sempre
+pega outros dois filmes e assim sucessivamente.
+Ele soube que a videolocadora recebeu alguns
+lançamentos, sendo & filmes de ação, 5 de comédia
+e 3 de drama e, por isso, estabeleceu uma estratégia
+para ver todos esses 16 lançamentos. Inicialmente
+alugará, em cada vez, um filme de ação e um de
+comédia. Quando se esgotarem as possibilidades de
+comédia, o cliente alugará um filme de ação e um de
+drama, até que todos os lançamentos sejam vistos e
+sem que nenhum filme seja repetido.
+
+De quantas formas distintas a estratégia desse cliente
+poderá ser posta em prática?
+O 2zox8e+(3p
+O glx5ixa
+8ix51x31
+2
+8ix5ix31
+»
+16!
+2
+
+o

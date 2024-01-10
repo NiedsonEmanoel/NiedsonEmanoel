@@ -1,0 +1,26 @@
+QUESTÃO 164
+
+O comitê organizador da Copa do Mundo 2014 criou
+a logomarca da Copa, composta de uma figura plana e
+o slogan “Juntos num só ritmo”, com mãos que se unem
+formando a taça Fifa. Considere que o comitê organizador
+resolvesse utilizar todas as cores da bandeira nacional
+(verde, amarelo, azul e branco) para colorir a logomarca,
+de forma que regiões vizinhas tenham cores diferentes.
+
+JUNTOS NUM SÓ RO
+Disponivel em: wma tffa-com. osso em: 1 nov 201 (adapta)
+
+De quantas maneiras diferentes o comitê organizador da
+
+Copa poderia pintar a logomarca com as cores citadas?
+
+015
+
+oa
+
+o 108
+
+o 360
+
+e 92

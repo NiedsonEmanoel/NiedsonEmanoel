@@ -1,0 +1,27 @@
+QUESTÃO 97
+
+A absorção e o transporte de substâncias tóxicas
+em sistemas vivos dependem da facilidade com que
+estas se difundem através das membranas das células
+Por apresentar propriedades químicas similares, testes
+laboratoriais empregam o octan-1-ol como modelo da
+atividade das membranas. A substância a ser testada
+é adicionada a uma mistura bifásica do octan-1-ol com
+água, que é agitada e, ao final, é medido o coeficiente de
+partição octan-1-olágua (K, )
+
+em que C,, é a concentração da substância na fase do
+octan-1-ol,'e C, a concentração da substância na fase
+aquosa
+
+Foram avaliados cinco poluentes de sistemas
+aquáticos: benzeno, butano, éter dietílico, fluorobutano e
+metanol
+
+O poluente que apresentou K,, tendendo a zero é o
+
+O éter dietílico
+O fluorobutano
+O benzeno
+O metanol
+O butano

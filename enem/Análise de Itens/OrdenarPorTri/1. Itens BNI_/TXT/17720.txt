@@ -1,0 +1,22 @@
+QUESTÃO 49
+
+Em 1950, Erwin Chargaff e colaboradores estudavam
+a composição química do DNA e observaram que a
+quantidade de adenina (A) é igual à de timina (T), e a
+quantidade de guanina (G) é igual à de citosina (C) na
+grande maioria das duplas fitas de DNA. Em outras
+palavras, esses cientistas descobriram que o total de
+purinas (A+ G) e o total de pirimídinas (C + T) eram iguais
+Um professor trabalhou esses conceitos em sala de aula
+e apresentou como exemplo uma fita simples de DNA.
+com 20 adeninas, 25 timinas, 30 guaninas e 25 citosinas.
+
+Qual a quantidade de cada um dos nucleotídeos, quando
+considerada a dupla fita de DNA formada pela fita simples.
+exemplificada pelo professor?
+
+O Adenina: 20; Timina: 25; Guanina: 25; Citosina: 30.
+O Adenina: 25; Timina: 20; Guanina: 45; Citosina: 45
+O Adenina: 45; Timina: 45; Guanina: 55; Citosina: 55
+O Adenina: 50; Timina: 50; Guanina: 50; Citosina: 50.
+O Adenina: 55; Timina: 55; Guanina: 45; Citosina: 45

@@ -1,0 +1,9 @@
+QUESTÃO 119
+
+As lâmpadas econômicas transformam 80% da energia elétrica consumida em luz e dissipam os 20% restantes em
+forma de calor. Já as incandescentes transformam 20% da energia elétrica consumida em luz e dissipam o restante em
+forma de calor. Assim, quando duas dessas lâmpadas possuem luminosidades equivalentes, a econômica apresenta
+uma potência igual a um quarto da potência da incandescente.
+
+Quando uma lâmpada incandescente de 60 W é substituída por uma econômica de mesma luminosidade, deixa-se de
+transferir para o ambiente, a cada segundo, uma quantidade de calor, em joule, igual a

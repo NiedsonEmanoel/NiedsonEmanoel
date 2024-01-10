@@ -1,0 +1,23 @@
+QUESTÃO 156——==
+
+Avelocidade Mach (M) de um avião é definida como a
+razão entre a velocidade do avião e a velocidade do som.
+Os aviões são classificados em categorias, de acordo
+com a velocidade que conseguem atingir. As categorias
+são: subsônica (M < 1,0), transônica (1,0 < M < 1,2),
+supersônica (1,2 < M < 5,0) e hipersônica (1,2 <M < 5,0)
+Considere a velocidade do som igual a 1 200 km/h.
+
+João e Bia fizeram uma viagem de avião, que
+percorreu 3 600 km em 4 horas.
+
+Bia disse que esse avião era muito rápido e, portanto,
+supersônico. João convenceu Bia de que ela estava
+errada, argumentando que, para o avião ser supersônico,
+o tempo de sua viagem deveria ser reduzido em, no
+mínimo,
+O 10h
+O 15h
+O 16h
+O 24h
+e 25h

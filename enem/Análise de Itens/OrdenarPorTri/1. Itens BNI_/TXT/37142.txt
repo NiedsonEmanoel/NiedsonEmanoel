@@ -1,0 +1,37 @@
+QUESTÃO 75
+Um sistema de iluminação foi construído com
+um circuito de três lâmpadas iguais conectadas a um
+
+gerador (G) de tensão constante. Esse gerador possui
+uma chave que pode ser ligada nas posições A ou B.
+
+1 2
+DO)
+VU X
+
+3
+
+GO
+Na,
+
+Considerando o funcionamento do circuito dado, a
+
+lâmpada 1 brilhará mais quando a chave estiver na
+
+posição
+
+O B, pois a corrente será maior nesse caso.
+
+O B, pois a potência total será maior nesse caso.
+
+& A, pois a resistência equivalente será menor nesse
+caso
+
+O B, pois o gerador fomecerá uma maior tensão nesse
+caso
+
+(E)
+
+A, pois a potência dissipada pelo gerador será menor
+nesse caso.
+

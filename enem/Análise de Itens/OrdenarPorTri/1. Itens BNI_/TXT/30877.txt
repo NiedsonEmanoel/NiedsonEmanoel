@@ -1,0 +1,29 @@
+QUESTÃO 176.
+
+Uma empresa farmacêutica produz medicamentos
+em pílulas, cada uma na forma de um cilindro com uma
+semiesfera com o mesmo raio do cilindro em cada uma
+de suas extremidades. Essas pílulas são moldadas por
+uma máquina programada para que os cilindros tenham
+sempre 10 mm de comprimento, adequando o raio de
+acordo com o volume desejado.
+
+Um medicamento é produzido em pílulas com 5 mm
+de raio. Para facilitar a deglutição, deseja-se produzir
+esse medicamento diminuindo o raio para 4 mm, e, por
+consequência, seu volume. Isso exige a reprogramação
+da máquina que produz essas pílulas.
+
+Use 3 como valor aproximado para TL
+A redução do volume da pílula, em milímetros cúbicos,
+após a reprogramação da máquina, será igual a
+
+o 168
+
+o 34
+
+o 306
+
+o 378
+
+e su

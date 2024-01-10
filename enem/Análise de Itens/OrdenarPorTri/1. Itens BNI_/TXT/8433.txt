@@ -1,0 +1,50 @@
+QUESTÃO153————>—>—>—>—>—>—— =
+
+Em uma cidade turística, três hotéis ofereceram
+promoções para o mês de abril de 2011 e compararam as
+taxas de ocupação nesse mês com as de abril de 2010.
+Os descontos praticados estão descritos a seguir
+
++ Hotel 1: Foi dado um desconto de 10% nas diárias,
+elevando a ocupação de 70% em 2010 para 80% em
+201
+
++ Hotel 2: Foi dado um desconto de 15% nas diárias,
+elevando a ocupação de 60% em 2010 para 100% em
+201
+
++ Hotel 3: Foi dado um desconto de 20% nas diárias,
+elevando a ocupação de 10% em 2010 para 60% em
+201
+
++ Hotel 4: Foi dado um desconto de 25% nas diárias,
+elevando a ocupação de 30% em 2010 para 90% em
+201
+
++ Hotel 5: Foi dado um desconto de 30% nas diárias,
+elevando a ocupação de 40% em 2010 para 60% em
+201
+
+Após o término de 2011, foi feita uma avaliação sobre
+os impactos desses descontos nos valores arrecadados
+pelos hotéis.
+
+O hotel que apresentou a maior diferença na taxa de
+arrecadação de 2010 para 201 foi o
+
+O hotel 1, pois apresenta a maior taxa de ocupação
+antes dos descontos.
+
+hotel 2, pois apresenta a maior taxa de ocupação
+após os descontos.
+
+hotel 3, pois apresenta aumento de 38% na taxa de
+arrecadação.
+
+hotel 4, pois apresenta a maior diferença na taxa de
+arrecadação de 2010 para 201
+
+hotel 5, pois apresenta o maior desconto no valor da
+diária.
+
+vo oo

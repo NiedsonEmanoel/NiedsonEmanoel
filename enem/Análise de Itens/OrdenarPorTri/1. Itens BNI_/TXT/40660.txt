@@ -1,0 +1,22 @@
+QUESTÃO 147
+
+O tênis é um esporte em que a estratégia de jogo a ser
+adotada depende, entre outros fatores, de o adversário
+Ser canhoto ou destro.
+
+Um clube tem um grupo de 10 tenistas, sendo
+que 4 são canhotos e 6 são destros. O técnico do clube
+deseja realizar uma partida de exibição entre dois desses
+jogadores, porém, não poderão ser ambos canhotos.
+Qual 0 número de possibilidades de escolha dos tenistas.
+para a partida de exibição?
+
+1a! a
+2x8 2x2
+101 4
+sa
+
+1a!
+axe
+
+[D) Sra

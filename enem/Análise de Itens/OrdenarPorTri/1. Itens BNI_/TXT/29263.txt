@@ -1,0 +1,25 @@
+QUESTÃO 170
+
+Em um mês, uma loja de eletrônicos começa a obter
+lucro já na primeira semana. O gráfico representa o lucro (L)
+dessa loja desde o início do mês até o dia 20. Mas esse
+comportamento se estende até o último dia, o dia 30.
+
+Lucro (real) A
+
+3000 - —— — — ——
+
+Tempo (dia)
+
+A representação algébrica do lucro (L) em função do
+tempo (t) é
+
+O 1(g=20t+ 3000
+
+O 1()=20t+ 4000
+
+O L(g=200t
+
+O (8 =200t-1 000
+
+e L(t)=200t+ 3 000

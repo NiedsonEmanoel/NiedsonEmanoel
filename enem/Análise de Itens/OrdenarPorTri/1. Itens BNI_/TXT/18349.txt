@@ -1,0 +1,26 @@
+QUESTÃO 108
+
+Alguns tipos de dessalinizadores usam o processo de
+osmose reversa para obtenção de água potável a partir
+da água salgada. Nesse método, utiliza-se um recipiente
+contendo dois compartimentos separados por uma
+membrana semipermeável: em um deles coloca-se água
+salgada e no outro recolhe-se a água potável. A aplicação
+de pressão mecânica no sistema faz a água fluir de um
+compartimento para o outro. O movimento das moléculas
+de água através da membrana é controlado pela pressão
+osmótica e pela pressão mecânica aplicada.
+
+Para que ocorra esse processo é necessário que
+as resultantes das pressões osmótica e mecânica
+apresentem
+
+mesmo sentido e mesma intensidade.
+
+sentidos opostos e mesma intensidade.
+
+sentidos opostos e maiorintensidade da pressão osmótica
+mesmo sentido e maior intensidade da pressão osmótica.
+sentidos opostos e maior intensidade da pressão mecânica.
+
+voos

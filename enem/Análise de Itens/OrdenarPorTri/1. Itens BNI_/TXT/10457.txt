@@ -1,0 +1,20 @@
+QUESTÃO 174—— ===
+
+Enchem-se, segundo vazões constantes e idênticas,
+dois reservatórios, um em forma de um cilindro circular
+reto e outro em forma de prisma reto de base quadrada,
+cujo lado da base tem a mesma medida do diâmetro da
+base do primeiro reservatório.
+
+<———>
+2R
+
+Volume do cilindro = x + R2-H
+Volume do prisma = 4 + R2.H
+
+O gráfico que representa a variação das alturas
+dos níveis da água do reservatório cilíndrico (h,) e do
+reservatório em forma de prisma (h,) em função do volume
+de água contido em cada um dos reservatórios (V) estão
+melhor representados em
+

@@ -1,0 +1,47 @@
+QUESTÃO 65
+
+O aquecimento de um material por irradiação com
+micro-ondas ocorre por causa da interação da onda
+eletromagnética com o dipolo elétrico da molécula
+Um importante atributo do aquecimento por micro-ondas
+é a absorção direta da energia pelo material a ser
+aquecido. Assim, esse aquecimento é seletivo e
+dependerá, principalmente, da constante dielétrica e da
+frequência de relaxação do material. O gráfico mostra a
+taxa de aquecimento de cinco solventes sob irradiação
+de micro-ondas.
+
+[Fo-fgua
+|[o—Metano!
+a Etanol
+|-v—Propanol
+[-o—nHexano
+
+400]
+
+Temperatura (*C)
+
+2
+
+010 20 do 40 so 6 70 go
+Tempo (s)
+
+BARBOZA A CRM et al Aquecimento em tomo de mice-ondas Deseniobimento do.
+“guns conceitos fundamentais. Química Nova, 8, 200! (adaptado
+
+No gráfico, qual solvente apresenta taxa média de
+aquecimento mais próxima de zero, no intervalo de
+05a405?
+
+Ho
+
+cH,OH
+
+CH.CH,0H
+
+CH.CH,CH,OH
+
+CH,CH,CH,CH,CH,CH,
+
+vo 000
+

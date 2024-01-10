@@ -1,0 +1,31 @@
+QUESTÃO 146 =ezezezezezezececezezezezem=
+
+Um brinquedo infantil caminhão-cegonha é formado
+por uma carreta e dez carrinhos nela transportados,
+conforme a figura
+
+(LS Ss0800]
+
+GOGOGO
+OO 00
+
+No setor de produção da empresa que fabrica esse
+brinquedo, é feita a pintura de todos os carrinhos para que
+o aspecto do brinquedo fique mais atraente. São utilizadas
+as cores amarelo, branco, laranja e verde, e cada carrinho
+é pintado apenas com uma cor. O caminhão-cegonha
+tem uma cor fixa. A empresa determinou que em todo
+caminhão-cegonha deve haver pelo menos um carrinho
+de cada uma das quatro cores disponíveis. Mudança de
+posição dos carrinhos no caminhão-cegonha não gera um
+novo modelo do brinquedo.
+
+Com base nessas informações, quantos são os modelos
+distintos do brinquedo caminhão-cegonha que essa
+empresa poderá produzir?
+
+Oca
+o cs
+º Cos
+oe
+o +4

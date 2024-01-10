@@ -1,0 +1,28 @@
+QUESTÃO 156
+
+O gerente de um estacionamento, próximo a um
+grande aeroporto, sabe que um passageiro que utliza
+seu carro nos traslado casa-aeroporto-casa gasta cerca
+de R$ 10,00 em combustível nesse trajeto. Ele sabe,
+também, que um passageiro que não utiliza seu carro nos
+traslados casa-aeroporto-casa gasta cerca de R$ 80,00
+com transporte.
+
+Suponhaque os passageiros queutilizam seuspróprios.
+veículos deixem seus carros nesse estacionamento por
+um período de dois dias.
+
+Para tomar atrativo a esses passageiros o uso do
+estacionamento, o valor, em real, cobrado por dia de
+estacionamento deve ser, no máximo, de
+
+O 3500
+
+O 4000
+
+e 4500
+
+O 7000
+
+e 9000
+

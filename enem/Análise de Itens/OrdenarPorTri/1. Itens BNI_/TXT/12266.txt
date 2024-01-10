@@ -1,0 +1,27 @@
+QUESTÃO 159
+
+Uma região de uma fábrica deve ser isolada, pois nela
+os empregados ficam expostos a riscos de acidentes.
+Essa região está representada pela porção de cor cinza
+(quadrilátero de área 5) na figura.
+
+r
+
+Para que os funcionários sejam orientados sobre a
+localização da área isolada, cartazes informativos serão
+afixados por toda a fábrica. Para confeccionálos, um
+programador utilizará um software que permite desenhar
+essa região a partir de um conjunto de desigualdades
+algébricas.
+
+As desigualdades que devem ser utilizadas no referido
+software, para o desenho da região de isolamento, são
+O 3y-x<0:2y-x20:y<8;x<9
+
+O 3y-x<0;2y-x20;y<9;x<8
+
+O 3y-x20;2y-x<0:y<9:x<8
+
+O 4y-9x<0;8y-3x20:y<8;x<9
+
+O 4y-9x<0;8y-3x20;y<9;x<8

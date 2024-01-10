@@ -1,0 +1,33 @@
+QUESTÃO 161 irmao
+Um petroleiro possui reservatório em formato de um
+paralelepípedo retangular com as dimensões dadas por
+60 m x 10 m de base e 10 m de altura. Com o objetivo de
+minimizar o impacto ambiental de um eventual vazamento,
+esse reservatório é subdividido em três compartimentos,
+A, Be C, de mesmo volume, por duas placas de aço
+retangulares com dimensões de 7 m de altura e 10 m de
+base, de modo que os compartimentos são interligados,
+conforme a figura. Assim, caso haja rompimento no casco
+do reservatório, apenas uma parte de sua carga vazará
+
+10m
+
+1om
+
+om
+
+“Suponha que ocorra um desastre quando o petroleiro
+se encontra com sua carga máxima: ele sofre um acidente
+que ocasiona um furo no fundo do compartimento C.
+
+Para fins de cálculo, considere desprezíveis as
+espessuras das placas divisórias.
+
+Após o fim do vazamento, o volume de petróleo derramado
+terá sido de
+
+O 14x10mº
+O 18x10mº
+O 20x10:m
+O 32x10:mº
+O 60x 10:m:

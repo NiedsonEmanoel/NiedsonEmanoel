@@ -1,0 +1,24 @@
+QUESTÃO 144
+
+Alguns equipamentos eletrônicos podem “queimar”
+durante o funcionamento quando sua temperatura intema
+atinge um valor máximo T, Para maior durabilidade dos
+seus produtos, a indústria de eletrônicos conecta sensores
+de temperatura a esses equipamentos, os quais acionam
+um sistema de resfriamento intemo, ligando-o quando a
+temperatura do eletrônico ultrapassa um nível crítico T,
+e desigando-.o somente quando a temperatura cai para
+valores inferiores a T,. O gráfico justa a oscilação da
+temperatura intema dé um aparelho eletrônico durante as
+seis primeiras horas de funcionamento, mostrando que seu
+sistema de resfriamento interno foi acionado algumas vezes.
+Temperatura (*C)
+
+Tempo (h)
+
+0 12 3 4 5 6
+
+Quantas foram as vezes que o sensor de temperatura
+acionou o sistema, ligando-o ou desligando-o?
+
+02

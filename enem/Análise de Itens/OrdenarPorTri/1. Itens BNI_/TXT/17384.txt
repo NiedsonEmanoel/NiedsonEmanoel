@@ -1,0 +1,21 @@
+QUESTÃO 172
+
+Algreja de São Francisco de Assis, obra arquitetônica modemista de Oscar Niemeyer, localizada na Lagoa da Pampulha,
+em Belo Horizonte, possui abóbadas parabólicas. A seta na Figura 1 ilustra uma das abóbadas na entrada principal
+da capela. A Figura 2 fomece uma vista frontal desta abóbada, com medidas hipotéticas para simplificar os cálculos.
+
+Figura 1 Figura 2
+
+Qual a medida da altura H, em metro, indicada na Figura 2?
+16
+9
+a”
+5
+25
+4
+25
+3
+75
+2
+
+o oo

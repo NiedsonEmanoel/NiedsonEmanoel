@@ -1,0 +1,29 @@
+QUESTÃO 153.
+
+Os candidatos K, L, M, N e P estão disputando uma
+única vaga de emprego em uma empresa e fizeram provas
+de português, matemática, direito e informática. A tabela
+apresenta as notas obtidas pelos cinco candidatos.
+
+Candidatos] Português [Matemática] Direito [Informática
+K 33 33 33 3
+L 32 39 33 3
+M 35 35 36 34
+N 24 37 40 35
+P 36 16 26 41
+
+Segundo o edital de seleção, o candidato aprovado
+será aquele para o qual a mediana das notas obtidas por
+
+ele nas quatro disciplinas for a maior.
+
+O candidato aprovado será
+
+K
+
+vocos
+
+L
+M
+N.
+P

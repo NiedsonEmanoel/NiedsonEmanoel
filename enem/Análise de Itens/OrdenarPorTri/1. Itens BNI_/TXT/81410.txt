@@ -1,0 +1,48 @@
+QUESTÃO 163
+
+Uma bicicleta do tipo mountain bike tem uma coroa
+com 3 engrenagens e uma catraca com 6 engrenagens,
+que, combinadas entre si, determinam 18 marchas
+(número de engrenagens da coroa vezes o número de
+engrenagens da catraca),
+
+Coroas
+
+Catracas
+
+Os números de dentes das engrenagens das coroas
+e das catracas dessa bicicleta estão listados no quadro.
+
+Engrenagens | 4º [22/32 [4º | 5º] 6
+
+Nededentesda | ug [38 [26 | | |.
+coroa
+
+Nºdedentesda | »y | 22] 20 | 18 | 16 | 14
+catraca
+
+Sabe-se que o número de voltas efetuadas pela
+roda traseira a cada pedalada é calculado dividindo-se a
+quantidade de dentes da coroa pela quantidade de dentes
+da catraca.
+
+Durante um passeio em uma bicicleta desse tipo,
+deseja-se fazer um percurso o mais devagar possível,
+escolhendo, para isso, uma das seguintes combinações
+de engrenagens (coroa x catraca)
+
+I u a Iv v
+tex1º | 12x6º | 2ex48 | gax1º | dox68
+
+A combinação escolhida para realizar esse passeio da
+forma desejada é
+
+01
+
+ou
+
+en
+
+ou.
+
+ev

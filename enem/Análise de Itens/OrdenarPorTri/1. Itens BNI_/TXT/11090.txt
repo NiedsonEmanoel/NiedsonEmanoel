@@ -1,0 +1,21 @@
+QUESTÃO 154.
+
+Um jogo entre dois jogadores tem as seguintes regras:
+(a) o primeiro jogador pensa em uma forma geométrica,
+desenha apenas uma parte da forma e fornece uma dica
+para que o segundo jogador termine o desenho; (b) se o
+segundo jogador conseguir concluir o desenho, ganha um
+ponto; caso contrário, quem ganha um ponto é o primeiro
+jogador. Dois amigos, Alberto e Dora, estão jogando o
+referido jogo. Alberto desenhou a figura a seguir e deu
+a seguinte dica a Dora: “a forma em que pensei é a
+planificação de um prisma reto”.
+
+Dora completou o desenho com
+O um pentágono e um retângulo.
+
+& um pentágono e quatro retângulos
+& um pentágono e cinco retângulos.
+
+O dois pentágonos e quatro retângulos.
+& dois pentágonos e cinco retângulos.

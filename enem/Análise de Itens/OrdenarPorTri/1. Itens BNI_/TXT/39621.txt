@@ -1,0 +1,20 @@
+QUESTÃO 172
+
+Um procedimento padrão para aumentar a
+capacidade do número de senhas de banco é
+acrescentar mais caracteres a essa senha. Essa prática,
+além de aumentar as possibilidades de senha, gera um
+aumento na segurança. Deseja-se colocar dois novos
+caracteres na senha de um banco, um no início e outro no
+final, Decidiu-se que esses novos caracteres devem ser
+vogais e o sistema conseguirá diferenciar maiúsculas
+de minúsculas.
+
+Com essa prática, o número de senhas possíveis ficará
+multiplicado por
+
+O 100.
+o 9%
+es
+oz
+e 20

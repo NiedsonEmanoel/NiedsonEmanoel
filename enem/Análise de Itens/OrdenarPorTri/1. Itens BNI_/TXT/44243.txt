@@ -1,0 +1,32 @@
+QUESTÃO 175
+É comum os artistas plásticos se apropriarem de
+
+entes matemáticos para produzirem, por exemplo, formas
+
+e imagens por meio de manipulações. Um artista plástico,
+
+em uma de suas obras, pretende retratar os diversos
+
+polígonos obtidos pelas intersecções de um plano com
+
+uma pirâmide regular de base quadrada
+
+“Segundo a classificação dos polígonos, quais deles são
+
+possíveis de serem obtidos pelo artista plástico?
+
+Quadrados, apenas.
+
+Triângulos e quadrados, apenas.
+
+Triângulos, quadrados e trapézios, apenas.
+
+Triângulos, quadrados, trapézios e quadritáteros
+
+irregulares, apenas.
+
+Triângulos, quadrados, trapézios, quadrilátero
+
+irregulares e pentágono, apenas.
+
+o 00060

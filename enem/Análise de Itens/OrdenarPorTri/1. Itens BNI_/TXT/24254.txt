@@ -1,0 +1,24 @@
+QUESTÃO 167
+
+No comércio é comumente utilizado o salário mensal
+comissionado. Além de um valor fixo, o vendedor tem um
+incentivo, geralmente um percentual sobre as vendas.
+Considere um vendedor que tenha salário comissionado,
+sendo sua comissão dada pelo percentual do total de
+vendas que realizar no período. O gráfico expressa o
+valor total de seu salário, em reais, em função do total de
+vendas realizadas, também em reais.
+
+Total do
+i Vendas (R$)
+
+O 10000 2000 30000 40000 0000 Goo
+
+do i
+
+Qual o valor percentual da sua comissão?
+O 20%
+O 50%
+O 167%
+O 277%
+e 500%

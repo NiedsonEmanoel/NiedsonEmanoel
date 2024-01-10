@@ -1,0 +1,18 @@
+QUESTÃO 160
+Urma liga metálica sai do forno a uma temperatura de
+3000 *C e diminui 1% de sua temperatura a cada 30 min.
+
+Use 0,477 como aproximação para log (3) € 1.041
+como aproximação para log, (11)
+
+O tempo decorrido, em hora, até que a liga atinja 30 “C é
+mais próximo de
+
+22.
+50
+
+100.
+200,
+400,
+
+0000

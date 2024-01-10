@@ -1,0 +1,20 @@
+QUESTÃO 145 000000=————————.
+
+O proprietário de um parque aquático deseja construir
+uma piscina em suas dependências. A figura representa
+a vista superior dessa piscina, que é formada por três
+setores circulares idênticos, com ângulo central igual a
+60º. O raio R deve ser um número natural.
+
+O parque aquático já conta com uma piscina em
+formato retangular com dimensões 50 m x 24 m.
+
+O proprietário quer que a área ocupada pela nova
+piscina seja menor que a ocupada pela piscina já existente.
+Considere 3,0 como aproximação para r.
+O maior valor possível para R, em metros, deverá ser
+016
+o 2
+o 2.
+o
+249

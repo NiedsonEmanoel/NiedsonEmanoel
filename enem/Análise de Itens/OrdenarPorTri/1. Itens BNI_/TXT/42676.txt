@@ -1,0 +1,23 @@
+QUESTÃO 142
+
+Cinco amigos marcaram uma viagem à praia em
+dezembro. Para economizar, combinaram de ir num
+único carro. Cada amigo anotou quantos quilômetros seu
+carro fez, em média, por litro de gasolina, nos meses de
+setembro, outubro e novembro. Ao final desse trimestre,
+calcularam a média dos três valores obtidos para
+escolherem o carro mais econômico, ou seja, o que teve
+a maior média. Os dados estão representados na tabela
+
+Carro | Desempenho médio mensal (kmílitro)
+Setembro | Outubro | Novembro
+1 62 20 93
+O 87 68 9.5
+m 83 87 90
+y 85 75 85
+v 80 80 80
+Qual carro os amigos deverão escolher para a viagem?
+oi
+oi
+ein
+om

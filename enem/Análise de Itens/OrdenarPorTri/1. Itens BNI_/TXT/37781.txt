@@ -1,0 +1,19 @@
+QUESTÃO 143
+
+Admita que um tipo de eucalipto tenha expectativa de crescimento exponencial, nos primeiros anos após seu
+plantio, modelado pela função y(f) = a!-?, na qual y representa a altura da planta em metro, té considerado em ano, e
+a é uma constante maior que 1. O gráfico representa a função y.
+
+y (metro,
+
+os|
+0 6 ttano)
+Admita ainda que y(0) fomece a altura da muda quando plantada, e deseja-se cortar os eucaliptos quando as.
+mudas crescerem 7,5 m após o plantio.
+O tempo entre a plantação e o corte, em ano, é igual a
+os.
+04
+os.
+O 109,7
+O 109,15.
+

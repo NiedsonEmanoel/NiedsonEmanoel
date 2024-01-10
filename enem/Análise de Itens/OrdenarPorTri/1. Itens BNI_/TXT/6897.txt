@@ -1,0 +1,26 @@
+QUESTÃO 154 ===" gm
+
+Um artista deseja pintar em um quadro uma figura na
+forma de triângulo equilátero ABC de lado 1 metro. Com o
+objetivo de dar um efeito diferente em sua obra, o artista
+traça segmentos que unem os pontos médios D, E e F
+dos lados BC, AC e AB, respectivamente, colorindo um
+dos quatro triângulos menores, como mostra a figura.
+
+Qual é a medida da área pintada, em metros quadrados,
+do triângulo DEF?
+
+A
+º
+o 2
+
+16
+
+1
+Sa
+
+a
+o
+
+8
+

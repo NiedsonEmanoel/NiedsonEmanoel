@@ -1,0 +1,27 @@
+QUESTÃO 148.
+
+Cleber precisava ir a uma papelaria. Sabia a
+localização do ponto de ônibus em que deveria descer.
+
+Quando desceu do ônibus, andou |. de 1 km para o Sul,
+2
+
+depois 2 km para o Leste, em seguida 3 mil metros para o
+Norte e por fim “O de 1 km para Oeste.
+4
+
+Observe a rosa dos ventos a seguir
+
+Norte
+
+Oeste Leste
+
+Sul
+
+Considere uma malha quadriculada formada por
+quadrados cujos lados medem 500 m
+Se a localização inicial de Cleber é dada pelo ponto A
+e a localização final é dada pelo ponto B, qual malha
+representa as localizações inicial e final de Cleber, de
+acordo com a descrição?
+

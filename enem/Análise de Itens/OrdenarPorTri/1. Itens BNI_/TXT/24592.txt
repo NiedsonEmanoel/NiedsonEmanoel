@@ -1,0 +1,40 @@
+QUESTÃO 62. O0000c===—=—
+
+A calda bordalesa é uma alternativa empregada
+no combate a doenças que afetam folhas de plantas.
+Sua produção consiste na mistura de uma solução
+aquosa de sulfato de cobre(Il), CuSO,, com óxido de
+cálcio, CaO, e sua aplicação só deve ser realizada se
+estiver levemente básica. A avaliação rudimentar da
+basicidade dessa solução é realizada pela adição de
+três gotas sobre uma faca de ferro limpa. Após três
+minutos, caso surja uma mancha avermelhada no
+local da aplicação, afirma-se que a calda bordalesa
+ainda não está com a basicidade necessária. O quadro
+apresenta os valores de potenciais padrão de redução (Eº)
+para algumas semirreações de redução.
+
+Semirreação de redução | E"(V)
+Cat+ 28 —Ca -2,87
+Fet+3e > Fe -0,04
+Cu'+ 2 — Cu +0,34
+
+Cu'+e — Cu +0,52
+Fest +e — Fe” +0,77
+
+MOTTA, 1.5. Calda bordalea: utiades e preparo. Dourados: Embrapa, 200 (adiado)
+
+A equação química que representa a reação de formação
+da mancha avermelhada é
+
+Ca?" (aq) + 2 Cu (aq) — Ca (s) + 2 Cuê* (aq)
+
+Ca? (aq) + 2 Fe” (aq) — Ca (s) + 2 Fe* (aq).
+
+Cuê* (aq) + 2 Fe? (aq) — Cu (s) + 2 Fe* (aq).
+
+3 Caê* (aq) + 2 Fe (s) — 3 Ca (5) + 2 Fes (aq)
+
+3 Cu? (aq) +2 Fe (s) — 3 Cu (s) + 2 Fe? (aq).
+
+voos

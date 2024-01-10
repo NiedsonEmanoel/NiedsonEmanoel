@@ -1,0 +1,22 @@
+QUESTÃO 123
+
+Um longo trecho retilíneo de um rio tem um afluente
+perpendicular em sua margem esquerda, conforme
+mostra a figura. Observado de cima, um barco trafega
+com velocidade constante pelo afluente para entrar no rio.
+Sabe-se que a velocidade da correnteza desse rio varia
+uniformemente, sendo muito pequena junto à margem
+e máxima no meio. O barco entra no rio e é arrastado
+lateralmente pela correnteza, mas o navegador procura
+mantê-lo sempre na direção perpendicular à correnteza
+do rio e o motor acionado com a mesma potência.
+
+Correnteza
+
+———emmmmmm
+
+Pelas condições descritas, a trajetória que representa o
+movimento seguido pelo barco é:
+
+o
+

@@ -1,0 +1,29 @@
+QUESTÃO 175
+
+Um cientista, em seus estudos para modelar a
+pressão arterial de uma pessoa, utiliza uma função do
+tipo P(9 = A + Bcos(kt) em que À, Be K são constantes
+reais positivas e f representa a variável tempo, medida
+em segundo. Considere que um batimento cardíaco
+representa o intervalo de tempo entre duas sucessivas
+pressões máximas.
+
+Ao analisar um caso específico, o cientista obteve os dados:
+Pressão mínima 78
+
+Pressão máxima 120
+
+Número de batimentos cardíacos por minuto | 90
+
+A função P(t) obtida, por este cientista, ao analisar o caso
+específico foi
+
+O P()=99+21cos(3m1)
+
+O P()=78+42cos(3mt)
+
+O P()=99+21cos(2mt)
+
+O P()=99+21cos(t)
+
+O P()=78+42cos(t)

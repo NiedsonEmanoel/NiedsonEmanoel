@@ -1,0 +1,29 @@
+QUESTÃO 141 ========agmmmmm
+
+Um pesquisador está realizando várias séries de
+experimentos com alguns reagentes para verificar
+qual o mais adequado para a produção de um
+determinado produto. Cada série consiste em avaliar
+um dado reagente em cinco experimentos diferentes.
+O pesquisador está especialmente interessado
+naquele reagente que apresentar a maior quantidade
+dos resultados de seus experimentos acima da média
+encontrada para aquele reagente. Após a realização de
+cinco séries de experimentos, o pesquisador encontrou
+os seguintes resultados:
+
+Reagente [Reagente|Reagente Reagente [Reagente]
+i 2 3 4 5
+ESTE 0 2 2 1
+Prperimento, 6 6 3 4 2
+RE é 7 8 7 9
+EE 6 10 8 10
+Experimento) 44 5 " 12 "
+
+Levando-se em consideração os experimentos feitos, o
+reagente que atende às expectativas do pesquisador é o
+
+01
+
+voo
+nan

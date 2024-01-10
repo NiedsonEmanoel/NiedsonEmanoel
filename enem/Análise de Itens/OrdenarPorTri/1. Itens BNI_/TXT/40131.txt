@@ -1,0 +1,21 @@
+QUESTÃO 166.
+
+Um show especial de Natal teve 45 000 ingressos
+vendidos. Esse evento ocorrerá em um estádio de futebol
+que disponibilizará 5 portões de entrada, com 4 catracas
+eletrônicas por portão. Em cada uma dessas catracas,
+passará uma única pessoa a cada 2 segundos. O público
+foi igualmente dividido pela quantidade de portões e
+catracas, indicados no ingresso para o show, para a
+efetiva entrada no estádio. Suponha que todos aqueles
+que compraram ingressos irão ao show e que todos
+passarão pelos portões e catracas eletrônicas indicados.
+Qual é o tempo mínimo para que todos passem pelas
+catracas?
+
+O 1hora
+O 1horae 15 minutos.
+O 5horas.
+O 6horas.
+
+O Ghoras e 15 minutos

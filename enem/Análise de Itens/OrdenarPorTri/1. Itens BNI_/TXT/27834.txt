@@ -1,0 +1,36 @@
+QUESTÃO 179
+Dispondo de um grande terreno, uma empresa de
+entretenimento pretende construir um espaço retangular
+para shows e eventos, conforme a figura.
+Palco
+
+Área para o público y (metro)
+
+< x (metro) >
+
+A área para o público será cercada com dois tipos de
+materiais:
+
++ nos lados paralelos ao palco será usada uma tela
+do tipo A, mais resistente, cujo valor do metro linear
+é R$20,00;
+
++ nos outros dois lados será usada uma tela do tipo
+B, comum, cujo metro linear custa R$ 5,00.
+
+A empresa dispõe de R$ 5 000,00 para comprar todas.
+as telas, mas quer fazer de tal maneira que obtenha a
+maior área possível para o público.
+
+A quantidade de cada tipo de tela que a empresa deve
+comprar é
+
+50,0 m da tela tipo A e 800,0 m da tela tipo B.
+
+62,5 m da tela tipo A e 250,0 m da tela tipo B.
+
+100,0 m da tela tipo A e 600,0 m da tela tipo B.
+125,0 m da tela tipo A e 500,0 m da tela tipo B.
+200,0 m da tela tipo A e 200,0 m da tela tipo B.
+
+0000

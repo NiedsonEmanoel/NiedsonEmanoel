@@ -1,0 +1,26 @@
+QUESTÃO 137
+
+Um marceneiro recebeu a encomenda de uma
+passarela de 14,935 m sobre um pequeno lago, conforme
+a Figura |. Aobra será executada com tábuas de 10 cm de
+largura, que já estão com o comprimento necessário para
+instalação, deixando-se um espaçamento de 15 mm entre
+tábuas consecutivas, de acordo com a planta do projeto
+na Figura Il.
+
+15 mm
+
+[14,935 m
+
+10cmT
+Figura | Figura 11
+
+Desconsiderando-se eventuais perdas com cortes durante
+a execução do projeto, quantas tábuas, no mínimo, o
+marceneiro necessitará para a execução da encomenda?
+
+oc
+e 100
+O 130
+O 150
+e 598

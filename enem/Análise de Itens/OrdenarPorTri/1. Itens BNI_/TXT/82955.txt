@@ -1,0 +1,31 @@
+QUESTAO 12 X—>>>>>>>—>—
+
+Uma competição esportiva envolveu 20 equipes
+com 10 atletas cada. Uma denúncia à organização dizia
+que um dos atietas havia utilizado substância proibida
+Os organizadores, então, decidiram fazer um exame
+antidoping. Foram propostos três modos diferentes para
+escolher os atletas que irão realizá-lo:
+
+Modo |: sortear três atletas dentre todos os
+participantes;
+
+Modo II: sortear primeiro uma das equipes e, desta,
+sortear três atletas;
+
+Modo Ill: sortear primeiro três equipes e, então,
+sortear um atleta de cada uma dessas três equipes.
+
+Considere que todos os atletas têm igual probabilidade
+de serem sorteados e que P(1), P(I1) e PL) sejam as
+probabilidades de o atleta que utilizou a substância
+proibida seja um dos escolhidos para o exame no caso do
+sorteio ser feito pelo modo 1, Il ou Ill
+
+Comparando-se essas probabilidades, obtém-se
+o Pm<Pqm<Pq
+o Pú)<P()<Pq)
+e Pm<PI)=Pq)
+o P(=PqN)<Pqm)
+o P()=P()=P(u)
+

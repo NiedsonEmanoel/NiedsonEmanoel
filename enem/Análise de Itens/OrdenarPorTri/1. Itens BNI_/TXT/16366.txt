@@ -1,0 +1,36 @@
+QUESTÃO 56
+
+O morcego emite pulsos de curta duração de ondas
+ultrassônicas, os quais voltam na forma de ecos após
+atingirem objetos no ambiente, trazendo informações a
+respeito das suas dimensões, suas localizações e dos
+seus possíveis movimentos. Isso se dá em razão da
+sensibilidade do morcego em detectar o tempo gasto para
+os ecos voltarem, bem como das pequenas variações nas.
+frequências e nas intensidades dos pulsos ultrassônicos.
+Essas caracteristicas lhe permitem caçar pequenas
+presas mesmo quando estão em movimento em retação
+asi. Considere uma situação unidimensional em que uma
+mariposa se afasta, em movimento retilíneo e uniforme,
+de um morcego em repouso.
+
+Adistância e velocidade da mariposa, na situação descrita,
+seriam detectadas pelo sistema de um morcego por quais
+alterações nas características dos pulsos ultrassônicos?
+
+O Intensidade diminuída, o tempo de retorno aumentado
+e a frequência percebida diminuída.
+
+Intensidade aumentada, o tempo de retorno diminuído
+e a frequência percebida diminuída.
+
+Intensidade diminuída, o tempo de retorno diminuído
+e a frequência percebida aumentada.
+
+Intensidade diminuída, o tempo de retorno aumentado
+e a frequência percebida aumentada.
+
+Intensidade aumentada, o tempo de retorno
+aumentado e a frequência percebida aumentada.
+
+“o oo

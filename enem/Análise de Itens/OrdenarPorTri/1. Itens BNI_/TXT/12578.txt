@@ -1,0 +1,34 @@
+QUESTÃO 77 =auymmmmumm
+
+Fusíveis são dispositivos de proteção de um circuito
+elétrico, sensíveis ao excesso de corrente elétrica.
+Os modelos mais simples consistem de um filamento
+metálico de baixo ponto de fusão, que se funde quando
+a corrente ultrapassa determinado valor, evitando que
+as demais partes do circuito sejam danificadas. A figura
+mostra um diagrama de um circuito em que o fusível F
+protege um resistor R de 12 Q, uma lâmpada L de 6 We
+um alto-falante que conduz 1 A.
+
+Todo de
+
+Sabendo que esse fusível foi projetado para trabalhar
+com uma corrente até 20% maior que a corrente nominal
+que atravessa esse circuito, qual é o valor, em ampêres,
+da corrente máxima que o fusível F permite passar?
+
+10
+
+15
+
+20
+
+25
+
+30
+
+E
+
+12v
+
+voos

@@ -1,0 +1,19 @@
+QUESTÃO 163 = um
+
+Durante a Segunda Guerra Mundial, para decifrarem
+as mensagens secretas, foi utilizada a técnica de
+decomposição em fatores primos. Um número N é dado
+pela expressão 2*. 5”. 7º, na qual x, y e z são números
+inteiros não negativos. Sabe-se que N é múltiplo de 10 e
+não é múltiplo de 7.
+
+O número de divisores de N, diferentes de N, é
+xyz
+
+O (+ 1-g+1)
+
+O xyz-1
+
+O (+1-W+1)-z
+
+e C++ nen

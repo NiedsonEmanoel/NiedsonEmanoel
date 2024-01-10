@@ -1,0 +1,16 @@
+QUESTÃO 137
+Uma caixa contém uma cédula de R$ 5,00, uma de R$ 20,00 e duas de R$ 50,00 de modelos diferentes. Retira-se
+
+aleatoriamente uma cédula dessa caixa, anota-se o seu valor e devolve-se a cédula à caixa. Em seguida, repete-se o
+
+procedimento anterior.
+
+A probabilidade de que a soma dos valores anotados seja pelo menos igual a R$ 55,00 é
+
+o
+
+ni+
+
+o
+
+ola op alo aja

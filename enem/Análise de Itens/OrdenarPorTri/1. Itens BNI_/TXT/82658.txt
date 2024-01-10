@@ -1,0 +1,32 @@
+QUESTÃO 46. 0000c="===——
+
+Certos tipos de superfícies na natureza podem
+refletir luz de forma a gerar um efeito de arco-íris.
+Essa característica é conhecida como iridescência
+e ocorre por causa do fenômeno da interferência de
+película fina. A figura ilustra o esquema de uma fina
+camada iridescente de óleo sobre uma poça d'água.
+Parte do feixe de luz branca incidente (1) reflete na
+interface arfóleo e sofre inversão de fase (2), o que
+equivale a uma mudança de meio comprimento de
+onda. A parte refratada do feixe (3) incide na interface
+óleo/água e sofre reflexão sem inversão de fase (1)
+O observador indicado enxergará aquela região do fime
+com coloração equivalente à do comprimento de onda
+que sofre interferência completamente construtiva entre
+os raios (2) e (5), mas essa condição só é possível para
+uma espessura mínima da película. Considere que o
+caminho percorrido em (3) e (2) corresponde ao dobro da
+espessura E da película de “a
+
+ag es
+cc lá
+
+camada fina de óleo o/ O
+
+Disponivel em: htp201 gem.eg Acesso em: 18 nov. 2014 (adaptado)
+
+Uma
+
+Expressa em termos do comprimento de onda (A), a
+espessura mínima é igual a

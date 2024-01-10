@@ -1,0 +1,36 @@
+QUESTÃO 150 === mm
+
+Ao final de uma competição de ciências em uma
+escola, restaram apenas três candidatos. De acordo
+com as regras, o vencedor será o candidato que obtiver
+a maior média ponderada entre as notas das provas
+finais nas disciplinas química e física, considerando,
+respectivamente, os pesos 4 e 6 para elas. As notas
+são sempre números inteiros. Por questões médicas, o
+candidato Il ainda não fez a prova final de química. No dia
+em que sua avaliação for aplicada, as notas dos outros
+dois candidatos, em ambas as disciplinas, já terão sido
+divulgadas.
+
+O quadro apresenta as notas obtidas pelos finalistas
+nas provas finais.
+
+Candidato Química Física
+l 20 23
+0 x 25
+mu 2 18
+
+A menor nota que o candidato Il deverá obter na prova
+final de química para vencer a competição é
+
+18
+
+19
+
+2
+
+25.
+
+26.
+
+voos

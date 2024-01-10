@@ -1,0 +1,20 @@
+QUESTÃO 168 rir
+Para cadastrar-se em um site, uma pessoa precisa
+escolher uma senha composta por quatro caracteres,
+sendo dois algarismos e duas letras (maiúsculas ou
+minúsculas) As letras e os algarismos podem estar em
+qualquer posição. Essa pessoa sabe que 0 alfabeto é
+composto por vinte e seis letras e que uma letra maiúscula
+difere da minúscula em uma senha
+Opa em: mto om Aces em: tez 2012
+O número total de senhas possíveis para o cadastramento
+nesse site é dado por
+
+o 10-26
+o 0.52
+
+[O
+O 10:26. —
+
+o 10:52 —
+

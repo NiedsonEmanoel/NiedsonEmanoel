@@ -1,0 +1,28 @@
+QUESTÃO 50 mm
+
+Em museus de ciências, é comum encontrarem-se máquinas que eletrizam materiais e geram intensas
+descargas elétricas. O gerador de Van de Graaff (Figura 1) é um exemplo, como atestam as faíscas (Figura 2)
+que ele produz. O experimento fica mais interessante quando se aproxima do gerador em funcionamento, com a
+mão, uma lâmpada fluorescente (Figura 3). Quando a descarga atinge a lâmpada, mesmo desconectada da rede
+elétrica, ela brilha por breves instantes. Muitas pessoas pensam que é o fato de a descarga atingir a lâmpada que
+a faz brilhar. Contudo, se a lâmpada for aproximada dos corpos da situação (Figura 2), no momento em que a
+descarga ocorrer entre eles, a lâmpada também brilhará, apesar de não receber nenhuma descarga elétrica.
+
+Figura 1 Figura 2 Figura 3
+Gerador de Van de Graff Descarga elétrica no gerador Lâmpada fluorescente
+
+Disponhel em: hnevensrocom. Acesso em: 15ego 20
+A grandeza física associada ao brilho instantâneo da lâmpada fluorescente, por estar próxima a uma descarga
+elétrica, é o(a)
+
+carga elétrica.
+
+campo elétrico.
+
+corrente elétrica.
+
+capacitância elétrica.
+
+condutividade elétrica.
+
+Vvo0oo

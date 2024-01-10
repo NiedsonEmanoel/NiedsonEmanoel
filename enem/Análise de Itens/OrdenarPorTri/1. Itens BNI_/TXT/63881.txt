@@ -1,0 +1,17 @@
+QUESTÃO 172
+
+O estado de qualquer substância gasosa é
+determinado pela medida de três grandezas: o volume (V),
+a pressão (P) e a temperatura (T) dessa substância.
+Para os chamados gases “ideais”, o valor do quociente
+
+E é sempre constante. Considere um reservatório que
+
+está cheio de um gás ideal. Sem vazar o gás, realiza-se
+uma compressão do reservatório, reduzindo seu volume à
+metade. Ao mesmo tempo, uma fonte de calor faz a
+temperatura do gás ser quadruplicada. Considere P, e P,
+respectivamente, os valores da pressão do gás no
+reservatório, antes e depois do procedimento descrito.
+
+Arelação entre P, e P, é

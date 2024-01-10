@@ -1,0 +1,33 @@
+QUESTÃO 136
+
+Uma empresa construirá sua página na intemet
+e espera atrair um público de aproximadamente um
+milhão de clientes. Para acessar essa página, será
+necessária uma senha com formato a ser definido pela
+empresa. Existem cinco opções de formato oferecidas
+pelo programador, descritas no quadro, em que “L” e “D”
+representam, respectivamente, letra maiúscula e dígito.
+
+Opção. Formato
+! LDDDDD
+u DDDDDD
+au LLDDDD
+y DDDDD
+v LLLDD
+
+As letras do alfabeto, entre as 26 possíveis, bem
+como os dígitos, entre os 10 possíveis, podem se repetir
+em qualquer das opções
+
+A empresa quer escolher uma opção de formato cujo
+número de senhas distintas possíveis seja superior ão
+número esperado de clientes, mas que esse número não
+seja superior ao dobro do número esperado de clientes.
+
+A opção que mais se adequa às condições da empresa é
+
+ol
+oi
+ein
+oi
+ev.

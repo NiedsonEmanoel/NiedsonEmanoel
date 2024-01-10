@@ -1,0 +1,26 @@
+QUESTÃO 165
+
+Viveiros de lagostas são construídos, por
+cooperativas locais de pescadores, em formato de
+prismas reto-retangulares, fixados ao solo e com telas
+flexíveis de mesma altura, capazes de suportar a
+corrosão marinha. Para cada viveiro a ser construído,
+a cooperativa utiliza integralmente 100 metros lineares
+dessa tela, que é usada apenas nas laterais
+
+-+— Nível do mar
+
+7
+Y
+
+/
+
+E X—+
+Quais devem ser os valores de X e de Y, em metro, para
+que a área da base do viveiro seja máxima?
+
+O 1e4
+O 1e9
+O 10e10
+O 25e25
+O 50e50

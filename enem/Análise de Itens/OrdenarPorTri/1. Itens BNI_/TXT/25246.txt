@@ -1,0 +1,42 @@
+QUESTÃO 156 ===" mmmumum
+
+Uma loja que vende sapatos recebeu diversas
+reclamações de seus clientes relacionadas à venda
+de sapatos de cor branca ou preta. Os donos da loja
+anotaram as numerações dos sapatos com defeito e
+fizeram um estudo estatístico com o intuito de reclamar
+com o fabricante.
+
+Atabela contém a média, a mediana e a moda desses
+dados anotados pelos donos.
+
+Estatísticas sobre as numerações
+dos sapatos com defeito
+Média [Mediana| Moda
+
+Numerações dos
+
+sapatos com defeito | 38 37 38
+
+Para quantificar os sapatos pela cor, os donos
+representaram a cor branca pelo número O é a cor preta
+pelo número 1. Sabe-se que a média da distribuição
+desses zeros e uns é igual a 0,45
+
+Os donos da loja decidiram que a numeração dos
+sapatos com maior número de reclamações e a cor com
+maior número de reclamações não serão mais vendidas.
+
+A loja encaminhou um ofício ao fornecedor dos sapatos,
+explicando que não serão mais encomendados os
+sapatos de cor
+
+O branca e os de número 38.
+
+O branca e os de número 37.
+
+O branca e os de número 36,
+
+O preta e os de número 38.
+
+Q pretaeos de número 37.

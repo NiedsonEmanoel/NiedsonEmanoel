@@ -1,0 +1,32 @@
+QUESTÃO 52
+
+A rede elétrica de uma residência tem tensão de
+10 V.e o morador compra, por engano, uma lâmy
+incandescente com potência nominal de 100 W e tensão
+nominal de 220 V.
+
+Se essa lâmpada for ligada na rede de 110 V, o que
+acontecerá?
+
+O Alâmpada brilhará normalmente, mas como a tensão
+é a metade da prevista, a corrente elétrica será o
+dobro da normal, pois a potência elétrica é o produto
+de tensão pela corrente.
+
+O Alômpadanão acenderá, pois ela é feita paratrabalhar
+apenás com tensão de 220 V, e não funciona com
+tensão abaixo desta.
+
+& A lâmpada irá acender dissipando uma potência de
+50 W, pois como a tensão é metade da esperada, a
+potência também será reduzida à metade.
+
+O Alâmpada irá brilhar fracamente, pois com a metade
+da tensão nominal, a corrente elétrica também será
+menor e a potência disipada será menos da metade
+da nominal
+
+O Alâmpada queimará, pois como a tensão é menor do
+que a esperada, a corrente será maior, ultrapassando
+a corrente para a qual o filamento foi projetado.
+

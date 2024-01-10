@@ -1,0 +1,16 @@
+QUESTÃO 170
+
+Uma barraca de tiro ao alvo de um parque de diversões
+dará um prêmio de R$ 20,00 ao participante, cada vez
+que ele acertar o alvo. Por outro lado, cada vez que ele
+errar o alvo, deverá pagar R$ 10,00. Não há cobrança
+inicial para participar do jogo. Um participante deu 80 tiros
+e, ao final, recebeu R$ 100,00.
+
+Qual foi o número de vezes que esse participante acertou
+oalvo?
+o3
+o
+es
+oc
+ea

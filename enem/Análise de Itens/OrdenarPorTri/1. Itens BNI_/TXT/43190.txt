@@ -1,0 +1,12 @@
+QUESTÃO 161 =>>>>>>>>>>>>>>>————
+Uma caixa-d'água em forma de um paralelepípedo
+retângulo reto, com 4 m de comprimento, 3 m de largura e
+2m de altura, necessita de higienização. Nessa operação,
+a caixa precisará ser esvaziada em 20 min, no máximo.
+Aretirada da água será feita com o auxílio de uma bomba
+de vazão constante, em que vazão é o volume do líquido
+que passa pela bomba por unidade de tempo.
+A vazão mínima, em litro por segundo, que essa bomba
+deverá ter para que a caixa seja esvaziada no tempo
+estipulado é
+02

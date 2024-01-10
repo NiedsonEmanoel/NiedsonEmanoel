@@ -1,0 +1,30 @@
+QUESTÃO 165—————>—>—>—>—>————==
+
+Um conjunto residencial será construído em um
+terreno que está representado no mapa a seguir na escala
+11000. O terreno está divido em lotes quadrados iguais
+ao indicado na figura. No local, será construído um centro
+comunitário, quiosques e praças de lazer e alimentação,
+de tal forma que a soma total dessas áreas não ultrapasse
+-2 da área total do terreno.
+
+5
+
+10 cm
+
+10 cm
+a
+
+A área total, a ser disponibilizada para a construção do
+centro comunitário, dos quiosques e das praças de lazer
+e alimentação, não poderá ultrapassar
+
+O 40000m?
+
+o 4000m.
+
+e “00m
+
+O “mê
+
+e 4m

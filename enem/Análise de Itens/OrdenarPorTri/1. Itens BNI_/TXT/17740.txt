@@ -1,0 +1,32 @@
+QUESTÃO 179
+
+Uma empresa que organiza eventos de formatura
+confecciona canudos de diplomas a partir de folhas de papel
+quadradas. Para que todos os canudos fiquem idênticos,
+cada folha é enrolada em torno de um cilindro de madeira
+de diâmetro dem centímetros, sem folga, dando-se 5 voltas
+completas em torno de tal cilindro. Ao final, amarra-se um
+cordão no meio do diploma, bem ajustado, para que não
+ocorra o desenrolamento, como ilustrado na figura.
+
+qn
+
+Em seguida, retira-se o cilindro de madeira do meio
+do papel enrolado, finalizando a confecção do diploma.
+Considere que a espessura da folha de papel original seja
+desprezivel
+
+Qual é a medida, em centimetros, do lado da folha de
+papel usado na confecção do diploma?
+
+Td
+
+2nd
+
+ata
+
+sTd
+
+10 Td
+
+voo o

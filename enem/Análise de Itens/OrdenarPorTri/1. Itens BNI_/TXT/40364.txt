@@ -1,0 +1,33 @@
+QUESTÃO 77 eme
+
+A revelação das chapas de raios X gera uma solução
+que contém íons prata na forma de Ag(S,0,),”. Para evitar
+a descarga desse metal no ambiente, à recuperação de
+prata metálica pode ser feita tratando eletroquimicamente
+essa solução com uma espécie adequada. O quadro
+apresenta semirreações de redução de alguns íons
+metálicos,
+
+Semirreação de redução E(V)
+Ag(S,0,) (aq) + e => Ag (s)+2S,0,7 (aq)| +0,02
+Cu? (aq) +2e- = Cu(s) +0,34
+Pêra) +28 = Pt(s) +1,20
+Ar+(aq)+3e- — AI(s) -1,66
+Sn” (aq)+2e- = Sn(s) -0,14
+Zn” (aq)+2€ = Zn(s) -0,76
+
+BENDASSOLLI, A. et al Procedimentos para a recuperação de Ag de resíduos quis e
+sólidos. Química Nova, v 26, 1.4, 200 (captado)
+
+Das espécies apresentadas, a adequada para essa
+recuperação é
+
+O cu(s)
+
+o Pts)
+
+O Ar (aq)
+
+O sn(s)
+
+e Zn? (aq).

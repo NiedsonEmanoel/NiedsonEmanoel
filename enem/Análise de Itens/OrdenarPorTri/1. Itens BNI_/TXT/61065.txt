@@ -1,0 +1,21 @@
+QUESTÃO 80 000c="==———
+
+Um estudante, precisando instalar um computador,
+um monitor e uma lâmpada em seu quarto, verificou
+que precisaria fazer a instalação de duas tomadas e
+um interruptor na rede elétrica. Decidiu esboçar com
+antecedência o esquema elétrico.
+
+“O circuito deve ser tal que as tomadas e a lâmpada
+devem estar submetidas à tensão nominal da rede elétrica
+e a lâmpada deve poder ser ligada ou desligada por um
+interruptor sem afetar os outros dispositivos" — pensou
+
+Símbolos adotados:
+
+Lâmpada: $ Tomada: É) Interruptor: 7 —
+
+Qual dos circuitos esboçados atende às exigências?
+
+y
+

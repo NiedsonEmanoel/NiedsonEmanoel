@@ -1,0 +1,19 @@
+QUESTÃO 170 =>>>>>>>"">""""——=
+Para evitar uma epidemia, a Secretaria de Saúde de
+uma cidade dedetizou todos os bairros, de modo a evitar
+a proliferação do mosquito da dengue. Sabe-se que o
+número f de infectados é dado pela função ff) = 2º + 120t
+(em que t é expresso em dia e t = O é o dia anterior à
+primeira infecção) e que tal expressão é válida para os.
+60 primeiros dias da epidemia
+A Secretaria de Saúde decidiu que uma segunda
+dedetização deveria ser feita no dia em que o número de
+infectados chegasse à marca de 1 600 pessoas, e uma
+segunda dedetização precisou acontecer.
+A segunda dedetização começou no
+O 19º dia
+O 20º dia
+O 29º dia
+O 30º dia
+O 60º dia.
+

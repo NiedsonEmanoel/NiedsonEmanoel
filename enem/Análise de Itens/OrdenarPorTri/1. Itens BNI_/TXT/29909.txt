@@ -1,0 +1,26 @@
+QUESTÃO 53 => mymummum
+
+O sonar é um equipamento eletrônico que permite a
+localização de objetos e a medida de distâncias no fundo
+do mar, pela emissão de sinais sônicos e ultrassônicos
+e a recepção dos respectivos ecos. O fenômeno do eco
+corresponde à reflexão de uma onda sonora por um
+objeto, a qual volta ao receptor pouco tempo depois de
+o som ser emitido. No caso do ser humano, o ouvido
+é capaz de distinguir sons separados por, no mínimo,
+0,1 segundo.
+
+Considerando uma condição em que a velocidade do som
+no ar é 340 ms, qual é a distância mínima a que uma
+pessoa deve estar de um anteparo refletor para que se
+possa distinguir o eco do som emitido?
+
+Om
+
+O 34m
+
+e cem
+
+O 1700m
+
+e 3400m

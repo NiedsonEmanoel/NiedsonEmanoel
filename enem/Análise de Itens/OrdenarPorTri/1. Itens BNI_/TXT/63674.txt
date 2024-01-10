@@ -1,0 +1,39 @@
+QUESTÃO 142.
+
+Em uma cidade, o valor total da conta de energia
+elétrica é obtido pelo produto entre o consumo (em kWh)
+eo valor da tarifa do kWh (com tributos), adicionado à
+Cosip (contribuição para custeio da iluminação pública),
+conforme a expressão
+
+Valor do kWh (com tributos) x consumo (em kWh) + Cosip
+
+O valor da Cosip é fixo em cada faixa de consumo.
+O quadro mostra o valor cobrado para algumas faixas.
+
+Faixa de consumo mensal (kWh) | Valor da Cosip (R$)
+Até 80 0,00
+Superior a 80 até 100 2,00
+Superior a 100 até 140 3,00
+Superior a 140 até 200 4,50
+
+Suponha que, emuma residência, todo mês o consumo
+seja de 150 kWh, e o valor do kWh (com tributos) seja de
+R$ 0,50. O morádor dessa residência pretende diminuir
+seu consumo mensal de energia elétrica com o objetivo de
+reduzir o custo total da conta em pelo menos 10%.
+
+Qual deve sero consumo máximo, em kWh, dessa residência
+para produzir a redução pretendida pelo morador?
+
+1341
+
+135,0
+
+1374
+
+138,6
+
+4431
+
+voos

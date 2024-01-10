@@ -1,0 +1,36 @@
+QUESTAO 174 000000-——————————.
+
+Uma carga de 100 contêineres, idênticos ao modelo
+apresentado na Figura 1, deverá ser descarregada no
+porto de uma cidade. Para isso, uma área retangular de
+10 m por 32 m foi cedida para o empilhamento desses
+contêineres (Figura 2)
+
+Area para
+amazenar
+contêineres
+
+10m
+
+Figura 2
+
+De acordo com as normas desse porto, os contêineres
+deverão serempilhados de forma a não sobrarem espaços
+nem ultrapassarem a área delimitada.
+
+Após o empilhamento total da carga e atendendo à norma
+do porto, a altura mínima a ser atingida por essa pilha de
+contêineres é
+
+o
+
+125m
+175m
+250m.
+225m.
+
+o
+e
+ED)
+O 325m
+

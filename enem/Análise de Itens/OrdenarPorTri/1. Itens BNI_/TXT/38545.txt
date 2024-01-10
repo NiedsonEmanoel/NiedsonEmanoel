@@ -1,0 +1,36 @@
+QUESTÃO 178900"
+
+Um estudante está pesquisando o desenvolvimento
+de certo tipo de bactéria. Para essa pesquisa, ele utiliza
+uma estufa para armazenar as bactérias. A temperatura
+no interior dessa estufa, em graus Celsius, é dada pela
+expressão T(h) = — 1? + 22h — 85, em que h representa
+as horas do dia. Sabe-se que o número de bactérias é o
+maior possível quando a estufa atinge sua temperatura
+máxima e, nesse momento, ele deve retirá-las da estufa.
+A tabela associa intervalos de temperatura, em graus
+Celsius, com as classificações: muito baixa, baixa, média,
+alta e muito alta.
+
+CHEIAS) Emritrso
+T<o Muito baixa
+0<T<17 Baixa
+W7<T<30 Média
+30<T<43 Alta
+T>48 Muito alta,
+
+Quando o estudante obtém o maior número possível
+de bactérias, a temperatura no interior da estufa está
+classificada como
+
+muito baixa.
+
+baixa
+
+média.
+
+alta
+
+muito alta.
+
+0000

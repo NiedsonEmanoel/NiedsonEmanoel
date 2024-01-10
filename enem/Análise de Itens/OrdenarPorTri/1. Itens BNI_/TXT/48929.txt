@@ -1,0 +1,40 @@
+QUESTÃO 59
+
+Grandes fontes de emissão do gás dióxido de
+enxofre são as indústrias de extração de cobre e níquel,
+em decorrência da oxidação dos minérios sulfurados.
+Para evitar a liberação desses óxidos na atmosfera e a
+consequente formação da chuva ácida, o gás pode ser
+lavado, em um processo conhecido como dessulfurização,
+conforme mostrado na equação (1),
+
+Caco, (s) + SO, (9) » CaSO, (5) + CO, (9) (1)
+
+Por sua vez, o sulfito de cálcio formado pode ser
+oxidado, com o auxílio do ar atmosférico, para a obtenção
+do sulfato de cálcio, como mostrado na equação (2)
+Essa etapa é de grande interesse porque o produto da
+reação, popularmente conhecido como gesso, é utilizado
+para fins agrícolas.
+
+2 Caso, (s) + O, (9) -» 2 Caso, (s) (2)
+As massas molares dos elementos carbono, oxigênio,
+
+enxofre e cálcio são iguais a 12 g/mol, 16 g/mol, 32 gimol
+e 40 gimol, respectivamente.
+
+BIRD, C. Quimica ambiental. Poi Alegre: Bookman, 2002 (adaptado
+
+Considerando um rendimento de 90% no processo, a
+massa de gesso obtida, em gramas, por mol de gás retido
+é mais próxima de
+
+om
+
+o 108
+
+o 12
+
+o 13
+
+o2s

@@ -1,0 +1,44 @@
+QUESTÃO 152.
+
+De acordo com a ONU, da água utilizada diariamente,
+
+* 25% são para tomar banho, lavar as mãos e
+
+escovar os dentes.
+
++ 33% são utilizados em descarga de banheiro.
+
++ 27% são para cozinhar e beber.
+
+* 15% são para demais atividades.
+
+No Brasil o consumo de água por pessoa chega, em
+média, a 200 litros por dia. gua por pe esa,
+
+O quadro mostra sugestões de consumo moderado
+de água por pessoa, por dia, em algumas atividades
+
+ni Consumo total de água na
+Eid atividade (em litros)
+Tomar banho 240
+Dar descarga 180
+Lavar as mãos 32
+Escovar os dentes 24
+Beber é cozinhar 20
+
+Se cada brasileiro adotar o consumo de água indicado
+no quadro, mantendo o mesmo consumo nas demais
+atividades, então economizará diariamente, em média,
+em litros de água,
+
+30,0
+
+69,6.
+
+100,4
+
+130,4
+
+170,0.
+
+voos

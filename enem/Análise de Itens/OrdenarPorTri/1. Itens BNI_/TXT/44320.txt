@@ -1,0 +1,40 @@
+QUESTÃO 167
+
+Um fabricante recomenda que, para cada m? do
+ambiente a ser climatizado, são necessários 800 BTUh,
+desde que haja até duas pessoas no ambiente. A esse
+número devem ser acrescentados 600 BTUh para cada
+pessoa a mais, e também para cada aparelho eletrônico
+emissor de calor no ambiente. A seguir encontram-se
+as cinco opções de aparelhos desse fabricante e suas
+respectivas capacidades térmicas:
+
+Tipo |: 10 500 BTUh
+Tipo Il: 11 000 BTUh
+Tipo Ill: 11 500 BTUh
+Tipo IV: 12 000 BTUh
+Tipo V: 12 500 BTUh
+
+O supervisor de um laboratório precisa comprar
+um aparelho para climatizar o ambiente. Nele ficarão
+duas pessoas mais uma centrífuga que emite calor.
+O laboratório tem forma de trapézio retângulo, com as
+medidas apresentadas na figura.
+
+A 38m D
+4m
+B 3m c
+
+Para economizar energia, o supervisor deverá escolher
+o aparelho de menor capacidade térmica que atenda
+às necessidades do laboratório e às recomendações do
+fabricante.
+
+A escolha do supervisor recairá sobre o aparelho do tipo
+
+ol
+
+oil.
+on
+on.
+ev.

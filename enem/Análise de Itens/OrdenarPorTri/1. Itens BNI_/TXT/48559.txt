@@ -1,0 +1,39 @@
+QUESTÃO 114
+
+O quadro é um esquema da via de produção de
+biocombustível com base no cultivo de uma cianobactéria
+geneticamente modificada com a inserção do gene
+DGAT. Além da introdução desse gene, os pesquisadores
+interromperam as vias de síntese de outros compostos
+orgânicos, visando aumentar a eficiência na produção do
+biocombustível (triacilglicerol).
+
+Fotossintese
+
+Triose-P Piruvato mp AcetiLCOA mm Ácido graxo
+
+UDP-glicose Glicose-1-P
+sps AGPase Diacilglicerol
+DGAT
+
+Sacarose Glicogênio
+icerol
+
+National Renewable Energy Laboratory NREL creates nem pathways for producing biofuels.
+and acids from cyanobacteria. Disponível em: wnmwnrelgov.
+Acesso em: 16 maio 2013 (adaptado).
+
+Considerando as vias mostradas, uma fonte de matéria-prima
+primária desse biocombustível é o(a)
+
+ácido graxo, produzido a partir da sacarose.
+
+gás carbônico, adquirido via fotossíntese.
+
+sacarose, um dissacarídeo rico em energia.
+
+gene DGAT, introduzido por engenharia genética.
+
+VOO
+
+glicogênio, reserva energética das cianobactérias.

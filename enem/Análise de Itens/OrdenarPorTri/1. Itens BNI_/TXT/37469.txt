@@ -1,0 +1,32 @@
+QUESTÃO 141
+
+Numa tarefa escolar, um aluno precisava fazer a planta
+baixa de sua casa em uma escala de 1 : 40. Ele verificou
+que a base da casa era retangular, tendo 12 metros de
+comprimento e 8 metros de largura. O aluno foi a uma
+papelaria e lá observou que havia cinco tipos de folhas
+de papel, todas com diferentes dimensões. O quadro
+contém os cinco tipos de folhas, com seus comprimentos
+e larguras fomecidos em centímetro.
+
+Folha de papel | Comprimento Largura
+Tipol 16 12
+Tipo ll 30 20
+Tipo III 32 22
+
+Tipo IV 34 24
+Tipo V 48 32
+
+O aluno analisou os cinco tipos de folha e comprou
+a que possuía as dimensões mínimas necessárias para
+que ele fizesse a planta de sua casa na escala desejada,
+deixando exatamente 2 centímetros de margem em cada
+um dos quatro lados da folha.
+
+Afolha escolhida pelo aluno foi a de tipo
+
+ol
+oil.
+on
+on.
+O v.

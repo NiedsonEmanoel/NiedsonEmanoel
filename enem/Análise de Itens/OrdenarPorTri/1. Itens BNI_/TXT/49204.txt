@@ -1,0 +1,27 @@
+QUESTÃO 170 ooo...
+
+Uma indústria produz malhas de proteção solar
+para serem aplicadas em vidros, de modo a diminuir a
+passagem de luz, a partir de fitas plásticas entrelaçadas
+perpendicularmente. Nas direções vertical e horizontal,
+são aplicadas fitas de 1 milímetro de largura, tal que a
+distância entre elas é de (d — 1) milímetros, conforme
+a figura. O material utilizado não permite a passagem
+da luz, ou seja, somente o raio de luz que atingir as
+lacunas deixadas pelo entrelaçamento consegue
+transpor essa proteção.
+
+A taxa de cobertura do vidro é o percentual da área
+
+da região coberta pelas fitas da malha, que são colocadas.
+paralelamente às bordas do vidro.
+
+tm tom tmn tom tim
+oo ta ta
+
+Essa indústria recebeu a encomenda de uma malha
+de proteção solar para ser aplicada em um vidro retangular
+de 5 m de largura por 9 m de comprimento.
+
+A medida de d, em milímetros, para que a taxa de
+cobertura da malha seja de 75% é

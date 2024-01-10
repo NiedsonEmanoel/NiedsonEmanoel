@@ -1,0 +1,22 @@
+QUESTÃO 148 900000====—————————————
+
+O índice pluviométrico é utilizado para mensurar
+a precipitação da água da chuva, em milímetros, em
+determinado período de tempo. Seu cálculo é feito de
+acordo com o nível de água da chuva acumulada em
+1 1r?, ou seja, se o Índice for de 10 mm, significa que a
+altura do nível de água acumulada em um tanque aberto,
+em formato de um cubo com 1 mº de área de base, é
+de 10 mm. Em uma região, após um forte temporal,
+verificou-se que a quantidade de chuva acumulada em
+uma lata de formato cilíndrico, com raio 300 mm e altura
+1200 mm, era de um terço da sua capacidade
+
+Utilize 3,0 como aproximação para r.
+O índice pluviométrico da região, durante o período do
+temporal, em milímetros, é de
+o 108
+o 120.
+o 34
+O 1080.
+o 3240

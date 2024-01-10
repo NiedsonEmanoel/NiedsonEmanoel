@@ -1,0 +1,28 @@
+QUESTÃO 164 000
+
+Uma empresa de telefonia celular possui duas antenas
+que serão substituídas por uma nova, mais potente
+As áreas de cobertura das antenas que serão substituídas
+são círculos de raio 2 km, cujas circunferências se
+tangenciam no ponto O, como mostra a figura.
+
+O Área de cobertura
+
+Antena 2
+
+O ponto O indica a posição da nova antena, e sua
+região de cobertura será um círculo cuja circunferência
+tangenciará externamente as circunferências das áreas
+de cobertura menores.
+
+Com a instalação da nova antena, a medida da área de
+cobertura, em quilômetros quadrados, foi ampliada em
+os
+
+o 1x
+
+o 16
+
+O 3m
+
+O 4

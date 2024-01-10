@@ -1,0 +1,30 @@
+QUESTÃO 155
+
+Uma pessoa está disputando um processo de seleção
+para uma vaga de emprego em um escritório. Em uma
+das etapas desse processo, ela tem de digitar oito textos.
+A quantidade de erros dessa pessoa, em cada um dos
+textos digitados, é dada na tabela.
+
+vi
+vii
+viii 5
+
+Nessa etapa do processo de seleção, os
+
+candidatos serão avaliados pelo valor da mediana do
+número de erros.
+
+A mediana dos números de erros cometidos por essa
+pessoa é igual a
+
+020
+
+025.
+
+e30
+
+o3s.
+
+e 40
+

@@ -1,0 +1,40 @@
+QUESTÃO 57
+
+A minimização do tempo e custo de uma reação
+química, bem como o aumento na sua taxa de conversão,
+caracterizam a eficiência de um processo químico. Como
+consequência, produtos podem chegar ao consumidor
+mais baratos. Um dos parâmetros que mede a eficiência
+de uma reação química é o seu rendimento molar (R, em %),
+definido como
+
+—— esto x 100
+
+Megan uma
+
+R
+
+em que n corresponde ao número de mols. O metanol
+pode ser obtido pela reação entre brometo de metila e
+hidróxido de sódio, conforme a equação química:
+
+CH,Br + NaOH — CH,0H + NaBr
+
+As massas molares (em g/mol) desses elementos
+são:H=1;C=12;0=16;Na=23;Br=80.
+
+O rendimento molar da reação, em que 32 g de metanol
+foram obtidos a partir de 142,5 g de brometo de metila e
+80 g de hidróxido de sódio, é mais próximo de
+
+22%.
+
+40%.
+
+50%.
+
+67%.
+
+75%.
+
+00.00

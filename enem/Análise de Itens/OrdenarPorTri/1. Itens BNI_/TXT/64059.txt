@@ -1,0 +1,19 @@
+QUESTÃO 114
+
+Fusível é um dispositivo de proteção contra
+sobrecorrente em circuitos. Quando a corrente que passa
+por esse componente elétrico é maior que sua máxima
+corrente nominal, o fusível queima. Dessa forma, evita
+que a corrente elevada danifique os aparelhos do circuito.
+Suponha que o circuito elétrico mostrado seja alimentado
+por uma fonte de tensão U e que o fusível suporte uma
+corrente nominal de 500 mA.
+
+Qual é o máximo valor da tensão U para que o fusível não
+queime?
+
+o20v
+o sv
+e cv
+o 120v
+e 185v

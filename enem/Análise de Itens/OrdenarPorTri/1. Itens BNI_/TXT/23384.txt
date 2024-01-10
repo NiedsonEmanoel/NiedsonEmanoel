@@ -1,0 +1,19 @@
+QUESTÃO 159
+
+No centro de uma praça será construída uma estátua
+que ocupará um terreno quadrado com área de 9 metros
+quadrados. O executor da obra percebeu que a escala do
+desenho na planta baixa do projeto é de 1: 25.
+
+Na planta baixa, a área da figura que representa esse
+terreno, em centímetro quadrado, é
+
+O 14.
+
+o 22.
+
+O 3600.
+
+O 7500.
+
+e 32400.

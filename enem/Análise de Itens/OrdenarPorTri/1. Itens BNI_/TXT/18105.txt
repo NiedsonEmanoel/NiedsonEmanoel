@@ -1,0 +1,27 @@
+QUESTÃO 80 mm
+
+Um sistema de pistão contendo um gás é mostrado na figura. Sobre a extremidade superior do êmbolo, que
+pode movimentar-se livremente sem atrito, encontra-se um objeto. Através de uma chapa de aquecimento é possível
+fomecer calor ao gás e, com auxílio de um manômetro, medir sua pressão. A partir de diferentes valores de calor
+fomecido, considerando o sistema como hermético, o objeto elevou-se em valores Ah, como mostrado no gráfico.
+Foram estudadas, separadamente, quantidades equimolares de dois diferentes gases, denominados M e V.
+
+Ah M
+
+Manômetro
+
+Calor fomecido
+Chapa de aquecimento
+
+A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar
+maior pressão de vapor.
+
+menor massa molecular.
+
+maior compressibilidade
+
+menor energia de ativação.
+
+menor capacidade calorífica.
+
+vovo

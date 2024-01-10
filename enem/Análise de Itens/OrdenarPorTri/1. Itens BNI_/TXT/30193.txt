@@ -1,0 +1,40 @@
+QUESTÃO 81
+No manual de uma tomeira elétrica são fomecidas
+instruções básicas de instalação para que o produto
+funcione corretamente:
+- Se a tomeia for conectada à caixadágua
+domiciliar, a pressão da água na entrada da
+
+tomeira deve ser no mínimo 18 kPa e no máximo
+38 kPa
+
+- Para pressões da água entre 38 kPa e 75 kPa
+ou água proveniente diretamente da rede pública,
+é necessário utilizar 0 redutor de pressão que
+acompanha o produto.
+
+- — Essa tomeira elétrica pode ser instalada em um
+prédio ou em uma casa.
+
+Considere a massa específica da água 1 000 kglm* e a
+aceleração da gravidade 10 mis:
+
+Caixa-d'água
+
+Í Alturah
+Torneira elórica
+
+Para que a tomeira funcione corretamente, sem o uso
+do redutor de pressão, quais deverão ser a mínima e a
+máxima altura entre a tomeira e a caixa-d'água?
+
+O 18me38m
+
+O 18me75m
+
+& 38me75m
+
+O 18me38m
+
+€ i8me75m
+

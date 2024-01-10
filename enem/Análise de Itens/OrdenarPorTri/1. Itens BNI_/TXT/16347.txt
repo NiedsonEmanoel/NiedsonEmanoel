@@ -1,0 +1,17 @@
+QUESTÃO 166
+
+Abocha é um esporte jogado em canchas, que são terrenos planos e nivelados, limitados por tablados perimétricos
+de madeira. O objetivo desse esporte é lançar bochas, que são bolas feitas de um material sintético, de maneira a
+situá-las o mais perto possível do bolim, que é uma bola menor feita, preferencialmente, de aço, previamente lançada.
+A Figura 1 ilustra uma bocha e um bolim que foram jogados em uma cancha. Suponha que um jogador tenha lançado
+uma bocha, de raio 5 cm, que tenha ficado encostada no bolim, de raio 2 cm, conforme ilustra a Figura 2.
+
+Figura 1 Figura 2
+
+Considere o ponto C como o centro da bocha, e o ponto O como o centro do bolim. Sabe-se que A e B são os
+pontos em que a bocha e o bolim, respectivamente, tocam o chão da cancha, e que a distância entre A e B é igual a d.
+Nessas condições, qual a razão entre d e o raio do bolim?
+01
+
+2vi0
+o:

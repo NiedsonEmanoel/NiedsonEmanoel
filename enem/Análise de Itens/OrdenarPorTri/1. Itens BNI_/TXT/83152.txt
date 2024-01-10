@@ -1,0 +1,30 @@
+QUESTÃO 159
+Um posto de saúde registrou a quantidade de vacinas
+aplicadas contra febre amarela nos últimos cinco meses:
++ temês:21;
+* 2emês: 22;
+* 3ºmês: 25;
+* 4ºmês:31;
+* 5ºmês:21
+
+No início do primeiro mês, esse posto de saúíde tinha
+228 vacinas contra febre amarela em estoque. A política de.
+reposição do estoque prevê a aquisição de novas vacinas,
+no início do sexto mês, de tal forma que a quantidade inicial
+em estoque para os próximos meses seja iguala 12 vezes a
+média das quantidades mensais dessas vacinas aplicadas
+nos últimos cinco meses.
+
+Para atender essas condições, a quantidade de vacinas
+contra febre amarela que 0 posto de saúde deve adquirir
+no início do sexto mês é
+
+O 156
+
+O 180.
+
+o 192
+
+O 264
+
+O 288.

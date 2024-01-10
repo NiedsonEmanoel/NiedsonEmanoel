@@ -1,0 +1,30 @@
+QUESTÃO 168.
+
+Uma lata de tinta, com a forma de um paralelepípedo
+retangular reto, tem as dimensões, em centímetros,
+mostradas na figura.
+
+[a
+
+40
+
+54
+
+24
+
+Será produzida uma nova lata, com os mesmos
+formato e volume, de tal modo que as dimensões de sua
+base sejam 25% maiores que as da lata atual
+
+Para obter a altura da nova lata, a altura da lata atual deve
+ser reduzida em
+
+O144%
+
+O 200%
+
+O 320%
+
+O 360%
+
+O 640%

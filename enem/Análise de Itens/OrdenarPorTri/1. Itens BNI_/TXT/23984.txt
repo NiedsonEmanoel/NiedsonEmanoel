@@ -1,0 +1,41 @@
+QUESTÃO 179
+
+Uma fundição de alumínio utiliza, como matéria-
+prima, lingotes de alumínio para a fabricação de peças
+injetadas. Os lingotes são derretidos em um forno é o
+alumínio, em estado líquido, é injetado em moldes para se
+solidificar no formato desejado. O gráfico indica as curvas
+de resfriamento do alumínio fundido no molde para três
+diferentes fluídos refrigerantes (tipo |, tipo Il e tipo II), que
+são utilizados para resfriar o molde, bem como a curva
+de resfriamento quando não é utilizado nenhum tipo de
+fluído refrigerante. A peça só pode ser retirada do molde
+(desmolde) quando atinge a temperatura de 100 *C.
+Para atender a uma encomenda, a fundição não poderá
+gastar mais do que 8 segundos para o desmolde da peça
+após a sua injeção.
+
+700
+
+Sem fudo retrigeranta
+
+O 2 4 6 E To 2 4 16 1% 20
+Tempo de resfriamento (s)
+
+Com a exigência para o desmolde das peças injetadas,
+qual(is) fluido(s) refrigerantes) poderá(ão) ser utiizado(s)
+no resfriamento?
+
+Qualquer um dos fluidos do tipo |, ll e ll
+
+Somente os fluidos do tipo Il e ll
+
+Somente o fluido do tipo Ill
+
+Não será necessário utilizar nenhum fluido
+refrigerante.
+
+Nenhum dos fluidos refrigerantes indicados atende
+às exigências
+
+o ovos

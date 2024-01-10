@@ -1,0 +1,17 @@
+QUESTÃO 145:
+
+Um lojista adquiriu novas embalagens para
+presentes que serão distribuídas aos seus clientes.
+As embalagens foram entregues para serem montadas
+e têm forma dada pela figura.
+
+Após montadas, as embalagens formarão um sólido com
+quantas arestas?
+
+10
+12
+14
+15
+16
+
+vooos

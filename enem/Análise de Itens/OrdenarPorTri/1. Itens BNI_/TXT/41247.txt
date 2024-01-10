@@ -1,0 +1,29 @@
+QUESTÃO 72
+
+Em um hospital havia cinco lotes de bolsas de
+sangue, rotulados com os códigos |, 1, Il, IV e V. Cada
+lote continha apenas um tipo sanguíneo não identificado.
+Uma funcionária do hospital resolveu fazer a identificação
+utilizando dois tipos de soro, anti-A e anti-B. Os resultados
+obtidos estão descritos no quadro.
+
+Ea cume E Soro anti-A | Soro anti-B
+I 2 Não aglutinou | Aglutinou
+T 2 Aglutinou | Não aglutinou
+uu 30 Aglutinou | Aglutinou
+IV 15 Não aglutinou | Não aglutinou
+v 33 Não aglutinou | Aglutinou
+
+Quantos litros de sangue eram do grupo sanguíneo do
+
+tipo A?
+
+015
+
+o
+
+e)
+
+os
+
+e 55

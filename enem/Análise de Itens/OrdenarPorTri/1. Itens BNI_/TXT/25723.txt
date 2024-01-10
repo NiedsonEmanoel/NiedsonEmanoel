@@ -1,0 +1,26 @@
+QUESTÃO 167 ——>>>———————
+
+Umtúneldeve ser lacrado com uma tampa de concreto.
+A seção transversal do túnel e a tampa de concreto têm
+contornos de um arco de parábola e mesmas dimensões.
+Para determinar 0 custo da obra, um engenheiro deve
+calcular a área sob o arco parabólico em questão. Usando
+o eixo horizontal no nível do chão e o eixo de simetria da
+parábola como eixo vertical, obteve a seguinte equação
+para a parábola:
+
+y=9--», sendo x e y medidos em metros.
+
+Sabe-se que a área sob uma parábola como esta é
+igual a 2 da área do retângulo cujas dimensões são,
+
+respectivamente, iguais à base e à altura da entrada do túnel.
+Qual é a área da parte frontal da tampa de concreto, em
+metro quadrado?
+
+18
+
+20
+
+0000
+8

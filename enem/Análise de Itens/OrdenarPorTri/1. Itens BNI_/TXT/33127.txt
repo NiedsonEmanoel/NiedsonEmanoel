@@ -1,0 +1,31 @@
+QUESTÃO 96 "5
+
+O heredograma mostra a incidência de uma anomalia
+genética em um grupo familiar.
+
+O O)
+
+1 2 3 4
+
+7 8 9
+1 12 13
+
+[E Homem com anomalia
+
+10
+
+(O Miuiher com anomatia
+(D Mulher sem anomalia
+
+Homem sem anomalia
+
+O indivíduo representado pelo número 10, preocupado
+em transmitir o alelo para a anomalia genética a seus
+filhos, calcula que a probabilidade de ele ser portador
+desse alelo é de
+
+O 0%
+O 25%
+O 50%
+O 67%.
+O 75%

@@ -1,0 +1,56 @@
+QUESTÃO 168
+
+Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água
+contida em cada reservatório nesse período pode ser visualizada na figura.
+
+Quantidade de água armazenada
+
+Volume (L)
+
+180000 À Sm
+
+170000
+
+160000 80000
+
+150000
+
+140000 70000
+
+130000 —0- Reservatório A cá
+
+120000 —A- Reservatório B X so000
+< Taim V/ o
+5 1000 so 5
+E so 000 E
+S mo sm &
+Ê 70000 7 é
+
+so000 a 30000
+
+so000
+
+40000 20000
+
+30000
+
+20000 10000
+
+amo TÁ
+
+A o
+
+01234 5 6 TB MAM 1617181920
+
+Tempo (h)
+
+número de horas em que os dois reservatórios contêm a mesma quantidade de água é
+
+o
+o
+o
+o
+o
+o
+
+onana

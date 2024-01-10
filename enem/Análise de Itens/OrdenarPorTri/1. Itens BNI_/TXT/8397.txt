@@ -1,0 +1,24 @@
+QUESTÃO 167——==
+
+O número de pessoas que morrem nas ruas e
+estradas brasileiras nunca foi tão alto. As últimas
+mudanças na legislação mostraram-se incapazes de
+frear o aumento dos acidentes. O número de mortes em
+2004 foi de 35 100 pessoas e 38 200, em 2008. Admita
+que o número de mortes, no período de 2004 a 2008,
+tenha apresentado um crescimento anual constante.
+
+Veja, 2 nov 2014 (aagiço
+A expressão algébrica que fornece o número de mortes N,
+no ano x (com 2004 < x < 2008), é dada por
+
+O N=800x+35100
+
+O N=s00(x- 2004) + 35 100
+
+& N=s00(x- 2004)
+
+O N=3200(x- 2004) + 35 100
+
+& N=3200x+35100
+

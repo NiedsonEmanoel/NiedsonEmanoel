@@ -1,0 +1,33 @@
+QUESTÃO 91
+
+Rudolf Diesel patenteou um motor a combustão
+intema de elevada eficiência, cujo ciclo está
+esquematizado no diagrama pressão x volume. O ciclo
+Diesel é composto por quatro etapas, duas das quais
+são transformações adiabáticas. O motor de Diesel é
+caracterizado pela compressão de ar apenas, com a
+injeção do combustível no final
+
+Pressão
+
+>
+v, NA V, Volume
+
+No ciclo Diesel, o calor é absorvido em:
+
+O A>BeC o, pois em ambos ocorre realização de
+trabalho
+
+O A=BeB-cC, pois em ambos ocorre elevação da
+temperatura
+
+O CD, pois representa uma expansão adiabática e o
+sistema realiza trabalho.
+
+O A- B, pois representa uma compressão adiabática
+em que ocorre elevação da temperatura
+
+o
+
+BC, pois representa expansão isobárica em que
+o sistema realiza trabalho e a temperatura se eleva

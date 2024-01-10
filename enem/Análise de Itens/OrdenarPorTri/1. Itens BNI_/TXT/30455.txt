@@ -1,0 +1,21 @@
+QUESTÃO 180
+
+Uma ponte precisa ser dimensionada de forma que
+possa ter três pontos de sustentação. Sabe-se que a
+carga máxima suportada pela ponte será de 12 t. O ponto
+de sustentação central receberá 60% da carga da ponte,
+eo restante da carga será distribuído igualmente entre os
+outros dois pontos de sustentação.
+
+No caso de carga máxima, as cargas recebidas pelos três
+pontos de sustentação serão, respectivamente,
+
+O 18t 84t 18t
+
+O 30t, 60t 30t
+
+O 241, 72t 24t
+
+O 36t 48t 36t
+
+O 421 36t 42t

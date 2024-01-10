@@ -1,0 +1,24 @@
+QUESTÃO 48
+
+Um cosmonauta russo estava a bordo da estação
+espacial MIR quando um de seus rádios de comunicação
+quebrou. Ele constatou que dois capacitores do rádio
+de 3 yF e 7 yF ligados em série estavam queimados.
+Em função da disponibilidade, foi preciso substituir os
+capacitores defeituosos por um único capacitor que
+cumpria a mesma função.
+
+Qual foi a capacitância, medida em pF, do capacitor
+utilizado pelo cosmonauta?
+
+0,10
+
+0,50
+
+241
+
+10
+
+2”
+
+0000

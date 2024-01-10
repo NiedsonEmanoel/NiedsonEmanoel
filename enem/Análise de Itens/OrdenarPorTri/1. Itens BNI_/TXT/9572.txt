@@ -1,0 +1,12 @@
+QUESTÃO 139.
+
+A direção de uma escola comprará lapiseiras para
+distribuir para os seus alunos. Sabe-se que x lapiseiras
+custam y reais.
+
+O número máximo de lapiseiras que a direção da escola
+conseguirá comprar com z reais é o maior inteiro menor
+do que, ou iguala
+
+o
+

@@ -1,0 +1,22 @@
+QUESTÃO 144 === mmumumum
+
+Um fazendeiro tem um depósito para armazenar leite
+formado por duas partes cúbicas que se comunicam,
+como indicado na figura. A aresta da parte cúbica de
+baixo tem medida igual ao dobro da medida da aresta
+da parte cúbica de cima. A torneira utilizada para encher
+o depósito tem vazão constante e levou 8 minutos para
+encher metade da parte de baixo.
+
+Quantos minutos essa tomeira levará para encher
+completamente o restante do depósito?
+
+os
+
+010
+
+o 16
+
+os
+
+ez

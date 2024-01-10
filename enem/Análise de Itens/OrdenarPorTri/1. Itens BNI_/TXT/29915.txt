@@ -1,0 +1,16 @@
+QUESTÃO 159
+
+A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos,
+em formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.
+
+Cano de
+entrada
+
+Reservatório 1 Reservatório 2]
+
+A água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do
+cano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.
+
+Qual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água
+no sistema?
+

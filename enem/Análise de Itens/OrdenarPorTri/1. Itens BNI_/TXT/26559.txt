@@ -1,0 +1,21 @@
+QUESTÃO 104
+
+O osciloscópio é um instrumento que permite observar
+uma diferença de potencial (ddp) em um circuito elétrico
+em função do tempo ou em função de outra ddp. A leitura
+do sinal é feita em uma tela sob a forma de um gráfico
+tensão x tempo.
+
+dap (V)
+200
+150
+
+-200 5 o t(ms)
+BOMFIM. M. Disponível em rir Acesso em: 14 ago. 2012 (adapiado
+A frequência de oscilação do circuito elétrico estudado é
+mais próxima de
+O 300 Hz.
+O 250Hz
+e 200 Hz.
+O 150 Hz.
+O 125Hz

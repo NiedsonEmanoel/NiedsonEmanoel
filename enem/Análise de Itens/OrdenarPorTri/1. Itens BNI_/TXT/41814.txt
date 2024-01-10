@@ -1,0 +1,19 @@
+QUESTÃO 70
+
+O motor de combustão interna, utilizado no transporte
+de pessoas e cargas, é uma máquina térmica cujo ciclo
+consiste em quatro etapas: admissão, compressão,
+explosáolexpansão e escape. Essas etapas estão
+representadas no diagrama da pressão em função do
+volume. Nos motores a gasolina, a mistura ar/combustível
+entra em combustão por uma centelha elétrica
+
+V
+
+Para o motor descrito, em qual ponto do ciclo é produzida
+a centelha elétrica?
+
+4
+
+000
+mvom

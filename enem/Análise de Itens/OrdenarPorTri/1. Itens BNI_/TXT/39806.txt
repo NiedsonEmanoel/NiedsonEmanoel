@@ -1,0 +1,30 @@
+QUESTÃO 138 000000"
+
+Uma fábrica de sorvetes utiliza embalagens
+plásticas no formato de paralelepípedo retangular reto.
+Internamente, a embalagem tem 10 cm de altura e
+base de 20 cm por 10 cm. No processo de confecção
+do sorvete, uma mistura é colocada na embalagem
+no estado líquido e, quando levada ao congelador,
+tem seu volume aumentado em 25%, ficando com
+consistência cremosa
+
+Inicialmente é colocada na embalagem uma mistura
+sabor chocolate com volume de 1 000 cm?e, após essa
+mistura ficar cremosa, será adicionada uma mistura
+sabor morango, de modo que, ao final do processo de
+congelamento, a embalagem fique completamente
+preenchida com sorvete, sem transbordar.
+
+O volume máximo, em cmº, da mistura sabor morango
+que deverá ser colocado na embalagem é
+
+o 45
+
+o 500
+
+o e.
+
+o 750
+
+e 1000.

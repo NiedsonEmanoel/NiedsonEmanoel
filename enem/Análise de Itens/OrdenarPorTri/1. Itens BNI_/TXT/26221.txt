@@ -1,0 +1,31 @@
+QUESTÃO 84
+
+O álcool utilizado como combustível automotivo (etanol hidratado) deve apresentar uma taxa máxima de água em
+sua composição para não prejudicar o funcionamento do motor. Uma maneira simples e rápida de estimar a quantidade
+de etanol em misturas com água é medir a densidade da mistura. O gráfico mostra a variação da densidade da mistura
+(água e etanol) com a fração percentual da massa de etanol (f), dada pela expressão
+
+00x— TE
+(mt+m)
+
+em que m, e m, são as massas de etanol e de água na mistura, respectivamente, a uma temperatura de 20.
+
+1
+
+0 10 20 30 40 50 6 70 8 9 10
+A pone e una com Acess emas 2a
+
+Suponha que, em uma inspeção de rotina realizada em determinado posto, tenha-se verificado que 50,0 cr de álcool
+
+combustível tenham massa igual a 45,0 g. Qual é a fração percentual de etanol nessa mistura?
+
+o7%
+
+o 10%
+
+e 55%
+
+O 90%
+
+e n%
+

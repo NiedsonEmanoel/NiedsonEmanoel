@@ -1,0 +1,30 @@
+QUESTÃO 55
+
+O avanço tecnológico da medicina propícia o
+desenvolvimento de tratamento para diversas doenças,
+como as relacionadas à visão. As correções que utilizam.
+laser para O tratamento da miopia são consideradas
+seguras até 12 dioptrias, dependendo da espessura e
+curvatura da cómea. Para valores de dioptria superiores a
+esse, o implante de lentes intraoculares é mais indicado.
+Essas lentes, conhecidas como lentes fácicas (LP), são
+implantadas junto à cómea, antecedendo o cristalino (C),
+sem que esse precise ser removido, formando a imagem.
+correta sobre a retina (R).
+
+O comportamento de um feixe de luz incidindo no olho
+que possui um implante de lentes fácicas para correção
+do problema de visão apresentado é esquematizado por
+
+LF Cc R
+o |
+
+LF Cc R
+
+LF C R
+
+LF Cc R
+
+LF Cc
+
+3

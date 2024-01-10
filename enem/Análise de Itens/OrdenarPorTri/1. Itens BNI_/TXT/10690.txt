@@ -1,0 +1,63 @@
+QUESTÃO 176: =—
+
+Os egípcios da Antiguidade criaram um sistema
+muito interessante para escrever números baseado em
+agrupamento.
+
+O número 1 é representado pelo bastão |, o
+número 2 por dois bastões | | e assim por diante,
+até o número 9, representado por noves bastões em
+sequência | ||| || | [ |. Para o número 10, utiliza-se o
+símbolo [ | e alguns outros números múltiplos de 10
+estão descritos na tabela a seguir.
+
+Símbolo Egípcio Número na nossa notação.
+
+n
+?
+
+10
+100
+1000
+10 000
+100 000
+
+1.000 000
+
+bi
+
+Os números de 1 a 9 999 999 na numeração egípcia
+derivam dos símbolos da tabela, respeitando as devidas
+quantidades e posições (símbolos que representam
+números maiores são colocados à esquerda e de maneira
+decrescente, são colocados os demais símbolos à direita,
+até a soma deles chegar ao número desejado). Por
+
+Os números de 1 a 9 999 999 na numeração egípcia
+derivam dos símbolos da tabela, respeitando as devidas
+quantidades e posições (simbolos que representam
+números maiores são colocados à esquerda e de maneira
+decrescente, são colocados os demais símbolos à direita,
+até a soma deles chegar ao número desejado). Por
+exemplo, o número 321 é descrito por 222NNI, pois
+100+100+100+10+10+
+
+igual a 321
+
+O número egipeio DQ se 7 º 99999991]
+
+equivale ao número
+
+o
+o
+o
+o
+e
+
+12372
+
+1230 072
+1203 702
+1.230 702
+1237 200
+

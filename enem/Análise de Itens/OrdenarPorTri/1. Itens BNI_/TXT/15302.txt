@@ -1,0 +1,13 @@
+QUESTÃO 164.
+
+Uma criança deseja criar triângulos utilizando palitos
+de fósforo de mesmo comprimento. Cada triângulo será
+construído com exatamente 17 palitos e pelo menos
+um dos lados do triângulo deve ter o comprimento
+de exatamente 6 palitos. A figura ilustra um triângulo
+construído com essas características.
+
+A quantidade máxima de triângulos não congruentes dois
+a dois que podem ser construídos é
+
+03

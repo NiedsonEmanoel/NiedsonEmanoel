@@ -1,0 +1,40 @@
+QUESTÃO 66
+
+“Suponha que um pesticida lipossotúvel que se acumula no organismo após ser ingerido tenha sido utilizado durante
+anos na região do Pantanal, ambiente que tem uma de suas cadeias alimentares representadas no esquema:
+
+cadeia alimentar?
+
+o
+
+PLÂNCTON
+
+PULGA-D'ÁGUA
+
+LAMBARI
+
+PIRANHA
+
+Um pesquisador avaliou a concentração do pesticida nos tecidos de lambaris da região e obteve um resultado de
+6,1 partes por milhão (ppm).
+
+Qual será o resultado compatível com a concentração do pesticida (em ppm) nos tecidos dos outros componentes da
+
+PLÂNCTON PULGA-D'ÁGUA PIRANHA Tui
+
+151 10,3 43 12
+PLÂNCTON PULGA-D'ÁGUA PIRANHA
+
+81 81 81 81
+PLÂNCTON PULGA-D'ÁGUA PIRANHA
+
+24 43 10,4
+PLÂNCTON PULGA-D'ÁGUA PIRANHA
+
+24 39 a 23
+PLÂNCTON PULGA-D'ÁGUA PIRANHA
+
+as 58 53 96
+
+TUIUIÚ
+

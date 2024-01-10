@@ -1,0 +1,20 @@
+QUESTÃO 148.
+
+Um construtor pretende murar um terreno e, para
+isso, precisa calcular o seu perímetro. O terreno está
+representado no plano cartesiano, conforme a figura,
+no qual foi usada a escala 1 : 500. Use 2,8 como
+aproximação para VB.
+
+em
+
+De acordo com essas informações, o perímetro do
+terreno, em metros, é
+
+10
+120,
+124
+130,
+144
+
+voos

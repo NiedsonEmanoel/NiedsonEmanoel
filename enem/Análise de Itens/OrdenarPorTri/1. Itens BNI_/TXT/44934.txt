@@ -1,0 +1,31 @@
+QUESTÃO 176
+
+Barras de cobre cilíndricas são utilizadas para fazer
+aterramentos elétricos.
+
+Durante a instalação de um chuveiro, uma pessoa
+utilizou uma barra de aterramento de densidade p,
+massa m, diâmetro D = 2R e altura h.
+
+Para fazer um novo aterramento, essa pessoa
+utilizou uma barra com a mesma densidade, mas com
+o dobro da massa e o dobro do diâmetro em relação à
+usada no chuveiro.
+
+m
+A densidade é dada por p= e o volume da barra
+cilíndrica é V= 7: R2-h.
+
+Qual a relação da altura da barra utilizada no novo
+aterramento comparada àquela utilizada no aterramento
+do chuveiro?
+
+O Quarta parte
+
+O Metade.
+
+O Igual
+
+O Dobro.
+
+O Quádruplo.

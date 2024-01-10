@@ -1,0 +1,12 @@
+QUESTÃO 175
+Num mapa com escala 1 : 250 000, a distância entre
+as cidades A e B é de 13 cm. Num outro mapa, com escala
+1.:300 000, a distância entre as cidades A e C é de 10 cm.
+Em um terceiro mapa, com escala 1 : 500 000, a distância
+entre as cidades A e D é de 9 cm. As distâncias reais entre
+a cidade A e as cidades B, C e D são, respectivamente,
+iguais a X, Y e Z (na mesma unidade de comprimento).
+As distâncias X, Ye Z, em ordem crescente, estão dadas em
+ox.y.z
+ov.x.z
+

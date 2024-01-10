@@ -1,0 +1,31 @@
+QUESTÃO 161
+
+A Companhia de Engenharia de Tráfego (CET) de
+São Paulo testou em 2013 novos radares que permitem o
+cálculo da velocidade média desenvolvida por um veículo
+em um trecho da via.
+
+O sistema mede o tempo
+decorrido entre um radar
+e outro e calcula a E
+velocidade média.
+
+As medições de velocidade deixariam de ocorrer de
+maneira instantânea, ao se passar pelo radar, e seriam feitas.
+a partir da velocidade média no trecho, considerando o tempo
+gasto no percurso entre um radar e outro. Sabe-se que a
+velocidade média é calculada como sendo a razão entre a
+distância percorrida e o tempo aasto para percorrêa
+O teste realizado mostrou que o tempo que permite uma
+condução segura de deslocamento no percurso entre os dois
+radares deveria ser de, no mínimo, 1 minuto e 24 segundos.
+Comisso, a CET precisa instalar uma placa antes do primeiro
+radar informando a velocidade média máxima permitida
+nesse trecho da via. O valor a ser exibido na placa deve ser
+o maior possível, entre os que atendem às condições de
+condução segura observadas.
+Disponivel em: men oa otcom br Moss em: ta. 201 (adaptado)
+A placa de sinalização que informa a velocidade que
+atende a essas condições é
+
+o

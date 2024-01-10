@@ -1,0 +1,24 @@
+QUESTÃO 177
+
+O quadro apresenta a ordem de colocação dos seis
+primeiros países em um dia de disputa nas Olimpiadas.
+A ordenação é feita de acordo com as quantidades de
+medalhas de ouro, prata e bronze, respectivamente.
+
+Paí Ouro | Prata | Bronze | Total
+1º China 9 5 3 1
+2º EUA 5 7 4 16,
+3º França, 3 1 3 7
+4ºArgentina | 3 2 2 7
+5º Itália 2 6 2 10
+6º Brasil 2 5 3 10
+
+Se as medalhas obtidas por Brasil e Argentina fossem
+reunidas para formar um único país hipotético, qual a
+
+posição ocupada por esse pais?
+or
+oz
+os
+o“
+os

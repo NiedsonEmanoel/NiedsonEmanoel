@@ -1,0 +1,33 @@
+QUESTÃO 151
+
+Chegando ao destino de uma mesma viagem, os
+turistas Xe Y alugarão, cada um deles, um carro. Fizeram,
+previamente, cotações com as mesmas três locadoras
+de automóveis da região. Os valores dos aluguéis estão
+representados pelas expressões dadas no quadro, sendo
+Ko número de quilômetros percorridos, e N o número de
+diárias pagas pelo aluguel.
+
+Valor cobrado, em real,
+pelo aluguel do carro
+
+I 100N+0,8K
+H 7ON+1,2K
+W 120N+0,6K
+
+Empresa
+
+O turista X alugará um carro em uma mesma locadora
+por três dias e percorrerá 250 km. Já a pessoa Y usará o
+carro por apenas um dia e percorrerá 120 km.
+
+Com o intuito de economizarem com as locações dos
+carros, e mediante as informações, os turistas X e Y
+alugarão os carros, respectivamente, nas empresas
+
+O el.
+O lei
+O llell.
+O lei.
+
+O liel.

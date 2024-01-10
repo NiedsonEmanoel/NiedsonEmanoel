@@ -1,0 +1,25 @@
+QUESTÃO 46
+
+Um eletricista projeta um circuito com três lâmpadas
+incandescentes idênticas, conectadas conforme a figura.
+Deseja-se que uma delas fique sempre acesa, por isso é
+ligada diretamente aos polos da bateria, entre os quais se
+mantém uma tensão constante. As outras duas lâmpadas.
+são conectadas em um fio separado, que contém uma
+chave. Com a chave aberta (desligada), a bateria fomece
+uma potência X.
+
+2 3
+Chave 1
+
+se
+
+Bateria
+
+Assumindo que as lâmpadas obedeçam à Lei de Ohm,
+com a chave fechada, a potência fomecida pela bateria,
+em função de X, é
+
+o 2x
+
+ox

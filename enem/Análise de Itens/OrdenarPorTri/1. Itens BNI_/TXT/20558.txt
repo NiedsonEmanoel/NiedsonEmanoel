@@ -1,0 +1,24 @@
+QUESTÃO 167
+
+Em um trabalho escolar, João foi convidado a calcular as áreas de vários quadrados diferentes, dispostos em
+sequência, da esquerda para a direita, como mostra a figura.
+
+ooo |
+
+O primeiro quadrado da sequência tem lado medindo 1 cm, o segundo quadrado tem lado medindo 2 cm, o terceiro
+quadrado tem lado medindo 3 cm e assim por diante. O objetivo do trabalho é identificar em quanto a área de cada
+quadrado da sequência excede a área do quadrado anterior. A área do quadrado que ocupa a posição n, na sequência,
+foi representada por A,
+
+Para n>2, o valor da diferença A, - A, , em centimetro quadrado, é igual a
+2n-1
+
+2n+1
+
+-2n+1
+
+(n=1p
+
+[a]
+
+0000

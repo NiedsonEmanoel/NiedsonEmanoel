@@ -1,0 +1,49 @@
+QUESTÃO 101
+
+Saiba impedir que os cavalos de troia abram a
+guarda de seu computador
+
+A lenda da Guerra de Troia conta que gregos
+conseguiram entrar na cidade camuflados em um cavalo
+e, então, abriram as portas da cidade para mais guerreiros
+entrarem e vencerem a batalha. Silencioso, o cavalo de
+troia é um programa malicioso que abre as portas do
+computador a um invasor, que pode utilizar como quiser o
+privilégio de estar dentro de uma máquina. Esse malware
+é instalado em um computador de forma camufiada,
+sempre com o “consentimento” do usuário. A explicação
+é que essa praga está dentro de um arquivo que parece
+ser útil, como um programa ou proteção de tela — que,
+ao ser executado, abre caminho para o cavalo de troia.
+Aintenção da maioria dos cavalos de troia (trojans) não é
+contaminar arquivos ou hardwares. Atualmente, o objetivo
+principal dos cavalos de troia é roubar informações de
+uma máquina. O programa destrói ou altera dados com
+intenção maliciosa, causando problemas ao computador
+ou utilizando-o para fins criminosos, como enviar spams.
+A primeira regra para evitar a entrada dos cavalos de troia
+é não abra arquivos de procedência duvidosa
+
+Disponível em: pignomaoL comb. Acesso em: tá ao. 202 (adido
+
+Cavalo de troia é considerado um malware que
+invade computadores, com intenção maliciosa. Pelas
+informações apresentadas no texto, depreende-se que a
+finalidade desse programa é
+
+O roubar informações ou alterar dados de arquivos de
+procedência duvidosa.
+
+inserir senhas para enviar spams, através de um
+rastreamento no computador.
+
+rastrear e investigar dados do computador sem o
+conhecimento do usuário.
+
+induzir o usuário a fazer uso criminoso e malicioso de
+seu computador.
+
+usurpar dados do computador, mediante sua
+execução pelo usuário.
+
+[o =)

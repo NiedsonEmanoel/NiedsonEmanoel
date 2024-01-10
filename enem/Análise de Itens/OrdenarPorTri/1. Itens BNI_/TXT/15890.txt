@@ -1,0 +1,23 @@
+QUESTÃO 156 000000
+
+Em uma escola, a probabilidade de um aluno
+compreender e falar inglês é de 30%. Três alunos
+dessa escola, que estão em fase final de seleção de
+intercâmbio, aguardam, em uma Sala, serem chamados
+para uma entrevista. Mas, ao invés de chamá-los um a
+um, o entrevistador entra na sala e faz, oralmente, uma
+pergunta em inglês que pode ser respondida por qualquer
+um dos alunos.
+
+A probabilidade de o entrevistador ser entendido e ter sua
+pergunta oralmente respondida em inglês é
+
+O 237%
+
+O 30,0%
+
+O 41%
+
+O 65,7%
+
+O 90,0%

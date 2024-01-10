@@ -1,0 +1,21 @@
+QUESTÃO 143—————— ===
+
+Ao alugar um carro, o locatário precisa pagar
+R$ 60,00 por dia, e mais R$ 1,50 por quilômetro rodado.
+Para facilitar, as locadoras podem fazer uma relação entre
+o valor a ser pago P, em reais, em função dos quilômetros
+rodados, representado por x.
+
+Qual das expressões abaixo representa o valor pago
+pelos locatários em função dos quilômetros rodados?
+P=61,50+1,50x
+
+P=60x+1,50
+
+P=60+1,50x
+
+P=61,50x
+
+P=1,50x
+
+vovo

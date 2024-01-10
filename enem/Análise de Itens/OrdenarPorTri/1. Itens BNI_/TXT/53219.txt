@@ -1,0 +1,16 @@
+QUESTÃO 144
+
+Preocupada com seus resultados, uma empresa fez
+um balanço dos lucros obtidos nos últimos sete meses,
+conforme dados do quadro.
+
+Mês NESCOCARARIEO
+(em milhões de reats) | 37 | 33 | 35 | 22 | 30 | 35 | 25
+
+Avaliando os resultados, o conselho diretor da
+empresa decidiu comprar, nos dois meses subsequentes,
+a mesma quantidade de matéria-prima comprada no mês
+em que o lucro mais se aproximou da média dos lucros
+mensais dessa empresa nesse período de sete meses.
+Nos próximos dois meses, essa empresa deverá comprar
+a mesma quantidade de matéria-prima comprada no mês

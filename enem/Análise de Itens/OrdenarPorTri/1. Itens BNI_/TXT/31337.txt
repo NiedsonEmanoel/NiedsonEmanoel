@@ -1,0 +1,35 @@
+QUESTÃO 168
+
+Os consumidores X, Y e Z desejam trocar seus planos
+de internet móvel na tentativa de obterem um serviço de
+melhor qualidade. Após pesquisarem, escolheram uma
+operadora que oferece cinco planos para diferentes
+perfis, conforme apresentado no quadro.
+
+Plano | Franquia [da assinatura) excedente
+A 150 MB R$ 29,90 R$0,40
+B 250 MB R$ 34,90 R$0,10
+c 500 MB R$ 59,90 R$0,10
+D 2cB R$ 89,90 R$0,10
+E 5GB R$ 119,90 R$0,10
+
+Dado: 1 GB = 1024 MB
+
+Em cada plano, o consumidor paga um valor fixo
+(preço mensal da assinatura) pela franquia contratada
+e um valor variável, que depende da quantidade de MB
+utilizado além da franquia. Considere que a velocidade
+máxima de acesso seja a mesma, independentemente do
+plano, que os consumos mensais de X, Y e Z são de
+190 MB, 450 MB e 890 MB, respectivamente, e que cada
+um deles escolherá apenas um plano.
+
+Com base nos dados do quadro, as escolhas dos planos
+com menores custos para os consumidores X, Y e Z,
+respectivamente, são
+
+O ACec.
+O ABeD.
+O BBeD.
+O BCec.
+e BCeD.

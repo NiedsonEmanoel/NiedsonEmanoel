@@ -1,0 +1,41 @@
+QUESTÃO 145 =ezezezezezezecececezezezeme
+
+A avaliação de rendimento de alunos de um curso
+universitário baseia-se na média ponderada das notas
+obtidas nas disciplinas pelos respectivos números de
+créditos, como mostra o quadro:
+
+Avaliação Média de notas (M)
+Excelente 9<M<10
+Bom T<M<9
+Regular 5<M<7
+Ruim 3<M<5
+Péssimo, M<3
+
+Quanto melhor a avaliação de um aluno em
+determinado período letivo, maior sua prioridade na
+escolha de disciplinas para o período seguinte.
+
+Determinado aluno sabe que se obtiver avaliação
+“Bom” ou “Excelente” conseguirá matrícula nas disciplinas
+que deseja. Ele já realizou as provas de 4 das 5 disciplinas
+em que está matriculado, mas ainda não realizou a prova
+da disciplina |, conforme o quadro.
+
+Disciplinas Notas CE
+1 12
+un 8,00 4
+um 8,00 8
+V 5,00 8
+V 7,50 10
+
+Para que atinja seu objetivo, a nota mínima que ele deve
+conseguir na disciplina | é
+
+7,00
+7,38
+7,50
+8,25.
+9,00
+
+voos

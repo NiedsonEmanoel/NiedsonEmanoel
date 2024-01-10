@@ -1,0 +1,26 @@
+QUESTÃO 158
+
+A mensagem digitada no celular, enquanto você
+dirige, tira a sua atenção e, por isso, deve ser evitada.
+Pesquisas mostram que um motorista que dirige um
+carro a uma velocidade constante percorre “às cegas”
+(isto é, sem ter visão da pista) uma distância proporcional
+ao tempo gasto ao olhar para o celular durante a digitação
+da mensagem. Considere que isso de fato aconteça.
+Suponha que dois motoristas (X e Y) dirigem com a mesma
+velocidade constante e digitam a mesma mensagem em
+seus celulares. Suponha, ainda, que o tempo gasto pelo
+motorista X olhando para seu celular enquanto digita a
+mensagem corresponde a 25% do tempo gasto pelo
+motorista Y para executar a mesma tarefa.
+
+Dispoível em: hp: globo com. Acesso em: 21 jul. 2012 (adaptado
+
+A razão entre as distâncias percorridas às cegas por
+Xe Y, nessa ordem, é igual a
+
+o:
+o:
+o:
+o:
+o:

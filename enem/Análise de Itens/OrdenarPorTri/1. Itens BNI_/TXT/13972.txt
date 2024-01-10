@@ -1,0 +1,24 @@
+QUESTÃO 150
+
+O prefeito de uma cidade deseja promover uma festa
+popular no parque municipal para comemorar 0 aniversário
+de fundação do município. Sabe-se que esse parque
+possui formato retangular, com 120 m de comprimento
+por 150 m de largura. Além disso, para segurança das
+pessoas presentes no local, a polícia recomenda que
+a densidade média, num evento dessa natureza, não
+supere quatro pessoas por metro quadrado.
+
+Seguindo as recomendações de segurança estabelecidas
+pela polícia, qual é o número máximo de pessoas que
+poderão estar presentes na festa?
+
+O 1000
+
+O 4500
+
+e 18000
+
+O 72000
+
+e 120000

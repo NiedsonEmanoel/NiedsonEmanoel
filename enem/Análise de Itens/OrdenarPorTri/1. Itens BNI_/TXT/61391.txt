@@ -1,0 +1,21 @@
+QUESTÃO 179 000000
+
+Afigurarepresenta avistasuperiorde uma bola de futebol
+americano, cuja forma é um elipsoide obtido pela rotação de
+uma elipse em torno do eixo das abscissas. Os valores a
+€ b são, respectivamente, a metade do seu comprimento
+horizontal € a metade do seu comprimento vertical. Para
+essa bola, a diferença entre os comprimentos horizontal e
+vertical é igual à metade do comprimento vertical
+
+py
+
+Considere que o volume aproximado dessa bola é
+dado por V = 4abz
+
+O volume dessa bola, em função apenas de b, é dado por
+os
+oe
+[RS
+os
+eo

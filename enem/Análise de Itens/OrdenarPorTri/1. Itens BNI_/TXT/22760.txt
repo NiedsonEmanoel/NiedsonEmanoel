@@ -1,0 +1,26 @@
+QUESTÃO 139 ===
+
+Osvidros para veículos produzidos por certo fabricante
+têm transparências entre 70% e 90%, dependendo do lote
+fabricado. Isso significa que, quando um feixe luminoso
+incide no vidro, uma parte entre 70% e 90% da luz
+consegue atravessá-lo. Os veículos equipados com vidros.
+desse fabricante terão instaladas, nos vidros das portas,
+películas protetoras cuja transparência, dependendo do
+lote fabricado, estará entre 50% e 70%. Considere que
+uma porcentagem P da intensidade da luz, proveniente
+de uma fonte extema, atravessa o vidro e a película.
+
+De acordo com as informações, o intervalo das
+porcentagens que representam à variação total possível
+de Pé
+
+O [35;63]
+
+o [0;63]
+
+e E0;70]
+
+O [50;90]
+
+e [70;90]

@@ -1,0 +1,14 @@
+QUESTÃO 71 === mmumum
+
+O pêndulo de Newton pode ser constituído por cinco
+pêndulos idênticos suspensos em um mesmo suporte.
+Em um dado instante, as esferas de três pêndulos são
+deslocadas para a esquerda e liberadas, deslocando-se
+para a direita e colidindo elasticamente com as outras
+duas esferas, que inicialmente estavam paradas.
+
+=
+
+O movimento dos pêndulos após a primeira colisão está
+representado em:
+

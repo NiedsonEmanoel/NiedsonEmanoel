@@ -1,0 +1,33 @@
+QUESTÃO 74
+
+Num experimento, um professor deixa duas bandejas
+de mesma massa, uma de plástico e outra de alumínio,
+sobre a mesa do laboratório. Após algumas horas, ele
+pede aos alunos que avaliem a temperatura das duas
+bandejas, usando para isso o tato. Seus alunos afirmam,
+categoricamente, que a bandeja de alumínio encontra-se
+numa temperatura mais baixa. Intrigado, ele propõe uma
+segunda atividade, em que coloca um cubo de gelo sobre
+cada uma das bandejas, que estão em equilíbrio térmico
+com o ambiente, e os questiona em qual delas a taxa de
+derretimento do gelo será maior.
+
+O aluno que responder corretamente ao questionamento
+do professor dirá que o derretimento ocorrerá
+
+O mais rapidamente na bandeja de alumínio, pois
+ela tem uma maior condutividade térmica que a
+de plástico.
+
+O mais rapidamente na bandeja de plástico, pois ela
+tem inicialmente uma temperatura mais alta que a
+de alumínio,
+
+O mais rapidamente na bandeja de plástico, pois ela tem
+uma maior capacidade térmica que a de alumínio.
+
+O mais rapidamente na bandeja de alumínio, pois ela
+tem um calor específico menor que a de plástico.
+
+O com a mesma rapidez nas duas bandejas, pois
+apresentarão a mesma variação de temperatura.

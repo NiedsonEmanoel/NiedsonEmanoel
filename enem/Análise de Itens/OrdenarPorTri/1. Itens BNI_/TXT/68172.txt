@@ -1,0 +1,25 @@
+QUESTÃO 140
+
+Os congestionamentos de trânsito constituem um
+problema que afiige, todos os dias, milhares de motoristas
+brasileiros. O gráfico ilustra a situação, representando, ao
+longo de um intervalo definido de tempo, a variação da
+velocidade de um veículo durante um congestionamento.
+
+Velocidade
++
+
+19
+Tempo (min)
+
+Quantos minutos o veículo permaneceu imóvel ao longo
+do intervalo de tempo total analisado?
+
+04
+
+voo
+
+3
+2
+1
+(o)

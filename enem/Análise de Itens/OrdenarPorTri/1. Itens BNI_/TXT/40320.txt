@@ -1,0 +1,28 @@
+QUESTÃO 55
+
+As proteinas de uma célula eucariótica possuem
+peptídeos sinais, que são sequências de aminoácidos
+responsáveis pelo seu endereçamento para as diferentes
+organelas, de acordo com suas funções. Um pesquisador
+desenvolveu uma nanopartícula capaz de carregar
+proteinas para dentro de tipos celulares específicos.
+Agora ele quer saber se uma nanopartícula carregada
+com uma proteina bloqueadora do ciclo de Krebs
+in vitro é capaz de exercer sua atividade em uma célula
+cancerosa, podendo cortar o aporte energético e destruir
+essas células.
+
+Ao escolher essa proteina bloqueadora para carregar as
+nanopartículas, o pesquisador deve levar em conta um
+peptídeo sinal de endereçamento para qual organeta?
+Núcleo.
+
+Mitocôndria.
+
+Peroxissomo.
+
+Complexo golgiense.
+
+Retículo endoplasmático.
+
+00.00

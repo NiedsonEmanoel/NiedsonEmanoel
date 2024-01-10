@@ -1,0 +1,28 @@
+QUESTÃO 163
+
+Uma televisão pode ser posicionada de modo que se
+consiga enxergar os detalhes de uma imagem em alta
+definição. Considere que a distância ideal, com conforto
+visual, para se assistir à televisão de 32 polegadas
+é de 1,8 metro. Suponha que haja uma relação de
+proporcionalidade direta entre o tamanho da tela (medido
+em polegada) e a distância ideal. Considere que um
+espectador dispõe de uma televisão de 60 polegadas
+e que ele deseja se posicionar em frente a ela, com
+conforto visual.
+
+A distância da televisão, em metro, em que o espectador
+deve se posicionar para que tenha conforto visual é mais
+próxima de
+
+0,33.
+
+0,96.
+
+1,57.
+
+3,37.
+
+3,60.
+
+vovoo

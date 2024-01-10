@@ -1,0 +1,43 @@
+QUESTÃO 77
+
+A Figura 1 apresenta o gráfico da intensidade,
+em decibéis (dB), da onda sonora emitida por um
+alto-falante, que está em repouso, e medida por um
+microfone em função da frequência da onda para
+diferentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm.
+A Figura 2 apresenta um diagrama com a indicação das
+diversas faixas do espectro de frequência sonora para o
+modelo de alto-falante utilizado neste experimento.
+
+Figura 1
+Resposta de rmquênck
++20
++10 [hrsar
+o =
+8 om |
+0 no!
+-20
+20 so 100 1000 10000 20000
+E
+Deo em wnubaea comb Acto em fo 2015.
+Figura 2
+Fascas do espectro de Sequência sonora
+sungave| Gmve | Mit | uéom | Médt | agua
+E ã êÊ E ê E] ã
+& 35 & ã E º &
+
+Disponível em: wiwsoms com br Acesso em: 2 ar 2018.
+
+Relacionando as informações presentes nas figuras 1 e 2,
+como a intensidade sonora percebida é afetada pelo
+aumento da distância do microfone ao alto-falante?
+
+O Aumenta na faixa das frequências médias.
+
+O Diminui na faixa das frequências agudas.
+
+O Diminui na faixa das frequências graves.
+
+O Aumenta na faixa das frequências médias altas.
+
+O Aumenta na faixa das frequências médias baixas.

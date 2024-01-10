@@ -1,0 +1,26 @@
+QUESTÃO 127
+
+Em uma linha de transmissão de informações por
+fibra óptica, quando um sinal diminui sua intensidade para
+valores inferiores a 10 dB, este precisa ser retransmítido.
+No entanto, intensidades superiores a 100 dB não podem
+ser transmitidas adequadamente. A figura apresenta
+como se dá a perda de sinal (perda óptica) para diferentes
+comprimentos de onda para certo tipo de fibra óptica.
+
+6)
+
+5
+
+a
+
+Perda óptica (dB/km)
+
+08 091011 1213 14 1516 17 18
+
+Comprimento de onda (gm)
+Aenuação e imitações das bras picas. Dspeível em: meat br
+Acaso e: 2 mao 2047 (tapado
+
+Qual é a máxima distância, em km, que um sinal pode ser
+enviado nessa fibra sem ser necessária uma retransmissão?

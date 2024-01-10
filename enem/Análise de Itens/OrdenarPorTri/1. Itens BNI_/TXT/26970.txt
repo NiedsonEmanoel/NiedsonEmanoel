@@ -1,0 +1,40 @@
+QUESTÃO 148 >>>>>>>>>>>>">">">">">>>——
+
+O proprietário de um restaurante deseja comprar um
+tampo de vidro retangular para a base de uma mesa,
+como ilustra a figura.
+
+Sabe-se que a base da mesa, considerando a borda
+extema, tem a forma de um retângulo, cujos lados medem
+AC= 105 cm e AB= 120 cm
+
+Na loja onde será feita a compra do tampo, existem
+cinco tipos de opções de tampos, de diferentes dimensões,
+e todos com a mesma espessura, sendo:
+
+Tipo 1: 110 cmx 125 cm
+
+Tipo 2: 115 cmx 125 cm
+
+Tipo 3: 115 cmx 130 cm
+
+Tipo 4: 120 em x 130 cm
+
+Tipo 5: 120 em x 135 cm
+
+O proprietário avalia, para comodidade dos usuários,
+que se deve escolher o tampo de menor área possível
+que satisfaça a condição: ao colocar o tampo sobre a
+base, de cada lado da borda extema da base da mesa,
+deve sobrar uma região, correspondendo a uma moldura
+em vidro, limitada por um mínimo de 4 cm e máximo de
+8 cm fora da base da mesa, de cada lado.
+Segundo as condições anteriores, qual é o tipo de tampo
+devidro que o proprietário avaliou que deve ser escolhido?
+
+1
+
+2
+3
+4
+5

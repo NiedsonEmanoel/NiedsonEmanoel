@@ -1,0 +1,30 @@
+QUESTÃO 127
+O que é Web Semântica?
+
+Web Semântica é um projeto para aplicar conceitos
+inteligentes na intemet atual. Nela, cada informação
+vem com um significado bem definido e não se
+encontra mais solta no mar de conteúdo, permitindo
+uma melhor interação com o usuário. Novos motores
+de busca, interfaces inovadoras, criação de dicionários
+de sinônimos e a organização inteligente de conteúdos
+são alguns exemplos de aprimoramento. Dessa forma,
+você não vai mais precisar minerar a intemet em busca
+daquilo que você procura, ela vai passar a se comportar
+como um todo, e não mais como um monte de informação
+empilhada. A implementação deste paradigma começou
+recentemente, e ainda vai levar mais alguns anos até que
+entre completamente em vigor e dê um jeito em toda a
+enorme bagunça que a intemet se tornou.
+
+Chego em: tcmundo om br Aco em: Gago 01 (apa
+Ao analisar o texto sobre a Web Semântica, deduz-se que
+esse novo paradigma auxiliará os usuários a
+armazenar grandes volumes de dados de modo mais
+disperso
+localizar informações na internet com mais precisão.
+captar os dados na internet com mais velocidade.
+publicar dados com significados não definidos.
+navegar apenas sobre dados já organizados.
+
+000 o

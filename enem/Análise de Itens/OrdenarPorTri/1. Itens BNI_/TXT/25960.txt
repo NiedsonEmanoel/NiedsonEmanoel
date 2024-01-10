@@ -1,0 +1,34 @@
+QUESTÃO 141 =>>>>>>>>>>>>>>>>>———
+
+Com o objetivo de trabalhar a concentração e a
+sincronia de movimentos dos alunos de uma de suas
+turmas, um professor de educação física dividiu essa
+turma em três grupos (A, B e C) e estipulou a seguinte
+atividade: os alunos do grupo A deveriam bater palmas a
+cada 28, os alunos do grupo B deveriam bater palmas a
+cada 3 s e os alunos do grupo C deveriam bater palmas
+acada4s,
+
+O professor zerou o cronômetro e os três grupos
+começaram a bater palmas quando ele registrou 1 s.
+Os movimentos prosseguiram até o cronômetro
+registrar 60 s.
+
+Um estagiário anotou no papel a sequência formada
+pelos instantes em que os três grupos bateram palmas
+simultaneamente.
+
+Qual é o termo geral da sequência anotada?
+
+O 121, com num número natural, tal que 1<n<5.
+
+O 24, com num número natural, tal que 1< n< 2
+
+& 12(n-1), com num número natural, tal que 1< n< 6
+
+O 12(n-1)+1, com n um número natural, tal que
+1ens5
+
+O 24(n-1)+1, com num número natural, tal que
+
+1<n<3

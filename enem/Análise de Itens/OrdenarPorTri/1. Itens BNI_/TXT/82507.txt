@@ -1,0 +1,39 @@
+QUESTÃO 173 0000
+
+Numa cidade, cinco escolas de samba (1, Il, Il, IV e V)
+participaram do desfile de Carnaval. Quatro quesitos são
+julgados, cada um por dois jurados, que podem atribuir
+somente uma dentre as notas 6, 7, 8, 9 ou 10. A campeã
+será a escola que obtiver maior pontuação na soma de
+todas as notas emitidas. Em caso de empate, a campeã
+será a que alcançar a maior soma das notas atribuídas
+pelos jurados no quesito Enredo e Harmonia. A tabela
+mostra as notas do desfile desse ano no momento em
+que faltava somente a divulgação das notas do jurado B
+no quesito Bateria.
+
+1. Fantasia|2. Evolução) 3. Enredo
+[Questos q ategoria| e Conjunto e Harmonia * Bateria || ||
+durão] A [o [A[a[A[o[afs
+
+Bob, |r7/e[a[o/o [8 | |5
+El), [o [w/o [1/10/10] [o
+Bob, |s[7/a[o[7[e| [5
+Esc 9 [1/4 [10[0 [10/10] [6
+Boal, |7/o/a[o[a[0| [x
+
+Quantas configurações distintas das notas a serem
+atribuídas pelo jurado B no quesito Bateria tornariam
+campeã a Escola II?
+
+2”
+
+so
+
+750
+
+1250
+
+3125
+
+0000

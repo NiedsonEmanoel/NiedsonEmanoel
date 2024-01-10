@@ -1,0 +1,26 @@
+QUESTÃO 64
+
+A fenilcetonúria é uma doença hereditária
+autossômica recessiva, associada à mutação do
+gene PAH, que limita a metabolização do aminoácido
+fenilalanina. Por isso, é obrigatório, por lei, que
+as embalagens de alimentos, como refrigerantes
+dietéticos, informem a presença de fenilalanina em sua
+composição. Uma mulher portadora de mutação para
+o gene PAH tem três filhos normais, com um homem
+normal, cujo pai sofria de fenilcetonúria, devido à
+mesma mutação no gene PAH encontrada em um dos
+alelos da mulher.
+
+Qual a probabilidade de a quarta criança gerada por
+esses pais apresentar fenilcetonúria?
+
+0%
+
+o 125%
+
+e 25%
+
+o 50%
+
+e 75%

@@ -1,0 +1,32 @@
+QUESTÃO 121
+
+A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas
+aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio.
+Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado
+
+Produto secundário
+Solução aquosa
+
+de NaCl Au
+
+Ânodo de carbono +———
+
+Cátodo de carbono
+
+Diafragma de amianto +
+
+, Drenopara solução
+aquosa alcalina
+
+Célula eletroquímica
+SHREVE, RN: BRINK Ur, A Indústrias de processos químicos. io de Janeiro: Guanabara Koogan, 1007 (adaptado)
+
+No processo eletrolítico ilustrado, o produto secundário obtido é o
+
+vapor de água
+oxigênio molecular.
+hipoclorito de sódio.
+hidrogênio molecular.
+cloreto de hidrogênio.
+
+vo000

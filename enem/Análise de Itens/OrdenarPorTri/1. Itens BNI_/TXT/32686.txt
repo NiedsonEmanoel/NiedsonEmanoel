@@ -1,0 +1,30 @@
+QUESTÃO 139
+
+Uma cisterna de 6 000 L foi esvaziada em um período
+de 3 h. Na primeira hora foi utilizada apenas uma bomba,
+mas nas duas horas seguintes, a fim de reduzir o tempo
+de esvaziamento, outra bomba foi ligada junto com a
+primeira. O gráfico, formado por dois segmentos de reta,
+mostra o volume de água presente na cistema, em função
+do tempo.
+
+Volume (L)
+
+emo
+5000
+
+c
+o 1 3 Tempo(y)
+
+Qual é a vazão, em litro por hora, da bomba que foi ligada
+no início da segunda hora?
+
+O 1000
+
+O 1250
+
+e 1500
+
+O 2000
+
+o 2500

@@ -1,0 +1,31 @@
+QUESTÃO177 —— —
+
+Alguns brasileiros têm o hábito de trocar de carro a
+cada um ou dois anos, mas essa prática nem sempre é
+um bom negócio, pois o veículo desvaloriza com o uso.
+Esse fator é chamado de depreciação, sendo maior nos
+primeiros anos de uso.
+
+Uma pessoa realizou uma pesquisa sobre o valor de
+mercado dos dois veículos (X e Y) que possui. Colocou
+os resultados obtidos em um mesmo gráfico, pois os
+veículos foram comprados juntos.
+
+Valor (RS)
+
+2 4 6 8 4 12 44
+Tempo de uso (ano)
+
+Após a pesquisa, ela decidiu vender os veículos no
+momento em que completarem quatro anos de uso.
+Done e: caros nue com Aco em: 3 o 2012 (pao
+Considerando somente os valores de compra e de venda
+dos veículos por essa pessoa, qual a perda, em reais, que
+ela terá?
+
+O 10000,00
+O 15000,00
+O 25000,00
+O 35000,00
+& 45000,00
+

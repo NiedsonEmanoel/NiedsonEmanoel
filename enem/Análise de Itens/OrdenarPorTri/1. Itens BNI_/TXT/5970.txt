@@ -1,0 +1,39 @@
+QUESTÃO 1455———==
+
+A empresa E fornece linhas para telefones celulares
+da Companhia de Telefonia X a dois de seus funcionários.
+Os funcionários 1 e 2 usam, em média, 170 minutos e
+195 minutos mensais, em ligações, respectivamente.
+
+O plano das linhas desses celulares possui uma
+franquia de 90 minutos mensais (ou seja, 90 minutos de
+ligações grátis a cada mês), e custo de R$ 0,20 por minuto
+adicional, além de um custo fixo de R$ 0,00 mensais.
+
+A companhia X lançou novos planos que podem
+baratear o custo da empresa E com esses celulares e
+ofereceu-lhes, com preços mostrados a seguir:
+
+Custo por
+Franquia minuto | Custo fixo
+(em minutos) | adicional | (em reais)
+(em reais)
+Plano
+Douado 120 0,22 20
+Plano no 0,25 15
+Parceria
+
+Mas, por contrato, E só pode migrar uma das contas
+para um novo plano, enquanto a outra precisa continuar
+no plano em que está
+
+De modo ater o menor custo possível com os pagamentos.
+dessas contas de celulares, qual é a melhor atitude a ser
+tomada pela empresa E em relação às ofertas descritas?
+Fornecer o Plano Dourado para o funcionário 1
+Fornecer o Plano Parceria para o funcionário 1.
+Fornecer o Plano Dourado para o funcionário 2.
+Fornecer o Plano Parceria para o funcionário 2.
+Manter os planos atuais.
+
+vovo

@@ -1,0 +1,30 @@
+QUESTÃO 65
+
+Num sistema de freio convencional, as rodas do
+carro travam e os pneus derrapam no solo, caso a força
+exercida sobre o pedal seja muito intensa. O sistema
+ABS evita o travamento das rodas, mantendo a força de
+atrito no seu valor estático máximo, sem derrapagem.
+O coeficiente de atrito estático da borracha em contato
+com o concreto vale |, = 1,0 e o coeficiente de atrito
+cinético para o mesmo par de materiais é p, = 0,75. Dois.
+carros, com velocidades iniciais iguais a 108 km/h, iniciam
+a frenagem numa estrada perfeitamente horizontal de
+concreto no mesmo ponto. O carro 1 tem sistema ABS e
+utiliza a força de atrito estática máxima para a frenagem;
+já o carro 2 trava as rodas, de maneira que a força de
+atrito efetiva é a cinética. Considere g = 10 mis:
+
+As distâncias, medidas a partir do ponto em que iniciam
+a frenagem, que os carros 1 (d,) e 2 (d,) percorrem até
+parar são, respectivamente,
+
+O d,-60med,-45m
+& d,=90med,=120m.
+O d,=58x10'med,=7.8x10'm
+
+oa,
+
+BDimed,
+
+8102 m.

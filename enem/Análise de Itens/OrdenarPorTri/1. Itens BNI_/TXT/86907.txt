@@ -1,0 +1,34 @@
+QUESTÃO 148 =ezezezezezezecececezezezem=e
+
+Um instituto de pesquisas eleitorais recebe uma
+encomenda na qual a margem de erro deverá ser de, no
+máximo, 2 pontos percentuais (0,02)
+
+O instituto tem 5 pesquisas recentes, P1 a P5, sobre
+o tema objeto da encomenda e irá usar a que tiver o erro
+menor que o pedido.
+
+Os dados sobre as pesquisas são os seguintes:
+
+Pesquisa | O N [JN
+PA 05 [1764] 42
+P2 04 | 784 | 28
+P3 03 [576 | 24
+P4 02 [441 | 2
+P5 o1[e]8
+O erro € pode ser expresso por
+aj
+lel<196 W
+
+em que o é um parâmetro e N é o número de pessoas
+entrevistadas pela pesquisa.
+
+Qual pesquisa deverá ser utilizada?
+
+PM
+P2
+P3
+P4
+P5
+
+voos

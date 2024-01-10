@@ -1,0 +1,26 @@
+QUESTÃO 178.
+
+A quantidade de certa espécie de crustáceos, medida
+em toneladas, presente num trecho de mangue, foi
+modelada pela equação
+
+am- oo
+(= 6 + 4sen(wt)
+
+onde t representa o número de meses transcorridos após
+o início de estudo e w é uma constante.
+
+O máximo e o mínimo de toneladas observados durante
+este estudo são, respectivamente,
+
+600 e 100
+
+600 e 150
+
+300 e 100
+
+300 e 60.
+
+100 e 60.
+
+vovo

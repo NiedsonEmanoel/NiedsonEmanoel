@@ -1,0 +1,45 @@
+QUESTÃO 153
+
+Em uma cidade, o número de casos de dengue
+confirmados aumentou consideravelmente nos últimos
+dias. A prefeitura resolveu desenvolver uma ação
+contratando funcionários para ajudar no combate à
+doença, os quais orientarão os moradores a eliminarem
+criadouros do mosquito Aedes aegypti, transmissor da
+dengue. A tabela apresenta o número atual de casos
+confirmados, por região da cidade.
+
+Região Casos confirmados.
+Oeste 237
+Centro 262
+Norte 158
+Sul 159
+Noroeste 160
+Leste 278
+Centro-Oeste 300]
+Centro-Sul 278
+
+A prefeitura optou pela seguinte distribuição dos
+
+funcionários a serem contratados:
+
+110 funcionários para cada região da cidade cujo
+número de casos seja maior que a média dos
+casos confirmados.
+
+IL 7 funcionários para cada região da cidade cujo
+número de casos seja menor ou igual à média dos
+casos confirmados.
+
+Quantos funcionários a prefeitura deverá contratar para
+efetivar a ação?
+
+os
+
+oe
+
+o e
+
+o7
+
+e s

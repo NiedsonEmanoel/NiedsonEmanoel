@@ -1,0 +1,26 @@
+QUESTÃO 151
+
+Um meio de transporte coletivo que vem ganhando
+espaço no Brasil é a van, pois realiza, com relativo conforto
+e preço acessível, quase todos os tipos de transportes:
+escolar e urbano, intermunicipal e excursões em geral
+
+O dono de uma van, cuja capacidade máxima é de
+15 passageiros, cobra para uma excursão até a capital de
+seu estado R$ 60,00 de cada passageiro. Se não atingir
+a capacidade máxima da van, cada passageiro pagará
+mais R$ 2,00 por lugar vago.
+
+Sendo x o número de lugares vagos, a expressão que
+representa o valor arrecadado V(x), em reais, pelo dono
+da van, para uma viagem até a capital é
+
+O Vy)=902%
+
+O V)=930x
+
+O Vix)=900+30x
+O V0)=60x+2%
+e
+
+V(x) = 900 — 30x — De

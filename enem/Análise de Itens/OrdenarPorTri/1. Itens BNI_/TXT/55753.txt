@@ -1,0 +1,20 @@
+QUESTÃO 128
+
+Ao sintonizar uma estação de rádio AM, o ouvinte está
+selecionando apenas uma dentre as inúmeras ondas que
+chegam à antena receptora do aparelho. Essa seleção
+acontece em razão da ressonância do circuito receptor
+com a onda que se propaga.
+
+O fenômeno físico abordado no texto é dependente de
+qual característica da onda?
+
+O Amplitude.
+
+O Polarização.
+
+O Frequência.
+
+O Intensidade.
+
+Q Velocidade.

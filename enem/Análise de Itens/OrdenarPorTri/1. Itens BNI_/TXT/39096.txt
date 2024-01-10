@@ -1,0 +1,22 @@
+QUESTÃO 61
+
+Até 1824 acreditava-se que as máquinas térmicas,
+cujos exemplos são as máquinas a vapor e os atuais
+motores a combustão, poderiam ter um funcionamento
+ideal. Sadi Camot demonstrou a impossibilidade de
+uma máquina térmica, funcionando em ciclos entre
+duas fontes térmicas (uma quente e outra fria), obter
+100% de rendimento.
+
+Tal limitação ocorre porque essas máquinas
+
+realizam trabalho mecânico.
+
+produzem aumento da entropia.
+
+utilizam transformações adiabáticas.
+
+contrariam a lei da conservação de energia.
+funcionam com temperatura igual à da fonte quente.
+
+0000

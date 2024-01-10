@@ -1,0 +1,12 @@
+QUESTÃO 149
+
+Uma aluna estuda numa turma de 40 alunos. Em um
+dia, essa turma foi dividida em três salas, A, Be C, de
+acordo com a capacidade das salas. Na sala A ficaram
+10 alunos, na B, outros 12 alunos e na C, 18 alunos.
+Será feito um sorteio no qual, primeiro, será sorteada
+uma sala e, posteriormente, será sorteado um aluno
+dessa sala.
+
+Qual é a probabilidade de aquela aluna específica ser
+sorteada, sabendo que ela está na sala C?

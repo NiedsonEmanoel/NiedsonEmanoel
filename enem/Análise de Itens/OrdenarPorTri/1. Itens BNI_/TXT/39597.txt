@@ -1,0 +1,19 @@
+QUESTÃO 161
+
+Uma revista publicará os dados, apresentados
+no gráfico, sobre como os tipos sanguíneos estão
+distribuídos entre a população brasileira. Contudo,
+o editor dessa revista solicitou que esse gráfico seja
+publicado na forma de setores, em que cada grupo
+esteja representado por um setor circular.
+
+Tipos sanguíneos
+
+SripoA” GnpoAB” GrpoB”— GnpoO
+
+O ângulo do maior desses setores medirá, em graus,
+O 1080.
+O 1224
+e 1296
+O 1512
+e 1548.

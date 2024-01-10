@@ -1,0 +1,33 @@
+QUESTÃO 148
+
+O ábaco é um antigo instrumento de cálculo que usa
+notação posicional de base dez para representar números.
+naturais. Ele pode ser apresentado em vários modelos,
+um deles é formado por hastes apoiadas em uma base.
+Cada haste corresponde a uma posição no sistema
+decimal e nelas são colocadas argolas; a quantidade de
+argolas na haste representa o algarismo daquela posição.
+Em geral, colocam-se adesivos abaixo das hastes com
+os símbolos U, D, C, M, DM e CM que correspondem,
+respectivamente, “a” unidades, dezenas, centenas,
+unidades de milhar, dezenas de milhar e centenas de
+milhar, sempre começando com a unidade na haste da
+direita e as demais ordens do número no sistema decimal
+nas hastes subsequentes (da direita para esquerda),
+até a haste que se encontra mais à esquerda
+
+Entretanto, no ábaco da figura, os adesivos não
+seguiram a disposição usual
+
+Nessa disposição, o número que está representado na
+figura é
+
+O 4617
+
+O 147016
+
+O 171064
+
+O 460171
+
+e 610741

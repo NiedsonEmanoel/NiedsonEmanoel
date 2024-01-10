@@ -1,0 +1,29 @@
+QUESTÃO 167
+
+Pivô central é um sistema de irrigação muito usado
+na agricultura, em que uma área circular é projetada para
+receber uma estrutura suspensa. No centro dessa área, há
+uma tubulação vertical que transmite água através de um
+cano horizontal longo, apoiado em torres de sustentação,
+as quais giram, sobre rodas, em tomo do centro do pivô,
+também chamado de base, conforme mostram as figuras.
+Cada torre move-se com velocidade constante.
+
+Um pivô de três torres (T,, T, e T.) será instalado
+em uma fazenda, sendo que as distâncias entre torres
+consecutivas bem como da base à torre T, são iguais a
+50 m. O fazendeiro pretende ajustar as velocidades das
+torres, de tal forma que o pivô efetue uma volta completa
+em 25 horas. Use 3 como aproximação para %
+
+Para atingir seu objetivo, as velocidades das torres T, T,
+e T, devem ser, em metro por hora, de
+
+012,4e3
+
+O 6,12e18
+
+O 2,466
+
+O 300,1200e2700.
+O 600,24008 5400.

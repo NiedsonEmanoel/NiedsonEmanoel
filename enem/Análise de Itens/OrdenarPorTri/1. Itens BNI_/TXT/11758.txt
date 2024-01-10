@@ -1,0 +1,21 @@
+QUESTÃO 155
+
+Raios de luz solar estão atingindo a superfície de
+um lago formando um ângulo x com a sua superfície,
+conforme indica a figura.
+
+Em determinadas condições, pode-se supor que a
+intensidade luminosa desses raios, na superfície do
+lago, seja dada aproximadamente por (x) = - sen(x)
+
+sendo k uma constante, e supondo-se que x está entre
+0ºe go”
+
+Quando x = 30º, a intensidade luminosa se reduz a qual
+percentual de seu valor máximo?
+
+03%
+O 50%
+O 57%
+O 70%
+O 86%

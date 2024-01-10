@@ -1,0 +1,20 @@
+QUESTÃO 75
+
+Uma lâmpada LED (diodo emissor de luz), que
+funciona com 12 V e corrente continua de 0,45 A,
+produz a mesma quantidade de luz que uma lâmpada
+incandescente de 60 W de potência
+
+Qual é o valor da redução da potência consumida ao se
+substituir a lâmpada incandescente pela de LED?
+546W
+
+270W
+
+266W
+
+54W
+
+50W
+
+“0000

@@ -1,0 +1,9 @@
+QUESTÃO177——————=EE-
+
+A cada dia que passa, um aluno resolve 2 exercícios
+a mais do que resolveu no dia anterior. Ele completou seu
+11º dia de estudo e resolveu 22 exercícios. Seu objetivo é
+resolver, no total, pelo menos 272 exercícios.
+
+Mantendo seu padrão de estudo, quantos dias ele ainda
+precisa para atingir sua meta?

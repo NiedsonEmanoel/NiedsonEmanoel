@@ -1,0 +1,25 @@
+QUESTÃO 173
+
+O governo de uma cidade está preocupado com a
+possível epidemia de uma doença infectocontagiosa
+causada por bactéria. Para decidir que medidas tomar,
+deve calcular a velocidade de reprodução da bactéria
+Em experiências laboratoriais de uma cultura bacteriana,
+inicialmente com 40 mil unidades, obteve-se a fórmula
+
+para a população:
+
+pl)=40-2*
+em que t é o tempo, em hora, e p(t) é a populaçã
+milhares de bactérias.
+Em relação à quantidade inicial de bactérias, após 20 min,
+a população será
+reduzida a um terço.
+reduzida à metade.
+reduzida a dois terços.
+duplicada.
+triplicada.
+
+em
+
+0000

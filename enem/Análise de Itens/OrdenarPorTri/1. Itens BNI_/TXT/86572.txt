@@ -1,0 +1,33 @@
+QUESTÃO 61
+
+Por apresentar significativa resistividade elétrica, o
+grafite pode ser utilizado para simular resistores elétricos.
+em circuitos desenhados no papel, com o uso de lápis e
+apiseiras. Dependendo da espessura e do comprimento
+daslinhas desenhadas, é possível determinar a resistência
+elétrica de cada traçado produzido. No esquema foram
+utilizados três tipos de lápis diferentes (2H, HB e 65) para
+efetuar três traçados distintos.
+
+Munido dessas informações, um estudante pegou
+uma folha de papel e fez o desenho de um sorvete de
+casquinha utilizando-se desses traçados. Os valores
+encontrados nesse experimento, para as resistências
+elétricas (R), medidas com o auxílio de um ohmímetro
+ligado nas extremidades das resistências, são mostrados
+na figura. Verificou-se que os resistores obedeciam à
+Lei de Ohm.
+
+E
+
+Na sequência, conectou o ohmimetro nos terminais
+Ae B do desenho e, em seguida, conectou-o nos terminais
+
+Be, anotando as leituras R,, € Rs. respectivamente.
+
+R,
+Ao estabelecer a razão —*º , qual resultado o estudante
+
+obteve? “e
+
+01

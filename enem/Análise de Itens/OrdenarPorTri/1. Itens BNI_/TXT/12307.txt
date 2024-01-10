@@ -1,0 +1,21 @@
+QUESTÃO 164.
+
+Os salários, em reais, dos funcionários de uma
+empresa são distribuídos conforme o quadro:
+
+Ear ra 622,00 |1244,00]3 110,00]6 220,00
+Número de
+funcionários | 2* 1 20 3
+
+A mediana dos valores dos salários dessa empresa é,
+em reais,
+
+o 62200.
+
+O 933,00.
+
+O 124400.
+
+O 202150.
+
+O 279900

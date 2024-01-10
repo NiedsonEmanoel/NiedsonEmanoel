@@ -22,10 +22,6 @@ for x in dfENEM.keys():
         print('')
     elif x == "TX_GABARITO_"+Disciplina:
         print("")
-
-    elif x == "TP_LINGUA":
-        print('')  
-   
     else:
         del dfENEM[x]
 
@@ -71,22 +67,12 @@ def CalculaAcerto(Disciplina, Df):
     def conta_acertos(row):
         respostas = row[campo_resp]
         gabarito = row[campo_gab]
-        tp_lingua = row['TP_LINGUA']
+        if isinstance(respostas, str) and isinstance(gabarito, str):
+            acertos = sum([1 for r, g in zip(respostas, gabarito) if r == g])
+            return acertos
+        else:
+            return np.nan
 
-        if Disciplina == 'LC':
-            if tp_lingua == 0:
-                gabarito = gabarito[:5] + gabarito[10:]
-
-            elif tp_lingua == 1:
-                gabarito = gabarito[5:]
-
-        cont = 0
-        
-        for i in range(0, len(respostas)):
-            if respostas[i] == gabarito[i]:
-                # Se a resposta e o gabarito for o mesmo soma 1 na contagem
-                cont += 1
-        return cont
     # Aplica a função para contar os acertos em cada linha e armazena na nova coluna criada
     Df[f'T_ACERTOS_{Disciplina}'] = Df.apply(conta_acertos, axis=1)
     campDel = str('TX_RESPOSTAS_'+Disciplina)

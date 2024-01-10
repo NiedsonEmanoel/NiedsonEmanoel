@@ -1,0 +1,26 @@
+QUESTÃO 166
+
+Para fazer um pião, brinquedo muito apreciado
+pelas crianças, um artesão utilizará o torno mecânico
+para trabalhar num pedaço de madeira em formato de
+cilindro reto, cujas medidas do diâmetro e da altura
+estão ilustradas na Figura 1. A parte de cima desse
+pião será uma semiesfera, e a parte de baixo, um cone
+com altura 4 cm, conforme Figura 2. O vértice do cone
+deverá coincidir com o centro da base do cilindro.
+
+Figura 1 Figura 2
+
+O artesão deseja fazer um pião com a maior altura que
+esse pedaço de madeira possa proporcionar e de modo
+a minimizar a quantidade de madeira a ser descartada.
+
+Dados:
+4
+O volume de uma esfera de raio ré xt;
+O volume do cilindro de altura h e área da base S é Sh;
+
+O volume do cone de altura h e área da base ses Sh;
+Por simplicidade, aproxime 7 para 3.
+
+A quantidade de madeira descartada, em centímetros
