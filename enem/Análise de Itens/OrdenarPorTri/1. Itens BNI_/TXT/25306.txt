@@ -1,0 +1,13 @@
+Questão 147 DIDTEnAmononanamonorenamononenamoronenemononenamonoenamonmenam
+Após o término das inscrições de um concurso, cujo número de vagas é fixo, foi divulgado que a razão entre o
+
+número de candidatos e o número de vagas, nesta ordem, era igual a 300. Entretanto, as inscrições foram prorrogadas,
+
+inscrevendo-se mais 4 000 candidatos, fazendo com que a razão anteriormente referida passasse a ser igual a 400.
+
+Todos os candidatos inscritos fizeram a prova, e o total de candidatos aprovados foi igual à quantidade de vagas.
+
+Os demais candidatos foram reprovados.
+
+Nessas condições, quantos foram os
+

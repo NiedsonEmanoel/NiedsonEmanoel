@@ -1,0 +1,34 @@
+QUESTÃO 101
+
+Com o objetivo de revestir o piso de uma rampa de
+acesso para cadeiras de rodas, determina-se que, sob a
+aplicação de uma força motora de até 200 N, não ocorra
+deslizamento dos pneus em relação à superfície de
+contato. Considera-se que a força normal que atua sobre
+o conjunto cadeira e cadeirante é de 800 N.
+
+O quadro a seguir indica alguns materiais, seus
+respectivos coeficientes de atrito estático com a borracha
+dos pneus e seus custos referentes ao metro quadrado
+instalado. Cada cifrão ($) indica uma unidade monetária
+genérica
+
+Revesimento | Cofee de [ Cima dono
+Cimento 0,20 $
+Mármore 0,30 sssss
+Madeira 0,35 ss
+Carpete 0,45 ssss
+
+Lona 0,55 sss
+
+Qual revestimento apresenta o menor custo, além de
+garantir que cadeiras de rodas passem pela rampa sem
+risco de escorregamento?
+
+Cimento.
+Mármore.
+Madeira.
+Carpete
+Lona.
+
+0000

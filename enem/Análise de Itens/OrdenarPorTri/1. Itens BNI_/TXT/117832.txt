@@ -1,0 +1,28 @@
+Questão 143 "=== enemanar
+Um automóvel apresenta um desempenho médio de
+
+16 km/L. Um engenheiro desenvolveu um novo motor
+
+a combustão que economiza, em relação ao consumo
+
+do motor anterior, 0,1 L de combustível a cada 20 km
+
+percorridos.
+
+O valor do desempenho médio do automóvel com o novo
+
+motor, em quilômetro por litro, expresso com uma casa
+
+decimal, é
+
+159.
+
+184
+
+164
+
+174.
+
+18,0.
+
+voos

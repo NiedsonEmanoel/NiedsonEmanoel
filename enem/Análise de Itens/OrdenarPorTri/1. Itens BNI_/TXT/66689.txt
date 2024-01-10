@@ -1,0 +1,28 @@
+Questão 174 enem
+
+Um agricultor utilizava toda a área de uma região
+plana, em formato retangular, com 50 m de largura e
+240 m de comprimento, para o plantio de mudas. Seguindo
+recomendações técnicas, cada muda é plantada no
+centro de uma pequena região retangular de 10 cm de
+largura por 20 cm de comprimento.
+
+Esse agricultor decidiu ampliar a área destinada
+ao plantio de mudas, utilizando agora um terreno,
+também plano, em formato retangular, com 100 m
+de comprimento por 200 m de largura. As mudas
+deverão ser plantadas respeitando-se as mesmas
+recomendações técnicas.
+
+Como aumento da área destinada ao plantio, a quantidade
+máxima de mudas que poderão ser plantadas a mais é
+
+O 100000.
+400 000.
+600 000.
+
+1.000 000.
+
+voo
+
+1.600 000.

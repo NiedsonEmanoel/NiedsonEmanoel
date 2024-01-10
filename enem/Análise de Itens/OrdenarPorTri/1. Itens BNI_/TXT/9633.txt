@@ -1,0 +1,44 @@
+Questão 180
+
+As coordenadas usualmente utiizadas na localização
+de um ponto sobre a superfície terrestre são a latitude
+e a longitude. Para tal, considera-se que a Terra tem a
+forma de uma esfera.
+
+Um meridiano é uma circunferência sobre a
+superfície da Terra que passa pelos polos Norte e Sul,
+representados na figura por PN e PS. O comprimento
+da semicircunferência que une os pontos PN e PS tem
+“comprimento igual a 20 016 km. A linha do Equador
+também é uma circunferência sobre a superfície da
+Terra, com raio igual ao da Terra, sendo que o plano
+que a contém é perpendicular ao que contém qualquer
+meridiano.
+
+Seja P um ponto na superfície da Terra, C o centro
+da Terra e o segmento PC um raio, conforme mostra a
+figura. Seja (p O ângulo que o segmento PC faz com
+o plano que contém a linha do Equador. A medida em
+graus de q é a medida da latitude de P.
+
+PN
+
+Equador
+
+Ps
+Meridiano
+
+“Suponha que a partir da linha do Equador um navio
+viaja subindo em direção ao Polo Norte, percorrendo um
+meridiano, até um ponto P com 30 graus de latitude.
+
+Quantos quilômetros são percorridos pelo navio?
+O 1668
+
+O 333
+
+e 5004
+
+O 6672
+
+e 10008

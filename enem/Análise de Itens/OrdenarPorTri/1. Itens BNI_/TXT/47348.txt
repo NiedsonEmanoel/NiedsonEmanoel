@@ -1,0 +1,16 @@
+Questão 137 enemazr
+
+Uma loja que vende tintas tem uma máquina que efetua misturas de variadas cores para obter diferentes
+tonalidades. Um cliente havia comprado 7 litros de tinta de uma tonalidade, proveniente da mistura das cores verde e
+branco, na proporção de 5 para 2, respectivamente. Tendo sido insuficiente a quantidade de tinta comprada, o cliente
+retoma à loja para comprar mais 3,5 litros da mesma mistura de tintas, com a mesma tonalidade que havia comprado
+anteriormente.
+
+A quantidade de tinta verde, em litro, que o funcionário dessa loja deverá empregar na mistura com a tinta branca para
+“conseguir a mesma tonalidade obtida na primeira compra é
+
+oia
+015
+17.
+023
+e25

@@ -1,0 +1,17 @@
+Questão 140 enemaror
+
+Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição P (em cm)
+“da massa m em função do tempo (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico
+é descrito por uma expressão do tipo P(1) = + A cos (c»t) ou P(t) = A sen (091), em que A> O é a ampitude de deslocamento
+
+máximo e » é a frequência, que se relaciona com o periodo T pela fórmula o +
+
+Considere a ausência de quaisquer forças dissipativas.
+
+Posição
+de equilibrio
+m
+
+Mola distendida
+m
+

@@ -1,0 +1,42 @@
+QUESTÃO 168
+
+Uma indústria automobilística está testando um
+novo modelo de carro. Cinquenta litros de combustível
+são colocados no tanque desse carro, que é dirigido
+em uma pista de testes até que todo o combustível
+tenha sido consumido. O segmento de reta no gráfico
+mostra o resultado desse teste, no qual a quantidade de
+combustível no tanque é indicada no eixo y (vertical), e a
+distância percorrida pelo automóvel é indicada no eixo x
+(horizontal)
+
+y.
+55
+Ex
+ê so
+is
+ii
+ER:
+is
+is
+8.5
+0+
+o 100 200 300 400 500 X
+Distância percorrida (km)
+
+A expressão algébrica que relaciona a quantidade de
+combustível no tanque e a distância percorrida pelo
+automóvel é
+
+O y=-10x+500
+
+=
+=" .80
+oy 107
+=x
+=X 500
+O r=*
+x
+=*.50
+O r=0
+e y-*.500

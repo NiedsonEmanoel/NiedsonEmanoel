@@ -1,0 +1,23 @@
+DADE
+
+O Estatuto do Idoso, no Brasil, prevê certos
+direitos às pessoas com idade avançada, concedendo
+a estas, entre outros benefícios, a restituição de
+imposto de renda antes dos demais contribuintes. A
+tabela informa os nomes e as idades de 12 idosos
+que aguardam suas restituições de imposto de
+renda. Considere que, entre os idosos, a restituição
+seja concedida em ordem decrescente de idade e
+que, em subgrupos de pessoas com a mesma idade,
+
+Antônio 72
+
+Fernanda 70
+
+Nessas condições, a probabilidade de João ser a sétima
+pessoa do grupo a receber sua restituição é igual a
+
+1
+9%
+
+EEN

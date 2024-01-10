@@ -1,0 +1,16 @@
+Questão 150 7 VE
+
+Nos livros Harry Potter, um anagrama do nome do
+personagem “TOM MARVOLO RIDDLE” gerou a frase
+“LAM LORD VOLDEMORT”.
+
+Suponha que Harry quisesse formar todos os
+anagramas da frase “| AM POTTER", de tal forma
+que as vogais e consoantes aparecessem sempre
+intercaladas, e sem considerar o espaçamento entre
+as letras.
+
+Nessas condições, o número de anagramas formados
+é dado por
+
+og

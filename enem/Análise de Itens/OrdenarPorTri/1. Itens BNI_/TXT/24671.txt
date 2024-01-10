@@ -1,0 +1,40 @@
+QUESTÃO 167
+
+O índice de massa corporal (IMC) de uma pessoa é
+definido como o quociente entre a massa dessa pessoa,
+medida em quilograma, e o quadrado da sua altura,
+medida em metro. Esse índice é usado como parâmetro
+para verificar se o indivíduo está ou não acima do peso
+ideal para a sua altura. Durante o ano de 2011, uma
+pessoa foi acompanhada por um nutricionista e passou
+por um processo de reeducação alimentar. O gráfico
+indica a variação mensal do IMC dessa pessoa, durante
+o referido período. Para avaliar o sucesso do tratamento,
+o nutricionista vai analisar as medidas estatísticas
+referentes à variação do IMC.
+
+MC A
+
+28
+25
+22
+E
+26
+23
+280
+27
+E
+ma
+E
+xs
+»2
+541
+
+De acordo com o gráfico, podemos concluir que a mediana
+da variação mensal do IMC dessa pessoa é igual a
+
+O 2740
+O 2755
+e 2770
+O 2815
+O 2845

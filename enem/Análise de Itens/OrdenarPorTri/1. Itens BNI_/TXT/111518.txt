@@ -1,0 +1,13 @@
+Questão 168
+
+Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo
+acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o
+acendimento e o desligamento sejam instantâneos.
+
+O morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles.
+O gráfico descreve o consumo acumulado de energia, em watt x minuto, em função do tempo , em minuto, das
+lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão
+numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.
+
+Energia (Wminy
+

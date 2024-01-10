@@ -1,0 +1,32 @@
+Questão 174 enemanor
+
+A receita R de uma empresa ao final de um mês é o
+dinheiro captado com a venda de mercadorias ou com a
+prestação de serviços nesse mês, e a despesa D é todo o
+dinheiro utilizado para pagamento de salários, contas de
+água e luz, impostos, entre outros. O lucro mensal obtido
+ao final do mês é a diferença entre a receita e a despesa
+registradas no mês. O apresenta as receitas e
+despesas, em milhão de real, de uma empresa ao final
+dos cinco primeiros meses de um dado ano.
+
+Receitas e despesas
+
+28
+
+25
+
+15
+
+10
+
+s
+
+o Mês
+janeiro fevereiro março abril maio
+Receita — Despesas - -
+
+Aprevisão para os próximos meses é que o lucro mensal
+não Seja inferior ao maior lucro obtido até o mês de maio.
+Nessas condições, o lucro mensal para os próximos
+meses deve ser maior ou igual ao do mês de

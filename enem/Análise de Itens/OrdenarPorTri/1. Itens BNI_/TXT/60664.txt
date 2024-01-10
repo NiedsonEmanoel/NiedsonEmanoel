@@ -1,0 +1,35 @@
+QUESTÃO 161
+
+O quadro apresenta os dados da pescaria de uma
+espécie de peixe realizada ao final de um dia de pesca,
+
+em lagos diferentes.
+
+Número - | Número de | Quantidade
+Lago (L) | debarcos | horasde | pescada
+utilizados (B) | pesca (H) | (C, em kg)
+1 5 5 250
+u 6 10) 300
+O 4 5 180
+y 3 7 215
+vi 3 10) 220
+
+Considere que a medida do esforço de pesca (E) seja
+dada pela função E=2 -107 - B- H. A captura (quantidade
+pescada C) e a população de peixes P(L) dessa espécie
+no lago L, no início desse dia de pescaria, relacionam-se
+
+pela fórmula C= E- PL)
+
+Em qual lago a população de peixes dessa espécie era
+
+maior no início do dia?
+o
+
+ou
+
+em
+
+oiv
+
+ev

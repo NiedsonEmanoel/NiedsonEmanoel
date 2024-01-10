@@ -1,0 +1,21 @@
+QUESTÃO 149
+
+Para pintar um automóvel, cuja cor é personalizada,
+a oficina encarregada de fazer o serviço terá de, por meio
+de uma mistura adequada de tintas, compor tons de azul
+e de branco. O tom azul representa 40% dessa mistura.
+Sabe-se, ainda, que a oficina deverá adquirir somente a
+tinta de tom azul, pois já possui, em seus estoques, 6 litros
+da tinta de tom branco, que serão totalmente utilizados na
+referida composição.
+
+A quantidade, em litro, de tinta de tom azul que a oficina
+deverá adquirir para compor essa mistura, sem que haja
+sobras, é
+
+024
+o 36
+940
+090
+e 100.
+

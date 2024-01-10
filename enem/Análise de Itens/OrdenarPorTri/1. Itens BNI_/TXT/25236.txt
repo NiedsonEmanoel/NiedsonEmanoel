@@ -1,0 +1,19 @@
+QUESTÃO 142
+
+Um engenheiro fará um projeto de uma casa cujo
+terreno tem o formato de um retângulo de 36 m de
+comprimento por 9 m de largura. Para isso, ele fará um
+desenho de um retângulo de 24 cm de comprimento por
+6 cm de largura.
+
+Qual deve ser a escala utilizada pelo engenheiro?
+O 150:1
+
+O 225:1
+
+O 600:1
+
+o 22:41
+
+e 151
+

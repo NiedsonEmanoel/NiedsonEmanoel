@@ -1,0 +1,21 @@
+Questão 138 enemecor
+
+O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala Richter, ocorridos
+em nosso planeta nos anos de 2000 a 201.
+
+Ano 2000 | 2001 | 2002 | 2003 | 2004 | 2005 [ 2006 | 2007 | 2008 | 2009 ] 2010 [ 2011
+Terremotos | 15 [| 16 [| 13 [15 [16 [nm [mn [1 [12 [17 [24 [20
+
+Done em hs Jet og ovsamantroman? vet Ace em 13 202 trt
+Um pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período.
+
+Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é
+n.
+
+18.
+
+155.
+
+157.
+
+175.

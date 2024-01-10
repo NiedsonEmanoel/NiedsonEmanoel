@@ -1,0 +1,23 @@
+QUESTÃO 177
+
+Sete países americanos, Argentina, Brasil, Canadá,
+Chile, Estados Unidos, Paraguai e Uruguai, e sete países
+europeus, Portugal, Espanha, França, Inglaterra, Itália,
+Alemanha e Suíça, decidem criar uma comissão com
+representantes de oito desses países, objetivando criar
+políticas de incentivo e regulação do turismo entre eles.
+Na hipótese de criação da comissão, serão escolhidos
+aleatoriamente quatro representantes de países das
+Américas e quatro representantes de países europeus,
+não podendo estar na comissão dois representantes de
+um mesmo país.
+
+Qual é a probabilidade de o Brasile a França pertencerem
+a essa comissão?
+
+em
+ºã
+sz
+
+º
+oi

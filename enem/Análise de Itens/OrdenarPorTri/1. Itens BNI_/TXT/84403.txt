@@ -1,0 +1,20 @@
+QUESTÃO 95
+
+Um biólogo foi convidado para realizar um estudo do possível crescimento de populações de roedores em cinco
+diferentes regiões impactadas pelo desmatamento para ocupação humana, o que poderia estar prejudicando a
+produção e armazenagem local de grãos. Para cada uma das cinco populações analisadas (1 a V), identificou as
+taxas de natalidade (n), mortalidade (m), emigração (e) e imigração (i), em número de indivíduos, conforme ilustrado
+no quadro.
+
+Em longo prazo, se essas taxas permanecerem constantes, qual dessas regiões deverá apresentar maiores prejuízos
+na produção/armazenagem de grãos?
+
+o
+
+ou
+
+em
+
+oiv
+
+ev

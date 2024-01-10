@@ -1,0 +1,28 @@
+Questão 177 enem
+Em determinado mês, o consumo de energia elétrica
+da residência de uma família foi de 400 kWh. Achando
+que o valor da conta estava alto, os membros da família
+decidiram diminuí-o e estabeleceram a meta de reduzir o
+“consumo em 40%. Começaram trocando a geladeira, de
+“consumo mensal igual a 90 kWh, por outra, de consumo
+mensal igual a 54 kWn, e realizaram algumas mudanças
+na rotina de casa:
+* reduzir o tempo de banho dos moradores,
+economizando 30 kWh por mês;
++ reduzir o tempo em que o ferro de passar roupas
+fica ligado, economizando 14 kWh por mês;
+inuir a quantidade de lâmpadas acesas no
+período da noite, conseguindo uma redução de
+10 kWh mensais.
+No entanto, observaram que, mesmo assim, não
+atingiram a meta estabelecida e precisariam decidir
+outras maneiras para diminuir o consumo de energia.
+
+De modo a atingir essa meta, o consumo mensal de
+energia, em quilowat-hora, ainda precisa diminuir
+
+o 25.
+O 15.
+o 12.
+09.
+e 7.

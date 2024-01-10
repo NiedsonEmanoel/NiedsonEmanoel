@@ -1,0 +1,25 @@
+Questão 157
+
+O Sistema Métrico Decimal é o mais utilizado
+atualmente para medir comprimentos e distâncias.
+Em algumas atividades, porém, é possível observar
+a utilização de diferentes unidades de medida.
+Um exemplo disso pode ser observado no quadro.
+
+Unidade Equivalência
+Polegada 2,54 centímetros
+
+Jarda 3 pés
+Jarda 0,914 metro
+
+Assim, um pé, em polegada, equivale a
+
+O 0,1200.
+
+O 0,3048.
+
+O 1,0800.
+
+O 120000.
+
+€ 36,0000.

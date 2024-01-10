@@ -1,0 +1,34 @@
+de pilhas ligadas a um motor elétrico. A figura
+
+mostra uma pilha é um motor acoplados, em que £ representa a força eletromotiz (FEM) da
+
+pilha, £' representa a força contraeletromotriz (FCEM) do motor e r e r' são resistências
+intemas. Um problema comum que danifica esses brinquedos é o travamento do eixo do
+
+motor.
+
+Gerado (pilha)
+
+Cravo
+
+O que ocorre com a FCEM e com a energia fornecida pelas pilhas, que ocasiona danos ao
+motor, quando seu eixo de rotação é travado?
+
+o)
+
+o ooo
+
+A FCEM iguala-se com a FEM e toda a energia fornecida pela pilha fica armazenada
+no circuito.
+
+A FCEM sofre grande aumento e toda a energia fornecida pela pilha passa a ser
+dissipada na forma de calor.
+
+A FCEM inverte a polaridade e toda a energia fornecida pela pilha é devolvida para ela
+na forma de energia potencial
+
+A FCEM reduz-se a zero e toda a energia fornecida pela pilha passa a ser dissipada
+na resistência interna do motor.
+
+A FCEM mantém-se constante e toda a energia fornecida pela pilha continua sendo
+transformada em energia mecânica.

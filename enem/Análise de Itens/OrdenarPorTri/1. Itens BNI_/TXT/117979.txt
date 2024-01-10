@@ -1,0 +1,38 @@
+conservação da energia. A apresentação consistirá em
+duas etapas:
+
+Etapa 1 - a explicação de que, à medida que o disco
+desce, parte de sua energia potencial gravitacional
+é transformada em energia cinética de translação e
+energia cinética de rotação;
+
+Etapa 2 - o cálculo da energia cinética de rotação do
+disco no ponto mais baixo de sua trajetória, supondo o
+sistema conservativo.
+
+Ao preparar a segunda etapa, ele considera a
+aceleração da gravidade igual a 10 ms 2 e a velocidade.
+linear do centro de massa do disco desprezível em
+comparação com a velocidade angular. Em seguida,
+mede a altura do topo do disco em relação ao chão no
+ponto mais baixo de sua trajetória, obtendo 4 da altura
+da haste do brinquedo.
+
+As especificações de tamanho do brinquedo, isto é,
+de comprimento (C), largura (L) e altura (A), assim como
+da massa de seu disco de metal, foram encontradas
+pelo estudante no recorte de manual ilustrado a seguir.
+
+Conteúdo: base de metal, hastes metálicas,
+
+barra superior, disco de metal
+
+Tamanho (C x L x A): 300 mm x 100 mm x 410 mm|
+Massa do disco de metal: 30 g
+
+O resultado do cálculo da etapa 2, em joule, é:
+O 410x102
+O 820x102
+O 1,23x101
+O 820x10!
+e 123105

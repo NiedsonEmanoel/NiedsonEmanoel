@@ -1,0 +1,52 @@
+Questão 163
+
+Na anestesia peridural, como a usada nos partos,
+o médico anestesista precisa introduzir uma agulha nas
+costas do paciente, que atravessará várias camadas de
+tecido até chegar a uma região estreita, chamada espaço
+epidural, que envolve a medula espinhal. A agulha é
+usada para injetar um líquido anestésico, e a força que
+deve ser aplicada à agulha para fazê-la avançar através
+dos tecidos é variável.
+
+Afigura é um gráfico do módulo F da força (em newton)
+em função do deslocamento x da ponta da agulha
+(em milímetro) durante uma anestesia peridural típica.
+
+Considere que a velocidade de penetração da agulha
+deva ser a mesma durante a aplicação da anestesia e
+que a força aplicada à agulha pelo médico anestesista
+em cada ponto deve ser proporcional à resistência
+naquele ponto.
+
+p B GH
+Tá
+
+!
+
+|
+
+z EA
+a ,
+a y
+
+A
+o 10 20 30
+x (mm)
+
+HALLIDAY, D.; RESNICK, R. Fundamentos do física.
+Rio de Janeiro: LTC, 2008.
+
+Com base nas informações apresentadas, a maior
+resistência à força aplicada observa-se ao longo
+do segmento
+
+o as
+
+ore
+
+o Er
+
+oc
+
+eu

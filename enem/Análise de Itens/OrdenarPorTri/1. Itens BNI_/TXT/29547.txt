@@ -1,0 +1,23 @@
+Questão 172
+
+Em uma corrida de regularidade, cada corredor recebe um mapa com o trajeto a ser seguido e uma tabela
+indicando intervalos de tempo e distâncias entre postos de averiguação. O objetivo dos competidores é passar por
+cada um dos postos de averiguação o mais próximo possível do tempo estabelecido na tabela. Suponha que o
+
+e que um corredor obteve os seguintes tempos nos quatro primeiros postos.
+
+tºposto | 2'posto 3ºposto
+Tempo previsto Smin15s | 10mn30s 15min45s
+Tempo obtido pelo corredor | SminZ7s | IOminsás 16mn21s
+4º posto Último posto (finai do trajeto)
+Tempo previsto 21minoos 1h55minsos
+Tempo obtido pelo corredor | 21min48s|
+
+Caso esse corredor consiga manter o mesmo ritmo, seu tempo total de corrida será
+
+O 1h5smins2s
+O 1h56min3os.
+O 1h59minsás
+O 2h05minoss.
+O 2h05minzts
+

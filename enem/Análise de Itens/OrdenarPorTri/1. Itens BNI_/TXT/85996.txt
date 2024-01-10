@@ -1,0 +1,25 @@
+Considere o guindaste mostrado nas figuras, em duas posições (1 e 2). Na posição 1, o
+braço de movimentação forma um ângulo reto com o cabo de aço CB que sustenta uma esfera
+metálica na sua extremidade inferior.
+
+Na posição 2, o guindaste elevou seu braço de movimentação e o novo ângulo formado
+entre o braço e o cabo de aço ED, que sustenta a bola metálica, é agora igual a 60º.
+
+Posição 1 Posição?
+
+Assuma que os pontos À, & e C, na posição 1, formam o triângulo T; e que os pontos A, D
+e E, na posição 2, formam o triângulo Ta, os quais podem ser classificados em obtusângulo,
+retângulo ou acutângulo, e também em equilátero, isósceles ou escaleno.
+
+Segundo as classificações citadas, os triângulos Ty e To são identificados, respectivamente,
+como
+
+(8) retângulo escaleno e retângulo isósceles.
+acutângulo escaleno e retângulo isósceles,
+retângulo escaleno e acutânguloescaleno.
+
+acutângulo escaleno e acutângulo equilátero.
+
+00060
+
+retângulo escaleno e acutângulo equilátero.

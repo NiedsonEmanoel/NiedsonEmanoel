@@ -1,0 +1,18 @@
+Questão 139 (577 20%
+
+Uma das Sete Maravilhas do Mundo Moderno é o
+Templo de Kukulkán, localizado na cidade de Chichén
+ltzá, no México. Geometricamente, esse templo pode
+ser representado por um tronco reto de pirâmide de base
+quadrada.
+
+As quantidades de cada tipo de figura plana que formam
+
+(O 2 quadrados e 4 retângulos.
+
+O 1 retânguio e 4 triângulos isósceles.
+
+O 2 quadrados e 4 trapézios isósceles.
+
+(O 1 quadrado, 3 retângulos e 2 trapézios retângulos.
+2 retângulos, 2 quadrados e 2 trapézios retângulos.

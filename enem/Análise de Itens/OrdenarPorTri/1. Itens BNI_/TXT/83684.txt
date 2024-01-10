@@ -1,0 +1,33 @@
+Questão 98 77 STUNT
+
+Pesquisadores coletaram amostras de água de um
+rio em pontos diferentes, distantes alguns quilômetros
+um do outro. Ao longo do rio, há locais de águas limpas,
+“como também locais que recebem descarga de esgoto
+de área urbana, e locais onde há decomposição ativa
+“com ausência de peixes. Os pesquisadores analisaram
+dois parâmetros: oxigênio dissolvido (OD) e demanda
+bioquímica de oxigênio (DBO) em cada ponto de coleta
+de água, obtendo o gráfico:
+
+OD o DBO (mg Lº)
+
+Pontos de amostragem
+tre ts emos para guns docas dssmada o spatciveno
+pa 5 cre Pa por iamanocomvenea ego Rss
+
+O OD é proveniente da atmosfera e da fotossíntese
+que ocorre no curso-dágua e sua concentração é
+função das variáveis físicas, químicas e bioquímicas
+locais. A DBO é a quantidade de oxigênio consumido
+por microrganismos em condições aeróbicas para
+degradar uma determinada quantidade de matéria
+orgânica, durante um período de tempo, numa
+temperatura de incubação específica.
+
+Open em verga m got Acaso em 822016 (tt
+Qual ponto de amostragem da água do rio está mais
+próximo ao local em que 0 rio recebe despejo de esgoto?
+
+voos
+a ron

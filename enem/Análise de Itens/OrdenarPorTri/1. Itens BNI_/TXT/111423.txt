@@ -1,0 +1,35 @@
+Questão 154 enem
+
+Coloquei uma pizza no forno às 8 h, momento em que
+o cachorro saiu para o quintal. Após 15 minutos, o telefone
+tocou, atendi e fiquei 4 minutos conversando. An, lembrei
+que, 5 minutos antes de o telefone tocar, meu vizinho tocou
+a campainha, eu atendi e ele disse que iria pegar uma
+encomenda no correio. Eu pedi para que ele pegasse a
+minha também. Nossa conversa durou 3 minutos e, após
+30 minutos, ele voltou com a minha encomenda. Eu abri a
+porta para atendê-lo, quando o cachorro aproveitou para
+entrar em casa. Nossa conversa durou apenas 2 minutos,
+mas a pizza não queimou, porque eu já tinha tirado do
+forno 15 minutos antes de me despedir do vizinho.
+
+Os quadrinhos, dispostos em ordem aleatória,
+representam momentos da situação descrita e formam a
+base do raciocínio usado para determinar o tempo que a
+pizza ficou no forno.
+
+lista
+
+) A y VA
+tg
+
+A ordem cronológica das ações relatadas no texto,
+relativas à medição do tempo transcorrido, é representada
+pela sequência de quadrinhos
+
+023451
+O 24351
+053421
+O 54312
+O 54321
+

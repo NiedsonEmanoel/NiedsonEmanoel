@@ -1,0 +1,18 @@
+QUESTÃO 149
+
+O chocolate é um dos alimentos mais apreciados
+e desejados do mundo. Uma loja especializada nesse
+produto oferece uma promoção para os bombons, que
+custam R$ 2,00 cada. Cada Cliente tem x% de desconto
+na compra de x bombons. A promoção é válida para a
+compra de até 40 bombons, ou seja, 40% é o desconto
+máximo possível. Queremos escrever uma expressão
+para V em função de x, com x <40
+
+Qual é a expressão do valor V, em reais, na compra de x
+bombons da promoção, por cliente?
+
+o
+
+o
+

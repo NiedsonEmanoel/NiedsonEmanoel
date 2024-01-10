@@ -1,0 +1,40 @@
+Questão 139 enem
+
+A qualidade de sementes é verificada, entre outros
+fatores, pelo Índice de germinação. Uma grande empresa
+afirma que o índice de germinação de suas sementes
+é de 90%. Essa empresa e dez pequenos produtores
+que formam uma cooperativa estão concorrendo a um
+auxilio financeiro que permitirá aumentar os negócios.
+Os cooperados querem preparar um documento técnico
+comparando a qualidade de suas sementes com as da
+empresa. Eles discutiram a possibilidade de colocar
+nesse documento frases como:
+
+1-A média de germinação de nossas sementes é
+superior ao índice de germinação anunciado pela
+empresa.
+
+!-A mediana de germinação de nossas sementes é
+superior ao Índice de germinação anunciado pela
+empresa.
+
+1 =A média de germinação de nossas sementes é
+igual ao Índice de germinação anunciado pela
+empresa.
+
+IV—A moda de germinação de nossas sementes é
+igual ao índice de germinação anunciado pela
+empresa.
+
+VA mediana de germinação de nossas sementes
+é igual ao índice de germinação anunciado pela
+empresa.
+
+Eles decidiram anotar a porcentagem de germinação
+das sementes de cada cooperado, analisar as frases
+é decidir qual era a correta para, então, colocá-la no
+documento.
+
+As porcentagens anotadas foram 90%, 65%, 70%,
+75%, 95%, 959%, 90%, 80%, 80% e 90%.

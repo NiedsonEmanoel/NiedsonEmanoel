@@ -1,0 +1,27 @@
+QUESTÃO 106
+
+Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis
+ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido
+de hidrogênio (H,0,), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.
+
+Resultado
+Ensaio | Temperatura ('C) 10“mal
+Decomposição de H,0, | mm
+1 10 80
+2 15 10,5
+3 20 95
+4 25 50
+5 30 36
+6 35 31
+
+Os diferentes resultados dos ensaios justificam-se pelo(a)
+variação do pH do meio.
+
+aumento da energia de ativação.
+
+consumo da enzima durante o ensaio.
+
+diminuição da concentração do substrato.
+modificação da estrutura tridimensional da enzima.
+
+v0000

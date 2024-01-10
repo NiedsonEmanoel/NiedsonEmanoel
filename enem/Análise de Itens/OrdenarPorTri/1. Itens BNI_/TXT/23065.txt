@@ -1,0 +1,27 @@
+Questão 141
+
+Um ciclista quer montar um sistema de marchas
+usando dois discos dentados na parte traseira de sua
+bicicleta, chamados catracas. A coroa é o disco dentado
+que é movimentado pelos pedais da bicicleta, sendo
+que a corrente transmite esse movimento às catracas,
+que ficam posicionadas na roda traseira da bicicleta.
+Às diferentes marchas ficam definidas pelos diferentes
+diâmetros das catracas, que são medidos conforme
+indicação na figura.
+
+dispõe de uma catraca com 7 cm de
+diâmetro e pretende incluir uma segunda catraca, de
+modo que, à medida em que a corrente passe por ela,
+a bicicleta avance 50% a mais do que avançaria se à
+corrente passasse pela primeira catraca, a cada volta
+completa dos pedais.
+
+O valor mais próximo da medida do diâmetro da segunda
+catraca, em centímetro e com uma casa decimal, é
+
+023
+035
+047
+os3
+e 105.

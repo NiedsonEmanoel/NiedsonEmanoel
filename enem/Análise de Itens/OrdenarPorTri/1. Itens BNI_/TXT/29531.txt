@@ -1,0 +1,11 @@
+Questão 171 Um Ea
+Um hotel de 3 andares está sendo construído. Cada
+“andar terá 100 quartos. Os quartos serão numerados de
+100 a 399 e cada um terá seu número afixado à porta.
+Cada número será composto por peças individuais, cada
+uma simbolizando um único algarismo.
+Qual a quantidade mínima de peças, simbolizando o
+algarismo 2, necessárias para identificar o número de
+todos os quartos?
+
+01.6

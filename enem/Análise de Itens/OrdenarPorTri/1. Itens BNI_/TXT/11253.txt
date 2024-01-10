@@ -1,0 +1,23 @@
+QUESTÃO 177
+
+Em março de 2011, um terremoto de 9,0 graus de
+magnitude na escala Richter atingiu o Japão matando
+milhares de pessoas e causando grande destruição.
+Em janeiro daquele ano, um terremoto de 7,0 graus na
+escala Richter atingiu a cidade de Santiago Del Estero,
+na Argentina. A magnitude de um terremoto, medida
+pela escala Richter, é R= Iog(Êo, em que A é a
+amplitude do movimento vertical ás solo, informado em
+um sismógrafo, A, é uma amplitude de referência e log
+
+representa o logaritmo na base 10.
+De penio! em: parque uso go Acaso em: 28 fu 201 (adaptado)
+
+A razão entre as amplitudes dos movimentos verticais dos
+terremotos do Japão e da Argentina é
+
+o 128
+o 20
+o 10
+O 100
+e 10º-10”

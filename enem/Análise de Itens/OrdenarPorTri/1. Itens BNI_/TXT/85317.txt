@@ -1,0 +1,43 @@
+Questão 155
+
+Uma empresa, investindo na segurança, contrata
+uma firma para instalar mais uma câmera de segurança
+
+da empresa informa ao instalador que nessa sala já
+estão instaladas duas câmeras e, a terceira, deverá ser
+
+colocada de maneira a ficar equidistante destas. Além
+disso, ele apresenta outras duas informações:
+
+(um esboço em um sistema de coordenadas
+cartesianas, do teto da sala, onde estão inseridas
+as posições das câmeras 1 e 2, conforme
+afigura.
+
+y 1 Largura da sala (m)
+
+Câmeraz
+
+1 2 3.4
+Comprimento da sala (m)
+
+i) cinco relações entre as coordenadas (x ; y) da
+posição onde a câmera 3 deverá ser instalada.
+
+Rt
+Ro:
+R3:
+
+Ra:
+
+RS y=9g
+O instalador, após analisar as informações e as
+
+cinco relações, faz a opção correta dentre as relações
+
+apresentadas para instalar a terceira câmera.
+
+A relação escolhida pelo instalador foi a
+
+0000
+82882

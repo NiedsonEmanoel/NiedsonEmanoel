@@ -1,0 +1,36 @@
+Questão 138 enemaz
+
+Até a Copa de 2010, apenas sete jogadores haviam
+conseguido o feito de marcar 8 ou mais gols em uma
+mesma edição da Copa do Mundo. O quadro apresenta
+os anos das edições da copa nas quais ocorreram esses
+feitos, quais foram os jogadores que os realizaram e os.
+respectivos números de gols marcados por cada um deles.
+
+Número de
+Ano | Nome do jogador gets
+1930 | Guillermo Stábile 8
+
+1950 | Ademir de Menezes 9
+
+1954 | Sandor Kocsis “
+
+1958 | Just Fontaine 13
+
+1966 | Eusébio 9
+
+1970 | Gerd Miller 10
+
+2002 | Ronaldo Nazário 8
+
+Para facilitar a análise sobre a quantidade de gols
+marcados por esses artilheiros nas referidas copas, foi
+calculada a mediana da distribuição dos números de
+gols marcados por eles nas sete copas especificadas
+no quadro.
+
+A mediana dessa distribuição é igual a
+
+vo00o
+B
+8

@@ -1,0 +1,41 @@
+Questão 163, enem
+
+O presidente de um time de futebol contratou, para
+a temporada de 2016, um atacante e um meio-campista.
+Para isso, ele recebeu do departamento de futebol dois
+quadros.
+
+O primeiro quadro contém o número de gols marcados
+por três candidatos a atacantes, nas três temporadas
+anteriores.
+
+2013 2014 2015
+Atacantes | (número | (número | (número
+degols) | degols) | degols)
+
+1 13 13 24
+0 13 16 22
+w 17 “ 20
+
+O segundo quadro contém o número de assistências
+que resultaram em gol, feitas por dois candidatos a
+meios-campistas, nas três temporadas anteriores.
+
+2013 2014 2015
+Meios- | (número de | (número de | (número de
+[campistas q csistências)jassistências) assistências)
+
+vi “ 17 20
+vi 7 16 23
+
+Após fazer uma análise das médias de gols de
+cada atacante e das médias de assistências de cada
+meio-campista nas últimas três temporadas, o presidente
+contratou o atacante e o meio-campista com maior média
+de gols e assistências, respectivamente, nessas três
+temporadas.
+
+O atacante e o meio-campista escolhidos por esse
+presidente foram, respectivamente,
+
+leiv.

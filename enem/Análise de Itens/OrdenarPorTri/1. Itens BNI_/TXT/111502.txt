@@ -1,0 +1,29 @@
+Questão 142 enem
+
+O gráfico informa a produção registrada por uma
+indústria nos meses de janeiro, março e abril.
+
+Produção
+(milhar de unidade)
+
+mês
+
+jan. fev mar abr
+
+Por problemas logísticos, não foi feito o levantamento
+sobre a produção no mês de fevereiro. Entretanto, as
+informações dos outros três meses sugerem que a
+produção nesse quadrimestre cresceu exponencialmente,
+conforme aponta a curva de tendência traçada no gráfico.
+
+Assumindo a premissa de que o crescimento nesse
+período foi exponencial, pode-se inferir que a produção
+dessa indústria no mês de fevereiro, em milhar de
+unidade, foi
+
+oo
+
+O 12.
+e 240.
+O 300.
+e 400.

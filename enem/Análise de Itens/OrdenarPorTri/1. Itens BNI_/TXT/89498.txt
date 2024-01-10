@@ -1,0 +1,24 @@
+QUESTÃO 113
+
+Em virtude do frio intenso, um casal adquire uma
+tomeira elétrica para instalar na cozinha. Um eletricista
+é contratado para fazer um novo circuito elétrico para a
+cozinha, cuja corrente será de 30 A, com a finalidade de
+alimentar os terminais da tomeira elétrica. Ele utilizou
+um par de fios de cobre, de área da seção reta igual a
+4 mê e de 28 m de comprimento total, desde o quadro
+de distribuição (onde ficam os disjuntores) até a cozinha.
+A tensão medida na saída do quadro de distribuição é
+220 V. Considere que a resistividade do fio de cobre é de
+1740" 0:m.
+
+Considerando a resistência da fiação, a tensão aplicada
+aos terminais da torneira é mais próxima de
+
+mv.
+213V.
+216V.
+219V.
+220V.
+
+vovo

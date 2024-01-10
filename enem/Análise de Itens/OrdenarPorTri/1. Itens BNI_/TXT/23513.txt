@@ -1,0 +1,34 @@
+Questão 146
+
+Uma empresa divide o balanço anual de vendas de
+“seus produtos em duas partes, calculando o número de
+vendas dos produtos ao final de cada semestre do ano.
+Após o balanço do primeiro semestre, foram realizadas
+“ações de marketing para os cinco produtos menos vendidos.
+da empresa. A tabela mostra a evolução das vendas desses
+produtos, do primeiro para o segundo semestre.
+
+Número de unidades | Número de unidades.
+Produto | vendidas no vendidas no
+primeiro semestre | segundo semestre
+1 350, 600
+" 1000 1100
+mu 4000 4500
+Iv E 1200
+v 2000) 2600
+
+O sucesso de uma ação de marketing de um
+produto é medido pelo aumento percentual do número
+de unidades vendidas desse produto, do primeiro para o
+segundo semestre.
+
+A ação de marketing mais bem-sucedida foi para o produto
+o
+
+oi
+
+ein
+
+om
+
+ev

@@ -1,0 +1,32 @@
+Um investidor pretende aplicar R$ 100 000,00 no mercado financeiro. Para isso pesquisou
+cinco investimentos distintos, aferindo os rendimentos mensais, em real, de cada um deles.
+Para decidir em qual aplicar seu dinheiro, considerou também a incidência mensal de Imposto.
+de Renda (IR) sobre o respectivo rendimento. Avaliou que o maior retorno financeiro virá da
+aplicação em um único investimento: aquele em que a diferença entre o rendimento mensal e
+o imposto que incidir sobre ele seja a maior possível. Os dados levantados pelo investidor
+sobre rendimento e imposto referentes à aplicação encontram-se a seguir.
+
+Rendimento de cada investimento por mês
+
+R$100000
+R$ 900,00 7
+7
+R$700,00
+7
+R$ 500,00
+AA
+R$300,00
+1
+Investimento Investimento Investimento Investimento Investimento
+! n m y v
+Incidência de IR sobre o rendimento
+Investimento
+(por mês)
+1 12%
+T Ez
+O 20%
+y 10%
+vi 22%
+
+9000
+z

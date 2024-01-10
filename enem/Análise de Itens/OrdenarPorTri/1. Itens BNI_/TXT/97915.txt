@@ -1,0 +1,36 @@
+QUESTÃO 122
+
+A penicilamina é um medicamento de uso oral
+utilizado no tratamento de várias doenças. Esse
+composto é excretado na urina, cujo pH se situa entre
+5 7. A penicilamina, cuja fórmula estrutural plana está
+apresentada, possui três grupos funcionais que podem
+ser ionizados:
+
++ carboxila: —COOH, cujo pK, é igual a 1,8;
+
++ amino: —NH,, que pode ser convertido em
+
+amínio (—NH;, cujo pK, é igual a 7,9);
++ tiol: —SH, cujo pK, é igual a 10,5.
+Sabe-se que pk, = “log K,
+CH; H
+
+HS—C—C— cooH
+CHs NH
+Penicilamina
+
+Qual estrutura derivada da — penicilamina
+predominantemente encontrada na urina?
+
+CH H
+
+O s—c—e— coo
+
+CHa NH,
+
+CH; H
+
+O s—C—e— cooH
+des né
+

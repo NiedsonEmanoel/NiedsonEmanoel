@@ -1,0 +1,23 @@
+QUESTÃO 180
+
+O gráfico apresenta os totais de receitas e despesas
+de uma empresa, expressos em milhão de reais, no
+decorrer dos meses de um determinado ano. A empresa
+obtém lucro quando a diferença entre receita e despesa é
+positiva e tem prejuízo quando essa diferença é negativa.
+
+Jan. Fev. Mar. Abr. Maio Jun. Jul. Ago. Set. Out Nov. Dez.
+Receitas Despesas
+
+Qual é a mediana, em milhão de reais, dos valores dos
+lucros apurados pela empresa nesse ano?
+
+015
+
+o20
+
+029
+
+o3o
+
+e 55

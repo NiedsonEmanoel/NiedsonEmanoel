@@ -1,0 +1,16 @@
+Questão 140 Enamoncnenemanenam
+O governador de um estado propõe a ampliação de
+investimentos em segurança no transporte realizado por
+meio de trens. Um estudo para um projeto de lei prevê que
+se tenha a presença de três agentes mulheres, distribuídas.
+entre os 6 vagões de uma composição, de forma que
+duas dessas agentes não estejam em vagões adjacentes,
+
+garantindo assim maior segurança aos usuários.
+Dente em ves com de Aces em: jan 2015 (tato
+
+A expressão que representa a quantidade de maneiras
+distintas das três agentes serem distribuídas nos vagões é
+
+O ci+a
+

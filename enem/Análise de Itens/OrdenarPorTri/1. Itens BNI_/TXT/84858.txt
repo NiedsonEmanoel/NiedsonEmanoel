@@ -1,0 +1,15 @@
+Questão 141
+
+Em uma campanha promocional de uma loja, um
+cliente gira uma roleta, conforme a apresentada no
+esquema, almejando obter um desconto sobre o valor
+total de sua compra. O resultado é o que está marcado na
+região apontada pela seta, sendo que todas as regiões
+são congruentes. Além disso, um dispositivo impede
+que a seta venha a apontar exatamente para a linha
+de fronteira entre duas regiões adjacentes. Um cliente
+realiza uma compra e gira a roleta, torcendo para obter o
+desconto máximo.
+
+A probabilidade, em porcentagem, de esse cliente ganhar
+o desconto máximo com um único giro da roleta é melhor

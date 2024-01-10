@@ -1,0 +1,37 @@
+Questão 164 enem
+Cinco atletas que participarão de uma maratona
+
+treinam frequentemente. As distâncias percorridas por
+
+eles no último treino estão registradas, em quilômetro, no
+
+quadro.
+
+428 [ 416 [ 418 | 434 | 434
+
+Um sexto atleta, que também participará da maratona,
+
+pretende realizar um treino percorrendo uma distância
+
+igual à média das distâncias percorridas pelos cinco
+
+atietas no último treino por eles realizado.
+
+A distância, em quilômetro, que esse sexto atleta deverá
+
+percorrer em seu treino é
+
+“8
+
+424.
+
+26.
+
+428
+
+43.
+
+o
+o
+o
+e

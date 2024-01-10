@@ -1,0 +1,34 @@
+Questão 160
+
+O álcool é um depressor do sistema nervoso central
+e age diretamente em diversos órgãos. A concentração
+de álcool no sangue pode ser entendida como a razão
+entre a quantidade q de álcool ingerido, medida em
+grama, e o volume de sangue, em litro, presente no
+organismo do indivíduo. Em geral, considera-se que
+esse volume corresponda ao valor numérico dado
+por 8% da massa corporal m desse indivíduo, medida
+em quilograma.
+
+De acordo com a Associação Médica Americana,
+uma concentração alcoólica superior a 0,4 grama por
+litro de sangue é capaz de trazer prejuízos à saúde do
+indivíduo.
+
+Disponivel em: hp:lcisa org br Acesso em: 1 dez 2018 (adaptado).
+A expressão relacionando q e m que representa a
+concentração alcoólica prejudicial à saúde do indivíduo,
+de acordo com a Associação Médica Americana, é
+
+a
+o tam 04
+0,4m
+——>0,8
+o
+a
+º cam
+o SEM,o4
+q
+e Los
+
+0,08m

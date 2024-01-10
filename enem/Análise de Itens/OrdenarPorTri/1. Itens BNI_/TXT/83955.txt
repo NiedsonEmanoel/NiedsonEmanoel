@@ -1,0 +1,30 @@
+Questão 172
+
+Um grupo de engenheiros está projetando um motor
+cujo esquema de deslocamento vertical do pistão dentro
+da câmara de combustão está representado na figura.
+
+Câmara de
+combutãs
+of
+Instante t= 0 Instanto +40
+A função h(t) =4+ asen(6i 2) definida parat>0
+
+descreve como varia a altura h, medida em centímetro, da
+parte superior do pistão dentro da câmara de combustão,
+em função do tempo t, medido em segundo. Nas figuras
+estão indicadas as alturas do pistão em dois instantes
+distintos.
+
+O valor do parâmetro /, que é dado por um número
+inteiro positivo, está relacionado com a velocidade
+de deslocamento do pistão. Para que o motor tenha
+uma boa potência, é necessário e suficiente que, em
+menos de 4 segundos após o início do funcionamento
+(instante t = 0), a altura da base do pistão alcance por
+três vezes o valor de 6 cm. Para os cálculos, utilize 3
+como aproximação para 7.
+
+O menor valor inteiro a ser atribuído ao parâmetro /, de
+forma que o motor a ser construído tenha boa potência, é
+

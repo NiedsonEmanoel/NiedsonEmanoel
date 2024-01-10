@@ -1,0 +1,19 @@
+Questão 161 "=== enemanar
+O organizador de uma competição de lançamento de
+dardos pretende tomar o campeonato mais competitivo.
+Pelas regras atuais da competição, numa rodada, o
+jogador lança 3 dardos e pontua caso acerte pelo menos
+um deles no alvo. O organizador considera que, em
+média, os jogadores têm, em cada lançamento, 1
+probabilidade de acertar um dardo no alvo.
+
+Afim de tomar o jogo mais atrativo, planeja modificar
+
+as regras de modo que a probabilidade de um jogador
+pontuar em uma rodada seja igual ou superior a 9. Para
+isso, decide aumentar a quantidade de dardos a serem
+lançados em cada rodada.
+Com base nos valores considerados pelo organizador da
+competição, a quantidade mínima de dardos que devem
+ser disponibilizados em uma rodada para tomar 0 jogo
+mais atrativo é

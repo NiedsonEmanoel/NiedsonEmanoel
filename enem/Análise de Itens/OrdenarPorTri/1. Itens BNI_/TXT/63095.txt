@@ -1,0 +1,23 @@
+Questão 102 ——————=———————————=—= enemanar
+O sino dos ventos é composto por várias barras
+
+metálicas de mesmo material e espessura, mas de
+
+“comprimentos diferentes, conforme a figura.
+
+Considere f, e v, respectivamente, como a frequência
+fundamental e a velocidade de propagação do som emitido
+pela barra de menor comprimento, e f, e v, são essas
+mesmas grandezas para o som emitido pela barra de
+maior comprimento.
+
+As relações entre as frequências fundamentais e entre as.
+velocidades de propagação são, respectivamente,
+
+Of,
+O fc,
+Of,
+
+Of
+ef
+

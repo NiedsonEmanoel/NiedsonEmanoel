@@ -1,0 +1,22 @@
+QUESTÃO 125
+
+Carregadores elétricos são projetados - para
+fomecerem energia a baterias recarregáveis, como as
+usadas em aparelhos celulares e máquinas fotográficas.
+As especificações típicas de um desses dispositivos são:
+
+Carregador:
+Entrada AC 100-240 V/ 200 mA / 50-60 Hz
+Saída DC 5,0 V/1000 mA
+Bateria recarregável:
+1,5V/4000 mah
+Usando o carregador com corrente máxima, o tempo total
+
+de recarga dessa bateria totalmente descarregada, em
+hora, é
+
+o
+
+» o » ou ol+
+
+voo o

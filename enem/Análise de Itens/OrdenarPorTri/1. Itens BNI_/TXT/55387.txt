@@ -1,0 +1,26 @@
+Questão 176 757 ao
+
+O artista gráfico holandês Maurits Com
+criou belíssimas obras nas quais as imagens se repetiam,
+com diferentes tamanhos, induzindo ao raciocínio de
+repetição infinita das imagens. Inspirado porele, umartista.
+fez um rascunho de uma obra na qual propunha a i
+de construção de uma sequência de infinitos quadrados,
+“cada vez menores, uns sob os outros, conforme indicado
+na figura.
+
+PRO IR
+
+112
+
+14
+
+O quadrado PRST, com lado de medida 1, é o ponto
+de partida. O segundo quadrado é construído sob ele
+tomando-se o ponto médio da base do quadrado anterior
+e criando-se um novo quadrado, cujo lado corresponde.
+à metade dessa base. Essa sequência de construção se
+repete recursivamente.
+
+Qual é a medida do lado do centésimo quadrado
+construído de acordo com esse padrão?

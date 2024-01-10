@@ -1,0 +1,34 @@
+QUESTÃO 174
+
+A classificação de um país no quadro de medalhas
+olimpicas deve-se primeiro ao número de medalhas de
+ouro que o país conquistou. Em caso de empate no
+número de medalhas de ouro, passa a ser considerado
+o número de medalhas de prata e, por fim, o de
+medalhas de bronze. O quadro de medalhas a seguir
+apresenta os países classificados do 9º ao 11º lugar
+nas Olimpíadas de Londres, realizadas em 2012.
+
+Ouro Prata Bronze
+Se Hungria 8 4 5
+10º Austrália 7 16, 12
+Me Japão 7 14 17
+
+Nessa olimpíada, o Brasil obteve 3 medalhas de ouro,
+5 de prata e 9 de bronze, classificando-se em 22º lugar
+no quadro geral de medalhas.
+
+Disponível em: hp impladas ul comi, Aesso em: 2 fe 201 (adapado
+Supondo que o número de medalhas dos demais
+países permaneça inalterado, qual o número mínimo de
+medalhas que o Brasil deveria ter ganhado a mais nas
+Olimpíadas de Londres a fim de ficar exatamente na
+10: posição?
+
+22
+19
+17
+16
+14
+
+vov0oo

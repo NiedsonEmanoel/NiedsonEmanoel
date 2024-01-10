@@ -1,0 +1,18 @@
+QUESTÃO 146
+
+Uma empresa de publicidade está criando um
+logotipo que tem o formato indicado na figura. O circulo
+menor está inscrito no quadrado ABCD, e o circulo maior
+circunscreve o mesmo quadrado. Considere 51 a área do
+círculo menor e S2 a área do círculo maior.
+
+A razão da área do circulo maior para o circulo menor é
+igual a
+
+oz
+1
+z
+2
+8
+
+voo o

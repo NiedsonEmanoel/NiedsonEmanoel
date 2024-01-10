@@ -1,0 +1,36 @@
+Questão 148
+
+O quadro apresenta a quantidade de um tipo de pão
+vendido em uma semana em uma padaria.
+
+Dia da semana | Número de pães vendidos
+Domingo 250
+Segunda-feira 208
+Terça-feira 215
+Quarta-feira 251
+Quinta-feira, 187
+Sexta-feira 187
+Sábado 186
+
+O dono da padaria decidiu que, na semana
+inte, a produção diária desse tipo de pão seria
+
+TR ninhero do pães Vertidos nó dia GE semana
+
+em que tal quantidade foi a mais próxima da média das.
+
+quantidades vendidas na semana.
+
+O dia da semana utilizado como referência para a
+
+quantidade de pães a serem produzidos diariamente foi
+
+O domingo.
+
+O segunda-feira.
+
+O terçateira
+
+O quarta-eira
+
+O sábado.

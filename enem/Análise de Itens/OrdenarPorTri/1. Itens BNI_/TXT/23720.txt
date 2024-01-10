@@ -1,0 +1,45 @@
+QUESTÃO 173
+
+Um comerciante abrirá um supermercado, no mês
+de outubro, e precisa distribuir 5 produtos de limpeza em
+uma gôndola de cinco prateleiras que estão dispostas
+uma acima da outra (um tipo de produto por prateleira).
+Ele sabe que a terceira prateleira oferece uma melhor
+visibilidade dos produtos aos clientes.
+
+Ele fez uma pesquisa sobre o número de vendas
+desses produtos, nos meses de agosto e setembro, em
+uma loja da concorrência (mostrada a seguir), e pretende
+incrementar suas vendas, em relação a seu concorrente,
+colocando na terceira prateleira de seu supermercado o
+produto que teve o maior índice de aumento nas vendas
+no mês de setembro em relação ao mês de agosto, na
+loja concorrente.
+
+Número de Número de
+Produto |unidades vendidas unidades vendidas.
+
+em agosto em setembro.
+
+1 400 450
+
+n 210 295
+
+O 200 220
+
+IV 300 390
+
+v 180 240
+
+O comerciante deve colocar na terceira prateleira o
+produto número
+
+o
+
+oi
+
+ein
+
+om
+
+ev

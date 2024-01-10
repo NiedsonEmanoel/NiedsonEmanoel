@@ -1,0 +1,20 @@
+Questão 106 D7/enamormenamormenem
+Um cordão de 200 pequenas lâmpadas é utilizado
+em árvores de Natal. Uma pessoa verifica que, ao retirar
+somente uma lâmpada de qualquer posição, outras nove
+não acendem mais, porém as demais 190 lâmpadas
+permanecem em pleno funcionamento. Com base nessa
+informação, ela tenta identificar a estrutura do circuito
+e a relação entre os valores das quantidades físicas
+envolvidas, entre as quais a razão entre as intensidades.
+da corrente elétrica em uma das lâmpadas e da corrente
+elétrica total no cordão com as 200 lâmpadas ligadas.
+O valor dessa razão é igual a
+
+11200.
+11100.
+1120.
+1110.
+1
+
+vovo

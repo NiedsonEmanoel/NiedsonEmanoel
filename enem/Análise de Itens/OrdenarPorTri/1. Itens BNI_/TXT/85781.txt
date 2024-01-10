@@ -1,0 +1,46 @@
+Questão 96
+A figura foi extraída de um antigo jogo para
+“computadores, chamado Bang! Bang!
+
+enemavor
+
+No jogo, dois competidores controlam os canhões
+Ae B, disparando balas alternadamente com o objetivo
+
+de atingir o canhão do adversário; para isso,
+
+valores estimados para o módulo da velocidade
+
+disparo (fi;l) e para o ângulo de disparo (8).
+Em determinado momento de uma partida, o
+
+“competidor B deve disparar; ele sabe que a bala disparada
+
+anteriormente, O = 53º, passou tangenciando o ponto P.
+Nojogo, || é igual a 10 m/s?. Considere sen 53º- 0,8,
+
+cos 53º- 0,6 e desprezível a ação de forças dissipativas.
+
+Deponvl em mea inte eb Aces em: 1 br 201 (sto
+
+Com base nas distâncias dadas e mantendo o último
+
+ângulo de disparo, qual deveria ser, aproximadamente,
+
+o menor valor de [v;| que permitiria ao disparo efetuado
+
+pelo canhão B atingir o canhão A?
+
+O 30mss.
+
+O 35ms.
+
+O sms.
+
+O 45mss.
+
+e som.
+
+ibuem
+jal de
+

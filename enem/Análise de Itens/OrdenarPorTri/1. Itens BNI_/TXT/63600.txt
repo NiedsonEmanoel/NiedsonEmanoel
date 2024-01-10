@@ -1,0 +1,17 @@
+Questão 98 enemecor
+A sequência de nucleotídeos do RNA mensageiro
+presentes em um gene de um fungo, constituída de sete
+códons, está escrita a seguir.
+1 [2]3]4 [5 [677
+AUG | UUU | GUU | CAA | UGU | AGU | UAG
+Pesquisadores submeteram a sequência a mutações
+independentes. Sabe-se que os códons UAG e UAA são
+terminais, ou seja, indicam a interrupção da tradução.
+Qual mutação produzirá a menor proteina?
+Deleção de G no códon 3.
+Substituição de C por U no códon 4.
+Substituição de G por C no códon 6.
+Substituição de A por G no códon 7.
+Deleção dos dois primeiros nucleotídeos no códon 5.
+
+0000

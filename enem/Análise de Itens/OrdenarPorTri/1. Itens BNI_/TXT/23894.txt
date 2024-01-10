@@ -1,0 +1,29 @@
+Questão 168
+
+O modelo predador-presa consiste em descrever a
+interação entre duas espécies, sendo que uma delas
+(presa) serve de alimento para a outra (predador)
+Aresposta funcional é a relação entre a taxa de consumo
+de um predador e a densidade populacional de sua
+presa. A figura mostra três respostas funcionais (fg, h).
+em que a variável independente representa a densidade
+populacional da presa.
+
+—— t
+
+-9-=-h
+
+Taxa de consumo de predador
+
+0 A B c DE
+Densidade populacional de presa
+Disponível em: une jormalive. com br.
+Acesso em: 1 ago. 2012 (adaptado
+Qual o maior intervalo em que a resposta funcional f(x)
+é menor que as respostas funcionais g(x) e h(x),
+simultaneamente?
+O (0:8)
+o (8:0)
+e (8:E)
+O (c;D)
+e (c:E)

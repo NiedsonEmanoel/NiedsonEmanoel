@@ -1,0 +1,22 @@
+QUESTÃO 165
+
+Isometria é uma transformação geométrica que, aplicada a uma figura, mantém as distâncias entre pontos. Duas das
+transformações isométricas são a reflexão e a rotação. A reflexão ocorre por meio de uma reta chamada eixo. Esse eixo
+funciona como um espelho, a imagem refletida é o resultado da transformação. A rotação é o “giro” de uma figura ao redor de
+um ponto chamado centro de rotação. A figura sofreu cinco transformações isométricas, nessa ordem:
+
+y,
+
+1º) Reflexão no eixo x;
+2º) Rotação de 90 graus no sentido anti-horário, com centro de rotação no ponto A;
+3º) Reflexão no eixo y,
+
+4º) Rotação de 45 graus no sentido horário, com centro de rotação no ponto A;
+
+5º) Reflexão no eixo x.
+Disponivel em: me pucsp Acesso em: 230. 2012.
+
+Qual a posição final da figura?
+
+e a
+o > o >

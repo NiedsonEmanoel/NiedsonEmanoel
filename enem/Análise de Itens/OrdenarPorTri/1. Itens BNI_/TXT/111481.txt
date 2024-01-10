@@ -1,0 +1,29 @@
+QUESTÃO 107
+
+No circuito elétrico, estão associadas quatro
+lâmpadas elétricas idênticas A, B, C e D. Considere a
+fonte de tensão (V) ideal
+
+RR
+
+Comparando-se o brilho das lâmpadas, se a lâmpada A
+queimar, de modo que não possa conduzir corrente elétrica,
+observa-se que
+
+O aslâmpadas Be D apagam-se, e C permanece acesa
+com o mesmo brilho.
+
+O a lâmpada B apaga-se, a C permanece acesa com
+mesmo brilho e D permanece apagada.
+
+O a lâmpada B apaga-se, a C permanece acesa com
+maior brilho e D permanece acesa com o mesmo
+brilho.
+
+O a lâmpada B apaga-se, a C permanece acesa com
+o mesmo brilho e D permanece acesa com maior
+brilho.
+
+O as lâmpadas C e D permanecem acesas com o
+mesmo brilho e B permanece acesa com maior
+brilho.

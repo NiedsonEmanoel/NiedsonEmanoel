@@ -1,0 +1,50 @@
+Questão 153 enem
+
+Um cinema tem capacidade para 180 pessoas e cobra
+R$ 30,00 pelo ingresso inteiro e R$ 15,00 pelo ingresso
+de meia-entrada. A ocupação média é de 100 pessoas
+e, destas, 60 pagam meia-entrada e as demais, o valor
+inteiro. O administrador desse cinema realizou algumas
+pesquisas com os seus frequentadores e constatou que,
+para cada R$ 2,00 de desconto no preço inteiro e R$ 1,00
+de desconto no preço da meia-entrada, a quantidade de
+frequentadores pagantes do preço inteiro aumentava em
+20% e a de pagantes de meia-entrada aumentava em
+10% em relação às quantidades iniciais.
+
+A hipótese do administrador do cinema é que esse
+comportamento se mantenha para novos descontos,
+ou seja, ao duplicar o valor dos descontos, duplicarão
+também os percentuais de aumento do número de
+frequentadores de cada tipo. Por isso, ele decidiu criar
+uma promoção aplicando um desconto de R$ 8,00 no
+preço inteiro e de R$ 4,00 no preço da meia-entrada,
+visando aumentar a arrecadação.
+
+Ele classificará o sucesso da promoção em função do
+aumento na arrecadação da seguinte forma:
+
++ fraco: aumento até R$ 500,00;
+
+- regular: aumento maior que R$ 500,00 até
+
+R$ 800,00;
+
+- bom: aumento maior que R$ 800,00 até
+R$ 1 200,00;
+
++ muito bom: aumento maior que R$ 1 200,00 até
+R$200,00;
+
+* ótimo: aumento maior que R$ 2 000,00.
+
+Caso a hipótese do administrador do cinema seja
+confirmada, o sucesso da promoção será classificado
+como
+
+O fraco
+O regular
+O tom.
+
+O mutobom.
+O ótimo.

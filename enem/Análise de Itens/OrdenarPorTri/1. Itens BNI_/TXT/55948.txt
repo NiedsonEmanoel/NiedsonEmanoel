@@ -1,0 +1,37 @@
+Questão 101 7 UISnIa
+
+O exame parasitológico de fezes é utilizado para
+detectar ovos de parasitos. Um dos métodos utilizados,
+denominado de centrifugo-futuação, considera a
+densidade dos ovos em relação a uma solução de
+densidade 1,15 g mL”. Assim, ovos que flutuam na
+superfície dessa solução são detectados. Os dados
+de densidade dos ovos de alguns parasitos estão
+apresentados na tabela.
+
+Parasito Densidade (g ml *)
+Ancylostoma 1.06
+Ascaris lumbricoides im
+Ascaris suum 1413
+Schistosoma mansoni 118
+Taenia saginata 1.30
+
+ZERBIN AM Iecação e análio de viabilidade de ovos de retrintos em
+
+tema de tamento d apto Sombsicoscomstuios de retcres anerábics é
+“rampa de ecoa sopra o Home: Pos, 00 ss
+
+Considerando-se a densidade dos ovos e da solução, ovos
+
+de quais parasitos podem ser detectados por esse método?
+
+O A lumbricoides, A. suum e S. mansoni
+
+O S. mansoni, T. saginata e Ancylostoma.
+
+O Ancylostoma, A. lumbricoides e A. suum.
+
+O T saginata, S. mansoni e A. lumbricoides.
+
+O A lumbricoides, A. suum e T. saginata.
+

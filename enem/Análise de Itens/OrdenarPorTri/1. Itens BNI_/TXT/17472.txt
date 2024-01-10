@@ -1,0 +1,15 @@
+Questão 165
+
+Um jardineiro cultiva plantas ornamentais e as coloca
+à venda quando estas atingem 30 centimetros de altura.
+Esse jardineiro estudou o crescimento de suas plantas,
+em função do tempo, e deduziu uma fórmula que calcula
+a altura em função do tempo, a partir do momento em
+que a planta brota do solo até o momento em que ela
+atinge sua altura máxima de 40 centimetros. A fórmula é
+h=Slog, (t+ 1), em que té o tempo contado em dia e
+h, a altura da planta em centímetro.
+
+A partir do momento em que uma dessas plantas
+é colocada à venda, em quanto tempo, em dia, ela
+alcançará sua altura máxima?

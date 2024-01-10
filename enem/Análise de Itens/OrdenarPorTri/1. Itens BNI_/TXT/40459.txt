@@ -1,0 +1,39 @@
+QUESTÃO 136
+
+Uma empresa de construção comprou um terreno
+de formato retangular por R$ 700 000,00. O terreno tem
+90 m de comprimento e 240 m de largura. O engenheiro
+da empresa elaborou três projetos diferentes para serem
+avaliados pela direção da construtora, da seguinte
+maneira:
+
+Projeto 1: dividir o terreno em lotes iguais de
+45 mx 10 m, sem ruas entre os lotes, e vender cada lote
+por R$ 23 000,00;
+
+Projeto 2: dividir o terreno em lotes iguais de
+20 mx 30 m, deixando entre lotes ruas de 10 m de
+largura e 240 m de comprimento, e vender cada lote por
+R$ 35 000,00;
+
+Projeto 3: dividir o terreno em lotes iguais de
+35 m x 20 m, deixando entre lotes ruas de 20 m de
+largura e 240 m de comprimento, e vender cada lote
+por R$ 45 000,00.
+
+Adireção da empresa decidiu dividir o terreno e utilizar
+o projeto que permitirá o maior lucro, sendo que este será
+igual ao valor obtido pela venda dos lotes, menos o valor
+da compra do terreno.
+
+Nesse caso, o lucro da construtora, em real, será de
+O 280000,00.
+
+O 404000,00.
+
+& 1104000,00.
+
+O 112000000.
+
+O 1460000,00.
+

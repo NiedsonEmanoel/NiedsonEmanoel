@@ -1,0 +1,26 @@
+QUESTÃO 147
+
+Uma loja comercializa cinco modelos de
+caixas-dágua (1, Il, Il, IV e V), todos em formato
+de cilindro reto de base circular. Os modelos Il, ll, IV e V
+têm as especificações de suas dimensões dadas em
+relação às dimensões do modelo |, cuja profundidade é P
+e área da base é A,, como segue:
+
++ modelo Il: o dobro da profundidade e a metade da
+área da base do modelo |;
+
++ modelo III: o dobro da profundidade e a metade do
+raio da base do modelo |;
+
++ modelo IV: a metade da profundidade e o dobro da
+área da base do modelo |;
+
++ modelo V: a metade da profundidade e o dobro do
+raio da base do modelo |.
+
+Uma pessoa pretende comprar nessa loja o modelo
+de caixadágua que ofereça a maior capacidade
+volumétrica.
+
+O modelo escolhido deve ser o

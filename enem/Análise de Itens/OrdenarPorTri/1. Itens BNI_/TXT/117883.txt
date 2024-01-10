@@ -1,0 +1,28 @@
+Questão 112
+
+O objetivo de recipientes isolantes térmicos é
+minimizar as trocas de calor com o ambiente externo.
+Essa troca de calor é proporcional à condutividade
+térmica k e à área interna das faces do recipiente,
+bem como à diferença de temperatura entre o
+ambiente extemo e o interior do recipiente, além de ser
+inversamente proporcional à espessura das faces.
+
+A fim de avaliar a qualidade de dois recipientes
+A (40 cm x 40 cm x 40 cm) e B (60 cm x 40 cm x 40 cm),
+de faces de mesma espessura, uma estudante compara
+suas condutividades térmicas ky e kg. Paraisso suspende,
+dentro de cada recipiente, blocos idênticos de gelo a
+O *C, de modo que suas superfícies estejam em contato
+apenas com o ar. Após um intervalo de tempo, ela abre
+os recipientes enquanto ambos ainda contêm um pouco
+de gelo e verifica que a massa de gelo que se fundiu no
+recipiente B foi o dobro da que se fundiu no recipiente A.
+
+Arazão ne mais próxima de
+005.
+o 067
+o 0
+os
+e 20.
+

@@ -1,0 +1,20 @@
+QUESTÃO 143
+
+Durante uma festa de colégio, um grupo de alunos
+organizou uma rifa. Oitenta alunos faltaram à festa e não
+participaram da rifa. Entre os que compareceram, alguns
+compraram três bilhetes, 45 compraram 2 bilhetes, e
+muitos compraram apenas um. O total de alunos que
+“comprou um único bilhete era 20% do número total de
+bilhetes vendidos, e o total de bilhetes vendidos excedeu
+em 33 0 número total de alunos do colégio.
+
+Quantos alunos compraram somente um bilhete?
+
+0000
+
+a
+“2
+a
+48
+79

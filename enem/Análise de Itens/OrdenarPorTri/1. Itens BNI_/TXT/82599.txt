@@ -1,0 +1,19 @@
+Os materiais são classificados pela sua natureza química e estrutural, e as diferentes.
+aplicações requerem caracteristicas específicas, como a condutiblidade térmica, quando são
+utiizados, por exemplo, em utensílios de cozinha. Assim, os alimentos são acondicionados em
+recipientes que podem manter a temperatura após O preparo. Considere a tabela, que
+apresenta a condutblidade térmica (K) de diferentes materiais utilizados na confecção de
+panelas.
+
+Condutibilidade térmica de materiais utilizados
+na confecção de panelas
+
+Ke(hcal him
+1 E
+" Alumínio. 1750
+0 Ferro 40,0
+y Vidro 065]
+vi Cerâmica, 0,40
+
+Qual dos materiais é o recomendado para manter um alimento aquecido por um maior
+intervalo de tempo?

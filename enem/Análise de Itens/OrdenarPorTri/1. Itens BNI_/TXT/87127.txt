@@ -1,0 +1,27 @@
+Questão 153 D570en2m20202nemononenem
+
+Dois atletas partem de pontos, respectivamente P, e
+P., em duas pistas planas distintas, conforme a figura,
+deslocando-se no sentido anti-horário até a linha de
+“chegada, percorrendo, desta forma, a mesma distância.
+(L). Os trechos retos dos finais das curvas até a linha de
+chegada desse percurso têm o mesmo comprimento (1)
+nas duas pistas e são tangentes aos trechos curvos, que
+são semicírculos de centro C. O raio do semicírculo maior
+é R,e o raio do semicírculo menor é R,.
+
+Linha de chegada
+Sabe-se que o comprimento de um arco circular é
+dado pelo produto do seu raio pelo ângulo, medido em
+radiano, subentendido pelo arco.
+Nas condições apresentadas, a razão da medida do
+ângulo P,C P, pela diferença L- | é dada por
+
+O RR,
+
+OR R
+141
+SR,
+o 1
+RR
+elit

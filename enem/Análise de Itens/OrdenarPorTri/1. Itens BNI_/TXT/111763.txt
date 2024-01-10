@@ -1,0 +1,29 @@
+Questão 159 tenemaczs
+
+Um inseto percorreu sobre a superfície de um objeto,
+em formato de um prisma reto ABCDEFGH, com base
+retangular, uma trajetória poligonal, com vértices nos
+pontos: A-X-Y-G-F-E-X-G- E, na ordem em que
+foram apresentados.
+
+A S
+
+A D
+
+É necessário representar a projeção ortogonal do
+trajeto percorrido pelo inseto sobre o plano determinado
+pela base do prisma.
+
+A representação da projeção ortogonal do trajeto
+percorrido pelo inseto é
+
+OB ———0
+A D
+os c
+A D
+[CN c
+A
+o c
+A
+os
+

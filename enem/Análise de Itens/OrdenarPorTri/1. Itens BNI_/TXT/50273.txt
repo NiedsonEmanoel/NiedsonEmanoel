@@ -1,0 +1,21 @@
+A resolução de um instrumento de medição é definida como a menor variação de uma
+grandeza que pode ser medida. O paquimetro é um instrumento de medição de grandezas de
+“comprimento linear. Um fabricante de componentes para portões eletrônicos produz eixos com
+diâmetros diferentes e possui paquimetros com resoluções de 0,02 mm (paquímetro A) e 0,05.
+
+mm (paquímetro B). Um funcionário dessa empresa mediu um eixo com diâmetro nominal de
+11,0 mm com uso do paquímetro À, e outro eixo com diâmetro nominal de 12,5 mm com o
+paquímetro 8.
+
+Quais são as possíveis leituras obtidas com o uso dos paquímetros A e 8, em
+respectivamente?
+
+O noterso
+O nozes
+11,046 12,55
+
+1105 12,50
+
+0 0
+
+1106e 12,54

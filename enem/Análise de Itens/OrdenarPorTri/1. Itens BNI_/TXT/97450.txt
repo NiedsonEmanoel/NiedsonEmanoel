@@ -1,0 +1,30 @@
+Questão 118
+
+Um pesquisador observou, em uma árvore, um ninho de uma espécie de falcão. Apenas um filhote apresentava
+uma coloração típica de penas de ambos os pais. Foram coletadas amostras de DNA dos pais e filhotes para
+caracterização genética dos alelos responsáveis pela coloração das penas. O perfil de bandas obtido para cada
+indivíduo do ninho para os lócus 1 e 2, onde se localizam os genes dessa caracteristica, está representado
+na figura.
+
+Padrões de bandas em gel das moléculas de DNA dos indi
+
+Pais Filhotes
+8 9 1 2 3 4 5
+Alelo A
+tócus1 AeloB E O
+Alelo C E Too Too
+Alelo D Too
+Pais Filhotes
+8 9 1 2 3 4 5
+AeioE O O e
+Lócus2  AleloF
+AteioG E E | me!
+Alelo H Too
+
+CARVALHO, C. S.; CARVALHO, MA; COLLEVATTI, R.G. Identficando o sistema de acasalamento em aves.
+Sonótica na Escola, n. 1, 2013 (adaptado)
+
+Dos filhotes, qual apresenta a coloração típica de penas dos pais?
+
+voos
+as on

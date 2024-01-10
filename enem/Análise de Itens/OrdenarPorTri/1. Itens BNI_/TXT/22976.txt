@@ -1,0 +1,44 @@
+Questão 152 enem
+
+Uma operadora de telefonia oferece cinco planos de
+serviços. Em cada plano, para cada mês, o cliente paga
+um valor V que lhe dá direito a telefonar por M minutos
+para clientes da mesma operadora. Quando a duração
+total das chamadas para clientes da mesma operadora
+excede M minutos, é cobrada uma tarifa 4 por cada
+minuto excedente nesse tipo de chamada. Além disso,
+é cobrado um valor T2, por minuto, nas chamadas para
+cientes de outras operadoras, independentemente do
+fato de os M minutos terem ou não sido usados. A tabela
+apresenta o valor de V, M, T1 e T2 para cada um dos
+cinco planos.
+
+v M nm T2
+
+R$25,00 | 20 min |R$ 1,50/min |R$ 2.00/min|
+
+R$60,00 | 65 min |R$ 1,00/min |R$ 1,20/min|
+
+R$60,00 | 75 min |R$ 1,00/min|R$ 1,50/min|
+
+R$ 120,00 | 160 min |RS 0,80/min R$ 0,90/min
+
+ER
+
+R$ 120,00 |180 min |RS 0,80/min R$ 1,20/min
+
+Se um cliente dessa operadora planeja telefonar
+durante 75 minutos para amigos da mesma operadora e
+50 minutos para amigos de outras operadoras, o plano
+que ele deverá escolher, a fim de pagar menos, é o
+Plano A.
+
+Plano B.
+
+Plano C.
+
+Plano D.
+
+Plano E.
+
+Voos

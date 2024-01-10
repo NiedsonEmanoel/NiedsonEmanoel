@@ -1,0 +1,37 @@
+Questão 151, === enemanar
+
+Uma das bases mais utilizadas para representar um
+número é a base decimal. Entretanto, os computadores
+trabalham com números na base binária. Nessa base,
+qualquer número natural é representado usando apenas
+os algarismos O e 1. Por exemplo, as representações
+dos números 9 e 12, na base binária, são 1001 e 1100,
+respectivamente. A operação de adição, na base binária,
+segue um algoritmo similar ao utilizado na base decimal,
+“como detalhado no quadro:
+
+ab
+o
+1
+1
+10
+Por exemplo, na base binária, a soma dos números
+10 10 é 100, como apresentado:
+10
++10
+100
+Considerando as informações do texto, o resultado da
+adição 9 + 12 será representado, na base binária, por
+101.
+01
+mm
+10101
+11001
+
+b
+o o
+o 4
+1.0
+14
+
+Voos

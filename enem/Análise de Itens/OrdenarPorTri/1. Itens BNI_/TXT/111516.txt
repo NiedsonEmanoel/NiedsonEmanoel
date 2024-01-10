@@ -1,0 +1,34 @@
+QUESTÃO 156
+
+Uma loja de roupas fixou uma meta de vendas de
+TT 000 reais para um determinado mês de 30 dias
+O gráfico mostra o volume de vendas dessa loja, em real,
+nos dez primeiros dias do mês e entre o dia dez e o dia
+vinte desse mês, nos seus dois únicos setores (infantil e
+adulto). Suponha que a variação no volume de vendas,
+para o período registrado, tenha se dado de forma linear,
+como mostrado no gráfico, e que essa tendência se
+mantenha a mesma para os próximos dez dias.
+
+18 000
+
+Adulto
+
+15 000
+
+r T 1
+10 20 30
+
+Ao final do trigésimo dia, quanto faltará no volume de vendas,
+emreal, para que a meta fixada para o mês seja alcançada?
+5000
+
+7000
+
+11,000
+
+18000
+
+29000
+
+vovo

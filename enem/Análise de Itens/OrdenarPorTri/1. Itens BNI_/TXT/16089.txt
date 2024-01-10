@@ -1,0 +1,20 @@
+Questão 128
+
+Um laudo de análise de laboratório apontou que
+amostras de leite de uma usina de beneficiamento
+estavam em desacordo com os padrões estabelecidos
+pela legislação. Foi observado que a concentração de
+sacarose era maior do que a permitida.
+
+Qual teste listado permite detectar a irregularidade
+descrita?
+
+O Medida da turbidez.
+
+O Determinação da cor.
+
+O Determinação do pH.
+
+O Medida da densidade.
+
+O Medida da condutividade.

@@ -1,0 +1,60 @@
+Questão 142
+
+O serviço de meteorologia de uma cidade emite
+relatórios diários com a previsão do tempo. De posse
+dessas informações, a prefeitura emite três tipos de
+alertas para a população:
+
+* Alerta cinza: deverá ser emitido sempre que a
+previsão do tempo estimar que a temperatura
+será inferior a 10 “C, e a umidade relativa do ar
+for inferior a 40%;
+
+* Alerta laranja: deverá ser emitido sempre que a
+previsão do tempo estimar que a temperatura deve.
+variar entre 35 *C e 40 “C, e a umidade relativa do
+ar deve ficar abaixo de 30%;
+
+* Alerta vermelho: deverá ser emitido sempre que
+a previsão do tempo estimar que a temperatura
+“será superior a 40 “C, e a umidade relativa do ar
+for inferior a 25%.
+
+Um resumo da previsão do tempo nessa cidade,
+
+para um período de 15 dias, foi apresentado no gráfico.
+
+Temperatura Temperatura Umidada reativa
+
+oo! o
+
+S Umidade relativa o ar pn
+
+“| “o
+
+2] 2
+0 2 4 6 8 1 1 td 15
+
+Decorridos os 15 dias de validade desse relatório,
+um funcionário percebeu que, no período a que se refere
+o gráfico, foram emitidos os seguintes alertas:
+
+* Dia 1: alerta cinza;
+
++ Dia 12:alerta laranja;
+
+* Dia 13: alerta vermelho.
+
+Em qualis) desses dias o(s) aviso(s) foi(ram) emitido(s)
+corretamente?
+
+91
+
+o12
+
+O te1
+
+O tes
+
+e 1,12e1ms
+

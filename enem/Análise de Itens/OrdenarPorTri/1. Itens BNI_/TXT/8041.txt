@@ -1,0 +1,16 @@
+QUESTÃO 102
+
+Um carrinho de brinquedo funciona por fricção. Ao ser
+forçado a girar suas rodas para trás, contra uma superfície
+rugosa, uma mola acumula energia potencial elástica.
+Ao soltar o brinquedo, ele se movimenta sozinho para
+frente e sem deslizar.
+
+Quando o carrinho se movimenta sozinho, sem deslizar,
+a energia potencial elástica é convertida em energia
+
+(9 dinâmico na roda, devido ao eixo
+O estático na roda, devido à superfície rugosa.
+O estático na superfície rugosa, devido à roda.
+O dinâmico na superfície rugosa, devido à roda.
+O dinâmico na roda, devido à superfície rugosa.

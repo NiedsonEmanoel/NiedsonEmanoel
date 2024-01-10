@@ -1,0 +1,36 @@
+Questão 153 vm
+
+Suponha que uma equipe de corrida de automóveis
+disponha de cinco tipos de pneu (1, 1, Il, IV, V), em que
+o fator de eficiência climática EC (índice que fomece o
+“comportamento do pneu em uso, dependendo do clima)
+é apresentado:
+
++ EC do pneu l: com chuva 6, sem chuva
+
++ EC do pneu Il: com chuva 7, sem chuva -4;
+
++ EC do pneu Ill: com chuva -2, sem chuva 10;
+
++ EC do pneu IV: com chuva 2, sem chuva 8;
+
++ EC do pneu V: com chuva -6, sem chuva 7.
+
+O coeficiente de rendimento climático (CRC) de um
+pneu é calculado como a soma dos produtos dos fatores
+de EC, com ou sem chuva, pelas correspondentes.
+probabilidades de se ter tais condições climáticas:
+ele é utilizado para determinar qual pneu deve ser
+selecionado para uma dada corrida, escolhendo-se o
+pneu que apresentar o maior CRC naquele dia. No dia
+de certa corrida, a probabilidade de chover era de 70%
+e o chefe da equipe calculou o CRC de cada um dos
+cinco tipos de pneu.
+
+O pneu escolhido foi
+o
+
+UE FE
+
+000
+

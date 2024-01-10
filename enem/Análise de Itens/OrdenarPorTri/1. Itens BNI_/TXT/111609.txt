@@ -1,0 +1,15 @@
+QUESTÃO 152
+
+Minecraft é um jogo virtual que pode auxiiar no desenvolvimento de conhecimentos relacionados a espaço e forma.
+É possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento
+de cubinhos.
+
+Um jogador deseja construir um cubo com dimensões 4 x 4 x 4. Ele já empilhou alguns dos cubinhos necessários,
+conforme a figura.
+
+UI
+
+Os cubinhos que ainda faltam empilhar para finalizar a construção do cubo, juntos, formam uma peça única, capaz
+de completar a tarefa.
+O formato da peça capaz de completar o cubo 4 x 4 x 4 é
+

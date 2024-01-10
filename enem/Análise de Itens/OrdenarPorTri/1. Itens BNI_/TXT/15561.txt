@@ -1,0 +1,24 @@
+Questão 165 enamononenamononeneam
+
+A prefeitura de uma cidade está renovando os
+canteiros de flores de suas praças. Entre as possíveis
+variedades que poderiam ser plantadas, foram escolhidas.
+cinco: amor-perfeito, cravina, petúnia, margarida e lírio.
+
+distintas, não importando como elas serão dispostas.
+Um funcionário deve determinar os trios de variedades
+de flores que irão compor cada canteiro.
+
+De acordo como disposto, a quantidade de trios possíveis
+é dada por
+
+os
+053
+51
+º em
+5
+(5-3)!
+5
+(5-3)I3!
+
+o

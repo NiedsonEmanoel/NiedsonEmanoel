@@ -1,0 +1,21 @@
+QUESTÃO 172
+
+Uma empresa de comunicação tem a tarefa de
+elaborar um material publicitário de um estaleiro para
+divulgar um novo navio, equipado com um guindaste de
+15 m de altura e uma esteira de 90 m de comprimento.
+No desenho desse navio, a representação do guindaste
+deve ter sua altura entre 0,5 cm e 1 cm, enquanto a
+esteira deve apresentar comprimento superior a 4 cm.
+Todo o desenho deverá ser feito em uma escala 1 : X.
+Os valores possíveis para X são, apenas,
+X>1500.
+X<3000.
+1500<X<2250.
+1500<X<3000.
+2250<X<3000.
+
+o
+(o)
+o
+(E)

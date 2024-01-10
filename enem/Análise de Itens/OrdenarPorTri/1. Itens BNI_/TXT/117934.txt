@@ -1,0 +1,18 @@
+Questão 157 enemam
+
+Um suporte será instalado no box de um banheiro para
+serem colocados recipientes de xampu, condicionador e
+sabonete líquido, sendo que o recipiente de cada produto
+tem a forma de um cilindro circular reto de medida do
+raio igual a 3 cm. Para maior conforto no interior do box,
+a proprietária do apartamento decidiu comprar o suporte
+que tiver a base de menor área, desde que a base de
+cada recipiente ficasse inteiramente sobre o suporte.
+Nas figuras, vemos as bases desses suportes, nas quais
+todas as medidas indicadas estão em centímetro.
+
+13
+Utilize 3,14 como aproximação para 7.
+
+Para atender à sua decisão, qual tipo de suporte a
+proprietária comprou?

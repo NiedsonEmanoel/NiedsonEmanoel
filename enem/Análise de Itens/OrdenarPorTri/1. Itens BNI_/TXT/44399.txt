@@ -1,0 +1,48 @@
+QUESTÃO 150
+
+Um clube está sendo reformado e deve ter algumas
+paredes e partes do teto repintadas. São, no total,
+560 mê de parede e 260 mé de teto. Segundo orientações
+técnicas, um entre três tipos diferentes de tinta deve ser
+usado para pintar as paredes (tipos |, Il e Il), e um entre
+outros dois tipos pode ser utilizado na pintura do teto
+(tipos X e Y). As características dos diferentes produtos
+são apresentadas a seguir:
+
++ tipo |: vendido em embalagem com 10 L, por
+R$ 180,00 cada. O conteúdo permite pintar uma
+área de 220 mº;
+
++ tipo II: vendido em embalagem com 20 L, por
+R$ 350,00 cada. O conteúdo permite pintar uma
+área de 450 m?;
+
++ tipo III: vendido em embalagem com 25 L, por
+R$ 650,00 cada. O conteúdo permite pintar uma
+área de 550 m?;
+
++ tipo X: vendido em embalagem com 4 L, por
+R$ 70,00 cada. O conteúdo permite pintar uma
+área de 80 m?;,
+
++ tipo Y: vendido em embalagem com 5 L, por
+R$ 85,00 cada. O conteúdo permite pintar uma
+área de 90 m?
+
+Pretende-se gastar a menor quantia possível, em
+real, com essa pintura.
+
+As tintas que devem ser escolhidas para uso nas paredes
+e teto do clube, respectivamente, são as de tipos
+
+lex.
+
+ley
+
+lex.
+
+ley.
+
+ney.
+
+vo00oo

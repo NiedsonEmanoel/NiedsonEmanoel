@@ -1,0 +1,36 @@
+Questão 159 —>>">>>>"""">"====—= enemawar
+
+Uma grande rede de supermercados adota um
+sistema de avaliação dos faturamentos de suas filiais,
+considerando a média de faturamento mensal em
+milhão. A matriz da rede paga uma comissão para os
+representantes dos supermercados que atingirem uma
+média de faturamento mensal (M), conforme apresentado
+no quadro.
+
+Comissão | Média de faturamento mensal (M)
+1 1sM<2
+u 2sM<4
+uu asM<5
+v 5sM<6
+v Mz6
+
+Um supermercado da rede obteve os faturamentos
+num dado ano, conforme apresentado no quadro.
+
+Faturamento mensal
+(em milhão de real) | Quantidade de meses.
+
+35
+25
+5
+3
+75]
+
+aja fnfolo
+
+Nas condições apresentadas, os representantes desse
+supermercado avaliam que receberão, no ano seguinte,
+a comissão de tipo
+
+0000

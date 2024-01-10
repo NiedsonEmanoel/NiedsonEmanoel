@@ -1,0 +1,17 @@
+Questão 108 enemecor
+
+Duas esferas carregadas com cargas iguais em
+módulo e sinais contrários estão ligadas por uma
+haste rígida isolante na forma de haltere. O sistema se
+movimenta sob ação da gravidade numa região que
+tem um campo magnético horizontal uniforme (B), da
+esquerda para a direita. A imagem apresenta o sistema
+visto de cima para baixo, no mesmo sentido da aceleração
+da gravidade (5) que atua na região.
+
+Visto de cima, o diagrama esquemático das forças
+magnéticas que atuam no sistema, no momento inicial em
+que as cargas penetram na região de campo magnético,
+está representado em
+
+|

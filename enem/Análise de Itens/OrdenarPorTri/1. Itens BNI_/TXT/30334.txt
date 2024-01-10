@@ -1,0 +1,42 @@
+QUESTÃO 144 ED
+
+A inclinação de um telhado depende do tipo e da
+marca das telhas escolhidas. A figura é o esboço do
+telhado da casa de um específico proprietário. As telhas
+serão apoiadas sobre a superfície quadrada plana ABCD,
+sendo BOC um triângulo retângulo em O. Sabe-se que h
+é a altura do telhado em relação ao forro da casa (a figura
+plana ABOE), b = 10 é o comprimento do segmento OB, e
+dé a largura do telhado (segmento AB), todas as medidas
+dadas em metro.
+
+D
+
+A do
+
+B
+
+Disponivel em: mapa com be Acesso em: 31 ja 2012
+
+Sabe-se que, em função do tipo de telha escolhida
+pelo proprietário, a porcentagem i de inclinação ideal do
+telhado, descrita por meio da relação | ="X100. 4 ge
+40%, e que a expressão que determina o número N de
+telhas necessárias na cobertura é dada por N=d? x10,5.
+Além disso, essas telhas são vendidas somente em
+
+milheiros.
+
+O proprietário avalia ser fundamental respeitar a
+inclinação ideal informada pelo fabricante, por isso
+argumenta ser necessário adquirir a quantidade mínima
+de telhas correspondente a
+
+um milheiro.
+dois milheiros.
+três milheiros.
+seis milheiros.
+
+voooo
+
+oito milheiros.

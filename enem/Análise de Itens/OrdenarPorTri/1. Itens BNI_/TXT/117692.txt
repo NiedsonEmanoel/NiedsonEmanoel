@@ -1,0 +1,19 @@
+Questão 160 —>>>>>———=Snemanar
+
+Aplicativos que gerenciam serviços de hospedagem
+têm ganhado espaço no Brasi e no mundo por oferecer
+opções diferenciadas em termos de localização e valores
+de hospedagem. Em um desses aplicativos, o preço P a
+ser pago pela hospedagem é calculado considerando um
+preço por diária d, acrescido de uma taxa fixa de limpeza L
+e de uma taxa de serviço. Essa taxa de serviço é um valor
+percentual s calculado sobre o valor pago pelo total das
+diárias.
+
+Nessa situação, o preço a ser pago ao aplicativo para uma
+
+O P=dn+L+dns
+O P=dn+L+ds
+O P=d+L+s
+O P=dns+L
+O P=dn+L+s

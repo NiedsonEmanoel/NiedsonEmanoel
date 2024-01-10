@@ -1,0 +1,25 @@
+Questão 112
+
+Em uma residência com aquecimento central, um reservatório é alimentado com água fria, que é aquecida na
+base do reservatório e, a seguir, distribuída para as tomeiras. De modo a obter a melhor eficiência de aquecimento
+“com menor consumo energético, foram feitos alguns testes com diferentes configurações, modificando-se as
+posições de entrada de água fria e de saída de água quente no reservatório, conforme a figura. Em todos os testes,
+as vazões de entrada e saída foram mantidas iguais e constantes.
+
+207 Reservatório
+
+Elemento
+aquecedor
+
+A configuração mais eficiente para a instalação dos pontos de entrada e saída de água no reservatório é,
+respectivamente, nas posições
+
+O tes
+
+O 1e6.
+
+O 2e5.
+
+O 3e4
+
+O 3es.

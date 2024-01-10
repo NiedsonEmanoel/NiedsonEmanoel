@@ -1,0 +1,19 @@
+QUESTÃO 123
+
+Afigura representa um prisma óptico, constituído de um material transparente, cujo índice de refração é crescente com
+afrequência da luz que sobre ele incide. Um feixe luminoso, composto por luzes vermelha, azul e verde, incide na face A,
+emerge na face B e, após ser refletido por um espelho, incide num filme para fotografia colorida, revelando três pontos.
+
+400 450 500 550 60 650 70 750 (om)
+
+Perfil do filme
+
+Espelho
+Observando os pontos luminosos revelados no filme, de baixo para cima, constatam-se as seguintes cores:
+Vermelha, verde, azul.
+Verde, vermelha, azul.
+Azul, verde, vermelha.
+Verde, azul, vermelha.
+Azul, vermelha, verde.
+
+voos

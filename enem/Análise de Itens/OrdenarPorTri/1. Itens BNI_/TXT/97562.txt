@@ -1,0 +1,21 @@
+QUESTÃO 157
+
+Para garantir segurança ao dirigir, alguns motoristas
+instalam dispositivos em seus carros que alertam quando
+uma certa velocidade máxima (V,). pré-programada pelo
+usuário de acordo com a velocidade máxima da via de
+tráfego, é ultrapassada. O gráfico exibido pelo dispositivo
+no painel do carro após o final de uma viagem fornece a
+velocidade (km/h) do carro em função do tempo (h).
+
+Velocidade (kmh)
+
+Tempo (n)
+
+De acordo com o gráfico, quantas vezes o dispositivo
+alertou o motorista no percurso da viagem?
+
+1
+
+vovo
+ns wn

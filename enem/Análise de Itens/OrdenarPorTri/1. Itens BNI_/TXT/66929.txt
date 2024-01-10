@@ -1,0 +1,38 @@
+Questão 167
+
+Para a compra de um repelente eletrônico, uma
+
+pessoa fez uma pesquisa nos mercados de seu bai
+
+Cada tipo de repelente pesquisado traz escrito no rótulo
+da embalagem as informações quanto à duração, em
+
+dia, associada à quantidade de horas de utilização por
+
+dia. Essas informações e o preço por unidade foram
+
+representados no quadro.
+Tipo| Duração | Horaspordia | Preço
+emdia | deutilização | emreal
+
+! 30 12 12,00
+
+u 32 9 9,00
+
+D 40 10, 10,00
+
+V “4 8 11,00
+
+v 48 8 12.00
+
+A pessoa comprará aquele que apresentar o menor
+custo diário, quando ligado durante 8 horas por dia.
+Nessas condições, o repelente eletrônico que essa
+pessoa comprará é do tipo
+
+o!
+
+oi
+eu
+oi
+ev

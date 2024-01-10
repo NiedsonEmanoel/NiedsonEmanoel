@@ -1,0 +1,25 @@
+QUESTÃO 110
+
+Células solares à base de TIO, sensibiizadas por corantes (S) são promissoras e poderão vir a substituir as células de
+silício. Nessas células, o corante adsorvido sobre o TIO, é responsável por absorver a energia luminosa (hn), e o corante
+excitado (S*) é capaz de transferir elétrons para o TiÓ,. Um esquema dessa célula e os processos envolvidos estão
+ilustrados na figura. A conversão de energia solar em elétrica ocorre por meio da sequência de reações apresentadas.
+Eletrodo de TIO,
+com corante * corante — Eletrodo de Pt
+
+TOS + hy— TIO|S* o
+
+TIO|S' > TO,S'+er e
+
+LONGO. 6: DE PAOULMLA. Dye Seas Sr Cet Soccesst Corte cr ate Jour lie Brain Cheia Soc. 16,209 (acido
+Areação 3 é fundamental para o contínuo funcionamento da célula solar, pois.
+
+reduz íons tal.
+
+regenera o corante.
+
+garante que a reação 4 ocorra.
+
+promove a oxidação do corante.
+
+transfere elétrons para o eletrodo de TIO,

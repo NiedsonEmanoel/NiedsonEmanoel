@@ -1,0 +1,36 @@
+QUESTÃO 148
+
+Para criar um logotipo, um profissional da área de
+design gráfico deseja construi-lo utilizando o conjunto de
+pontos do plano na forma de um triângulo, exatamente
+“como mostra a imagem.
+
+15
+
+15 10 5
+
+10
+
+15
+
+Para construir tal imagem utilizando uma ferramenta
+gráfica, será necessário escrever algebricamente o
+conjunto que representa os pontos desse gráfico.
+
+Esse conjunto é dado pelos pares ordenados (x ;y) = Nx N,
+taisque
+
+0<x<y<10
+
+0<y<x<10
+
+0<x<10,0<y<10
+
+0<x+y<10
+
+0<x+y<20
+
+o
+(o)
+o
+(E)

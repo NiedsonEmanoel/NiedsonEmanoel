@@ -1,0 +1,22 @@
+Questão 141 enem
+A senha de um cofre é uma sequência formada por
+oito dígitos, que são algarismos escolhidos de O a 9.
+Ao inseri-la, o usuário se esqueceu dos dois últimos
+dígitos que formam essa senha, lembrando somente
+que esses dígitos são distintos.
+Digitando ao acaso os dois dígitos esquecidos, a
+probabilidade de que o usuário acerte a senha na primeira.
+tentativa é
+
+o 2
+8
+o?
+90
+o 2
+90
+o +
+100
+o 2
+
+3
+8

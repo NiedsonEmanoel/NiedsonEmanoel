@@ -1,0 +1,23 @@
+Questão 176 DIZDEnAmoronenemononenam
+
+Os alunos do curso de matemática de uma
+universidade desejam fazer uma placa de formatura,
+no formato de um triângulo equilátero, em que os seus
+nomes aparecerão dentro de uma região quadrada,
+inscrita na placa, conforme a figura.
+
+Considerando que a área do quadrado, em que
+“aparecerão os nomes dos formandos, mede 1 mê, qual é
+“aproximadamente a medida, em metro, de cada lado do
+triângulo que representa a placa? (Utilize 1,7 como valor
+aproximado para v3 ).
+
+016
+
+021
+
+024
+
+037
+
+064

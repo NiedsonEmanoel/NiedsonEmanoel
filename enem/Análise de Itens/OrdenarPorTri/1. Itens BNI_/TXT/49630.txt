@@ -1,0 +1,15 @@
+Um administrador resolve estudar o lucro de sua empresa e, para isso, raça 0 gráfico da receita e do custo de
+produção de seus itens, em real, em função da quantidade de itens produzidos.
+
+CEELELIEES
+
+Quantidade de
+tens produzidos
+
+O lucro é determinado pela diferença: Receita — Custo.
+O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é
+
+o:
+Ea ms
+[o o:
+

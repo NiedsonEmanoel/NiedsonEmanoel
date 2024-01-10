@@ -1,0 +1,28 @@
+QUESTÃO 178
+
+Uma faculdade oferece dois cursos diferentes na área
+de Humanas. Para um aluno ingressar nesses cursos, o
+vestibular contém questões objetivas e uma redação, e a
+nota final do candidato é a soma dessas notas, utilizando
+o seguinte critério de pesos:
+
++ questões objetivas: peso 1 para o curso | e
+
+peso 1 para o curso Il;
++ redação: peso 2 para o curso | e peso 3 para o
+curso Il
+
+Um candidato que concorre aos dois cursos obteve
+nota X nas questões objetivas e nota Y na redação.
+Para analisar sua nota para o curso | e para o curso Il,
+o candidato representa sua nota com um produto de
+matrizes A - B, em que a matriz A representa os pesos,
+e a matriz B contém as notas obtidas pelo candidato.
+A matriz resultante A - B é uma matriz coluna, em que,
+na primeira linha, tem sua nota final para o curso | e, na
+segunda linha, tem sua nota final para o curso Il
+Nessas condições, qual representação algébrica gera o
+resultado final desse candidato nos dois cursos?
+
+o (2 )6)
+

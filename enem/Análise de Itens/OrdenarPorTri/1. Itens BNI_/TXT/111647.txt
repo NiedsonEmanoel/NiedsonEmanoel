@@ -1,0 +1,32 @@
+Questão 135
+
+Na montagem de uma cozinha para um restaurante, a
+escolha do material correto para as panelas é importante,
+pois a panela que conduz mais calor é capaz de cozinhar
+os alimentos mais rapidamente e, com isso, há economia
+de gás. A taxa de condução do calor depende da
+“condutividade k do material, de sua área À, da diferença
+de temperatura AT e da espessura d do material, sendo
+dada pela retação 4 — KA AT. Em panelas com dois
+
+Ee) aT
+materiais, a taxa de condução é dada por TE = A ="
+
+enemacor
+
+em que d, e d, são as espessuras dos dois materiais,
+e ke k, são as condutividades de cada material.
+Os materiais mais comuns no mercado para panelas são
+o alumínio (k = 20 Wim K), o ferro (k = 8 Wim K) e o aço
+(k=5 Wim K) combinado com o cobre (k = 40 Wim K).
+
+Compara-se uma panela de ferro, uma de alumínio
+e uma composta de É da espessura em cobre e 7 da
+espessura em aço, todas com a mesma espessura total e
+“com a mesma área de fundo.
+
+O cobre-aço, alumínio e ferro.
+O alumínio, cobre-aço e ferro.
+O cobre-aço, ferro e alumínio.
+O alumínio, ferro e cobre-aço.
+O ferro, alumínio e cobre-aço.

@@ -1,0 +1,35 @@
+QUESTÃO 140
+
+Um contrato de empréstimo prevê que quando uma
+parcela é paga de forma antecipada, conceder-se-á uma
+redução de juros de acordo com o período de antecipação.
+Nesse caso, paga-se O valor presente, que é o valor,
+naquele momento, de uma quantia que deveria ser paga
+em uma data futura. Um valor presente P submetido a
+juros compostos com taxa i, por um período de tempo n,
+produz um valor futuro V determinado pela fórmula.
+V=Pqeip
+
+Em um contrato de empréstimo com sessenta
+parcelas fixas mensais, de R$ 820,00, a uma taxa de
+juros de 1,32% ao mês, junto com a trigésima parcela
+Será paga antecipadamente uma outra parcela, desde
+que o desconto seja superior a 25% do valor da parcela.
+
+Us 02877 con armação pera o [É e
+0,0131 como aproximação para In (1,0132). 3
+
+A primeira das parcelas que poderá ser antecipada junto
+comasmréa
+
+so
+
+ss
+
+sa
+
+su
+
+am
+
+0000

@@ -1,0 +1,37 @@
+Questão 168 enem
+
+Uma confeiteira pretende divulgar em um sítio
+da intemet os doces que produz, mas só fará isso
+se acreditar que o número de acessos por semana
+compensará seu gasto com a divulgação. Por isso, pediu
+que lhe enviassem dados sobre o número de acessos ao
+sítio nas últimas 5 semanas e recebeu o gráfico a seguir.
+
+162
+160
+158
+156
+154.
+152
+150
+148!
+
+Acesso
+
+152
+
+A confeiteira acredita que, se o número de acessos
+mantiver o mesmo crescimento semanal para as próximas.
+5 semanas, ao final desse período valerá a pena investir
+na divulgação.
+
+O número de acessos que a confeiteira acredita ser
+suficiente para que a divulgação no sítio valha a pena é
+
+oe.
+
+O 17.
+o 17.
+[ONKIPA
+
+e 32.

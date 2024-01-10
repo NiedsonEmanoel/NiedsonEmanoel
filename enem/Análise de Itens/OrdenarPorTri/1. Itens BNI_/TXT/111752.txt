@@ -1,0 +1,43 @@
+Questão 114 Dinenamonmenemoronenam
+
+Tanto a conservação de materiais biológicos como
+O resfriamento de certos fotodetectores exigem baixas
+temperaturas que não são facilmente atingidas por
+refrigeradores. Uma prática comum para atingi-las é
+o uso de nitrogênio líquido, obtido pela expansão
+adiabática do gás N,, contido em um recipiente
+acoplado a um êmbolo, que resulta no resfriamento
+em temperaturas que chegam até seu ponto de
+liquefação em 196 *C. A figura exibe o esboço de
+curvas de pressão em função do volume ocupado por
+uma quantidade de gás para os processos isotérmico
+e adiabático. As diferenças entre esses processos
+podem ser identificadas com base na primeira lei da
+termodinâmica, que associa a variação de energia
+interna à diferença entre o calor trocado com o meio
+exterior e o trabalho realizado no processo.
+
+Pressão
+
+Volume
+
+A expansão adiabática viabiliza o resfriamento do N,
+porque
+
+O a entrada de calor que ocorre na expansão por causa
+do trabalho contribui para a diminuição da temperatura.
+
+O asaída de calor que ocorre na expansão por causa do
+trabalho contribui para a diminuição da temperatura.
+
+O a variação da energia intema é nula e o trabalho é
+associado diretamente ao fluxo de calor, que diminui
+a temperatura do sistema.
+
+O a variação da energia intema é nula e o trabalho é
+associado diretamente à entrada de frio, que diminui
+a temperatura do sistema.
+
+O o trabalho é associado diretamente à variação de
+energia interna e não há troca de calor entre o gás e
+o ambiente.

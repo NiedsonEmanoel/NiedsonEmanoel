@@ -1,0 +1,40 @@
+Questão 137 enemaror
+A Cifra de César é um exemplo de um método de codificação de mensagens usado por Júlio César para se
+comunicar com seus generais.
+
+No método, cada letra era trocada por uma letra que aparecia no alfabeto um número fixo de casas adiante (ou atrás)
+
+de forma cíclica. A seguir temos um exemplo em que cada letra é substituída pela que vem três posições à frente.
+Original [Ja[e[c[o[e[F[c[n[i[uJK[i[m[nTo[PTaTris[T]u[v]w]x[v]z
+
+Codificado |D [E [F|c|H[1[J|jx[Ljm[njo/pjajr[sirjulv|wix[vjz[ajejc
+Para quebrar um código como ess, a análise de frequências das letras de um texto é uma ferramenta importante.
+
+Uma análise do texto do romance O guarani, de José de Alencar, que é composto por 491 631 letras, gerou o
+seguinte gráfico de frequências:
+
+70000
+
+60000
+
+50 000
+
+40000
+
+30000
+
+Frequência
+
+20000
+
+10000
+
+CABCDEFGHI JKLMNOPQORSTUVWXYZ
+Don om eis gor Aero em: 72015.
+Após codificar esse texto com a regra do exemplo fornecido, faz-se nova análise de frequência no texto codificado.
+As quatro letras mais frequentes, em ordem decrescente de frequência, do texto codificado são
+A E,0es.
+DE FeG.
+DHRev.
+RLBexX.
+XBLeP.

@@ -1,0 +1,11 @@
+Questão 162 enemecar
+
+Num octaedro regular, duas faces são consideradas
+opostas quando não têm nem arestas, nem vértices em
+comum. Na figura, observa-se um octaedro regular e uma
+de suas planificações, na qual há uma face colorida na
+cor cinza escuro é outras quatro faces numeradas,
+
+Qualis) face(s) ficará(ão) oposta(s) à face de cor cinza
+escuro, quando o octaedro for reconstruído a partir da
+

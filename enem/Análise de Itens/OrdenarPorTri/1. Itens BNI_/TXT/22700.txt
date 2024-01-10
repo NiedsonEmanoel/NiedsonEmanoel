@@ -1,0 +1,33 @@
+No projeto de uma nova máquina, um engenheiro encomendou a um tomeiro mecânico a
+fabricação de uma peça, obtida a partir do recorte em um cubo, como Ilustrado na figura. Para
+isso, o tomeiro forneceu, juntamente com o desenho tridimensional da peça, suas vistas
+frontal, lateral e superior, a partir das posições indicadas na figura. Para facilitar o trabalho do
+torneiro, as arestas dos cortes que ficam ocultos nas três vistas devem ser representadas por
+segmentos tracejados, quando for o caso.
+
+Vista superior
+
+I
+
++ Vista lateral
+
+Bloco recortado
+
+Vista frontal
+
+As vistas frontal, lateral e superior que melhor representam o desenho entregue ao tomeiro
+são
+
+o
+
+a
+
+Frontal Lateral Superior
+Frontal Lateral Superior
+(O)
+Frontal Lateral Superior
+(O)
+Lateral Superior
+(O)
+
+Frontal Lateral Superior

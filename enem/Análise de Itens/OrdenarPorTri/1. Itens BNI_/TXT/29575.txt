@@ -1,0 +1,26 @@
+QUESTÃO 176
+
+Em um jogo de tabuleiro, a pontuação é marcada
+com fichas coloridas. Cada ficha vermelha vale um ponto.
+Três fichas vermelhas podem ser trocadas por uma azul,
+trôs fichas azuis podem ser trocadas por uma branca, e
+trôs fichas brancas podem ser trocadas por uma verde.
+Ao final do jogo, os jogadores A, B e C terminaram, cada
+um, com as quantidades de fichas, conforme a tabela
+
+seguinte:
+Fichas Fichas
+verdes vermelhas.
+JogadorA | 3 4
+JogadorB | 2 E)
+Jogadorc | 1 2
+
+De acordo com essa tabela, as classificações em primeiro,
+segundo e terceiro lugares ficaram, respectivamente,
+para os jogadores
+
+O ABec
+O BAec.
+O c Bea
+O BCea
+O caes.

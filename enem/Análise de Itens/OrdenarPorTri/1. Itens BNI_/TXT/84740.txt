@@ -1,0 +1,17 @@
+Questão 101 Enamoronenamoronanam
+Alguns modelos mais modernos de fones de ouvido
+têm um recurso, denominado “cancelador de ruídos
+ativo”, constituído de um circuito eletrônico que gera um
+sinal sonoro semelhante ao sinal externo (ruído), exceto
+pela sua fase oposta.
+Qual fenômeno físico é responsável pela diminuição do
+ruído nesses fones de ouvido?
+
+O Difração.
+
+O Refexão.
+
+O Refração.
+
+O Interferência.
+O Efeito Doppler.

@@ -1,0 +1,27 @@
+Você foi contratado para sincronizar os quatro
+“semáforos de uma avenida, indicados pelas letras O, A,
+Be, conforme a figura.
+
+i 1 i 1
+o A 8 c
+
+Os semáforos estão separados por uma distância
+de 500 m. Segundo os dados estatísticos da companhia.
+controladora de trânsito, um veículo, que está
+inicialmente parado no semáforo O, tipicamente parte
+com aceleração constante de 1 m 5? até atingir a
+velocidade de 72 km h-! e, a partir daí, prossegue com
+velocidade constante. Você deve ajustar os semáforos.
+A, Be C de modo que eles mudem para a cor verde
+quando o veículo estiver a 100 m de cruzá-os, para
+que ele não tenha que reduzir a velocidade em nenhum
+momento.
+Considerando essas condições, — aproximadamente
+quanto tempo depois da abertura do semáforo O os
+
+o
+
+O 25s,50se75s.
+O 285,42se53s.
+O 305,55se80s.
+O 35s,60se85s.

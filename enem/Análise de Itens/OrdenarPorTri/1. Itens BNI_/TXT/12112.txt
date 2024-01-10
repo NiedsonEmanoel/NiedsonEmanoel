@@ -1,0 +1,24 @@
+QUESTÃO 106
+
+Do ponto de vista genético, o número de
+cromossomos é uma característica marcante de cada
+espécie. A goiabeira (Psidium guajava L.), por exemplo,
+apresenta como padrão específico 22 cromossomos.
+A organização celular do gametófito feminino (saco
+embrionário) das flores de Angiospermas é complexa,
+sendo formado por um conjunto de oito células que, após
+a fecundação, originarão células com diferentes números
+cromossômicos. Nesse grupo, as células somáticas
+são diploides, as gaméticas são haploides e o tecido de
+reserva da semente é triploide.
+
+Durante o ciclo de vida de uma goiabeira, quantos
+cromossomos podem ser encontrados, respectivamente,
+na oosfera, no zigoto e no endosperma?
+
+02,23
+o 1n1,22,33
+O 22,44,33
+O 1n1,22,44
+e 1n1,22,22
+

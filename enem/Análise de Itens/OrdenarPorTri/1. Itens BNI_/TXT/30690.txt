@@ -1,0 +1,16 @@
+Questão 119 enemana
+A presença de substâncias ricas em enxofre em áreas de mineração provoca preocupantes impactos ambientais.
+Um exemplo dessas substâncias é a pirita (FeS,), que, em contato com o oxigênio atmosférico, reage formando uma
+solução aquosa ferruginosa, conhecida como drenagem ácida de minas, segundo a equação quimica:
+4Fes, (5) + 150,(9) + 2H0() — 2Fe (SO) (20) + 2H,SO, (29)
+
+Em situações críticas, nas quais a concentração do ácido sulfúrico atinge 9,8 g/L, o pH alcança valores menores
+que 1,0. Uma forma de reduzir o impacto da drenagem ácida de minas é tratá-la com calcário (CaCO,). Considere que
+uma amostra comercial de calcário, com pureza igual a 50% em massa, foi disponibilizada para o tratamento.
+
+FIGUEIREDO R Moérios e ambientes. Camirs: rcamp 200 (tato
+Qual é a massa de calcário, em gramas, necessária para neutralizar um litro de drenagem ácida de minas, em
+
+seu estado crítico, sabendo-se que as massas molares do CaCO, e do H,SO, são iguais a 100 g/mol e 98 gimol,
+respectivamente?
+

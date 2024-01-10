@@ -1,0 +1,25 @@
+Um investidor deseja aplicar R$ 10 000,00 durante um mês em um dos fundos de
+investimento de um banco. O agente de investimentos desse banco apresentou dois tipos de
+aplicações financeiras: a aplicação Básica e a aplicação Pessoal, cujas informações de
+rendimentos e descontos de taxas administrativas mensais são apresentadas no quadro.
+
+Aplicação | Taxa de rendimento mensal | Taxa administrativa mensal
+Básica 0,542% R$030
+Pessoal 0.560% 3,8% sobre o rendimento mensal
+
+Consideradas as taxas de rendimento e administrativa, qual aplicação fornecerá maior valor de
+rendimento líquido a esse investidor e qual será esse valor?
+
+o)
+
+9000
+
+Básica, com rendimento líquido de R$ 53,90.
+
+Básica, com rendimento líquido de R$ 54,50.
+
+Pessoal, com rendimento líquido de R$ 56,00.
+
+Pessoal, com rendimento líquido de R$ 58,12.
+
+Pessoal, com rendimento líquido de R$ 59,80.

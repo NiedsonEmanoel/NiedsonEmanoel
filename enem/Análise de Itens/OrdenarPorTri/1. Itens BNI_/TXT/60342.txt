@@ -1,0 +1,43 @@
+Questão 161 enem
+
+Na loteria Lotex, cada aposta corresponde à
+marcação de cinquenta números em um cartão. Caso o
+apostador marque uma quantidade inferior a cinquenta
+números, o sistema completará aleatoriamente a sua
+aposta até integralizar os cinquenta números necessários.
+Por exemplo, o cartão de aposta retratado representa as
+escolhas de um jogador antes que o sistema integralize o
+seu preenchimento.
+
+fm] [02] [03] (ma) [05] [06] (07) (ma (09) (ma
+(11) (42) (43) (14) (um (16) (17) (18) (19) (20)
+[23] (mm) [23] [24] [25] (26) (mm) (28) (29) (mm
+[31] [22] [83] (mm (25] (26) (37) (28) (39) [40]
+fm] [42] (mm) [44] (ma) [46] (47) [48] [49] (mm
+[51] [52] [53] [54] [55] [56] [57] [58] (ma [60]
+[6] [ma] [63] [64] [65] (ma) (67) (ma [69] (70)
+(74) (72) [73] (mm (75) (76) (77) (78) (79) (80)
+[81] [82] [83] [84] (ma) [86] (87) [88] [89] (ma)
+fm] [92] [93] [94] [95] [96] (ma) [98] [99] [00]
+
+Com relação ao cartão exibido, o jogador reconhece
+que o número racional que corresponde ao quociente do
+número de pontos marcados pelo sistema, em seu jogo,
+pelo número máximo de pontos para validar a aposta é
+igual a
+
+”
+o!
+
+25
+14
+25
+
+o
+14
+“
+
+25
+14
+25
+“

@@ -1,0 +1,30 @@
+QUESTÃO 119
+
+Alguns peixes, como o poraquê, a enguia-elétrica da
+Amazônia, podem produzir uma corrente elétrica quando
+se encontram em perigo. Um poraquê de 1 metro de
+comprimento, em perigo, produz uma corrente em torno
+de 2 ampéres e uma voltagem de 600 volts.
+
+O quadro apresenta a potência aproximada de
+equipamentos elétricos.
+
+Equipamento elétrico | Potência aproximada (watt)
+Exaustor 150,
+Computador 300
+Aspirador de pó 600
+Churrasqueira elétrica 1200
+Secadora de roupas 3.600
+
+O equipamento elétrico que tem potência similar aquela
+produzida por esse peixe em perigo é o(a)
+
+O exaustor.
+
+O computador.
+
+O aspirador de pó.
+
+O churrasqueira elétrica.
+
+& secadora de roupas.

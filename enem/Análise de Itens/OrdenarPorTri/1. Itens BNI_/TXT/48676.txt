@@ -1,0 +1,30 @@
+Questão 169
+
+Os movimentos ondulatórios (periódicos) são
+representados por equações do tipo +Asen(wt-+0),
+que apresentam parâmetros com significados físicos
+
+portantes, ais como a frequência w = ZE , emque 7
+
+é o periodo; A é a amplitude ou deslocamento máximo;
+0 é o ângulo de fase 0<0<2Z, que mede o
+w
+
+deslocamento no eixo horizontal em relação à origem no
+stante inicial do movimento.
+
+O gráfico representa um movimento periódico,
+P = P(t), em centímetro, em que P é a posição da
+cabeça do pistão do motor de um carro em um
+instante t, conforme ilustra a figura.
+
+A expressão algébrica que representa a posição P(t),
+da cabeça do pistão, em função do tempo té
+
+O Plt)=4sen(2t)
+O P()=-asen(2t)
+
+8 Pl)=-Asen(at)
+o P(0=Asen(2t+5)
+
+e (8 = asonfat+ 5)

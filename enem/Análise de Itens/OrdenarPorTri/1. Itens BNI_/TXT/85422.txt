@@ -1,0 +1,14 @@
+Questão 92
+
+Um professor percebeu que seu apontador a
+laser, de luz monocromática, estava com o brilho
+pouco intenso. Ele trocou as baterias do apontador e
+notou que a intensidade luminosa aumentou sem que
+a cor do laser se alterasse. Sabe-se que a luz é uma
+onda eletromagnética e apresenta propriedades como
+amplitude, comprimento de onda, fase, frequência
+e velocidade.
+Dentre as propriedades de ondas citadas, aquela
+associada ao aumento do brilho do laser é o(a)
+
+amplitude.

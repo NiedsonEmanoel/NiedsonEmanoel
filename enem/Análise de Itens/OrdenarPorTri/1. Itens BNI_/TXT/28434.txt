@@ -1,0 +1,29 @@
+Questão 147
+
+Três sócios resolveram fundar uma fábrica.
+O investimento inicial foi de R$ 1 000 000,00.
+E, independentemente do valor que cada um investiu
+nesse primeiro momento, resolveram considerar que cada
+um deles contribuiu com um terço do investimento inicial.
+
+Algum tempo depois, um quarto sócio entrou para
+a sociedade, e os quatro, juntos, investiram mais
+R$ 800 000,00 na fábrica. Cada um deles contribuiu
+“com um quarto desse valor. Quando venderam a fábrica,
+nenhum outro investimento havia sido feito. Os sócios
+decidiram então o montante de R$ 1 800 000,00
+obtido com a venda, de modo proporcional à quantia
+total investida por cada sócio.
+
+Quais os valores mais próximos, em porcentagens,
+correspondentes às parcelas financeiras que cada um
+dos três sócios iniciais e o quarto sócio, respectivamente,
+receberam?
+
+O 29600 nn.
+
+O 287001389
+O 2500€ 25,00.
+O 18520 nn.
+O 129601389.
+

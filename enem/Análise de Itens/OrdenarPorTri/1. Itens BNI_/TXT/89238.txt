@@ -1,0 +1,32 @@
+Questão 179
+
+A demografia médica é o estudo da população de
+médicos no Brasil nos aspectos quantitativo e qualitativo,
+sendo um dos seus objetivos fazer projeções sobre
+a necessidade da formação de novos médicos. Um
+desses estudos gerou um conjunto de dados que aborda
+a evolução do número de médicos e da população
+brasileira por várias décadas. O quadro apresenta parte
+desses dados.
+
+enemanar
+
+Ano | Médicos | População brasileira (em milhar)
+
+1990 | 219000 147000
+2000 | 292000 470000
+2010 | 365000 191000
+
+Segundo uma projeção estatística, a variação do
+número de médicos e o da população brasileira de 2010
+para 2020 será a média entre a variação de 1990 para
+2000 e a de 2000 para 2010. Com o resultado dessa
+projeção, determina-se o número de médicos por mil
+habitantes no ano de 2020.
+
+sie om remos rca em 24. 2015 tptd
+O número, com duas casas na parte decimal, mais
+próximo do número de médicos por mil habitantes no ano
+de 2020 seria de
+
+o om.

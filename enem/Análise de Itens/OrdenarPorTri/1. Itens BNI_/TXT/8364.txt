@@ -1,0 +1,18 @@
+QUESTÃO 154
+
+Um robô, que tem um imã em sua base, se desloca
+sobre a superfície extema de um cubo metálico, ao longo de
+segmentos de reta cujas extremidades são pontos médios de
+arestas e centros de faces. Ele inicia seu deslocamento no
+ponto P, centro da face superior do cubo, segue para o centro
+da próxima face, converte à esquerda e segue para o centro da
+face seguinte, converte à direita e continua sua movimentação,
+sempre altemando entre conversões à esquerda e à direita
+quando alcança o centro de uma face. O robô sô termina sua
+movimentação quando retoma ao ponto P. A figura apresenta
+os deslocamentos iniciais desse robô.
+
+A projeção ortogonal do trajeto descrito por esse robô
+sobre o plano da base, após terminada sua movimentação,
+visualizada da posição em que se está enxergando esse
+cubo, é

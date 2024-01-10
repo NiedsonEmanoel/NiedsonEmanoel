@@ -1,0 +1,15 @@
+Questão 177
+
+Uma pessoa comprou um aparelho sem fio para
+transmitir músicas a partir do seu computador para o
+rádio de seu quarto. Esse aparelho possui quatro chaves.
+seletoras e cada uma pode estar na posição O ou 1
+Cada escolha das posições dessas chaves corresponde.
+a uma frequência diferente de transmissão.
+A quantidade de frequências diferentes que esse
+“aparelho pode transmitir é determinada por
+06
+os
+ei
+oi.
+eu

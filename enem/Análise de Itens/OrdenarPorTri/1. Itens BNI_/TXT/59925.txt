@@ -1,0 +1,30 @@
+Questão 148 enemaror
+
+Em um estudo realizado pelo IBGE em quatro
+estados e no Distrito Federal, com mais de 5 mil pessoas
+com 10 anos ou mais, observou-se que a leitura ocupa,
+em média, apenas seis minutos do dia de cada pessoa
+Na faixa de idade de 10 a 24 anos, a média diária é de
+três minutos. No entanto, no grupo de idades entre
+24 e 60 anos, o tempo médio diário dedicado à
+leitura é de 5 minutos. Entre os mais velhos, com
+60 anos ou mais, a média é de 12 minutos.
+
+A quantidade de pessoas entrevistadas de cada faixa
+de idade seguiu a distribuição percentual descrita no
+quadro.
+
+Faixaetária | Percentual de entrevistados,
+De 10 a 24 anos. x
+Entre 24 e 60 anos, y
+A partir de 60 anos x
+
+Deo em was geRo com Aeee TE o STR]
+Os valores de x e y do quadro são, respectivamente, iguais a
+10680.
+10890.
+20660.
+20680,
+25850.
+
+0000

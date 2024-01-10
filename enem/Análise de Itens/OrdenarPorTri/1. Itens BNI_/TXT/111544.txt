@@ -1,0 +1,39 @@
+Questão 105 enemecar
+
+No outono, as folhas das árvores mudam de cor, de verde para tons de amarelo, castanho, laranja e vermelho.
+Acor verde das folhas deve-se ao pigmento clorofila. Nas plantas de folhas caducas, a produção de clorofila diminui e
+o tom verde desvanece, permitindo assim que outros pigmentos, como o caroteno, de coloração amarelo-alaranjado,
+e a antocianina, de tons avermelhados, passem a dominar a tonalidade das folhas. A coloração observada se dá em
+função da interação desses pigmentos com a radiação solar.
+
+Conforme apresentado no espectro de absorção, as moléculas de clorofila absorvem a radiação solar nas
+regiões do azul e do vermelho, assim a luz refletida pelas folhas tem falta desses dois tons e as vemos na cor verde.
+Já as antocianinas absorvem a luz desde o azul até o verde. Nesse caso, a luz refletida pelas folhas que contêm
+
+antocianinas aparece conforme as cores complementares, ou seja, vermelho-alaranjado.
+Espectro de absorção na região do visível Cores complementares.
+750,400
+Antocianina a Violeta
+ã 630 430
+2 Laranja Amu
+<
+590
+Amarelo
+300 400 500 700 s60 E)
+
+Comprimento de onda (nm)
+
+Doni em his imersos woress com casa em 6 dz 217 (tato
+Em qual faixa do espectro visível os carotenos absorvem majoritariamente?
+
+Entre o violeta e o azul.
+
+Entre o azul e o verde.
+
+Entre o verde e o amarelo.
+
+Entre o amarelo e o laranja.
+
+Entre o laranja e o vermelho.
+
+Ooo

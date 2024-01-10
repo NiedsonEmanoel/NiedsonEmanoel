@@ -1,0 +1,21 @@
+Questão 126
+
+O espectrômetro de massa de tempo de voo é
+um dispositivo utilizado para medir a massa de íons.
+Nele, um fon de carga elétrica q é lançado em uma região
+de campo magnético constante B, descrevendo uma.
+trajetória helicoidal, conforme a figura. Essa trajetória
+é formada pela composição de um movimento circular
+uniforme no plano yz e uma translação ao longo do eixo x.
+A vantagem desse dispositivo é que a velocidade angular
+do movimento helicoidal do fon é independente de sua
+velocidade inicial. O dispositivo então mede o tempo t de
+voo para N voltas do íon. Logo, com base nos valores
+q, 8, Net, pode-se determinar a massa do íon.
+
+y
+
+Trajetória
++a helicoidal
+
+vo oo

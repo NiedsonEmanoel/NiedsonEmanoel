@@ -1,0 +1,26 @@
+a
+O gerente de uma loja de cosméticos colocou à venda
+cinco diferentes tipos de perfume, tendo em estoque na
+loja as mesmas quantidades de cada um deles. O setor
+de controle de estoque encaminhou ao gerente registros
+gráficos descrevendo os preços unitários de cada
+perfume, em real, e a quantidade vendida de cada um
+deles, em percentual, ocorrida no mês de novembro.
+
+Preço do perfume por u
+
+cada perfume
+Pertume
+tam
+pestime Pertumo
+dure to
+
+Perfume IV
+29%
+
+Dados a chegada do final de ano e o aumento das
+vendas, a gerência pretende aumentar a quantidade
+estocada do perfume do tipo que gerou a maior
+arrecadação em espécie, em real, no mês de novembro.
+Nessas condições, qual o tipo de perfume que deverá ter
+maior reposição no estoque?

@@ -1,0 +1,19 @@
+Questão 104 oa
+
+Uma população encontra-se em equilíbrio genético
+quanto ao sistema ABO, em que 25% dos indivíduos
+pertencem ao grupo O e 16%, ao grupo A homozigotos.
+Considerando que: p = frequência de I*; q = frequência
+de Iº; e r = frequência de i, espera-se encontrar:
+
+Grupo Genótipos | Frequências,
+A Pre pé+2pr
+B tre qr + 2qr
+AB [O 2pq
+o ú a
+A porcentagem de doadores compatíveis para alguém do
+grupo B nessa população deve ser de
+O11%.
+O 19%.
+O 26%.
+O 36%.

@@ -1,0 +1,22 @@
+QUESTÃO 169
+Tomeios de tênis, em geral, são disputados em
+sistema de eliminatória simples. Nesse sistema, são
+disputadas partidas entre dois competidores, com a
+eliminação do perdedor e promoção do vencedor para
+a fase seguinte. Dessa forma, se na 1º fase o torneio
+conta com 2n competidores, então na 2º fase restarão n
+“competidores, e assim sucessivamente até a partida final.
+Em um tomeio de tênis, disputado nesse sistema,
+participam 128 tenistas.
+Para se definir o campeão desse tomeio, o número de
+partidas necessárias é dado por
+2x128
+64+32+16+8+4+2
+128+64+32+16+8+4+2+1
+128+64+32+16+8+4+2
+64+32+16+8+4+2+1
+
+o
+(o)
+o
+e

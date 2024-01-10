@@ -1,0 +1,22 @@
+Questão 127
+
+Em regiões desérticas, a obtenção de água potável
+não pode depender apenas da precipitação. Nesse
+sentido, portanto, sistemas para dessalinização da água
+do mar têm sido uma solução. Alguns desses sistemas
+consistem basicamente de duas câmaras (uma contendo
+“água doce e outra contendo água salgada) separadas
+por uma membrana semipermeável. Aplicando-se
+pressão na câmara com água salgada, a água pura é
+forçada a passar através da membrana para a câmara
+contendo água doce.
+
+O processo descrito para a purificação da água
+é denominado
+
+filtração.
+adsorção.
+destilação.
+troca iônica.
+
+osmose reversa

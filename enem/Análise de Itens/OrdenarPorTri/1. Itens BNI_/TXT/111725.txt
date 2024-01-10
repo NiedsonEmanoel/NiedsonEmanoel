@@ -1,0 +1,18 @@
+QUESTÃO 136
+
+Sobre um sistema cartesiano considera-se uma
+malha formada por circunferências de raios com medidas
+dadas por números naturais e por 12 semirretas com
+extremidades na origem, separadas por ângulos de Zrad,
+conforme a figura. 5
+
+“Suponha que os objetos se desloquem apenas pelas
+semirretas e pelas circunferências dessa malha, não
+podendo passar pela origem (O ; 0)
+
+Considere o valor de 7 com aproximação de, pelo
+menos, uma casa decimal.
+Para realizar o percurso mais curto possível ao longo da
+malha, do ponto B até o ponto A, um objeto deve percorrer
+uma distância igual a
+

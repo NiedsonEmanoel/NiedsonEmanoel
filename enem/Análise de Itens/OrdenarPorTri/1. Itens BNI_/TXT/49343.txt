@@ -1,0 +1,19 @@
+QUESTÃO 156
+
+Com o intuito de fazer bombons para vender, uma
+doceira comprou uma barra de 2 kg de chocolate e 1 L de
+creme de leite. De acordo com a receita, cada bombom
+deverá ter exatamente 34 g de chocolate e 12 ml de
+creme de leite.
+
+Respeitando os critérios estabelecidos, quantos
+bombons a doceira poderá fazer utilizando o máximo
+que puder os ingredientes comprados?
+
+5
+8
+58
+n
+83
+
+vovoo

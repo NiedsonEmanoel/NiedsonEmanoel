@@ -1,0 +1,28 @@
+Questão 105 7077
+
+Na indústria farmacêutica, é muito comum o emprego
+de substâncias de revestimento em medicamentos de uso
+oral, pois trazem uma série de benefícios como alteração de
+“sabor em medicamentos que tenham gosto ruim, melhoria.
+da assimilação do composto, entre outras ações. Alguns.
+“compostos poliméricos à base do polissacarídeo celulose
+são utilizados para garantir que o fármaco somente seja
+liberado quando em contato com soluções aquosas cujo pH
+se encontre próximo da faixa da neutralidade.
+
+Qual é a finalidade do uso desse revestimento à base de
+
+celulose?
+
+(9 Diminuir a absorção do princípio ativo no intestino.
+
+O Impedir que o fármaco seja solubiizado no intestino.
+
+O Garantir que o fármaco não seja afetado pelas
+secreções gástricas.
+
+O Permitir a liberação do princípio ativo pela ação das
+amilases salivares.
+
+Facilitar a liberação do fármaco pela ação dos sais
+biliares sobre o revestimento.

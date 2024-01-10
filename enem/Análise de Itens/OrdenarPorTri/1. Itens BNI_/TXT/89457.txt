@@ -1,0 +1,23 @@
+Um marceneiro visitou 5 madeireiras para comprar tábuas que lhe permitissem construir 5
+imensões iguais a 30 cm de largura por 120 cm de
+
+minimizar a sobra de madeira, podendo, para isso,
+fazer qualquer tipo de emenda. As dimensões das tábuas encontradas nas madeireiras estão
+
+prateleiras de formato retangular, d
+comprimento cada, tendo como obje
+
+descritas no quadro.
+Madeireira Largura (cm) | Comprimento (cm)
+1 “0 100
+) 30 no
+mm 35 120
+Iv 25 150
+v 20 200
+
+Em qual madeireira o marceneiro deve comprar as tábuas para atingir seu objetivo?
+
+on
+
+0000
+

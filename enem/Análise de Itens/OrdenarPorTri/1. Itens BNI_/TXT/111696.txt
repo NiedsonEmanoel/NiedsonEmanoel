@@ -1,0 +1,17 @@
+Questão 177
+Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse
+serviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos
+valores correspondentes a cada faixa.
+* Faixa 1: para consumo de até 6 m?, valor fixo de R$ 12,00;
+* Faixa 2: para consumo superior a 6 m? e até 10 mº, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 m?;
+* Faixa 3: para consumo superior a 10 mi, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 mê.
+é de 15 mê pormês.
+
+Sabe-se que nessa cidade o consumo máximo de água por resi
+
+O gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido,
+em metro cúbico, é
+
+o
+[5]
+| í V(m)

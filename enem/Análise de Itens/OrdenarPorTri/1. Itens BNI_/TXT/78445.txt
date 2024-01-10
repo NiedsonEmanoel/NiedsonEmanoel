@@ -1,0 +1,38 @@
+Questão 179
+
+A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do
+
+o (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população
+urbana e a população rural de cinco municípios (1, Il, Il, IV, V) de uma mesma região estadual. Em reunião
+entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de
+urbanização receberá um investimento extra em infraestrutura.
+
+População urbana População rural
+20000 14000
+20 000) ENO rom 14000 12006
+16000 ea 10000]
+14000)
+E 5000
+12000
+TODO 8000
+
+10.000)
+dida E —
+ia ii =
+4000 2000]
+2000
+
+0 o
+
+' n mo NOV 1 n mov
+
+Segundo o acordo, qual município receberá o investimento extra?
+01
+
+oi
+
+eu
+
+oiv
+
+ev

@@ -1,0 +1,31 @@
+Questão 101, enema——
+
+Para gerar energia elétrica em uma hidrelétrica é
+necessário integrar a vazão do rio, a quantidade de
+água disponível em determinado período de tempo e
+os desníveis do relevo, sejam eles naturais, como as
+quedas-d'água, ou criados artificialmente. Existem dois
+tipos de unidades de geração de energia: acumulação e
+fio-d'égua. As unidades de acumulação são localizadas
+em locais com altas quedas-d'água e, dado o seu grande
+porte, permitem o acúmulo de grande quantidade de
+água: As unidades a fio-d'água geram energia com o
+fluxo de água do rio, ou seja, pela vazão com mínimo ou
+nenhum acúmulo do recurso hídrico.
+
+Em uma região existem rios com potencial para
+geração de energia. No intuito de construir uma unidade.
+de fio-dágua, deve-se comparar as características
+desses rios.
+
+Ata de enero lótic do Bras. inova et
+so de 201 ota)
+
+A principal grandeza física desses rios que deve ser
+
+deslocamento vertical do relevo maior.
+área de secção transversal do leito menor.
+
+volume de água por unidade de tempo menor.
+quantidade de massa de água por unidade de tempo
+menor.

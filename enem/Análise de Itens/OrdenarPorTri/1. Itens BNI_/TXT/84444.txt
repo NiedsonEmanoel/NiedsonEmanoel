@@ -1,0 +1,31 @@
+Questão 119 a
+
+Um mergulhador fica preso ao explorar uma caverna
+no oceano. Dentro da cavema formou-se um bolsão de
+ar, como mostrado na figura, onde o mergulhador se
+abrigou.
+
+P= 1,0x10º Pa
+
+Durante o resgate, para evitar danos a seu
+organismo, foi necessário que o mergulhador passasse
+por um processo de descompressão antes de retomar
+à superfície para que seu corpo ficasse novamente sob
+pressão atmosférica. O gráfico mostra a relação entre
+os tempos de descompressão recomendados para
+indivíduos nessa situação e a variação de pressão.
+
+ssssê
+
+Tempo de
+descompressão (min)
+
+100 200 300 400 500 600 700]
+Variação de pressão (kPa)
+
+Considere que a aceleração da gravidade seja
+igual a 10 m s-? e que a densidade da água seja de
+p=1000kg m*.
+
+Em minutos, qual é o tempo de descompressão a que o
+mergulhador deverá ser submetido?

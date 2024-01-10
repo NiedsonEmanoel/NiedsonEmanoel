@@ -1,0 +1,38 @@
+Questão 171, === enemucar
+Para realizar um voo entre duas cidades que distam
+
+2 000 km uma da outra, uma companhia aérea utilizava
+
+um modelo de aeronave A, capaz de transportar até
+
+200 passageiros. Quando uma dessas aeronaves está
+
+lotada de passageiros, o consumo de combustível
+
+é de 0,02 litro por quilômetro e por passageiro. Essa
+
+companhia resolveu trocar o modelo de aeronave A
+
+pelo modelo de aeronave B, que é capaz de transportar
+
+10% de passageiros a mais do que o modelo A, mas
+
+consumindo 10% menos combustível por quilômetro e
+
+por passageiro.
+
+A quantidade de combustível consumida pelo modelo
+
+de aeronave B, em relação à do modelo de aeronave A,
+
+em um voo lotado entre as duas cidades, é
+
+O 10% menor.
+
+O 1%menor.
+
+O igual.
+
+O 1% maior.
+
+O 11% maior.

@@ -1,0 +1,26 @@
+Questão 152 enei nei jenei
+
+Um reservatório de água é abastecido por uma
+torneira ao mesmo tempo que, por um ralo, escoa
+água de seu interior. Os gráficos representam as
+vazões Q, em litro por minuto, da torneira e do ralo,
+em função do tempo t, em minuto.
+
+OQ (Umin) Torneira
+
+tim)
+
+tmn)
+
+Nos primeiros 25 minutos, o(s) intervalo(s) de tempo em
+que o volume de água nesse reservatório decresce é(são)
+
+O entre 1520 minutos.
+O entre 15e25 minutos.
+
+O entre 0 e 5 minutos e entre 15 e 20 minutos.
+
+entre 5 e 15 minutos e entre 20 e 25 minutos.
+
+entre O e 5 minutos, entre 10 e 15 minutos e entre 20
+e 25 minutos.

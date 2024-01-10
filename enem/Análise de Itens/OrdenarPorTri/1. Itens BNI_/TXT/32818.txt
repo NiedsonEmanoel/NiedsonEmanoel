@@ -1,0 +1,27 @@
+Questão 133
+
+Astrônomos medem a velocidade de afastamento de
+galáxias distantes pela detecção da luz emitida por
+esses sistemas. A Lei de Hubble afirma que a velocidade
+de afastamento de uma galáxia (em sa) é proporcional
+à sua distância até a Terra, medida em megaparsec
+(Mpc). Nessa lei, a constante de proporcionalidade é a
+constante de Hubble (Hg) e seu valor mais aceito é de
+72 Sa O parsec (pc) é uma unidade de distância
+utilizada em astronomia que vale aproximadamente
+3 x 1018 m. Observações astronômicas determinaram
+que a velocidade de afastamento de uma determinada
+galáxia é de 1440 km
+
+Utilizando a Lei de Hubble, pode-se concluir que a
+distância até essa galáxia, medida em km, é igual a:
+
+O 20x10º
+
+o 20x10º
+
+O 6x10%
+
+O ex 10%
+
+e 6x10%

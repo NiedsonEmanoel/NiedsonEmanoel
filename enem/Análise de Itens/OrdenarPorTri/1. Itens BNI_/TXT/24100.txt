@@ -1,0 +1,42 @@
+QUESTÃO 160
+
+Uma empresa especializada em embalagem de
+papelão recebeu uma encomenda para fabricar caixas
+para um determinado modelo de televisor, como o da
+
+figura.
+
+—  srsem
+
+Bem
+
+A embalagem deve deixar uma folga de 5 cm em
+cada uma das dimensões. Esta folga será utilizada para
+proteger a televisão com isopor. O papelão utilizado na
+confecção das caixas possui uma espessura de 0,5 cm.
+
+A empresa possui 5 protótipos de caixa de papelão,
+na forma de um paralelepípedo reto-retângulo, cujas
+medidas extemas: comprimento, altura e largura, em
+centímetro, são respectivamente iguais a:
+
+Caixa 1:68,0 x 50,0 x 18,5
+
+Caixa 2: 68,5 x 50,5 x 19,0
+
+Caixa 3: 72,5 x 54,5 23,0
+
+Caixa 4: 73,0» 55,0x 23,5
+
+Caixa 5: 73,5» 55,5x 24,0
+O modelo de caixa de papelão que atende exatamente as
+medidas das dimensões especificadas é a
+caixa 1.
+
+caixa 2.
+caixa 3.
+caixa 4.
+
+voos
+
+caixa 5.

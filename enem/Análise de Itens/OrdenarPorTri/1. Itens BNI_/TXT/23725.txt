@@ -1,0 +1,14 @@
+Uma associação desportiva contratou uma empresa especializada para construir um
+campo de futebol, em formato retangular, com 250 metros de perímetro. Foi elaborada uma
+planta para esse campo na escala 1 : 2 000.
+
+Na planta, a medida do perímetro do campo de futebol, em metro, é
+O 00005
+
+O us.
+
+250.
+
+500 000.
+
+000

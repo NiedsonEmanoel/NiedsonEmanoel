@@ -1,0 +1,37 @@
+Questão 163 —————==—————=enemuar
+
+O instrumento de percussão conhecido como triângulo
+é composto por uma barra fina de aço, dobrada em um
+formato que se assemelha a um triângulo, com uma abertura
+e uma haste, conforme ilustra a Figura 1.
+
+A As
+
+Figura 1 Figura2
+
+Uma empresa de brindes promocionais contrata uma
+fundição para a produção de miniaturas de instrumentos
+desse tipo. A fundição produz, inicialmente, peças com o
+formato de um triângulo equilátero de alura h, conforme
+ilustra a Figura 2. Após esse processo, cada peça é
+“aquecida, deformando os cantos, e cortada em um dos
+vértices, dando origem à miniatura. Assuma que não
+ocorram perdas de material no processo de produção, de
+forma que o comprimento da barra utlizada seja igual ao
+perimeiro do triângulo equiátero representado na Figura 2.
+Considere 1,7 como valor aproximado para 3.
+
+Nessas condições, o valor que mais se aproxima da
+medida do comprimento da barra, em centimetro, é
+
+9,07.
+
+13,60.
+
+20,40.
+
+2718.
+
+36,24.
+
+Voos

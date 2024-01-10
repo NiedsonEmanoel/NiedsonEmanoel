@@ -1,0 +1,21 @@
+Questão 175
+
+As luminárias para um laboratório de matemáti
+serão fabricadas em forma de sólidos geométricos.
+Uma delas terá a forma de um tetraedro truncado.
+Esse sólido é gerado a partir de secções paralelas
+a cada uma das faces de um tetraedro regular.
+Para essa luminária, as secções serão feitas de
+maneira que, em cada corte, um terço das arestas
+seccionadas serão removidas. Uma dessas secções
+está indicada na figura.
+
+&-e
+
+Essa luminária terá por faces.
+
+O 4 hexágonos regulares e 4 triângulos equiláteros.
+O 2 hexágonos regulares e 4 triângulos equiláteros.
+O «4 quadriláteros e 4 triângulos isósceles.
+O 3 quadriláteros e 4 triângulos isósceles.
+Q 3 hexágonos regulares e 4 triângulos equiláteros.

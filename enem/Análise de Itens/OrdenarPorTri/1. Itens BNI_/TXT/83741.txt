@@ -1,0 +1,39 @@
+Questão 168. enem
+
+Após consulta médica, um paciente deve seguir um
+tratamento composto por três medicamentos: X, Y e Z.
+O paciente, para adquirir os três medicamentos, faz
+um orçamento em três farmácias diferentes, conforme
+o quadro.
+
+x Y Zz
+
+Farmácia | R$45,00 | R$40,00 | R$50,00
+Farmácia2 | R$50,00 | R$50,00 | R$40,00
+Farmácia | R$65,00 | R$4500 | R$35,00
+
+Dessas farmácias, algumas oferecem descontos:
+
+- na compra dos medicamentos X e Y na
+Farmácia 2, recebe-se um desconto de 20% em
+“ambos os produtos, independentemente da compra
+do medicamento Z, e não há desconto para o
+medicamento Z;
+
+- na compra dos 3 medicamentos na Farmácia 3,
+recebe-se 20% de desconto no valor total da
+compra.
+
+O paciente deseja efetuar a compra de modo a
+
+minimizar sua despesa com os medicamentos.
+
+De acordo com as informações fornecidas, o paciente
+deve comprar os medicamentos da seguinte forma:
+X,YeZna Farmáci
+Xe Y na Farmácia 1, e Z na Farmácia 3.
+Xe Y na Farmácia 2, e Z na Farmácia 3.
+X na Farmácia 2, e Y e Z na Farmácia 3.
+X,YeZna Farmáci
+
+voos

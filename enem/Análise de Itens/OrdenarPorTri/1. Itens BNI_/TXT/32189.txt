@@ -1,0 +1,66 @@
+QUESTÃO 141
+
+Um jogo pedagógico utiliza-se de uma interface
+algébrico-geométrica do seguinte modo: os alunos devem
+eliminar os pontos do plano cartesiano dando “tios”,
+seguindo trajetórias que devem passar pelos pontos
+escolhidos. Para dar os tiros, o aluno deve escrever em
+uma janela do programa a equação cartesiana de uma
+reta ou de uma circunferência que passa pelos pontos
+e pela origem do sistema de coordenadas. Se o tiro for
+dado por meio da equação da circunferência, cada ponto
+diferente da origem que for atingido vale 2 pontos. Se
+o tiro for dado por meio da equação de uma reta, cada
+ponto diferente da origem que for atingido vale 1 ponto.
+Em uma situação de jogo, ainda restam os seguintes
+pontos para serem eliminados: A(O ; 4), B(4 ; 4), C(4 ; 0),
+D(2;2)eE(0;2).
+
+|
+!
+!
+
+4
+!
+!
+!
+!
+!
+!
+)
+
+!
+!
+!
+1
+!
+!
+!
+!
+!
+!
+!
+4
+!
+!
+!
+]
+!
+!
+)
+3
+
+4
+
+Passando pelo ponto A, qual equação foneceria a maior
+pontuação?
+
+O x=0
+
+o y=0
+
+O x+y=16
+
+O x+(y-2)
+e (-2p+(y-2/=8
+

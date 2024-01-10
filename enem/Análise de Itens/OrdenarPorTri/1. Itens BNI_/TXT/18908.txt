@@ -1,0 +1,19 @@
+Questão 154 EPSON NEEM
+
+Foi feita uma pesquisa sobre a escolaridade dos
+funcionários de uma empresa. Verificou-se que i dos
+homens que ali trabalham têm o ensino médio completo,
+enquanto 5 das mulheres que trabalham na empresa
+têm o ensino médio completo. Constatou-se, também, que
+entre todos os que têm o ensino médio completo, metade
+são homens.
+
+Afração que representa o número de funcionários homens
+em relação ao total de funcionários dessa empresa é
+
+1
+95
+
+3
+Om
+

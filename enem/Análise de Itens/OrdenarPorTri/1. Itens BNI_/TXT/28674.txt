@@ -1,0 +1,32 @@
+Questão 144 D)70enemoronenemoronenemi
+
+Uma partida de futebol tem dois tempos de 45 minutos
+cada. A duração do intervalo entre cada tempo é
+de 15 minutos. Eventualmente, por ocasião de
+paralisações ocorridas durante um dos tempos (como
+comemorações de gols, atendimento a jogadores que
+necessitem de maca), ocorre acréscimo ao tempo de
+jogo.
+
+No Brasi, o segundo tempo é iniciado zerando-se o
+cronômetro, mas em campeonatos europeus, começa
+“com o cronômetro posicionado em 45 minutos. Em uma
+partida de um campeonato europeu, um time marcou
+um gol aos 17 minutos e 45 segundos. A outra equipe
+empatou o jogo aos 54 minutos e 32 segundos. O tempo
+do intervalo foi respeitado e houve um acréscimo de
+2 minutos ao primeiro tempo do jogo.
+
+O tempo transcorrido entre os dois gols foi de
+
+o
+
+54 minutos e 47 segundos.
+53 minutos e 47 segundos.
+51 minutos e 47 segundos.
+38 minutos e 47 segundos.
+
+E)
+e
+D)
+8 36 minutos e 47 segundos.

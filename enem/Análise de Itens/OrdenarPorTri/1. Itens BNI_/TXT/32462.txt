@@ -1,0 +1,46 @@
+O ganho real de um salário, 1, é a taxa de crescimento do poder de compra desse salário
+Ele é calculado a partir do percentual de aumento dos salários e da taxa de inflação, referidos.
+a um mesmo período. Algebricamente, pode-se calcular o ganho real pela fórmula
+
+14i
+
+ter DL,
+tr
+
+em que | é o percentual de aumento no valor dos salários e fé a taxa de inflação, ambos
+
+referidos a um mesmo período.
+
+Considere que uma categoria de trabalhadores recebeu uma proposta de aumento salarial
+de 10%, e que a taxa de inflação do período correspondente tenha sido 5%. Para avaliar a
+proposta, os trabalhadores criaram uma classificação em função dos ganhos reais conforme o
+quadro.
+
+Ganho real Classificação
+
+Igual ou superior a 5% Boa
+
+Maior ou igual a 1,5% e menor do que 5% | Regular
+
+Maior do que 0% e menor do que 1,5% | Ruim
+
+inaceitável (ganho real negativo significa
+
+gua ou menor do que 0% perda do poder de compra dos salários)
+
+Eles classificaram a proposta de aumento e justificaram essa classificação apresentando
+o valor do ganho real que obteriam.
+
+A classificação, com sua respectiva justificativa, foi
+
+(8) inaceitável, porque o ganho real seria mais próximo de — 5%.
+
+(9 ruim, porque o ganho real seria mais próximo de 1,05%.
+
+regular, porque o ganho real seria mais próximo de 4,7%.
+
+boa, porque o ganho real seria mais próximo de 9,5%.
+
+00
+
+boa, porque o ganho real seria mais próximo de 5%.

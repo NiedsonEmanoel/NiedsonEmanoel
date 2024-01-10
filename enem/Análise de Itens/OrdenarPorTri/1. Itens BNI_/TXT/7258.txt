@@ -1,0 +1,18 @@
+Questão 175 DADDEnAmarnenemoronenem
+Um determinado campeonato de futebol,
+“composto por 20 times, é disputado no sistema de
+pontos corridos. Nesse sistema, cada time joga
+contra todos os demais times em dois turnos, isto
+é, cada time joga duas partidas com cada um dos
+outros times, sendo que cada jogo pode terminar
+empatado ou haver um vencedor.
+Sabendo-se que, nesse campeonato, ocorreram
+126 empates, o número de jogos em que houve
+ganhador é igual a
+
+oa.
+o 74
+e 25.
+O zu.
+e ou.
+

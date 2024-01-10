@@ -1,0 +1,27 @@
+Questão 143, enemazm——=====——=—=—=——
+
+O preço médio cobrado por um pintor para executar
+um serviço consiste em uma taxa fixa de R$ 25,00 mais.
+uma quantia proporcional à área pintada. O quadro
+apresenta os valores cobrados por ele em trabalhos
+recentes.
+
+Área pintada (m?) | Total a pagar (R$)
+35,00
+45,00
+65,00
+105,00
+185,00
+
+Qual o preço cobrado para realizar um serviço de pintura
+de uma área de 150 m:?
+
+sjBis|aja
+
+O R$300,00
+R$ 325,00
+R$ 400,00
+R$ 1.050,00
+R$3750,00
+
+voo

@@ -1,0 +1,33 @@
+Questão 140
+
+Um professor aplica, durante os cinco dias úteis
+de uma semana, testes com quatro questões de
+múltipla escolha a cinco alunos. Os resultados foram
+representados na matriz.
+
+SONoS
+NNNNN
+osnso
+EEN
+BONNN,
+
+Nessa matriz os elementos das linhas de 1 a 5
+representam as quantidades de questões acertadas
+pelos alunos Ana, Bruno, Carlos, Denis e Érica,
+respectivamente, enquanto que as colunas de
+1a 5 indicam os dias da semana, de segunda-feira
+a sexta-feira, respectivamente, em que os testes
+foram aplicados.
+
+O teste que apresentou maior quantidade de acertos foi
+o aplicado na
+
+segunda-feira.
+
+terça-feira.
+
+quarta-feira.
+
+quinta-feira.
+
+sexta-eira,

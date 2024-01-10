@@ -1,0 +1,26 @@
+QUESTÃO 108
+
+O manual de uma ducha elétrica informa que seus três
+níveis de aquecimento (momo, quente e superquente)
+apresentam as seguintes variações de temperatura da
+água em função de sua vazão:
+
+( n ) AT(C)
+Vazão |
+Mono | Quente |Superquente
+3 10 20 30
+6 5 10 15
+
+Utiliza-se um disjuntor para proteger o circuito dessa
+ducha contra sobrecargas elétricas em qualquer nível de
+aquecimento. Por padrão, o disjuntor é especificado pela
+corrente nominal igual ao múltiplo de 5 A imediatamente
+superior à corrente máxima do circuito. Considere que a
+ducha deve ser ligada em 220 V e que toda a energia é
+dissipada através da resistência do chuveiro e convertida
+emenergia térmica transferida para a água, que apresenta
+calor específico de 4,2 —!.. e densidade de 1000 2
+
+FR L
+O disjuntor adequado para a proteção dessa ducha é
+

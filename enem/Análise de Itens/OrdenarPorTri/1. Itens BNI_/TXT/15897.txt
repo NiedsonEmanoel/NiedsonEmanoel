@@ -1,0 +1,24 @@
+Questão 165
+Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na
+presença ou ausência de dois antígenos, Ae E, na superfície
+das células vermelhas do sangue. Como dois antígenos
+estão envolvidos, os quatro tipos sanguíneos distintos são.
+* Tipo A: apenas o antígeno A está presente;
+* Tipo B: apenas o antígeno B está presente;
++ Tipo AB: ambos os antígenos estão presentes;
++ Tipo O: nenhum dos antígenos está presente.
+Disponivel em: ipcaude hoo comb. Aces em: 1 abr 2012 fadapiado
+Foram coletadas amostras de sangue de 200 pessoas
+e, após análise laboratorial, foi identificado que em 100
+amostras está presente o antígeno A, em 110 amostras
+há presença do antígeno B e em 20 amostras nenhum
+dos antígenos está presente.
+Dessas pessoas que foram submetidas à coleta de
+sangue, o número das que possuem o tipo sanguíneo A
+éiguala
+0%
+oc.
+7
+09%
+& 100
+

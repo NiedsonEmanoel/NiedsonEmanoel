@@ -1,0 +1,32 @@
+QUESTÃO 158
+
+Um rapaz possui um carro usado e deseja utilizá-lo
+como parte do pagamento na compra de um carro novo.
+Ele sabe que, mesmo assim, terá que financiar parte do
+valor da compra.
+
+Depois de escolher o modelo desejado, o rapaz faz
+uma pesquisa sobre as condições de compra em três lojas.
+diferentes. Em cada uma, é informado sobre o valor que
+a loja pagaria por seu carro usado, no caso de a compra
+ser feita na própria loja. Nas três lojas são cobrados juros
+simples sobre o valor a ser financiado, e a duração do
+financiamento é de um ano. O rapaz escolherá a loja em
+que o total, em real, a ser desembolsado será menor.
+O quadro resume o resultado da pesquisa.
+
+Valor oferecido pelo | Valor do carro | Percentual
+Loja) carrousado (R$) | novo(R$) | dejuros (%)
+
+A 13 500,00 28 500,00 | 18a0ano
+B 13 000,00 27 000,00 | 20a0ano
+c 12 000,00 26 500,00 | 19a0ano
+
+A quantia a ser desembolsada pelo rapaz, em real, será
+14000.
+15000.
+16800.
+17255.
+47 700.
+
+voooo

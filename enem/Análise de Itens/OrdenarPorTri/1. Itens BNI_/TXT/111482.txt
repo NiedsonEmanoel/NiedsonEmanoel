@@ -1,0 +1,21 @@
+Questão 160 DI7nanamononanamononanam
+Para identificar visualmente uma loja de pet shop,
+um empresário criou uma logomarca que se assemelha
+a uma marca deixada pela pegada de um gato, como na
+figura. O maior círculo tem medida de raio igual a 6 cm.
+O empresário pretende reproduzir o desenho em
+uma das paredes retangulares da loja. Para isso, fará a
+ampliação da logomarca utilizando a escala de 1 : 25.
+
+Aárea mínima, em metro quadrado, que a parede deverá
+ter para que a logomarca seja aplicada é
+
+022.
+
+o 600.
+
+o 70.
+
+o 200.
+
+O 36,00.

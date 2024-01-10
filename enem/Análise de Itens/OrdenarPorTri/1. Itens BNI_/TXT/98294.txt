@@ -1,0 +1,43 @@
+QUESTÃO 166
+
+Na teoria das eleições, o Método de Borda sugere
+que, em vez de escolher um candidato, cada juiz deve
+criar um ranking de sua preferência para os concorrentes.
+(isto é, criar uma lista com a ordem de classificação
+dos concorrentes). A este ranking é associada uma
+pontuação: um ponto para o último colocado no ranking,
+dois pontos para o penúltimo, três para o antepenúltimo,
+e assim sucessivamente. Ao final, soma-se a pontuação
+atribuída a cada concorrente por cada um dos juízes.
+
+Em uma escola houve um concurso de poesia no qual
+cinco alunos concorreram a um prêmio, sendo julgados
+por 25 juízes. Para a escolha da poesia vencedora
+foi utilizado o Método de Borda. Nos quadros, estão
+apresentados os rankings dos juízes e a frequência de
+cada ranking.
+
+Ranking
+E 1 O mw
+E Ana | Dani | Bia | Edu
+E Bia | Caio | Ana | Ana
+3 Caio | Edu | Caio | Dan
+4 Dani | Ana | Edu | Bia
+s Edu | Bia | Dani | Cao
+
+! 4
+" 9
+O 7
+W 5
+
+A poesia vencedora foi a de
+
+O Edu
+
+O Dani.
+
+O cao.
+
+o Ba.
+
+O Ana

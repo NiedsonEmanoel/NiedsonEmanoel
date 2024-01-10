@@ -1,0 +1,26 @@
+Questão 110 enemecor
+
+Analisando a ficha técnica de um automóvel popular, verficam-se algumas características em relação ao seu
+desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a
+gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.
+
+Parâmetro Motor a gasolina. Motor a álcool
+Aceleração de 0a 100 kmhem 13,45 de 0a 100 kmhem 1295
+Velocidade máxima 165kmh 163 kmh
+
+Considerando desprezível a resistência do ar, qual versão apresenta a maior potência?
+
+(9 Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve a maior potência.
+
+O Como a versão a gasolina atinge o maior valor de energia cinética, esta é a que desenvolve a maior potência.
+
+O Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior
+potência.
+
+O Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência
+desenvolvida é a mesma.
+
+e
+
+Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que
+desenvolve a maior potência.

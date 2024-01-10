@@ -1,0 +1,42 @@
+Questão 170
+
+Uma construtora, pretendendo investir na construção
+de imóveis em uma metrópole com cinco grandes
+regiões, fez uma pesquisa sobre a quantidade de famílias
+que mudaram de uma região para outra, de modo a
+determinar qual região foi o destino do maior fluxo de
+famílias, sem levar em consideração o número de famílias.
+que deixaram a região. Os valores da pesquisa estão
+dispostos em uma matriz A=[aj) 1.) €(1,2,3,4,5h
+em que o elemento aj corresponde ao total de famílias
+(em dezena) que se mudaram da região i para a região j
+durante um certo período, e o elemento a;;é considerado
+nulo, uma vez que somente são consideradas mudanças
+entre regiões distintas. A seguir, está apresentada a
+matriz com os dados da pesquisa.
+
+042
+
+enemacar
+
+o
+A=|2
+1
+1
+
+so wnn
+
+5
+3
+o
+4
+o
+
+nono
+onoco
+
+Qual região foi selecionada para o investimento da
+construtora?
+
+voos
+a son

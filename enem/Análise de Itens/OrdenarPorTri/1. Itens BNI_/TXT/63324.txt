@@ -1,0 +1,28 @@
+Questão 143
+
+Pesquisadores da Universidade de Tecnologia
+de Viena, na Áustria, produziram miniaturas de
+objetos em impressoras 3D de alta precisão. Ao
+serem ativadas, tais impressoras lançam feixes de
+laser sobre um tipo de resina, esculpindo o objeto
+desejado. O produto final da impressão é uma
+escultura microscópica de três dimensões, como
+visto na imagem ampliada.
+
+A escultura apresentada é uma miniatura de
+um carro de Fórmula 1, com 100 micrômetros de
+comprimento. Um micrômetro é a milionésima parte
+de um metro.
+
+Usando notação científica, qual é a representação do
+comprimento dessa miniatura, em metro?
+
+O 10=10"
+
+O 10x10
+
+O 10=10+
+
+O 10x10+
+
+e 1,0x107

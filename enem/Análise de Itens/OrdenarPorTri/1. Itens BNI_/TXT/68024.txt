@@ -1,0 +1,29 @@
+QUESTÃO 102
+
+Os airbags de segurança dos automóveis são
+acionados com o impacto, que envia um sinal elétrico
+para o dispositivo e inicia a reação explosiva do trinitreto
+de sódio (NaN,), produzindo sódio metálico e nitrogênio
+molecular, conforme a equação:
+
+2 NaN, (s) — 2 Na (s)+3N,(9)
+
+O gás produzido tem função de inflar o airbag. Esse tipo
+de dispositivo contém, aproximadamente, 100 g de NaN.
+Considere: PV =nRT;P= atm; T=25“C;
+
+R=0,0821 Liatm .gec=273K
+Kmal
+
+Massas molares:NaN,=65 9.
+
+28 -S Naa 9.
+mo Na mai mol
+
+Nesse dispositivo, o volume de gás produzido, em litro, é
+04,
+os;
+o 188
+o s5
+e 1130.
+

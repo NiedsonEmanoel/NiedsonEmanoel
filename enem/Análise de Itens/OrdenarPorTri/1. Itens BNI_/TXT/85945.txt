@@ -1,0 +1,50 @@
+Questão 172 DIS =S=ScaWana= nepal
+
+O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas
+presentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea
+da via pública principal na área ocupada, bem como das vias afluentes que apresentem aglomerações de pessoas
+que acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se
+um esboço geométrico da situação. Em seguida, subdivide-se o espaço total em trechos, quantificando a densidade,
+da seguinte forma:
+
+* 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;
+
++ 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;
+
++ 6 pessoas por metro quadrado, se elas estiverem paradas.
+
+É feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1 000 pessoas
+para cada carro de som fotografado.
+
+Com essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo
+esboço geométrico é dado na figura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afiuente
+da principal: QR
+
+Legenda:
+
+Andando em uma
+direção
+
+Movimentando sem
+deixar o local
+
+=
+
+Via
+
+principal OD Parado
+
+EB Carro de som
+
+Obs.: a figura não está em escala (considere as medidas dadas)
+
+“Segundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a
+O 110000.
+
+O 104000.
+
+O 93000.
+
+O 2000.
+
+& 87000.

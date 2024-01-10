@@ -1,0 +1,32 @@
+QUESTÃO 154
+
+Um designer de jogos planeja um jogo que faz uso
+de um tabuleiro de dimensão n x n, com n > 2, no qual
+cada jogador, na sua vez, coloca uma peça sobre uma
+das casas vazias do tabuleiro. Quando uma peça é
+posicionada, a região formada pelas casas que estão na
+mesma linha ou coluna dessa peça é chamada de zona
+de combate dessa peça. Na figura está ilustrada a zona
+de combate de uma peça colocada em uma das casas de
+um tabuleiro de dimensão 8 x 8.
+
+O tabuleiro deve ser dimensionado de forma que a
+probabilidade de se posicionar a segunda peça
+aleatoriamente, seguindo a regra do jogo, e esta ficar
+
+sobre a zona de combate da primeira, seja inferior a é
+
+A dimensão minima que o designer deve adotar para
+esse tabuleiro é
+
+4x4.
+
+6x6.
+
+9x9.
+
+1010.
+
+124
+
+0000

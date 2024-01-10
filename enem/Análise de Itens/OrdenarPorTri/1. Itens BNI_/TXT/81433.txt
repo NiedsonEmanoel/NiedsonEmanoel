@@ -1,0 +1,36 @@
+Questão 158
+
+Em um laboratório, cientistas observaram o
+
+crescimento de uma população de bactérias submetida
+
+a uma dieta magra em fósforo, com generosas porções
+
+de arsênico. Descobriu-se que o número de bactérias
+
+dessa população, após t horas de observação, poderia
+
+ser modelado pela função exponencial M(t) = Npe!, em
+
+que N é o número de bactérias no instante do início
+
+da observação (t = 0) e representa uma constante real
+
+maior que 1, e k é uma constante real positiva.
+Sabe-se que, após uma hora de observação, o
+
+número de bactérias foi triplicado.
+
+Cinco horas após o início da observação, o número de
+
+bactérias, em relação ao número inicial dessa cultura, foi
+
+os
+
+O 15m
+
+O 243
+
+O 360m,
+
+e 720n,

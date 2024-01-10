@@ -1,0 +1,17 @@
+Questão 150, eneman————————————=—
+A massa de um tanque de combustível depende:
+1. da quantidade de combustível nesse tanque;
+11. do tipo de combustível que se utiliza no momento;
+11. da massa do tanque quando está vazio.
+
+Sabe-se que um tanque tem massa igual a 33 kg
+quando está cheio de gasolina, 37 kg quando está cheio
+de etanol e que a densidade da gasolina é sete oitavos da
+densidade do etanol.
+
+Qual é a massa, em quilograma, do tanque vazio?
+01
+035
+840
+os
+e 90

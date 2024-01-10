@@ -1,0 +1,38 @@
+Questão 160
+
+Uma pessoa fez um depósito inicial de R$ 200,00
+em um Fundo de Investimentos que possui rendimento
+constante sob juros compostos de 5% ao mês.
+Esse Fundo possui cinco planos de carência (tempo
+mínimo necessário de rendimento do Fundo sem
+movimentação do cliente). Os planos são:
+
++ Plano A: carência de 10 meses;
+
++ Plano B: carência de 15 meses;
+
++ Plano G: carência de 20 meses;
+
++ Plano D: carência de 28 meses;
+
++ Plano E: carência de 40 meses.
+
+O objetivo dessa pessoa é deixar essa aplicação
+rendendo até que o valor inicialmente aplicado duplique,
+quando somado aos juros do Fundo. Considere as
+aproximações: log 2 = 0,30 e log 1,05 = 0,02.
+
+Para que essa pessoa atinja seu objetivo apenas
+no período de carência, mas com a menor carência
+possível, deverá optar pelo plano
+
+SA
+
+os
+
+oc
+
+oo
+
+GE
+

@@ -1,0 +1,33 @@
+Questão 97 enem...
+
+Alguns recipientes de cozinha - apresentam
+condutividade térmica apropriada para acondicionar e
+servir alimentos. Assim, os alimentos acondicionados
+podem manter a temperatura, após O preparo, por um
+tempo maior. O quadro contém a condutividade térmica (k)
+de diferentes materiais utilizados na produção desses
+recipientes,
+
+Condutividade térmica de materiais
+Material k(kcalh mºC)
+
+1 Cobre 332,0
+
+u Alumínio 175,0
+
+u Ferro 40,0
+
+v Vidro 0,65
+
+v Cerâmica 0,40
+
+Considerando recipientes de mesma espessura, qual o
+material recomendado para manter o alimento aquecido
+por um maior intervalo de tempo?
+
+o
+
+oi
+ei
+oiv
+ev

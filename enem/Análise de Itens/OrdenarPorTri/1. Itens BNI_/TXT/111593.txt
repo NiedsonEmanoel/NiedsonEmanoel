@@ -1,0 +1,19 @@
+Questão 180
+
+Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento
+das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.
+
+Vendas na última semana
+
+Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à
+soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última
+semana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade
+de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as.
+vendas diárias serão iguais às da última semana.
+
+Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é
+02
+027
+e 4.
+os
+er

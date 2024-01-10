@@ -1,0 +1,25 @@
+Questão 149
+
+Uma pista circular delimitada por duas circunferências
+“concêntricas foi construída. Na circunferência intema dessa
+pista, de raio 0,3 km, serão colocados aparelhos de ginástica
+localizados nos pontos P, Q e R, conforme a figura.
+
+2
+
+O segmento RP é um diâmetro dessa circunferência
+interna, eo ângulo PRQ tem medida igual a E radianos.
+
+Para uma pessoa ir do ponto P ao ponto Q andando
+pela circunferência intema no sentido anti-horário, ela
+percorrerá uma distância, em quilômetro, igual a
+
+O 00097
+
+O 0037
+
+e 0067
+
+O 0127
+
+e otem

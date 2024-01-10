@@ -1,0 +1,25 @@
+Questão 137
+Um país decide investir recursos na educação em
+suas cidades que tenham um alto nível de analfabetismo.
+Osrecursos serão divididos de acordo com a idade média
+da população que é analfabeta, conforme apresentado
+no quadro.
+Idade média da população
+GE analfabeta (1)
+1 M<22
+n 22<M<27
+am 27<M<32
+mv 32<M=<37
+V M>37
+
+Uma cidade desse país possui = do total de
+analfabetos de sua população compodio por mulheres.
+
+Considerando a média de idade da população analfabeta
+dessa cidade, ela receberá o recurso
+
+o!
+oi
+eu
+ou
+ev

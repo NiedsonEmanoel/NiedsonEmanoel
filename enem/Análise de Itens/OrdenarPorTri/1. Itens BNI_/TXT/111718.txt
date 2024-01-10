@@ -1,0 +1,43 @@
+QUESTÃO 146
+
+Para ganhar um prêmio, uma pessoa deverá retirar,
+sucessivamente e sem reposição, duas bolas pretas de
+uma mesma uma.
+
+Inicialmente, as quantidades e cores das bolas são
+“como descritas à seguir.
+
++ Uma A — Possui três bolas brancas, duas bolas
+
+pretas e uma bola verde;
+
++ Uma B - Possui seis bolas brancas, três bolas
+pretas e uma bola verde;
+
++ Uma C — Possui duas bolas pretas e duas bolas
+verdes;
+
++ Uma D — Possui três bolas brancas e três bolas
+pretas.
+
+A pessoa deve escolher uma entre as cinco opções
+apresentadas:
+* Opção 1 - Retirar, aleatoriamente, duas bolas da uma A;
+* Opção 2 — Retirar, aleatoriamente, duas bolas da
+uma B;
+* Opção 3- Passar, aleatoriamente, uma bola da uma
+C para a uma A; após isso, retirar, aleatoriamente,
+duas bolas da uma A;
+* Opção 4- Passar, aleatoriamente, uma bola da uma
+D para a uma C; após isso, retirar, aleatoriamente,
+duas bolas da uma C;
+* Opção 5- Passar, aleatoriamente, uma bola da uma
+G para a uma D; após isso, retirar, aleatoriamente,
+duas bolas da uma D.
+Como objetivo de obter a maior probabilidade possível de
+ganhar o prêmio, a pessoa deve escolher a opção
+
+1
+
+Vocoo
+a ron

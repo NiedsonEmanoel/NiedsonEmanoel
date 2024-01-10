@@ -1,0 +1,45 @@
+Questão 116 enemaz >>>
+
+Em uma aula de métodos físicos de controle do
+crescimento dos microrganismos, foi realizada uma
+experiência para testar a ação do calor sobre duas espécies.
+bacterianas: Escherichia coli (Ensaio A) e Bacilus subtlis
+(Ensaio B). Nesses ensaios, foram adicionadas duas gotas
+de cultura pura de cada uma das espécies em tubos de
+ensaio contendo meio nutritivo previamente esterilizado.
+Posteriormente, os tubos foram submetidos aos seguintes
+tratamentos:
+
+Tubo 1: Tubo controle, sem tratamento.
+
+Tubo 2: Fervura em banho-maria por 5 minutos.
+
+Tubo 3: Fervura em banho-maria por 20 minutos.
+
+Tubo 4: Autociavação (processo de esterilização por
+
+alor úmido).
+
+Após 48 horas de incubação, foi realizada a leitura
+
+dos ensaios, obtendo-se os seguintes resultados de
+
+A experiência para testar a ação do
+
+espécies bacterianas demonstrou que.
+
+O ambos os microrganismos são resistentes à
+autoclavação.
+
+O ambas as espécies têm resistência à fervura por
+S minutos.
+
+O a bactéria E. subtiis é sensível à fervura em
+banho-maria.
+
+O a bactéria E. coli é mais resistente ao calor do que
+B subtiis.
+
+O os dois microrganismos são eliminados pela fervura
+
+por 20 minutos.

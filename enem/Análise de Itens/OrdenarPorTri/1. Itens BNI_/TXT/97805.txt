@@ -1,0 +1,35 @@
+Questão 107
+
+O gás hidrogênio é considerado um ótimo
+combustível — o único produto da combustão
+desse gás é o vapor de água, como mostrado na
+equação q!
+
+2H>(9)+ O (9) — 2 H,0 (9)
+
+Um cilindro contém 1 kg de hidrogênio e todo
+esse gás foi queimado. Nessa reação, são rompidas e
+formadas ligações químicas que envolvem as energias
+listadas no quadro.
+
+Ligação química | Energia de ligação (65)
+
+HH at
+H-o “63
+o: 494
+
+Massas molares (797): Ho = 2; 0, = 32; H,O = 18.
+
+Qual é a variação da entalpia, em quilojoule, da reação
+de combustão do hidrogênio contido no cilindro?
+
+-242 000
+121000
+-2500
+
++110500
+
+o
+Ec]
+o
+€ +234000

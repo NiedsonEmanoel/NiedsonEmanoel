@@ -1,0 +1,36 @@
+Questão 124 “enemacar
+
+A balança de braços iguais (balança A) faz a medição
+por meio da comparação com massas de referência
+colocadas em um dos pratos. A balança de plataforma
+(balança B) determina a massa indiretamente pela força
+de compressão aplicada pelo corpo sobre a plataforma.
+
+Balança 8
+
+As balanças A e B são usadas para determinar a
+massa de um mesmo corpo. O procedimento de medição
+de calibração foi conduzido em um local da superfície
+terrestre e forneceu o valor de 5,0 kg para ambas
+as balanças. O mesmo procedimento de medição é
+“conduzido para esse corpo em duas situações.
+
+Situação 1: superfície lunar, onde o módulo da
+aceleração da gravidade é 1,6 m/s?. A balança A forneceu
+o valor m,, e a balança B forneceu o valor m,.
+
+Situação 2: interior de um elevador subindo com
+aceleração constante de módulo 2 m/sº, próximo à
+superfície da Terra. A balança A forneceu o valor m,, e à
+balança B forneceu o valor m,..
+
+Depto eia bar com, eso em: 29 2013 (tptdo
+
+Em relação ao resultado do procedimento de calibração,
+
+os resultados esperados para a situação 1 e 2 são,
+
+O m,<50kgem,<50kg;m,=50kgem,= 50 kg.
+O m,=50kgem,=50kg;m,<50kgem,<50kg.
+O m,<50kgem,=50kg;m,>50kgem,=50kg.
+

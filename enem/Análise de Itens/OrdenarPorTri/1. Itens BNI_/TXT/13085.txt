@@ -1,0 +1,9 @@
+Questão 148 17 Tao UISna
+
+Uma loja de materiais de construção vende dois tipos de
+caixas-d água: tipo A e tipo B. Ambas têm formato cilíndrico e
+possuem o mesmo volume, e a altura da caixa-d'água do
+tipo B é igual a 25% da altura da caixa-d'água do tipo A.
+Se R denota o raio da caixa-d'água do tipo A, então o raio
+da caixa-d'água do tipo B é
+

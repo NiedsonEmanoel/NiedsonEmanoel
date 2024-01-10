@@ -1,0 +1,22 @@
+QUESTÃO 180
+
+Uma empresa deseja iniciar uma campanha
+publicitária divulgando uma promoção para seus
+possíveis consumidores. Para esse tipo de campanha,
+os meios mais viáveis são a distribuição de panfletos
+na rua e anúncios na rádio local. Considera-se que a
+população alcançada pela distribuição de panfletos seja
+igual à quantidade de panfletos distribuídos, enquanto
+que a alcançada por um anúncio na rádio seja igual à
+quantidade de ouvintes desse anúncio. O custo de cada
+anúncio na rádio é de R$ 120,00, e a estimativa é de
+que seja ouvido por 1 500 pessoas. Já a produção e
+a distribuição dos panfetos custam R$ 180,00 cada
+1000 unidades. Considerando que cada pessoa será
+alcançada por um único desses meios de divulgação, a
+empresa pretende investir em ambas as mídias.
+Considere X e Y os valores (em real) gastos em
+anúncios na rádio e com panfletos, respectivamente.
+O número de pessoas alcançadas pela campanha será
+dado pela expressão
+

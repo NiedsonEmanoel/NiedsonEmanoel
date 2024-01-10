@@ -1,0 +1,23 @@
+QUESTÃO 122
+
+O suco de repolho-roxo pode ser utilizado como indicador ácido-base em diferentes soluções. Para isso, basta
+misturar um pouco desse suco à solução desejada e comparar a coloração final com a escala indicadora de pH, com
+valores de 1 a 14, mostrada a seguir.
+
+1 2 3 4 5 6 Lá 8 9 10 n 12 13 414
+Vermelho Rosa Roxo Azul Verde [Amarelo]
+
+Utilizando-se o indicador ácido-base e a escala para determinar o pH da saliva humana e do suco gástrico, têm-se,
+respectivamente, as cores
+
+vermelha e vermelha.
+
+vermelha e azul.
+
+rosa e roxa.
+
+roxa e amarela.
+
+vo000
+
+roxa e vermelha.

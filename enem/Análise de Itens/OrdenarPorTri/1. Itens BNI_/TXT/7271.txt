@@ -1,0 +1,19 @@
+QUESTÃO 164
+
+O gráfico a seguir associa a distância percorrida (em
+quilômetro) com o tempo (em minuto) gasto por um grupo
+de carros que partiu de um mesmo ponto e se deslocou
+em um trecho de uma rodovia. Esse grupo parou em três
+semáforos (S,, S, e S,) ao longo do percurso feito.
+Distância (km)
+14.
+
+0 2 4 6 8 10 1214 16 18 20 Tempo (min)
+TEMEIRA P eta Funções 1º escolaridade, Lic: Mináio da Eucação, 107
+As distâncias, em quilômetro, do ponto de partida a cada
+um dos semáforos S,, S, e S, são
+O 26es.
+O 2,816
+O 4,4e2
+O 4,8e10
+e 4,10e18.

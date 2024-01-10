@@ -1,0 +1,13 @@
+Questão 155 enem
+
+Uma empresa produz painéis solares de energia
+elétrica, com a forma de retângulo, que geram 5 MWh
+(megawatts-hora) por metro quadrado. Cada painel tem
+3 m de largura e 6 m de comprimento. O selo verde de
+eficiência é obtido se cada painel solar gerar, no mínimo,
+150 MWh de energia solar. Para obter o selo verde, a
+empresa decide alterar apenas a largura dos seus painéis
+solares.
+
+O número mínimo, em metro, que a empresa deve
+aumentar na largura dos seus painéis solares é

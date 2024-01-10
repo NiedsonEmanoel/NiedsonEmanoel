@@ -1,0 +1,22 @@
+Questão 163
+
+Uma empresa tem diversos funcionários. Um deles.
+é o gerente, que recebe R$ 1 000,00 por semana.
+Os outros funcionários são diaristas. Cada um deles
+trabalha 2 dias por semana, recebendo R$ 80,00 por
+dia trabalhado.
+
+Chamando de X a quantidade total de funcionários
+da empresa, a quantia Y, em reais, que esta empresa
+gasta semanalmente para pagar seus funcionários é
+expressa por
+
+O v=80x+920.
+
+O y=80x+1000.
+
+O v=80x+1080.
+
+O v=160x+840.
+
+O v=160x+1000.

@@ -1,0 +1,22 @@
+QUESTÃO 123
+
+A figura apresenta o esquema do encanamento de uma casa onde se detectou a presença de vazamento de
+água em um dos registros. Ao estudar o problema, o morador concluiu que o vazamento está ocorrendo no registro
+submetido à maior pressão hidrostática.
+
+Caixa-d'água
+
+x
+
+T Registro
+
+Em qual registro ocorria o vazamento?
+o
+
+ou
+
+em
+
+oiv
+
+ev

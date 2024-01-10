@@ -1,0 +1,35 @@
+QUESTÃO 160
+
+Uma cidade enfrenta racionamento no abastecimento
+de água. Para minimizar os efeitos da falta de água para
+seus hóspedes, o gerente de um hotel pretende substituir
+a caixa-dágua existente por um reservatório. Sabe-se
+que o consumo médio diário do hotel é de 10 mil litros de
+água. Mantido o consumo médio diário, o gerente quer
+que o novo reservatório, uma vez cheio, seja capaz de
+suprir as necessidades do hotel por, pelo menos, 6 dias
+completos, mesmo que não haja abastecimento de água
+nesse período.
+
+O espaço de que o hotel dispõe para instalar o novo
+reservatório tem formato retangular com largura de 5 m
+e comprimento de 6 m. O gerente analisa cinco opções
+disponíveis para esse reservatório.
+
+Reservatórios retangulares
+Reservatório | Largura | Comprimento | Altura
+(m) (m) (m)
+R 6 6 2
+R 4 5 25
+R, 5 6 2
+Reservatório Raio (m) Altura (m)
+R 6
+RB, 4
+
+A opção de reservatório que atende à necessidade do
+hotel e que cabe no espaço disponível é
+
+oR.
+
+000
+E

@@ -1,0 +1,25 @@
+Questão 148 enem
+
+O rendimento de um carro bicombustível (abastecido
+“com álcool ou gasolina), popularmente conhecido como
+carro flex, quando abastecido com álcool é menor do que
+quando abastecido com gasolina, conforme o gráfico,
+que apresenta o rendimento médio dos carros populares.
+
+Suponha que um cidadão fez uma viagem, cujo
+percurso foi de 1 009 km, em um carro popular flex,
+tendo abastecido o carro nos primeiros 559 km com
+gasolina e, no restante do percurso, com álcool.
+Considere que no momento do abastecimento não
+havia mais combustível no tanque.
+
+Qual o valor mais próximo do rendimento médio do
+ao concluir todo o percurso de 1 009 km?
+
+ro
+
+O 9,90 km
+O 1043km
+O 1084 km
+O 11,00km
+O 1211km

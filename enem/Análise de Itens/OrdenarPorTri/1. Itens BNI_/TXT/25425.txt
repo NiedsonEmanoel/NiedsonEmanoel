@@ -1,0 +1,29 @@
+QUESTÃO 100
+
+Duas jarras idênticas foram pintadas, uma de branco
+e a outra de preto, e colocadas cheias de água na
+geladeira. No dia seguinte, com a água a 8 *C, foram
+retiradas da geladeira e foi medido o tempo decorrido
+para que a água, em cada uma delas, atingisse a
+temperatura ambiente. Em seguida, a água das duas
+jarras foi aquecida até 90 “C e novamente foi medido o
+tempo decorrido para que a água nas jarras atingisse a
+temperatura ambiente.
+
+Qual jarra demorou menos tempo para chegar à
+temperatura ambiente nessas duas situações?
+
+O A jarra preta demorou menos tempo nas duas
+situações.
+
+O A jarra branca demorou menos tempo nas duas
+situações.
+
+O As jarras demoraram o mesmo tempo, já que são
+feitas do mesmo material.
+
+O A jarra preta demorou menos tempo na primeira
+situação e a branca, na segunda.
+
+O A jarra branca demorou menos tempo na primeira
+situação e a preta, na segunda.

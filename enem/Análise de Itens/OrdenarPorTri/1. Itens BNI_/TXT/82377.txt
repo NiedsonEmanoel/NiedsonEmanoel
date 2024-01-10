@@ -1,0 +1,21 @@
+Questão 145 enamon2nenamonenam
+
+Um laboratório realizou um teste para calcular
+a velocidade de reprodução de um tipo de bactéria.
+Para tanto, realizou um experimento para observar a
+reprodução de uma quantidade x dessas bactérias por
+um período de duas horas. Após esse período, constava
+no habitáculo do experimento uma população de 189 440
+da citada bactéria. Constatou-se, assim, que a população
+de bactérias dobrava a cada 0,25 hora.
+
+A quantidade inicial de bactérias era de
+
+370.
+740.
+
+1.480.
+11840.
+23 680.
+
+voo

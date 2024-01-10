@@ -1,0 +1,31 @@
+QUESTÃO 162
+Em uma corrida de dez voltas disputada por dois
+
+carros antigos, A e B, o carro A completou as dez
+
+voltas antes que o carro B completasse a oitava volta
+
+Sabe-se que durante toda a corrida os dois carros
+
+mantiveram velocidades constantes iguais a 18 mis
+
+e 14 mis. Sabe-se também que o carro B gastaria
+
+288 segundos para completar oito voltas.
+
+A distância, em metro, que o carro B percorreu do início
+
+da corrida até o momento em que o carro A completou a
+
+décima volta foi mais próxima de
+
+O 6480
+
+O 518
+
+O 5040
+
+O 4032
+
+e 3920
+

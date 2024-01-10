@@ -1,0 +1,18 @@
+Questão 137 pn2nenemononenemononenemononenemoronenamononenamononenamononenem
+
+O valor cobrado por uma corrida de táxi é calculado somando-se a bandeirada, um valor fixo que é cobrado em
+qualquer corrida, a um valor variável que depende da distância percorrida.
+
+Uma empresa de táxi cobra pela bandeirada o valor de R$ 4,50. Para corridas de até 200 metros, é cobrada
+somente a bandeirada, e para corridas superiores a 200 metros é cobrado o valor de R$ 0,02 para cada metro
+adicional percorrido.
+
+Para analisar o valor cobrado, em real, em função da distância percorrida, em metro, a empresa elaborou um
+gráfico, com uma simulação para uma distância de 600 metros.
+
+O gráfico que representa o valor da corrida, em real, em função da distância percorrida, em metro, é
+
+RSA RSA
+
+12,50)
+

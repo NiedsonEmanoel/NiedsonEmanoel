@@ -1,0 +1,41 @@
+Questão 105
+
+Em 1808, Dalton publicou o seu famoso livro
+intitulado Um novo sistema de filosofia química
+(do original A New System of Chemical Philosophy),
+no qual continha os cinco postulados que serviam
+“como alicerce da primeira teoria atômica da matéria
+fundamentada no método científico. Esses postulados
+são numerados a seguir:
+1. Amatéria é constituída de átomos indivisíveis.
+
+2. Todos os átomos de um dado elemento químico são
+idênticos em massa e em todas as outras propriedades.
+
+3. Diferentes elementos químicos têm diferentes
+tipos de átomos; em particular, seus átomos têm
+diferentes massas.
+
+4. Os átomos são indestrutíveis e nas reações
+químicas mantêm suas identidades.
+
+5. Átomos de elementos combinam com átomos de
+outros elementos em proporções de números inteiros
+pequenos para formar compostos.
+
+Após o modelo de Dalton, outros modelos baseados
+em outros dados experimentais evidenciaram, entre
+outras coisas, a natureza elétrica da matéria, a
+“composição e organização do átomo e a quantização da
+energia no modelo atômico.
+
+OXTOBY, D.W; GILLIS, HP; BUTLER, L 4 Principles of Modem
+Chemistry. Boston: Cengage Learning, 2012 (adaptado)
+
+Com base no modelo atual que descreve o átomo, qual
+dos postulados de Dalton ainda é considerado correto?
+
+01
+
+oco
+a son

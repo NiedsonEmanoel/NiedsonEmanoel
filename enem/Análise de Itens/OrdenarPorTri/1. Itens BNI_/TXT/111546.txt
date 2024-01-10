@@ -1,0 +1,32 @@
+Questão 92 —==—=—=====—==—=—=—=—=—=——=enemuoar
+
+Carros elétricos estão cada vez mais baratos,
+no entanto, os órgãos governamentais e a indústria se
+preocupam com o tempo de recarga das baterias, que é
+muito mais lento quando comparado ao tempo gasto para.
+encher o tanque de combustível. Portanto, os usuários
+de transporte individual precisam se conscientizar dos
+ganhos ambientais dessa mudança e planejar com
+antecedência seus percursos, pensando em pausas
+necessárias para recargas.
+
+Após realizar um percurso de 110 km, um motorista
+pretende recarregar as baterias de seu carro elétrico, que
+tem um desempenho médio de 5,0 km/kWh, usando um
+carregador ideal que opera a uma tensão de 220 V e é
+percorrido por uma corrente de 20 A.
+Quantas horas são necessárias para recarregar a energia
+utilizada nesse percurso?
+
+0,005
+0,125
+25
+50
+so
+
+o
+
+o
+e
+o
+e

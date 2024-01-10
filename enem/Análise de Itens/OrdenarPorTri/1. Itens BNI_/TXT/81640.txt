@@ -1,0 +1,16 @@
+Questão 121 enemecer
+Considere a tirinha, na situação em que a temperatura do ambiente é inferior à temperatura corporal dos personagens.
+q 7 —Y não
+
+O incômodo mencionado pelo personagem da tirinha deve-se ao fato de que, em dias úmidos,
+a temperatura do vapor-d'água presente no ar é alta.
+
+o suor apresenta maior dificuldade para evaporar do corpo.
+
+a taxa de absorção de radiação pelo corpo toma-se maior.
+
+o ar toma-se mau condutor e dificulta o processo de liberação de calor.
+
+o vapor-d'água presente no ar condensa-se ao entrar em contato com a pele.
+
+0000

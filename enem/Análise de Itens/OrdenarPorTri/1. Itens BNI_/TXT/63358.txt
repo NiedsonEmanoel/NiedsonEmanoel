@@ -1,0 +1,32 @@
+QUESTÃO 180
+
+Na música, usam-se sinais gráficos chamados figuras
+de duração para indicar por quanto tempo se deve emitir
+determinado som.
+
+As figuras de duração usadas atualmente são:
+semibreve, mínima, semínima, colcheia, semicolcheia,
+fusa e semifusa.
+
+Essas figuras não possuem um valor (tempo) fixo. Elas
+são proporcionais entre si. A duração de tempo de uma
+semibreve é equivalente à de duas mínimas, a duração
+de uma mínima é equivalente à de duas semínimas, a
+duração de uma semínima equivale à de duas colcheias
+e assim por diante, seguindo a ordem dada
+
+Considere que a semibreve tem a duração de tempo
+de uma unidade.
+
+TTTTTTT
+
+Disponível em: wu poraldumuscacp.mus br cesso em: 11 nou 2013 (adaptado).
+
+A sequência que indica a duração de tempo de uma
+mínima, de uma semínima, de uma colcheia, de uma
+semicolcheia, de uma fusa e de uma semifusa é
+
+O 248,16,3264
+O 12,4,816,32
+
+el-

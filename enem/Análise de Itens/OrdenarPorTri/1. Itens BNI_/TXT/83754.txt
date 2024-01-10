@@ -1,0 +1,33 @@
+Questão 173
+
+Após o Fórum Nacional Contra a Pirataria (FNCP)
+cluir a linha de autopeças em campanha veiculada
+contra a falsificação, as agências  fiscalizadoras
+divulgaram que os cinco principais produtos de
+autopeças falsificados são: rolamento, pastilha de freio,
+caixa de direção, catalisador e amortecedor.
+
+Disponível em: vanuoficinabrasi com br.
+Acesso em: 25 ago. 2014 (adaptado)
+
+Após uma grande apreensão, as peças falsas foram
+cadastradas utilizando-se a codificação:
+
+A: rolamento, 2: pastilha de freio, 3: caixa de direção,
+4: catalisador e 5: amortecedor.
+
+Ao final obteve-se a sequência: 5, 4, 3, 2, 1,2,3,4,
+5,4,3,2,1,2,3,4,5,4,3,2,1,2,3,4, ... que apresenta
+um padrão de formação que consiste na repetição de um
+bloco de números. Essa sequência descreve a ordem
+em que os produtos apreendidos foram cadastrados.
+
+O 2015º item cadastrado foi um(a)
+
+O rolamento.
+
+O catalisador.
+
+O amortecedor.
+O pastilha de freio.
+O caixa de direção.

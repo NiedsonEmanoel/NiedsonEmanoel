@@ -1,0 +1,23 @@
+Questão 146 enem
+
+Um nutricionista preparou cinco opções de dieta para seus clientes. A quantidade de calorias, em quilocaloria, de
+“cada dieta é apresentada no quadro, em função de três componentes básicos: proteinas, carboidratos e suplementos.
+
+Dieta | Proteinas | Carboidratos | Suplementos
+(kcal) (kcal) (kcal)
+1 66 42 8
+" 57 42 105
+O es 39 E
+M 66 48 E
+vi EI 36 E
+
+Como um de seus clientes apresentou muita redução de massa corporal, o nutricionista recomendou que ele
+escolhesse uma das cinco dietas do quadro e quadruplicasse a quantidade de proteinas, triplicasse a quantidade de
+carboidratos e duplicasse a quantidade de suplementos recomendadas pela dieta escolhida.
+
+O cliente seguirá a recomendação do nutricionista, mas deseja escolher a dieta na qual ele consumirá a menor
+quantidade de calorias dentre as opções disponíveis.
+
+O cliente deverá escolher a dieta
+
+voo o

@@ -1,0 +1,16 @@
+Um fabricante de termômetros orienta em seu manual de instruções que o instrumento
+deve ficar três minutos em contato com o corpo para aferir a temperatura. Esses termômetros
+“são feitos com o bulbo preenchido com mercúrio conectado a um tubo capilar de vidro.
+
+De acordo com a termodinâmica, esse procedimento se justica, pois é necessário que
+(0) o termômetro e o corpo tenham a mesma energia interna.
+
+a temperatura do corpo passe para o termômetro.
+
+o equilibrio térmico entre os corpos seja atingido.
+
+a quantidade de calor dos corpos seja a mesma.
+
+000
+
+O calor do termômetro passe para o corpo.

@@ -1,0 +1,28 @@
+Uma empresa deseja construir um edífcio residencial de 12 pavimentos, num lote
+retangular de lados medindo 22 e 28 m. Em 3 dos lados do lote serão construídos muros. A
+frente do prédio será sobre o lado do lote de menor comprimento. Sabe-se que em cada
+pavimento 32 mê serão desthados à área comum (hal de entrada, elevadores e escada), e o
+restante da área será destinado às unidades habitacionais. À legislação vigente exige que
+prédios sejam construídos mantendo distâncias mínimas dos Ímites dos lotes. onde se
+encontram. Em obediência à legislação, o prédio ficará 5 m afastado da rua onde terá sua
+entrada, 3 m de distância do muro no fundo do lote e 4 m de distância dos muros nas laterais
+do lote, como mostra à figura.
+
+Sm, Sm,
+
+22m
+
+26m
+
+A área total, em metro quadrado, destinada às unidades habitacionais desse edifício será de
+o 28
+
+2024.
+
+3840.
+
+6.480.
+
+686.
+
+000

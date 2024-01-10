@@ -1,0 +1,19 @@
+Questão 121 enem
+
+Baterias são dispositivos que acumulam energiae estão
+presentes em inúmeros aparelhos portáteis. Uma bateria
+ideal não possui resistência interna. Entretanto, baterias
+reais apresentam resistência interna disponibilizando uma
+tensão efetiva V inferior à sua tensão nominal £, conforme.
+a figura. Uma vez que se sabe o valor da tensão nominal
+da bateria, determina-se sua carga pelo conhecimento
+da corrente | enquanto está conectada a um circuito de
+resistência R, de tensão efetiva V, e da resistência intema
+rda bateria.
+
+De posse de um voltimetro ()), de um amperimetro (3) e
+de uma resistênciateste À, a configuração adequada fara
+avaliar a carga da batera é:
+
+R
+

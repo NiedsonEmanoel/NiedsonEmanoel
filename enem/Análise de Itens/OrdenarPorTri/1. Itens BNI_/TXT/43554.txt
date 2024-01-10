@@ -1,0 +1,47 @@
+QUESTÃO 112
+
+Ao pesquisar um resistor feito de um novo tipo
+de material, um cientista observou o comportamento
+mostrado no gráfico tensão versus corrente.
+
+Comente (8)
+
+Após a análise do gráfico, ele concluiu que a tensão
+em função da corrente é dada pela equação V = 10 + 1º.
+O gráfico da resistência elétrica (R) do resistor em função
+da corrente () é
+
+»
+1
+Eu
+E
+Sc,
+GATE SA SET
+a)
+a
+2
+Eu
+E
+o
+2 3 4 5 ET
+HA)
+
+(o)
+012 34 5 67
+va
+”
+8
+gu
+oc
+“0
+8
+042 34 5 87
+va
+o]
+so|
+54]
+é
+“a
+1
+o
+012 45 67

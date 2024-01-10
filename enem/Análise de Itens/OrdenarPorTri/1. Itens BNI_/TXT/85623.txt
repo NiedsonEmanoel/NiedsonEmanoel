@@ -1,0 +1,23 @@
+Na última eleição para a presidência de um clube, duas chapas se inscreveram (te ll). Há
+dois tipos de sócio: patrimoniais e contribuintes. Votos de sócios patrimoniais têm peso 0,6 e
+de sócios contribuintes têm peso 0,4. A chapa | recebeu 850 votos de sócios patrimoniais e 4
+300 de sócios contribuintes; a chapa Il recebeu 1 300 votos de sócios patrimoniais e 2 120 de
+sócios contribuintes. Não houve abstenções, votos em branco ou nulos, e a chapa | foi
+vencedora. Haverá uma nova eleição para a presidência do clube, com o mesmo número e
+tipos de sócios, e as mesmas chapas da eleição anterior. Uma consulta feita pela chapa Il
+mostrou que os sócios patrimoniais não mudarão seus votos, e que pode contar com os votos
+dos sócios contribuintes da última eleição. Assim, para que vença, será necessária uma
+campanha junto aos sócios contribuintes com o objetivo de que mudem seus votos para a
+chapa
+
+A menor quantidade de sócios contribuintes que precisam trocar seu voto da chapa | para a
+chapa Il para que esta seja vencedora é
+
+ORE
+
+753.
+
+1091
+
+0000
+E)

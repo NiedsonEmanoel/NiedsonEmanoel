@@ -1,0 +1,30 @@
+QUESTÃO 172
+
+Admita que um grupo musical deseja produzir
+seu próprio CD. Para tanto, adquire um pequeno
+equipamento para gravar CDs ao valor de R$ 252,00,
+e vários CDs novos, sendo esses os únicos gastos
+realizados na produção dos CDs. Sabe-se que o custo
+total na compra do equipamento e dos CDs totalizou o
+valor de R$ 1 008,00, e que o custo unitário de cada CD
+novo, em real, varia de acordo com o número n de CDs
+adquiridos, segundo o quadro
+
+Número nde CDs | Custo unitário de cada
+adquiridos CD novo (em real)
+n<1000 0,45
+1000<n<2500 0,40
+2500<n 0,35]
+
+Nessas condições, o número de CDs adquiridos pelo
+grupo musical é igual a
+
+O 1680.
+
+O 189.
+
+O 2160.
+
+O 2520.
+
+e 2890.

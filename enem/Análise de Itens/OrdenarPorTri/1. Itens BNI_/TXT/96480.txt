@@ -1,0 +1,30 @@
+QUESTÃO 118
+
+Em pacientes portadores de astrocitoma pilocítico,
+um tipo de tumor cerebral, o gene BRAF se quebra
+e parte dele se funde a outro gene, o KIAA1549. Para
+detectar essa alteração cromossômica, foi desenvolvida
+uma sonda que é um fragmento de DNA que contém
+partículas fluorescentes capazes de reagir com os genes
+BRAF e KIAA1549 fazendo cada um deles emitir uma cor
+diferente. Em uma célula normal, como os dois genes
+estão em regiões distintas do genoma, as duas cores
+aparecem separadamente. Já quando há a fusão dos
+dois genes, as cores aparecem sobrepostas
+
+Deponel em: gencafapespir. Aesso em: o 2015.
+
+A alteração cromossômica presente nos pacientes com
+astrocitoma pilocítico é classificada como
+
+estrutural do tipo deleção.
+
+numérica do tipo euploidia.
+
+estrutural do tipo duplicação.
+
+numérica do tipo aneuploídia.
+
+estrutural do tipo translocação.
+
+0000

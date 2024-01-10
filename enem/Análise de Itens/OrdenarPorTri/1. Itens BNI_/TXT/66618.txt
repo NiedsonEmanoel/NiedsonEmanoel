@@ -1,0 +1,47 @@
+Questão 144 enemecar
+
+O projeto de um contêiner, em forma de paralelepípedo
+reto retangular, previa a pintura dos dois lados (intemo e
+externo) de cada uma das quatro paredes com tinta acrílica
+e a pintura do piso intemo com tinta epóxi. O construtor
+havia pedido, a cinco fomecedores diferentes, orçamentos
+das tintas necessárias, mas, antes de iniciar a obra, resolveu
+mudar o projeto original, alterando o comprimento e a largura.
+para o dobro do originalmente previsto, mantendo inalterada
+a altura. Ao pedir novos orçamentos aos fornecedores, para
+as novas dimensões, cada um deu uma resposta diferente
+sobre as novas quantidades de tinta necessárias.
+
+Em relação ao previsto para o projeto original, as
+novas quantidades de tinta necessárias informadas pelos
+fornecedores foram as seguintes:
+
+- Fomecedor |: "O dobro, tanto para as paredes
+
+quanto para o piso.”
+
+- Fomecedor Il: “O dobro para as paredes e quatro
+
+vezes para o piso.”
+
++ Fomecedor Il: “Quatro vezes, tanto para as paredes
+
+quanto para o piso.”
+
+* Fomecedor IV: “Quatro vezes para as paredes e o
+
+dobro para o piso.”
+
+* Fomecedor V: "Oito vezes para as paredes e quatro
+
+vezes para o piso.”
+
+Analisando as informações dos fomecedores, o
+construtor providenciará a quantidade adequada de
+material. Considere a porta de acesso do contéiner como
+parte de uma das paredes.
+
+Qual dos fomecedores prestou as informações adequadas,
+devendo ser o escolhido pelo construtor para a aquisição
+do material?
+

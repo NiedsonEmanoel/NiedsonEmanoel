@@ -1,0 +1,33 @@
+Questão 166 enem
+
+Para um evento que acontecerá no centro de uma
+cidade, há a opção de três estacionamentos, que cobram
+da seguinte maneira:
+
+Estacionamento | Estacionamento | Estacionamento
+x Y z
+R$ 4,00 pela 1º R$ 5,00 pela 1º
+hora ou hora ou
+fração de hora fração de hora.
+R$3,70 por hora
+R$ 2,50 por ou R$ 2,00 por
+cada hora fração de hora cada hora
+subsequente ou subsequente ou
+fração de hora fração de hora
+
+Duas pessoas que participarão do evento precisam
+estacionar seus carros, uma delas pelo período de
+1 hora e 50 minutos e a outra pelo período de 4 horas,
+pretendendo cada uma pagar o menor preço total pelo
+uso do estacionamento.
+
+Essas pessoas deverão optar, respectivamente, pelos
+estacionamentos.
+
+xez
+vex.
+vez
+Zex
+zez
+
+voooso

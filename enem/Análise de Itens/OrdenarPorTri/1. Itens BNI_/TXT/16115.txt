@@ -1,0 +1,28 @@
+QUESTÃO 145
+
+Dois amigos abriram um restaurante. No primeiro ano,
+o custo total com as despesas do restaurante chegou a
+250 mil reais. A receita neste ano foi de 325 mil reais,
+obtendo assim um lucro de 75 mil reais (diferença entre a
+receita e o custo total). A tabela representa o custo total e
+
+a receita nos cinco primeiros anos.
+
+Receita
+Ano (milhar de real)
+Primeiro 250 325
+Segundo 270 355
+Terceiro 290 350
+Quarto 280 365
+Quinto 260 305
+
+De acordo com a tabela, a média anual do lucro, em
+milhar de real, ao longo dos cinco anos é
+
+60.
+70.
+7.
+so.
+85.
+
+vovos

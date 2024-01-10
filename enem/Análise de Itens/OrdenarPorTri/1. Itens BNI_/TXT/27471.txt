@@ -1,0 +1,20 @@
+Questão 164 enemacar
+Uma pessoa comprou uma caneca para tomar sopa,
+conforme ilustração.
+
+Sabe-se que 1 cm? = 1 mL e que o topo da can
+é uma circunferência de diâmetro (D) medindo 10 cm,
+e a base é um circulo de diâmetro (d) medindo 8 cm.
+Além disso, sabe-se que a altura (h) dessa caneca mede
+12 cm (distância entre o centro das circunferências do
+topo e da base).
+
+Utilize 3 como aproximação para 7.
+Qualéa capacidade volumétrica, emmilitro, dessa canec
+
+o 216
+O 408
+er
+O 2196
+e 2928
+

@@ -1,0 +1,17 @@
+Questão 109
+
+Dois amigos se encontram em um posto de gasolina para calibrar os pneus de suas bicicletas.
+Uma das bicicletas é de corrida (bicicleta A) e a outra, de passeio (bicicleta B). Os pneus de ambas as bicicletas
+têm as mesmas características, exceto que a largura dos pneus de A é menor que a largura dos pneus de B.
+Ao calibrarem os pneus das bicicletas A e B, respectivamente com pressões de calibração pa e Pg, Os amigos
+observam que o pneu da bicicleta A deforma, sob mesmos esforços, muito menos que o pneu da bicicleta B.
+Pode-se considerar que as massas de ar comprimido no pneu da bicicleta A, ma, e no pneu da bicicleta B, mg, são
+diretamente proporcionais aos seus volumes.
+
+Comparando as pressões e massas de ar comprimido nos pneus das bicicletas, temos:
+O pasprema<ma
+O pa>Paema<Ma
+O pa>Prema=ma
+O pacprema=ma
+O pa>Prema>ma
+

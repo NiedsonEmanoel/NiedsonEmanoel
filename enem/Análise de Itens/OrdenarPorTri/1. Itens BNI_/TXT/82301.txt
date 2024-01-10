@@ -1,0 +1,25 @@
+Para assegurar a boa qualidade de seu produto, uma indústria de vidro analisou um lote
+de óxido de slcio (SiOs), principal componente do vidro. Para isso, submeteu uma amostra
+desse óxido ao aquecimento até sua completa fusão e ebulição, obtendo ao final um gráfico de
+temperatura T (*C) versus tempo t (min). Após a obtenção do gráfico, o analista concluiu que a
+“amostra encontrava-se pura.
+
+Dados do SiOz: Tisão = 1600 *C; Tetuição = 2 230 *C.
+
+Qual foi o gráfico obtido pelo analista?
+O tco O co
+2230
+220
+1600 1800-
+tmn) timin)
+O ro oO res
+220
+2250 pe
+1600
+1600
+timin) tin)
+O reco
+2250
+1800
+
+timin)

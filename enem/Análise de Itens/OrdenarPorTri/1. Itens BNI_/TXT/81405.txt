@@ -1,0 +1,27 @@
+A gerência de uma loja de eletrônicos organizou em um quadro os dados de venda
+(quantidade e preço unitário) de celulares, impressoras e notebooks de um ano.
+
+Para o ano seguinte, deseja arrecadar 10% a mais do que foi arrecadado naquele ano
+anterior, vendendo as mesmas quantidades de cada um desses três produtos, mas
+
+Produto | Quantidade | Preso unitário
+
+Celular 300 300
+Impressora 300 200,
+Notebook 200 900
+
+reajustando apenas o preço do notebook.
+
+O preço de venda a ser estabelecido para um notebook, para o ano seguinte, em real, deverá.
+
+serigual a
+O 50.
+990,00.
+1.040,00.
+
+1.065,00.
+
+000
+
+1.540,00.
+

@@ -1,0 +1,23 @@
+Questão 168
+
+Uma pesquisa de mercado sobre produtos de higiene e limpeza apresentou o comparativo entre duas marcas, A
+
+e B. Esses produtos são concentrados e, para sua utilização, é necessária sua diluição em água.
+
+O quadro apresenta a comparação em relação ao preço dos produtos de cada marca e ao rendimento de
+
+da produto em litro.
+
+Produtos Nata | macae | MarcaAo | Marcas”
+Sabão líquido concentrado (1 L) R$ 6,00 R$5,10 3L 25L
+Alvejante concentrado (1 L) R$4,50 R$ 3,00 12L 9L
+Amaciante concentrado (1 L) R$4,50 R$ 5,00 TL eL
+Detergente concentrado (1 L) R$ 1,60 R$220 3L aL
+
+Um consumidor pretende comprar um litro de cada produto e para isso escolherá a marca com o menor custo em
+
+relação ao rendimento.
+
+Nessas condições, as marcas dos quatro produtos adquiridos pelo consumidor, na ordem apresentada na tabela, são
+
+0000

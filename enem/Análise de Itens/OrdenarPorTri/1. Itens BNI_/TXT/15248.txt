@@ -1,0 +1,27 @@
+Questão 174 USO]
+Uma casa de dois andares está sendo projetada.
+É necessário incluir no projeto a construção de uma
+escada para o acesso ao segundo andar. Para o cálculo
+das dimensões dos degraus utilizam-se as regras:
+h+b-635]S 150 165h<19,
+nas quais h é a altura do degrau (denominada espelho)
+e b é a profundidade da pisada, como mostra a figura.
+Por conveniência, escolheu-se a altura do degrau como
+“sendo h = 16. As unidades de h e b estão em centímetro.
+
+I
+
+Nesse caso, o mais amplo intervalo numérico ao qual a
+profundidade da pisada (b) deve pertencer, para que as
+regras sejam satisfeitas é
+
+030<b
+
+0 30sbs315
+
+O 30sbsa
+
+O315sbsa
+
+Obs3
+

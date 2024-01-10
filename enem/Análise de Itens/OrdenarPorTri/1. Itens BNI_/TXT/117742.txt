@@ -1,0 +1,34 @@
+QUESTÃO 143
+
+Um casal planeja construir em sua chácara uma
+piscina com o formato de um paralelepípedo reto
+retângulo com capacidade para 90000 L de água.
+O casal contratou uma empresa de construções que
+apresentou cinco projetos com diferentes combinações
+nas dimensões internas de profundidade, largura
+e comprimento. A piscina a ser construída terá
+revestimento interno em suas paredes e fundo com uma
+mesma cerâmica, e o casal irá escolher o projeto que
+exija a menor área de revestimento.
+
+As dimensões intemas de profundidade, largura
+e comprimento, respectivamente, para cada um dos
+projetos, são:
+
++ projeto |: 1,8m, 20m e 25,0 m;
+
++ projeto |1:2,0m, 5,0me 9,0m;
+
++ projeto ll: 1,0 m, 6,0 me 15,0m;
+
++ projeto IV: 1,5m, 15,0 me 4,0 m;
+
++ projeto V:25m, 30me 120m
+O projeto que o casal deverá escolher será o
+
+ol
+oi
+ein
+ol
+ev
+

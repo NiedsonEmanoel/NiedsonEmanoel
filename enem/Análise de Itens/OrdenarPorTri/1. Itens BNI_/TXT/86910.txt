@@ -1,0 +1,19 @@
+Questão 166 DIDEnEMrrenemnorenemrrensmoranenerr spermororenamoronenemi
+
+Um síndico precisa pintar os muros, portões e calçamento de um edifício. Os pintores solicitaram três galões
+de tinta T4 para os muros, um galão de tinta T2 para os portões e dois galões de tinta T3 para o calçamento. Ele
+pesquisou o preço das tintas em cinco lojas diferentes, obtendo os seguintes valores, em real.
+
+Loja E T2
+1 82,00 134,00
+2 80,00 122,00
+3 85,00 115,00
+4 88,00 132,00
+5 90,00 116,00
+
+O síndico irá comprar as tintas numa única loja, escolhendo aquela em que o valor total da compra resulte no
+menor preço médio por galão.
+Com base nessas informações, a loja escolhida será
+
+V0000)
+arena

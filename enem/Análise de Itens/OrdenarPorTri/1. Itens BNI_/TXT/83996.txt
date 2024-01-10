@@ -1,0 +1,66 @@
+Considere um banco de dados (Quadro 1) que apresenta sequências hipotéticas de DNA.
+de duas áreas de extrativismo permitido (1 e A2) e duas áreas de conservação (81 e B?).
+Um órgão de fiscalização ambiental recebeu uma denúncia anônima de que cinco lojas
+moveleiras (1, 2, 3, 4 e 5) estariam comercializando produtos fabricados com madeira oriunda
+
+de áreas onde a extração é proibida.
+
+As sequências de DNA das amostras dos lotes
+
+apreendidos nas lojas moveleiras foram determinadas (Quadro 2).
+
+Quadro 1
+
+Áre:
+
+Sequências de DNA
+
+A1 - Extrativismo
+
+TCC TAA TTG AMA
+TCC TAACTGAGA
+
+AB - Extrativismo
+
+TCC TAA TGT CAC
+TCC AAA TTG CAC
+
+B1 - Conservação
+
+TCC AAA TTT CAC
+TCC TAA TGT CAC
+
+B2 - Conservação
+
+TCC TAACTGAGA
+TCC AAA TTT CAC
+
+Quadro 2
+
+Amostras
+
+Sequências de DNA
+
+1
+
+TCC TAACTGAGA
+
+TCC TAATTGAMA
+
+TCC TAATGT CAC]
+
+alsjoln
+
+TCC AAA TTG CAC
+TOCAAATTT CAC
+
+MIRANDA, NE. O: ALMEIDA JÚNIOR, E 8. A: COLLEVATT, RG. A genádca contra os crimes amblentas:
+deruesção de mede lego provenianta de unidades a conservação utizando marcador molecular.
+
+“Genética na Escola v. 9, 1.2, 2014 (adoptado
+
+Qual loja moveleira comercializa madeira exclusivamente de forma ilegal?
+
+fo Ri
+
+000

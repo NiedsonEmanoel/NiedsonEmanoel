@@ -1,0 +1,33 @@
+Questão 138
+
+Em um condomínio, uma área pavimentada, que
+tem a forma de um círculo com diâmetro medindo 6 m,
+é cercada por grama. A administração do condomínio
+deseja ampliar essa área, mantendo seu formato
+ircular, e aumentando, em 8 m, o diâmetro dessa
+região, mantendo o revestimento da parte já existente.
+O condomínio e, em estoque, de material
+suficiente para pavimentar mais 100 mê de área.
+O síndico do condomínio irá avaliar se esse material
+disponível será suficiente para pavimentar a região a
+ser ampliada.
+
+Utilize 3 como aproximação para 7.
+A conclusão correta a que o síndico deverá chegar,
+considerando a nova área a ser pavimentada, é a de
+que o material disponível em estoque
+
+O será suficiente, pois a área da nova região a ser
+pavimentada mede 21 m2.
+
+O será suficiente, pois a área da nova região a ser
+pavimentada mede 24 m2.
+
+O será suficiente, pois a área da nova região a ser
+pavimentada mede 48 m2.
+
+O não será suficiente, pois a área da nova região a ser
+pavimentada mede 108 mê
+
+& não será suficiente, pois a área da nova região a ser
+pavimentada mede 120 m2

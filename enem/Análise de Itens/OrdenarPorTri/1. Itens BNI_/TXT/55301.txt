@@ -1,0 +1,33 @@
+Questão 167 enemaz
+
+Umcasaldecidiu aplicarem umfundo de investimentos
+que tem uma taxa de rendimento de 0,8% ao mês, num
+regime de capitalização composta.
+
+O valor final F a ser resgatado, depois de n meses, a
+uma taxa de rendimento mensal x, é dado pela expressão
+algébrica F = C(1 + x), em que C representa o capital
+inicial aplicado.
+
+O casal planeja manter a aplicação pelo tempo
+necessário para que o capital inicial de R$ 100 000,00
+duplique, sem outros depósitos ou retiradas.
+
+Fazendo uso da tabela, o casal pode determinar esse
+número de meses,
+
+Y LogY
+1,008 0,003]
+1.08 003
+18 0,20
+2 0,30
+3 0,47
+
+Para atender ao seu planejamento, o número de meses
+determinado pelo casal é
+
+O 156.
+O 125.
+O 100.
+O 10.
+e 15.

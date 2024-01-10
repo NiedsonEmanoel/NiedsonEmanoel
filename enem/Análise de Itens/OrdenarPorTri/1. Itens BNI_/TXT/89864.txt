@@ -1,0 +1,36 @@
+Questão 118
+
+Cientistas da Universidade de New South Wales,
+na Austrália, demonstraram em 2012 que a Lei de
+Ohm é válida mesmo para fios finíssimos, cuja área
+da seção reta compreende alguns poucos átomos.
+Atabela apresenta as áreas e comprimentos de alguns
+dos fios construídos (respectivamente com as mesmas
+unidades de medida). Considere que a resistividade
+mantém-se constante para todas as geometrias (uma
+aproximação confirmada pelo estudo).
+
+enemecor
+
+Area | Comprimento | Fositância
+Fio 1 9 312 R1
+Foz [ 4 E R
+ros [2 a 5
+mesa | qo na
+
+WEBER 8.8 tl Ovi Lau Suns tora Ai Ses.
+cleo 395 jr. 202 (agi
+
+As resistências elétricas dos fios, em ordem crescente, são
+
+O RI<RZ<R3<RA.
+
+R2<RI<RI<RA.
+
+R2<R3<RI<RA.
+
+R4<RI<RI<RZ
+
+voo
+
+R4<R3<R2<RI.

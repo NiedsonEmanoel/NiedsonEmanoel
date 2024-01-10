@@ -1,0 +1,26 @@
+Questão 134, eneman————————————
+Grande parte da atual frota brasileira de veículos de
+passeio tem tecnologia capaz de identificar e processar
+tanto o etanol quanto a gasolina. Quando queimados, no
+interior do motor, esses combustíveis são transformados
+em produtos gasosos, num processo com variação
+de entalpia menor que zero (AH < 0). Esse processo
+necessita de uma energia de ativação, a qual é fornecida
+por uma centelha elétrica.
+O gráfico que esboça a variação da energia potencial no
+progresso da reação é representado por:
+
+o
+/ Energia poten.
+
+Progresso da reação
+
+Energia potencial
+
+Progresso da reação
+
+Energia potenci
+
+Energia potencial
+
+Progresso da reação

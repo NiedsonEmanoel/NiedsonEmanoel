@@ -1,0 +1,25 @@
+O gráfico apresenta a evolução do crescimento de uma determinada árvore, plantada a
+partir de uma muda com 1 metro de altura. Nessa evolução, a altura da árvore, em metro, é
+descrita em função do tempo, medido em ano.
+
+Altura (em
+ss
+
+15
+
+o
+
+os 1152 25 2 354 455 55 6 6 7 Tempo(an)
+
+No período de 1 ano, contado a partir do instante em que a árvore tinha dois anos é meio de
+plantio, a variação da altura dessa árvore, em metro, teve valor compreendido entre
+
+O 055c065.
+O 06c075
+1056115
+
+1256 1,35.
+
+00
+
+1456 1,55.

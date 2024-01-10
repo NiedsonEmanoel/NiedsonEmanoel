@@ -1,0 +1,26 @@
+Questão 169
+
+Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de
+decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de
+que desejavam visitar e também sobre as estimativas de gasto
+
+destino que apresentasse o menor custo diário em real.
+O quadro mostra os resultados obtidos com a pesquisa realizada.
+
+imbio vigente para as moedas de cinco países
+em cada um, com o objetivo de escolher o
+
+País de destino Moeda local Taxa de câmbio Gasto diário
+França Euro (€) R$ 3.14 315,00 €
+EUA Dólar (US$) R$2,78 USS 390,00
+Austrália Dólar australiano (AS) R$214 AS 400,00
+Canadá Dólar canadense (C$) R$2,10 C$ 410,00
+Reino Unido Libra esterina (£) R$424 £ 290,00
+Nessas condições, qual será o destino escolhido para a viagem?
+O Austrália,
+O Canadá.
+O EUA
+O França.
+
+Reino Unido.
+

@@ -1,0 +1,11 @@
+QUESTÃO 151
+
+Definem-seo dia e o ano de um planeta de um sistemasolar
+“como sendo, respectivamente, o tempo que o planeta leva para
+dar 1 volta completa em tomo de seu próprio eixo de rotação eo
+tempo para dar 1 volta completa em tomo de seu Sol
+Suponha que exista um planeta Z, em algum sistema
+solar, onde um dia corresponda a 73 dias terrestres e
+que 2 de seus anos correspondam a 1 ano terrestre.
+Considere que 1 ano terrestre tem 365 de seus dias.
+

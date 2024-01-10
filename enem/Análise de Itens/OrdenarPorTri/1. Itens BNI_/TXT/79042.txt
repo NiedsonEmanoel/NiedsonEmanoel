@@ -1,0 +1,34 @@
+Questão 138
+
+Para certas molas, a constante elástica (C) depende
+do diâmetro médio da circunferência da mola (D), do
+número de espirais úteis (N), do diâmetro (a) do fio
+de metal do qual é formada a mola e do módulo de
+elasticidade do material (G). A fórmula evidencia essas.
+relações de dependência.
+Gt
+8D!.n
+
+O dono de uma fábrica possui uma mola M, em um
+de seus equipamentos, que tem características D;, dy,
+N, e G,, com uma constante elástica C,. Essa mola
+precisa ser substituída por outra, M,, produzida com
+outro material e com características diferentes, bem
+como uma nova constante elástica C,, da seguinte
+maneira: 1) Do = à, 1) do = 304; 1) Ny = ON. Além
+disso, a constante de elasticidade G, do novo material
+éiguala 4G,
+O valor da constante C, em função da constante C, é
+
+o c-s2c,
+C,=108C,
+
+o
+O G-4c,
+o
+
+o
+9
+1
+]
+E

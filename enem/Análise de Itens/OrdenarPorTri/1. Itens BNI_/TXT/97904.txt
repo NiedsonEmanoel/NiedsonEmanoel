@@ -1,0 +1,23 @@
+O adaptador de tomada ipo T (Figura 1) é um acessório ulizado em domiifios para ligar
+vários aparelhos eletrodomésticos em uma única tomada. Conectar três aparelhos de alta
+potência em um mesmo adaptador pode superaquecê-o e, consequentemente, provocar um
+incêndio. O circuito da Figura 2A representa um aparalho de resistência elétrica R ligado ao
+adaptador de resistência elétrica r. Na Figura 28 está representado um circuito com três.
+aparelhos de resistência elétrica R ligados ao mesmo adaptador. Em ambos os circuitos, os
+pontos G e D são os terminais de uma mesma tomada elétrica. Considere todos os resistores.
+ôtmicos.
+
+Figura 2
+
+Comparando-se a Figura 28 com a Figura 2A, verifica-se que o possível superaquecimento do
+“adaptador de tomada acontece em decorrência do aumento da.
+
+O tenssoem R
+O comentcemr.
+tensão entre C e D.
+
+corrente entre C e D.
+
+0 0
+
+resistência equivalente entre C e D.

@@ -1,0 +1,20 @@
+Questão 136
+
+A gripe é uma infecção respiratória aguda de curta
+duração causada pelo virus influenza. Ao entrar no
+nosso organismo pelo nariz, esse vírus multiplica-se,
+disseminando-se para a garganta e demais partes das.
+vias respiratórias, incluindo os pulmões.
+
+O virus influenza é uma partícula esférica que tem
+um diâmetro interno de 0,00011 mm.
+
+Disponível em: ww gripenet pt. Acesso em: 2 nov. 2013 (adaptado).
+Em notação científica, o diâmetro intemo do virus
+influenza, em mm, é
+O 11101
+o 11102
+o 11103
+O 1104
+e 11108
+

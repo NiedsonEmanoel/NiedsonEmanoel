@@ -1,0 +1,41 @@
+Questão 110 DoDnenemoronenamonanenam
+Em um manual de instruções de uma geladeira,
+
+constam as seguintes recomendações:
+
+* Mantenha a porta de seu refrigerador aberta
+apenas o tempo necessário;
+
++ É importante não obstruir a circulação do ar com a
+má distribuição dos alimentos nas prateleiras;
+
++ Deixe um espaço de, no mínimo, 5 cm entre a parte
+traseira do produto (dissipador serpentinado) e a
+parede.
+
+Combasenosprincípiosdatermodinâmica, asjustificativas
+
+para essas recomendações são, respectivamente:
+
+(O Reduzira saída defrio do refrigerador para o ambiente,
+garantir a transmissão do frio entre os alimentos na
+prateleira e permitia troca de calor entre o dissipador
+de calor e o ambiente.
+
+O Reduzir a saída de frio do refrigerador para o
+ambiente, garantir a convecção do ar interno, garantir
+o isolamento térmico entre a parte interna e a extema.
+
+O Reduziro fluxo de calor do ambiente para a parte intema
+do refrigerador, garantir a convecção do ar intemo e
+permitir a troca de calor entre o dissipador e o ambiente.
+
+O Reduzir o fluxo de calor do ambiente para a parte
+interna do refrigerador, garantir a transmissão do frio
+entre os alimentos na prateleira e permitir a troca de
+calor entre o dissipador e o ambiente.
+
+O Reduzir o fluxo de calor do ambiente para a parte
+interna do refrigerador, garantir a convecção do ar
+interno e garantir o isolamento térmico entre as partes.
+interna e externa.

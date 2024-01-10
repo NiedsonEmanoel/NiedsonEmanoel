@@ -1,0 +1,16 @@
+Questão 151
+Uma empresa de transporte disponibiliza, para embalagem de encomendas, caixas de papelão no formato de
+paralelepípedo retoretângulo, conforme dimensões no quadro.
+
+Modelo da caixa Comprimento (cm) Largura (cm) | Altura (cm)
+1 12 12 13
+2 23 20 25
+3 25 25 25
+4 26 25 24
+5 23 26 26
+
+Para embalar uma encomenda, contendo um objeto esférico com 11 cm de raio, essa empresa adota como
+critério a utilização da caixa, dentre os modelos disponíveis, que comporte, quando fechada e sem deformá-la, a
+encomenda e que possua a menor área de superfície total.
+
+Desconsidere a espessura da caixa.

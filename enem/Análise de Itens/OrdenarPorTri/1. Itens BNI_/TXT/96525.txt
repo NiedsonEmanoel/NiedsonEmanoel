@@ -1,0 +1,23 @@
+Questão 42
+O que é software livre
+Software livre é qualquer programa de computador construído de forma colaborativa, via intemet, por uma
+comunidade internacional de desenvolvedores independentes. São centenas de milhares de hackers, que negam
+sua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer
+o significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e
+que gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte
+aberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade.
+Nos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu,
+“sendo quase impossível decifrar a programação.
+O que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão
+e não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma
+e uma comunidade de usuários com milhões de membros no mundo.
+BRANCO, M. Software lvre e desenvolvimento social e económico. In: CASTELLS, M.; CARDOSO, G. (Org).
+A sociedade em rede: do conhecimento à acção polca. Lisboa: imprensa Nacional, 2005 (adaptado)
+
+(9 democratiza o acesso a produtos construídos coletivamente.
+O complexífica os sistemas operacionais disponíveis no mercado.
+O qualifica um maior número de pessoas para o uso de tecnologias.
+
+O possibilita a coleta de dados confidenciais para seus desenvolvedores.
+Q insere profissionalmente os hackers na área de inovação tecnológica.
+

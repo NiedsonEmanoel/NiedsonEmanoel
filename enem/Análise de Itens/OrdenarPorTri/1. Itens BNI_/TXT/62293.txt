@@ -1,0 +1,15 @@
+Questão 130 enemanor
+É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das
+tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital.
+
+Papel umedecido Papel umedecido
+com Na,SO,(aq)
+
+CuSO,(aq)  ZnSO,(aq) CuSO (aq) Zn80,(aq)
+
+Utilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é
+
+Mt O
+
+= aa
+

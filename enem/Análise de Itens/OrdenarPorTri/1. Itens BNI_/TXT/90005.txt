@@ -1,0 +1,29 @@
+Questão 174 DO20802mDnonenemanonenam
+
+Um imposto é dito cumulativo se incide em duas ou
+mais etapas da circulação de mercadorias, sem que na
+etapa posterior possa ser abatido o montante pago na
+etapa anterior. PIS e Cofins são exemplos de impostos.
+cumulativos e correspondem a um percentual total de
+3,65%, que incide em cada etapa da comercialização
+de um produto.
+
+Considere um produto com preço inicial C. Suponha
+que ele é revendido para uma loja pelo preço inicial
+acrescido dos impostos descritos. Em seguida, o produto
+é revendido por essa loja ao consumidor pelo valor pago
+acrescido novamente dos mesmos impostos.
+
+Dion em ru coratiuaa comb Acto em: 542015 (apto
+Qual à expressão algébrica que corresponde ao valor
+pago em impostos pelo consumidor?
+
+O cx0,0365
+
+O 2Cx0,0365
+
+O cx1,0305º
+
+O cx(1+2x0,0365)
+
+O 20x0,0365+Cx0,0365?

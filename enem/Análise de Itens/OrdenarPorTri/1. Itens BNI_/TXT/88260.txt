@@ -1,0 +1,32 @@
+Questão 106
+
+Um técnico analisou um lote de analgésicos
+que supostamente estava fora das especificações.
+A composição prevista era 100 mg de ácido acetilsalcílico
+por comprimido (princípio ativo, cuja estrutura está
+apresentada na figura), além do amido e da celulose
+(componentes inertes). O técnico realizou os seguintes
+testes:
+
+1) obtenção da massa do comprimido;
+
+2) medição da densidade do comprimido;
+
+3) verificação do pH com papel indicador.
+
+4) determinação da temperatura de fusão do comprimido;
+
+5) titulação com solução aquosa de NaOH.
+
+Após a realização dos testes, o lote do medicamento
+foireprovado porque a quantidade de ácido acetilsalcílico
+por comprimido foi de apenas 40% da esperada.
+
+(o) OH
+Dá
+fo)
+
+Ácido acetilsalicílico
+O teste que permitiu reprovar o lote de analgésicos foi
+
+enemenor

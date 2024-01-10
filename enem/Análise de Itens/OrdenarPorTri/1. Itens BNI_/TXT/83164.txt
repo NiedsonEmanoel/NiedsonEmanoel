@@ -1,0 +1,22 @@
+Uma empresa avaliou os cinco aparelhos de celulares (T4, T2, Ta, Tá é Ts) mais vendidos
+no último ano, nos itens: câmera, custo-benefício, design, desempenho da bateria e tela,
+representados por 4, l2, la, lá € Is, respectivamente. A empresa atribuiu notas de O a 10 para
+cada item avaliado e organizou essas notas em uma matriz A, em que cada elemento ay
+significa a nota dada pela empresa ao aparelho T; no item |; A empresa considera que o
+melhor aparelho de celular é aquele que obtém a maior soma das notas obtidas nos cinco
+
+itens avaliados.
+
+6 9998
+9 6 7810
+7/1010 7/10
+8 8 1010 9
+88 8 99
+
+Com base nessas informações, o aparelho de celular que a empresa avaliou como sendo o
+melhoréo
+
+O
+O 7
+
+[oO NO)

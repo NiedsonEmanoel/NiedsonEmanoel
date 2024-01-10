@@ -1,0 +1,31 @@
+Questão 164 577
+
+Num reciplente com a forma de paralelepípedo
+reto-retângulo, colocou-se água até a altura de 8 cm e
+um objeto, que ficou flutuando na superfície da água.
+
+Para retirar o objeto de dentro do recipiente, a altura
+da coluna de água deve ser de, pelo menos, 15 cm. Para
+a coluna de água chegar até essa altura, é necessário
+colocar dentro do recipiente bolinhas de volume igual a
+6 cm? cada, que ficarão totalmente submersas.
+
+A
+17em >
+sem
+sem
+“Gem
+
+O número mínimo de bolinhas necessárias para que se
+possa retirar o objeto que flutua na água, seguindo as
+instruções dadas, é de
+
+os
+
+o 16
+
+os
+
+23.
+
+eu.

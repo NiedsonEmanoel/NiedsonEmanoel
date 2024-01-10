@@ -1,0 +1,31 @@
+Questão 157 nona;
+
+Três amigos, André, Bernardo e Carlos, moram em
+um condomínio fechado de uma cidade. O quadriculado
+representa a localização das ruas paralelas e
+perpendiculares, delimitando quadras de mesmo
+tamanho nesse condomínio, em que nos pontos 4, 8 e C
+estão localizadas as casas de André, Bernardo e Carlos,
+respectivamente.
+
+||
+
+André deseja deslocar-se da sua casa até a casa
+de Bemardo, sem passar pela casa de Carlos, seguindo
+ao longo das ruas do condomínio, fazendo sempre
+deslocamentos para a direita ( — ) ou para cima ( 1 ),
+“segundo o esquema da figura.
+
+O número de diferentes caminhos que André poderá
+utilizar para realizar o deslocamento nas condições
+propostas é
+
+os
+
+os
+
+17
+
+os.
+
+e 4

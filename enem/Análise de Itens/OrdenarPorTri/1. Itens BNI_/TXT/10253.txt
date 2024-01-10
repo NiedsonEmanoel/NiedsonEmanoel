@@ -1,0 +1,40 @@
+Questão 140 enema >>>
+Em uma fábrica de circuitos elétricos, há diversas
+
+linhas de produção e montagem. De acordo com o
+
+controle de qualidade da fábrica, as peças produzidas
+
+devem seguir um padrão. Em um processo produtivo, nem
+
+todas as peças produzidas são totalmente aproveitáveis,
+
+ou seja, há um percentual de peças defeituosas que são
+
+descartadas. Em uma linha de produção dessa fábrica,
+
+trabalham três máquinas, M, M, e M,, dia e noite.
+
+A máquina M, produz 25% das peças, a máquina M,
+
+produz 30% e a máquina M, produz 45%. O percentual de
+
+peças defeituosas da máquina M, é de 2%, da máquina
+
+M, é de 3% e da máquina M, é igual a 4%.
+
+Aprobabilidade de uma peça defeituosa ter sido produzida.
+
+pela máquina M, é mais próxima de
+
+15,5%
+
+281%
+
+43,7%
+
+58,2%
+
+71,8%
+
+0000

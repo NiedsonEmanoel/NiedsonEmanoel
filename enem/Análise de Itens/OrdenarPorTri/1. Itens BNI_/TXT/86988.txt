@@ -1,0 +1,28 @@
+QUESTÃO 137
+
+Um artesão possui potes cilndricos de tinta cujas
+medidas extemas são 4 cm de diâmetro e 6 cm de
+altura. Ele pretende adquirir caixas organizadoras para
+armazenar seus potes de tinta, empilhados verticalmente
+“com tampas voltadas para cima, de forma que as caixas
+possam ser fechadas.
+
+No mercado, existem cinco opções de caixas
+organizadoras, com tampa, em formato de paralelepípedo
+reto retângulo, vendidas pelo mesmo preço, possuindo as
+seguintes dimensões internas:
+
+a
+1 8 8 40
+1 8 20 14
+am 18 5 35
+Iv 20 12 12
+v 24 8 14
+
+Qual desses modelos o artesão deve adquirir para
+“conseguir armazenar o maior número de potes por caixa?
+91
+on
+eum
+oi
+ev

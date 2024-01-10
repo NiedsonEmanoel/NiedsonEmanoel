@@ -1,0 +1,20 @@
+Questão 94  enema================——
+
+Para demonstrar os processos físicos de separação
+de componentes em misturas complexas, um professor
+de química apresentou para seus alunos uma mistura de
+limalha de ferro, areia, cloreto de sódio, bolinhas de isopor
+e grãos de feijão. Os componentes foram separados em
+etapas, na seguinte ordem:
+
+1
+
+2 | Limalha de ferro Imantação
+
+3 | Bolinhas de isopor Flotação
+
+4 Areia Filtração
+
+5 | Cloreto de sódio Evaporação
+
+qual etapa foi necessário adicionar água para dar

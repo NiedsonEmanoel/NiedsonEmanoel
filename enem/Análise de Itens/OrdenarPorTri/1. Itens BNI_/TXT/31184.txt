@@ -1,0 +1,29 @@
+Questão 162
+
+Os alunos de uma turma escolar foram divididos em
+dois grupos. Um grupo jogaria basquete, enquanto o
+outro jogaria futebol. Sabe-se que o grupo de basquete
+é formado pelos alunos mais altos da classe e tem
+uma pessoa a mais do que o grupo de futebol. A tabela
+seguinte apresenta informações sobre as alturas dos
+alunos da turma.
+
+Média | Mediana | Moda
+1,65 167 1.70
+
+Os alunos P, J, F e M medem, respectivamente,
+1.65m, 1,66 m, 1,67 me 1,68 m, e as suas alturas não
+“são iguais a de nenhum outro colega da sala.
+
+Segundo essas informações, argumenta-se que os
+alunos P, J, F e M jogaram, respectivamente,
+
+O basquete, basquete, basquete, basquete.
+
+O futebol, basquete, basquete, basquete.
+
+O futebol, futebol, basquete, basquete.
+
+O futebol, futebol, futebol, basquete.
+
+O futebol, futebol, futebol, futebol.

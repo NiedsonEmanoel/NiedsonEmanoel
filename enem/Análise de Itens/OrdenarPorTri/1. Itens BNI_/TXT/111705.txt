@@ -1,0 +1,45 @@
+Questão 97
+
+A agricultura de precisão reúne técnicas agrícolas
+que consideram particularidades locais do solo ou lavoura
+a fim de otimizar o uso de recursos. Uma das formas
+de adquirir informações sobre essas particularidades
+é a fotografia aérea de baixa altitude realizada por um
+veículo aéreo não tripulado (vant). Na fase de aquisição
+é importante determinar o nível de sobreposição entre
+as fotografias. A figura ilustra como uma sequência de
+imagens é coletada por um vant e como são formadas
+as sobreposições frontais.
+
+Vant com câmera fotográfica
+
+O operador do vant recebe uma encomenda na
+
+qual as imagens devem ter uma sobreposição frontal de
+
+20% em um terreno plano. Para realizar a aquisição das.
+
+imagens, seleciona uma altitude H fixa de voo de 1.000 m,
+
+a uma velocidade constante de 50 m s”1. A abertura da
+
+câmera fotográfica do vant é de 90”. Considere tg(45º) = 1
+
+Natural Resources Canada. Concepts of Aarial Photography.
+
+Disponhvel em: wu can geca. Acesso em 26 abr 2019 (adaptado)
+
+Com que intervalo de tempo o operador deve adquiir
+
+gens consecutivas?
+
+o 40 segundos.
+
+O 32 segundos.
+
+O 28 segundos.
+
+O 16 segundos.
+
+O E segundos.
+

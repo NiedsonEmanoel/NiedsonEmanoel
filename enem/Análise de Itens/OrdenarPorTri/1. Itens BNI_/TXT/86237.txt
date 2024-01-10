@@ -1,0 +1,20 @@
+Questão 99 enamoronanesmononenem
+
+Alguns cinemas apresentam uma tecnologia em que
+as imagens dos filmes parecem tridimensionais, baseada
+na utilização de óculos 3D. Após atravessar cada lente
+dos óculos, as ondas luminosas, que compõem as
+imagens do filme, emergem vibrando apenas na direção
+vertical ou apenas na direção horizontal
+
+Com base nessas informações, o funcionamento dos
+óculos 3D ocorre por meio do fenômeno ondulatório de
+O difração.
+
+O dispersão.
+
+O reflexão.
+
+O refração.
+
+O polarização.

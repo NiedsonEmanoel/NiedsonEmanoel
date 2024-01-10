@@ -1,0 +1,21 @@
+Questão 159
+
+Um mestre de obras deseja fazer uma laje com
+espessura de 5 cm utilizando concreto usinado,
+conforme as dimensões do projeto dadas na figura.
+O concreto para fazer a laje será fomecido por uma
+usina que utiliza caminhões com capacidades máximas
+de 2 mê, 5 mê e 10 mº de concreto.
+
+8m
+
+iám
+Qual a menor quantidade de caminhões, utilizando suas
+capacidades máximas, que o mestre de obras deverá
+pedir à usina de concreto para fazer a laje?
+
+O Dez caminhões com capacidade máxima de 10 mê.
+O Cinco ihões com capacidade máxima de 10 mº.
+Um caminhão com capacidade máxima de 5 mê.
+O Dez caminhões com capacidade máxima de 2 mê.
+6 Um caminhão com capacidade máxima de 2 mê.

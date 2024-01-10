@@ -1,0 +1,35 @@
+QUESTÃO 147
+
+Uma indústria de sucos utiliza uma embalagem no
+formato de prisma reto de base quadrada, com aresta da
+base de medida a e altura de medida h, ambas de mesma
+unidade de medida, como representado na figura.
+
+suco
+
+>
+
+E
+
+Deseja-se criar uma linha de produção para
+uma nova embalagem de igual formato, mas que
+deverá ter uma capacidade igual ao triplo da atual.
+
+A altura da nova embalagem será igual a E da altura
+
+da embalagem atual. As arestas da base da nova
+embalagem serão denominadas de x.
+
+Qual a relação de dependência entre a medida x da
+nova aresta da base e a medida a da aresta atual?
+
+O x-a
+O x-=3
+x=9a
+
+3a
+2
+
+v 0 o
+x
+"

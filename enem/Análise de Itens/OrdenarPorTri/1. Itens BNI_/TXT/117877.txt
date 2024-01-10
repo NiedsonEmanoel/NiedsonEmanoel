@@ -1,0 +1,20 @@
+QUESTÃO 150
+
+Um borrifador de atuação automática libera, a cada
+acionamento, uma mesma quantidade de inseticida.
+O recipiente desse produto, quando cheio, contém 360 mL.
+de inseticida, que duram 60 dias se o borifador permanecer
+ligado ininteruptamente e for acionado a cada 48 minutos.
+A quantidade de inseticida que é liberada a cada
+acionamento do borrifador, em míllitro, é
+
+O 0,12.
+
+O 0,200.
+
+O 4800.
+
+O 6,000.
+
+e 12000.
+

@@ -1,0 +1,20 @@
+As pilhas recarregáveis, bastante utilizadas atualmente, são formadas por sistemas que
+atuam como uma célula galvênica, enquanto estão sendo descarregadas, e como célula
+eletrolítica, quando estão sendo recarregadas.
+
+Uma pilha é formada pelos elementos níquel e cádmio e seu carregador deve fornecer
+uma diferença de potencial mínima para promover a recarga. Quanto maior a diferença de
+potencial gerada pelo carregador, maior será o seu custo. Considere os valores de potencial
+padrão de redução dessas espécies:
+
+NÊ* (aq) +28" = Ni(s) E=-0230v
+
+ce (aq)+ 20
+Teoricamente, para que um carregador seja ao mesmo tempo eficiente e tenha o menor preço,
+a diferença de potencial mínima, em volt que ele deve superar é de
+
+O 008
+
+cá(s) E=-0,402V
+
+000

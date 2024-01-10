@@ -1,0 +1,29 @@
+Questão 176 enemaar
+
+Um fabricante produz cinco tipos de enfeites de
+Natal. Para saber o lucro líquido correspondente a cada
+tipo de enfeite, criou um quadro com os valores de custo
+(matéria-prima e mão de obra) e de venda por unidade,
+em real, além da quantidade vendida para cada tipo de
+
+enfeite.
+Tipo | Matéria- | Mão de | Valor de [Quantidade
+fprima obra (R$) |venda (R$)| vendida
+
+1 | 130 1,50 5,00 5000]
+
+n | 1,00 200 5.50 4800
+
+m | 1,10 1,40 5,00 4750
+
+v | 150 2,00 7,00 4600
+
+v | 120 2,50, 7.50 4200
+Qual tipo de enfeite de Natal gera maior lucro liquido para
+o fabricante?
+o
+oi
+ei
+oiv
+
+ev

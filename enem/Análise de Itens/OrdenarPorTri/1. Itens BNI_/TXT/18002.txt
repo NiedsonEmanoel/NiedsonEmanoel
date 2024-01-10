@@ -1,0 +1,21 @@
+Questão 158
+
+O Índice de Desenvolvimento Humano (IDH) é uma
+medida usada para classificar os países pelo seu grau
+de desenvolvimento. Para seu cálculo, são levados em
+consideração a expectativa de vida ao nascer, tempo de
+escolaridade e renda per capita, entre outros. O menor
+valor deste Índice é zero e o maior é um. Cinco países
+foram avaliados e obtiveram os seguintes índices de
+desenvolvimento humano: o primeiro país recebeu um
+valor X, o segundo VX, o terceiro Xº, o quarto X2 eo
+último X?. Nenhum desses países zerou ou atingiu o
+Índice máximo.
+
+Qual desses países obteve o maior IDH?
+
+O O primeiro.
+O O segundo.
+O Oterceiro.
+O Oquaro.
+O Oquinto.

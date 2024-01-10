@@ -1,0 +1,16 @@
+No Autódromo de Interlagos, um carro de Fórmula 1 realiza a curva S do Senna numa
+trajetória curviínea. Enquanto percorre esse trecho, o velocímetro do carro indica velocidade
+constante.
+
+Quais são a direção e o sentido da aceleração do carro?
+(8) Radial, apontada para fora da curva.
+
+Radial, apontada para dentro da curva.
+
+Aceleração nula, portanto, sem direção nem sentido.
+
+Tangencial, apontada no sentido da velocidade do caro.
+
+2000
+
+Tangencial, apontada no sentido contrário à velocidade do carro.

@@ -1,0 +1,29 @@
+Questão 121
+
+A figura mostra, de forma esquemática, uma
+representação comum em diversos livros e textos sobre
+eclipses. Apenas analisando essa figura, um estudante
+pode concluir que os eclipses podem ocorrer duas
+vezes a cada volta completa da Lua em tomo da Terra.
+Apesar de a figura levar a essa percepção, algumas
+informações adicionais são necessárias para se concluir
+que nem o eclipse solar, nem o lunar ocorrem com tal
+periodicidade.
+
+LUA
+
+A periodicidade dos eclipses ser diferente da possível
+percepção do estudante ocorre em razão de
+
+eclipses notumos serem imperceptíveis da Terra.
+planos das órbitas da Terra e da Lua serem
+diferentes.
+
+distância entre a Terra e a Lua variar ao longo da
+órbita.
+
+eciipses serem visíveis apenas em parte da
+superfície da Terra.
+
+o Sol ser uma fonte de luz extensa comparado ao
+tamanho da Lua.

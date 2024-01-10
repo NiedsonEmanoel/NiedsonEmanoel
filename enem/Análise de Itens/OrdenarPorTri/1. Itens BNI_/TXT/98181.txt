@@ -1,0 +1,21 @@
+Questão 132 tenemaczs
+
+Em certas anemias hemolíticas, estão presentes no sangue circulante algumas hemácias esféricas (esferócitos),
+que se rompem mais facilmente que as hemácias normais em soluções hipotônicas. Essa fragilidade é proporcional
+“ao número de esferócitos presentes. Em um laboratório, foi realizada a determinação da fragilidade osmática de cinco
+amostras distintas. Os resultados obtidos estão representados na tabela, em percentual de hemólise.
+
+ota 1,00 | 0,85 | 0,75 | 0,65 | 0,60 | 0,55 | 0,50 | 0,45 | 0,40 | 0,35 | 0,30 | 0,20 | 0,10 | 0,00
+
+NaCl (%)
+
+Amostra 1 olololololololol|s0|90]97|100]100 | 100
+Amostra 2 o |0|0]8 |38|77 | 88 |100 | 100 | 100 | 100 | 100 | 100 | 100
+Amostra 3 0 | 4 | 42] 88 | 96 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100
+Amostra 4 ololo|0/0|5]39]66|7,9 | 98 |100 | 100 | 100 | 100
+Amostra 5 o|0|0]0]3|38]55]77 | 9 |100|100 | 100 | 100 | 100
+
+Qual amostra apresenta o maior número de esferócitos?
+
+voos
+aswna

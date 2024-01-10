@@ -1,0 +1,56 @@
+Questão 170
+
+Uma construtora pretende conectar um reservatório
+central (R,) em formato de um cilindro, com raio intemo
+igual a 2 m e altura interna igual a 3,30 m, a quatro
+reservatórios cilíndricos auxiliares (R,. Ro, R$ e Rg).
+os quais possuem raios intemos e alturas intemas
+
+medindo 1,5 m.
+53
+bá
+
+E E)
+
+[Ed
+E
+
+As ligações entre o reservatório central e os
+
+auxiliares são feitas por canos cilíndricos com 0,10 m
+
+de diâmetro intemo e 20 m de comprimento, conectados
+
+próximos às bases de cada reservatório. Na conexão
+
+de cada um desses canos com o reservatório central há
+
+registros que liberam ou interrompem o fluxo de água
+No momento em que o reservatório central está
+
+cheio e os auxiliares estão vazios, abrem-se os quatro
+
+registros e, após algum tempo, as alturas das colunas
+
+de água nos reservatórios se igualam, assim que cessa
+
+o fluxo de água entre eles, pelo princípio dos vasos
+
+comunicantes.
+
+A medida, em metro, das alturas das colunas de água
+
+nos reservatórios auxiliares, após cessar o fluxo de
+
+água entre eles, é
+
+[RR
+
+O 1,16.
+
+81,10.
+
+O 1,00.
+
+e 09.
+

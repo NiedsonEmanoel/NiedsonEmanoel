@@ -1,0 +1,35 @@
+QUESTÃO 93
+
+Um projetista deseja construir um brinquedo que
+lance um pequeno cubo ao longo de um trilho horizontal,
+e o dispositivo precisa oferecer a opção de mudar a
+velocidade de lançamento. Para isso, ele utiliza uma mola
+e um trilho onde o atrito pode ser desprezado, conforme
+afigura.
+
+Cubo
+
+Mola Trilho horizontal
+
+Para que a velocidade de lançamento do cubo seja
+
+aumentada quatro vezes, o projetista deve
+
+(O manter a mesma mola e aumentar duas vezes a sua
+deformação.
+
+O manter a mesma mola e aumentar quatro vezes a sua
+deformação.
+
+& manter a mesma mola e aumentar dezesseis vezes a
+sua deformação.
+
+O trocar a mola por outra de constante elásti
+vezes maior e manter a deformação.
+
+& trocar a mola por outra de constante elástica quatro
+
+vezes maior e manter a deformação.
+
+duas
+

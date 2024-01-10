@@ -1,0 +1,32 @@
+Questão 131
+
+O vinagre é um produto alimentício resultante da
+fermentação do vinho que, de acordo com a legislação
+nacional, deve apresentar um teor mínimo de ácido
+acético (CH4COOH) de 4% (viv). Uma empresa está
+desenvolvendo um kit para que a inspeção sanitária
+seja capaz de determinar se alíquotas de 1 ml de
+“amostras de vinagre estão de acordo com a legislação.
+
+Esse kit 6 composto por uma ampola que contém uma
+solução aquosa de Ca(OH), 0,1 mo e um indicador
+que faz com que a solução fique cor-de-rosa, se estiver
+básica, e incolor, se estiver neutra ou ácida. Considere
+a densidade do ácido acético iguala 1,10 9, a massa
+molar do ácido acético igual a 60 787 e a massa molar
+do hidróxido de cálcio igual a 74 97
+
+Qual é o valor mais próximo para o volume de solução
+de Ca(OH), em mL, que deve estar contido em
+cada ampola do kit para garantir a determinação da
+regularidade da amostra testada?
+
+037
+
+066
+
+e73
+
+os
+
+es

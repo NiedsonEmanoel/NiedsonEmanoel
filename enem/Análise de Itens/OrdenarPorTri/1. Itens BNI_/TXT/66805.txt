@@ -1,0 +1,40 @@
+QUESTÃO 160
+
+De acordo coma Lei Universalda Gravitação, proposta
+por Isaac Newton, a intensidade da força gravitacional
+que a Terra exerce sobre um satélite em órbita circular
+é proporcional à massa m do satélite e inversamente
+proporcional ao quadrado do raio rda órbita, ou seja,
+
+km
+
+TE
+
+F
+
+No plano cartesiano, três satélites, A, B e C, estão
+representados, cada um, por um ponto (m ; 1) cujas
+“coordenadas são, respectivamente, a massa do satélite
+eo raio da sua órbita em tomo da Terra.
+
+Raio (1)
+
+o Massa (m)
+
+Com base nas posições relativas dos pontos no
+gráfico, deseja-se comparar as intensidades E, F, e F.
+daforça gravitacional que a Terra exerce sobre os satélites.
+A, Be C, respectivamente.
+
+As intensidades F, F, e F, expressas no gráfico
+satisfazem a relação
+
+O F-R<E,
+
+O E-A<E
+
+O E<A<E
+
+O E<F<E,
+
+O E<A<E,

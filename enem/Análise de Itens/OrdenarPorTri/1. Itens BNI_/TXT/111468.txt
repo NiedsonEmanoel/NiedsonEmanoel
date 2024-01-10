@@ -1,0 +1,13 @@
+QUESTÃO 162
+
+Em um aeroporto, os passageiros devem submeter
+suas bagagens à uma das cinco máquinas de raio-X
+disponíveis ao adentrarem a sala de embarque. Num
+dado instante, o tempo gasto por essas máquinas para
+escanear a bagagem de cada passageiro e o número de
+pessoas presentes em cada fla estão apresentados em
+um painel, como mostrado na figura.
+
+Um passageiro, ao chegar à sala de embarque desse
+aeroporto no instante indicado, visando esperar o menor
+tempo possível, deverá se dirigir à máquina

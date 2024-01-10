@@ -1,0 +1,35 @@
+Questão 150 enemecar
+O sistema de numeração romano ainda é utilizado na
+indicação de capítulos e volumes de livros, na designação
+de séculos e, em ordem cronológica, de papas e reis de
+mesmo nome. São utilizadas sete letras do alfabeto:
+Quatro fundamentais: | (vale 1); X (vale 10); C (vale 100) e
+M (vale 1000).
+Três secundárias: V (vale 5); L (vale 50) e D (vale 500).
+As regras para escrever números romanos são:
+
+1. Não existe símbolo correspondente ao zero;
+
+2. Os simbolos fundamentais podem ser repetidos até três
+
+vezes e seus valores são adicionados. Exemplo: XXX
+
+3. Uma letra posta à esquerda de outra de maior valor indica
+
+subtração dos respectivos valores. Exemplo: IX = 10-1=9;
+
+4. Uma letra posta à direita de outra de maior valor indica
+
+adição dos respectivos valores. Exemplo: Xi = 10+1 = 11
+Em uma cidade europeia há uma placa indicando o
+
+“ano de sua fundação: MCDLXIX.
+
+Quantos anos de fundação essa cidade comemorará em
+2050?
+
+379
+
+0000
+q
+3

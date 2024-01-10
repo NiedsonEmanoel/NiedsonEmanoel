@@ -1,0 +1,41 @@
+QUESTÃO 113
+
+O princípio básico de produção de imagens em
+equipamentos de ultrassonografia é a produção de ecos.
+O princípio pulso-eco refere-se à emissão de um pulso
+curto de ultrassom que atravessa os tecidos do corpo.
+No processo de interação entre o som e órgãos ou
+tecidos, uma das grandezas relevantes é a impedância
+acústica, relacionada à resistência do meio à passagem
+do som, definida pelo produto da densidade (p) do
+material pela velocidade (v) do som nesse meio. Quanto
+maior a diferença de impedância acústica entre duas
+estruturas, maior será a intensidade de reflexão do pulso
+e mais facilmente será possível diferenciá-las. A tabela
+mostra os diferentes valores de densidade e velocidade
+para alguns órgãos ou tecidos.
+
+Cérebro 1020 1530
+Músculo 1040 1580
+Gordura 920 1450
+
+Osso 1900 4040
+
+CAVALCANTE N.A: PEÇANHA, R: LEITE, VE Ponciis básicos de impera
+
+resônias ade eminção de vedada do som o ar aivês do eco.
+Eliana Escola 1.1. 012 (acao)
+
+Em uma imagem de ultrassom, as estruturas mais
+
+facilmente diferenciáveis são
+
+O ossoegordura.
+
+O cérebro e osso.
+
+O gordura e cérebro.
+
+O músculo e cérebro.
+
+O gordura e músculo.

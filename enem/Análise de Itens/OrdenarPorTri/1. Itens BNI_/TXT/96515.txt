@@ -1,0 +1,40 @@
+Questão 161 DNenamononensmononenem
+Os pesquisadores de uma empresa especializada
+em grãos selecionaram cinco diferentes tipos de semente
+de feijão e concluíram que, quando armazenadas por
+até seis meses, o poder germinativo de cada um desses
+tipos expressa, em porcentagem, quantas sementes
+são capazes de germinar, transcorrido o tempo de
+“armazenamento correspondente. Considere que o tempo
+zero corresponde ao plantio direto da semente sem
+“armazenamento, conforme descrito no quadro.
+
+Tempo de armazenamento (em mês)
+Semente r) 3 ç
+de feijão
+Poder germinativo (em porcentagem)
+Tipo 1 E E 79
+Tipo2, 85 82 79
+Tipo3 E3 E 7
+Tipo 4 82 82 so
+Tipo5 85 85 76
+
+Um agricultor irá plantar três áreas distintas
+utilizando sementes de um mesmo tipo. A primeira área
+será plantada quando da aquisição das sementes, a
+segunda, três meses após a primeira e a terceira, três
+meses após a segunda, respeitando assim o tempo de
+armazenamento utilizado pelos pesquisadores. Esse
+agricultor irá optar pela compra do tipo de semente
+que apresentar a maior média dos três percentuais de
+poder germinativo.
+Dente em pise pcucao rp entra
+Acesso em: 2204 2015 caido
+“Segundo essas informações, qual será o tipo de semente
+a ser adquirida por ele?
+
+01
+02
+es
+o“
+es

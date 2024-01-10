@@ -1,0 +1,15 @@
+QUESTÃO 159
+Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos
+diferentes de treinos: treino T., treino T, treino T,, treino T, e treino T, A sequência dos treinamentos deve seguir esta ordem:
+Dia 1 2 3º 4º 5º 68 7º 8 9º 1º 1º 12º 13º
+Treino To RR T R ROOT ROOT RÕ RÃT R
+A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a
+partir do treino T, e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.
+
+A sequência de treinamentos que o atleta realizará na 243 semana de treinos é
+OTRLRRTR
+ORLRIRRT.
+O RIRRIRT,.
+ORRIRIRR
+ORIRIRRT.
+

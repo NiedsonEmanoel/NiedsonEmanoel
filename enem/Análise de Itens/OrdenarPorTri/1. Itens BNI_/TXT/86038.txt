@@ -1,0 +1,14 @@
+QUESTÃO 103
+
+Com o avanço das multifunções dos dispositivos
+eletrônicos portáteis, como os smartphones, o
+gerenciamento da duração da bateria desses
+equipamentos torna-se cada vez mais crítico. O manual
+de um telefone celular diz que a quantidade de carga
+fomecida pela sua bateria é de 1 500 mah.
+
+A quantidade de carga fomecida por essa bateria, em
+coulomb, é de
+
+90.
+

@@ -1,0 +1,35 @@
+Questão 165 enemaz,
+
+Black Friday é uma tradição norte-americana
+que consiste numa queda de preços de uma grande
+variedade de produtos disponíveis para venda na
+última sexta-feira do mês de novembro. No Brasil, em
+muitas lojas, essa prática se estende por todo esse
+mês. Para esse período, o gerente de uma loja de
+produtos eletrônicos que tem 5 vendedores estabelece
+uma meta de vendas de computadores para um total
+mínimo de 605 unidades. Ele considera que a média de
+vendas de computadores dos 5 vendedores juntos neste
+ano se manterá igual à dos últimos 5 anos, conforme
+apresentada no gráfico. Considere que a participação
+de cada vendedor na obtenção da meta seja igual.
+
+Vendas de computadores nos últimos 5 anos.
+
+525
+
+430 1.280
+
+Quantidade de unidades
+vendidas
+
+2020 2015 2018 2017 2016
+Ano
+
+Para que a meta da loja seja atingida, o gerente deverá
+
+estipular, para cada vendedor, um aumento na média de
+
+vendas de, no mínimo, quantas unidades?
+
+o 15

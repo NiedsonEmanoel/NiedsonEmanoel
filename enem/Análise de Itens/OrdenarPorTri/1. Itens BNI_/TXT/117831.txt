@@ -1,0 +1,24 @@
+Questão 141 enemaror
+Arelação de Newton-Laplace estabelece que o módulo
+
+volumétrico de um fluido é diretamente proporcional ao
+
+quadrado da velocidade do som (em metro por segundo) no
+
+fluido e à sua densidade (em quilograma por metro cúbico),
+
+“com uma constante de proporcionalidade adimensional.
+
+Nessa relação, a unidade de medida adequada para o
+
+módulo volumétrico é
+
+O kgmis*
+
+O kgmts:
+
+O kgmss:
+
+O igimis
+
+O kgimis?

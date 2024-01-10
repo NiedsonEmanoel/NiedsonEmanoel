@@ -1,0 +1,23 @@
+Questão 166
+Deseja-se comprar determinado produto e, após
+uma pesquisa de preços, o produto foi encontrado em
+5 lojas diferentes, a preços variados.
++ Loja 1: 20% de desconto, que equivale a R$720,00,
+mais R$ 70,00 de frete;
++ Loja 2: 20% de desconto, que equivale a R$ 740,00,
+mais R$ 50,00 de frete;
++ Loja 3: 20% de desconto, que equivale a R$ 760,00,
+mais R$ 80,00 de frete;
++ Loja 4: 15% de desconto, que equivale a R$710,00,
+mais R$ 10,00 de frete;
++ Loja 5: 15% de desconto, que equivale a R$ 690,00,
+sem custo de frete.
+O produto foi comprado na loja que apresentou o
+menor preço total,
+O produto foi adquirido na loja
+01
+o2
+93
+oa
+es.
+

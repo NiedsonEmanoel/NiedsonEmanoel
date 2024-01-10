@@ -1,0 +1,42 @@
+Questão 176 —————————————= enemucar
+
+Um casal está planejando comprar um apartamento
+de dois quartos num bairro de uma cidade e consultou
+a página de uma corretora de imóveis, encontrando
+105 apartamentos de dois quartos à venda no bairro
+desejado. Eles usaram um aplicativo da corretora para
+gerar a distribuição dos preços do conjunto de imóveis
+selecionados.
+
+O gráfico ilustra a distribuição de frequências dos
+preços de venda dos apartamentos dessa lista (em
+mil reais), no qual as faixas de preço são dadas por
+1800, 400), ]400, 500], 1500, 600], 1600, 700], 1700, 800],
+1800, 900], 1900, 1 000), ]1 000, 1 100], 1 100, 1 200] e
+Má 200, 1 300].
+
+A mesma corretora anuncia que cerca de 50% dos
+apartamentos de dois quartos nesse bairro, publicados
+emsua página, têm preço de venda inferior a 550 mil reais.
+No entanto, o casal achou que essa última informação
+não era compatível com o gráfico obtido.
+
+Distribuição dos preços.
+
+300 400 500 600 700 800 900 1000 1100 1200 1300
+
+Preço (em mil reais)
+Com base no gráfico obtido, o menor preço, p (em mil reais),
+para o qual pelo menos 50% dos apartamentos apresenta
+preço inferior a pé
+
+O 600.
+
+O 700.
+
+e 800.
+
+O 900.
+
+e 1000.
+

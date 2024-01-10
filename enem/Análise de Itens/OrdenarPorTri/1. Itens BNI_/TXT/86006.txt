@@ -1,0 +1,24 @@
+Uma casa lotérica oferece cinco opções de jogos. Em cada opção, o apostador escolhe
+um grupo de K números distintos em um cartão que contém um total de N números
+disponíveis, gerando, dessa forma, um total de C combinações possíveis para se fazer a
+marcação do cartão. Ganha o prêmio o cartão que apresentar os K números sorteados. Os
+valores desses jogos variam de R$ 1,00 a R$ 2,00, conforme descrito no quadro.
+
+Valordo | Númerosa serem | Números Combinações
+Jogo | jogo (R$) | escolhidos (K) | | disponíveis (N) | possíveis (C)
+' 150 6 as 8145060
+) 100 6 so 15890700
+m 200 5 E) 5461512
+y 100 6 E) 50 063 860
+v 200 5 so 2n18760
+
+Um apostador dispõe de R$ 2,00 para gastar em uma das cinco opções de jogos
+
+disponíveis.
+
+Segundo o valor disponível para ser gasto, o jogo que oferece ao apostador maior
+probabilidade de ganhar prêmio é o
+
+o:
+
+00060

@@ -1,0 +1,27 @@
+Questão 156
+
+Um segmento de reta está dividido em duas partes
+na proporção áurea quando o todo está para uma das
+partes na mesma razão em que essa parte está para a
+outra. Essa constante de proporcionalidade é comumente
+representada pela letra grega q, e seu valor é dado pela
+solução positiva da equação q = q + 1.
+
+Assim como a potência qº, as potências superiores
+de q podem ser expressas da forma aq + b, emque aeb
+“são inteiros positivos, como apresentado no quadro.
+
+eTeteTteTtoTo
+9+1 [2051 [3052 [50+5 [60x5]
+
+A potência q”, escrita na forma aq + b (a e b são inteiros
+positivos), é
+
+O sp+3
+o 79+2
+
+enemenor
+
+O 99+6
+O no+7
+e 139+8

@@ -1,0 +1,29 @@
+QUESTÃO 169
+
+Um projétil é lançado por um canhão e atinge o solo
+a uma distância de 150 metros do ponto de partida. Ele
+percorre uma trajetória parabólica, e a altura máxima que
+atinge em relação ao solo é de 25 metros.
+
+25m
+
+“—%
+
+Admita um sistema de coordenadas xy em que
+no eixo vertical y está representada a altura e no eixo
+horizontal x está representada a distância, ambas em
+metro. Considere que o canhão está no ponto (150; 0)
+e que o projétil atinge o solo no ponto (0; 0) do plano xy.
+Aequação da parábola que representa a trajetória descrita
+pelo projétil é
+
+Oy-15k-»x
+
+O y=3750x-25€
+
+O 75y=300x- 2%
+
+O 125y=45x- 32
+
+e 225y-150x-x
+

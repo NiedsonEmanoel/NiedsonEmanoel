@@ -1,0 +1,18 @@
+Questão 180
+O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (1).
+Preço do produto (R) | — Imposto devido (1)
+R<5000 isento
+5000 <R< 10 000 10% de (R— 5 000)
+10000<R<15000 | 500 + 30% de (R— 10000)
+
+O gráfico que melhor representa essa relação é
+
+o o
+
+O] 5000 10000 15000 0] 5000 10000 15000
+o o
+
+O] 5000 10000 15000 o| 5000 10000 15000
+e
+
+O] 5000 10000 15000

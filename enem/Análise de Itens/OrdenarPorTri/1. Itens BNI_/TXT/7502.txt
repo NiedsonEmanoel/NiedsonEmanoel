@@ -1,0 +1,34 @@
+QUESTÃO 94
+
+Baterias de lítio, utilizadas em dispositivos eletrônicos
+portáteis, são constituídas de células individuais com
+ddp de 3,6 V. É comum os fabricantes de computadores
+utilizarem as células individuais para a obtenção de
+baterias de 10,8 V ou 14,4 V. No entanto, fazem a
+propaganda de seus produtos fornecendo a informação
+do número de células da bateria e sua capacidade de
+carga em mah, por exemplo, 4 400 mah.
+
+Disponivel em: meulspcpitenyne Aogsso em: 15 mou 201 (adaptado
+
+Dentre as baterias de 10,8 V e 14,4 V, constituídas por
+
+12 células individuais, qual possui maior capacidade
+de carga?
+
+O A bateria de 10,8 V, porque possui combinações em
+paralelo de 4 conjuntos com 3 células em série
+
+A bateria de 14,4 V, porque possui combinações em
+paralelo de 3 conjuntos com 4 células em série
+
+A bateria de 14,4 V, porque possui combinações em
+série de 3 conjuntos com 4 células em paralelo.
+
+A bateria de 10,8 V, porque possui combinações em
+série de 4 conjuntos com 3 células em paralelo.
+
+A bateria de 10,8 V, porque possui combinações em
+série de 3 conjuntos com 4 células em série.
+
+vo oo

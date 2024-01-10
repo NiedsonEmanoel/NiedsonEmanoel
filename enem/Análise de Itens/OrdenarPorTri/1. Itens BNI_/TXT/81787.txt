@@ -1,0 +1,31 @@
+Questão 140
+
+Para decorar sua casa, uma pessoa comprou um
+vaso de vidro em forma de um paralelepípedo retangular,
+cujas medidas internas são: 40 cm de comprimento,
+35 cm de largura e 60 cm de altura. Em seguida, foi
+até uma floricultura e escolheu uma planta aquática
+para colocar nesse vaso. Segundo uma proposta do
+gerente do local, essa pessoa avaliou a possibilidade
+de enfeitar o vaso colocando uma certa quantidade de
+pedrinhas artificiais brancas, de volume igual a 100 cm?
+cada uma delas, que ficarão totalmente imersas na água
+que será colocada no vaso. O gerente alertou que seria
+adequado, em função da planta escolhida, que metade
+do volume do vaso fosse preenchido com água e que,
+após as pedrinhas colocadas, a altura da água deveria
+ficar a 10 cm do topo do vaso, dando um razoável
+espaço para o crescimento da planta. A pessoa aceitou
+as sugestões apresentadas, adquirindo, além da planta,
+uma quantidade mínima de pedrinhas, satisfazendo as
+dicações do gerente.
+
+Nas condições apresentadas, a quantidade de pedrinhas
+compradas foi
+
+O 140.
+O 280.
+O 350.
+O 427.
+e 700.
+

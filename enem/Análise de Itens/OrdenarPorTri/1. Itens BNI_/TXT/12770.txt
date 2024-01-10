@@ -1,0 +1,18 @@
+QUESTÃO 175
+
+O gerente de uma empresa sabe que 70% de seus
+funcionários são do sexo masculino e foi informado de
+que a porcentagem de empregados fumantes nessa
+empresa é de 5% dos homens e de 5% das mulheres.
+Selecionando, ao acaso, a ficha de cadastro de um dos
+funcionários, verificou tratar-se de um fumante.
+
+Qual a probabilidade de esse funcionário ser do sexo
+feminino?
+50,0%
+30,0%
+16,7%
+5,0%
+1,5%
+
+vovo

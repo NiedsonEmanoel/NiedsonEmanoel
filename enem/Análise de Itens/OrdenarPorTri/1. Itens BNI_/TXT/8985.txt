@@ -1,0 +1,18 @@
+Questão 149 enem
+
+Considere que o modelo matemático utilizado no
+estudo da velocidade V, de uma partícula de um fluido
+escoando em um tubo, seja diretamente proporcional à
+diferença dos quadrados do raio R da secção transversal
+do tubo e da distância x da partícula ao centro da secção
+que a contém. Isto é, V(x) = Kº(R? — x), em que K é uma
+constante positiva.
+
+O valor de x, em função de R, para que a velocidade de
+escoamento de uma partícula seja máxima é de
+
+oo
+or
+o2r
+or
+e Ke.

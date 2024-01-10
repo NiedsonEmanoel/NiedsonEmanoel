@@ -1,0 +1,27 @@
+QUESTÃO 124
+
+Ao dimensionar circuitos elétricos residenciais, é recomendado utilizar adequadamente bitolas dos fios condutores
+e disjuntores, de acordo com a intensidade de corrente elétrica demandada. Esse procedimento é recomendado
+para evitar acidentes na rede elétrica. No quadro é especificada a associação para três circuitos distintos de uma
+residência, relacionando tensão no circuito, bitolas de fios condutores e a intensidade de corrente elétrica máxima
+suportada pelo disjuntor.
+
+Dimensionamento — Circuito residencial
+ificacã Tensão Bitola do fio Disjuntor | Equipamento a
+Ertitessio (volt) (mm?) máximo (A) ser ligado (W)
+Circuito 1 no 25 20 4 200
+Circuito 2 220 25 20 4200
+Circuito 3 220 80 35 6600
+
+Com base no dimensionamento do circuito residencial, em qual(is) do(s) circuito(s) o(s) equipamento(s) é(estão)
+ligado(s) adequadamente?
+
+O Apenas no Circuito 1
+
+O Apenas no Circuito 2.
+
+O Apenas no Circuito 3.
+
+O Apenas nos Circuitos 1e 2.
+
+O Apenas nos Circuitos 2e 3.

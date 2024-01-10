@@ -1,0 +1,35 @@
+O custo de implantação de redes de transmissão aumenta Inearmente com a distância da
+hidroelétrica, de modo que a parti de uma certa distância, o uso de energia solar fotovoltaica,
+que não depende da distância, é favorecido. Assim, em regiões isoladas da Amazônia, como é
+muto caro levar energia elétrica produzida por hidroelétricas através de redes de transmissão,
+ouso da energia solar fotovoltaica toma-se uma alternativa viável.
+
+Dessa forma, o gráfico que representa qualtaivamento os custos do uso da energia solar
+fotovoltalca (ESF) e da implantação de redes de transmissão (RT) em função da distância é
+
+o
+
+Custo
+
+Custo
+
+Custo
+
+Distância
+
+o
+Custo
+—
+|
+
+EsF
+
+Distância
+
+EsF
+
+Custo
+
+RT
+
+Distância

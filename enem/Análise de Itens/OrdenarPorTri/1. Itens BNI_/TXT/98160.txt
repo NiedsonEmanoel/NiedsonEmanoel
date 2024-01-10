@@ -1,0 +1,41 @@
+Questão 100 enemy >>>
+
+Pretende-se construir um banheiro em uma área
+extema, no qual serão instalados dois chuveiros elétricos
+que podem ser ligados simultaneamente, cada um com
+consumo de 5,5 kW. A tensão disponível na rede elétrica
+é de 220 V. Sabe-se que quanto maior for a área de
+seção reta de um cabo elétrico maior será a intensidade
+de corrente que ele conseguirá suportar, porém, maior
+será o seu custo. Portanto, deve ser selecionado o cabo
+de menor área de seção reta que seja capaz de suportar
+a corrente requerida para a instalação.
+
+No quadro são apresentados os valores nominais
+de área de seção reta de cabos elétricos comumente
+encontrados no mercado (com isolamento térmico), com
+suas correspondentes correntes máximas.
+
+Área de seção reta (mm?) | Corrente máxima (A)
+05 12
+15 23
+25 E
+80 5
+160 100
+
+E PP
+
+spo mn nen a
+O cabo que apresenta o menor custo e que suporta a
+corrente total necessária na fiação dos chuveiros é o que
+tem a área de seção reta, em mm”, igual a:
+
+05
+15
+25
+80
+
+o
+o
+o
+e 160

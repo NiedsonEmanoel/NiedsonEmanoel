@@ -1,0 +1,17 @@
+Questão 171 enema
+Um diretor esportivo organiza um campeonato no qual
+
+haverá disputa de times em tumo e retumo, isto é, cada
+
+time jogará duas vezes com todos os outros, totalizando
+
+380 partidas a serem disputadas.
+
+Aquantidade de times (x) que faz parte desse campeonato
+
+pode ser calculada pela equação
+
+O x-380-x*
+
+O x-x-380
+

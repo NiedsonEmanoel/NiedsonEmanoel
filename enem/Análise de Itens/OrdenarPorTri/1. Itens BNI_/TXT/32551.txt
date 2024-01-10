@@ -1,0 +1,21 @@
+Questão 170
+
+A conta de telefone de uma loja foi, nesse mês, de
+R$ 200,00. O valor da assinatura mensal, já incluso
+na conta, é de R$ 40,00, o qual dá direito a realizar
+uma quantidade ilimitada de ligações locais para
+telefones fixos. As ligações para celulares são tarifadas
+separadamente. Nessa loja, são feitas somente ligações.
+locais, tanto para telefones fixos quanto para celulares.
+Para reduzir os custos, o gerente planeja, para o próximo
+mês, uma conta de telefone com valor de R$ 80,00.
+Para que esse planejamento se cumpra, a redução
+percentual com gastos em ligações para celulares nessa
+loja deverá ser de
+
+O 2%
+O 40%
+O 50%
+O 60%
+e 75%
+

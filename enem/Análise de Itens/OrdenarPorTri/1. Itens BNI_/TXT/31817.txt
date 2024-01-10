@@ -1,0 +1,37 @@
+QUESTÃO 143
+Ao acessar uma página da intemet, que trata da
+
+pesquisa de assuntos de interesse juvenil, encontramos
+afigura:
+
+ohIVROS MÚSICA
+AMO R=:
+
+TEATRO CINEMA Paz AMIZADE
+
+TRABALHO RELIGIÃO,
+
+POLÍTICA FAMÍLIA LIBERDADE
+
+BALADAS"a
+
+Sabe-se que nesse tipo de comunicação visual,
+comum em páginas da intemet, o tamanho das letras
+está diretamente associado ao número de vezes que
+o assunto ou termo foi pesquisado ou lido naquela página.
+Dessa forma, quanto maior o tamanho das letras de cada
+palavra, maior será o número de vezes que esse tema
+foi pesquisado.
+
+De acordo com a figura, quais são, em ordem decrescente,
+os três assuntos que mais interessaram às pessoas que
+acessaram a página citada?
+
+O Ha, FÉ, PAZ.
+
+O MANGÁS, FÉ, LIVROS.
+
+O MÚSICA, BALADAS, AMOR.
+O AMOR, MÚSICA, BALADAS.
+O AMOR, BALADAS, MÚSICA.
+

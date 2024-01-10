@@ -1,0 +1,19 @@
+QUESTÃO 146
+
+A quantidade x de peças, em milhar, produzidas e o
+faturamento y, em milhar de real, de uma empresa estão
+representados nos gráficos, ambos em função do número t
+de horas trabalhadas por seus funcionários.
+
+O número de peças que devem ser produzidas para se
+obter um faturamento de R$ 10 000,00 é
+
+O 2000
+
+O 2500
+
+O 40000.
+
+O 50000.
+
+e 200000.

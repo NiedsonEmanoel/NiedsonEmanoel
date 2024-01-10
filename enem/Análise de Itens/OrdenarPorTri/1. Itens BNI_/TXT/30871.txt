@@ -1,0 +1,30 @@
+QUESTÃO 139
+
+Na intenção de ampliar suas fatias de mercado, as operadoras de telefonia apresentam diferentes planos e
+
+promoções. Uma operadora oferece tr
+
+diferentes planos baseados na quantidade de minutos utilizados mensalmente,
+
+apresentados no gráfico. Um casal foi à loja dessa operadora para comprar dois celulares, um para a esposa e outro
+para o marido. Ela utiliza o telefone, em média, 30 minutos por mês, enquanto ele, em média, utiliza 90 minutos por mês.
+Conta (R$)
+
+A
+
++] Tempo (min)
+
+0 10 20 30 40 50 6 YO 8 90 100
+
+Com base nas informações do gráfico, qual é o plano de menor custo mensal para cada um deles?
+O plano A para ambos.
+
+O plano B para ambos.
+
+O plano C para ambos.
+
+O plano B para a esposa e o plano C para o marido.
+
+O plano C para a esposa e o plano B para o marido.
+
+0000

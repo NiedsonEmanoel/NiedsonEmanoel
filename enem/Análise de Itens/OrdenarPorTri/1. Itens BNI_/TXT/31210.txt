@@ -1,0 +1,39 @@
+Questão 180 eneman—————>——>>>>>>——
+
+Uma indústria recortou uma placa de metal no
+formato triangular ABC, conforme Figura 1, com lados
+18,146 12cm,
+
+Posteriormente, a peça triangular ABC foi dobrada,
+de tal maneira que o vértice E ficou sobre o segmento
+AC, e o segmento DE ficou paralelo ao lado AG, conforme
+Figura 2.
+
+B
+
+Figura 1
+
+A 8
+Figura2
+
+Sabe-se que, na Figura 1, o ângulo ACB é menor que
+o ângulo CÃB e este é menor que o ângulo ABC, e que
+os cortes e dobraduras foram executados corretamente
+pelas máquinas.
+
+Nessas condições, qual é o valor da soma
+comprimentos, em centimetro, dos segmentos DE,
+E?
+
+dos
+BEe
+
+019
+20
+”
+
+23
+
+vo oo
+
+2a

@@ -1,0 +1,38 @@
+Questão 152
+
+O dono de um salão de festas precisa decorar cinco
+pilastras verticais cilíndricas idênticas, cujo raio da base
+mede 10 cm. O objetivo é revestir integralmente essas
+pilastras com faixas de menor comprimento possível, de
+modo que cada uma tenha seis faixas de cor preta e
+cinco faixas de cor branca, conforme ilustrado na figura.
+
+Vista latoral
+da pllastra
+
+Ele orçou as faixas em cinco lojas que as
+“comercializam na largura e nas cores desejadas,
+porém, em todas elas, só são vendidas peças inteiras.
+Os comprimentos e os respectivos preços das peças
+“comercializadas por loja estão apresentados no quadro.
+
+Loja | Comprimento da | Preço da peça
+peça (emmetro) | (emreal)
+1 3 11,00
+u 7 19,00
+m 10 33,00
+W 14 37,00
+v 22 61,00
+
+O dono do salão de festas decidiu efetuar a compra
+em uma única loja, optando por aquela em que a compra
+ficaria mais barata.
+
+Utilize 3 como valor aproximado para .
+A loja na qual o dono do salão de festas deve comprar
+as peças necessárias para confeccionar as faixas é
+o
+oi
+en
+om
+ev.

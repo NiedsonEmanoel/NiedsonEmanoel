@@ -1,0 +1,14 @@
+Questão 145 === enemanar
+
+Um povoado com 100 habitantes está passando por
+uma situação de seca prolongada e os responsáveis
+pela administração pública local decidem contratar a
+construção de um reservatório. Ele deverá ter a forma
+de um cilindro circular reto, cuja base tenha 5 metros
+de diâmetro intemo, e atender à demanda de água da
+população por um período de exatamente sete dias
+consecutivos. No oitavo dia, o reservatório vazio é
+completamente reabastecido por carros-pipa.
+
+Considere que o consumo médio diário por habitante
+é de 120 litros de água. Use 3 como aproximação para 7.

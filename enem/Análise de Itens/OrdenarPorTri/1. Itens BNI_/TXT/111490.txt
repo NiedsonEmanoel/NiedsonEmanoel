@@ -1,0 +1,15 @@
+Questão 156 enem
+
+Utiliza-se o termo download para designar o processo
+pelo qual um arquivo é transferido de algum sítio da
+intemet para o dispositivo do usuário (computador, tablet,
+celular). Quando a transferência é interrompida, diz-se
+que o download travou. O esboço do gráfico representa
+a evolução do download de um arquivo que demorou
+16 segundos para ser concluído.
+
+Volume de dados baixados (Mb)
+
+0) 3 6 10 1213 16 tempo(s)
+
+Por quanto tempo, em segundo, esse download ficou

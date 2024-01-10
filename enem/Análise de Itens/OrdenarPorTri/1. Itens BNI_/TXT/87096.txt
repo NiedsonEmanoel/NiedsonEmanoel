@@ -1,0 +1,13 @@
+Um modelo de telefone celular oferece a opção de desbloquear a tela usando um padrão
+de toques como senha.
+
+Os toques podem ser feitos livremente nas 4 regiões numeradas da tela, sendo que o
+usuário pode escolher entre 3, 4 ou 5 toques ao todo.
+
+Qual expressão representa o número total de códigos existentes?
+
+O sas
+O Seas
+O Suatus
+O af
+os

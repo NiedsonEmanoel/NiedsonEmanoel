@@ -1,0 +1,31 @@
+QUESTÃO 119
+
+Um multimetro pode atuar como voltimetro (leitura
+em volt) ou como amperímetro (leitura em ampére),
+dependendo da função selecionada. A forma de conectar
+o multimetro ao circuito depende da grandeza física a
+ser medida. Uma lâmpada de lanterna, de resistência
+elétrica igual a 40 O), brilha quando conectada a quatro
+pilhas em série, cada uma com 1,5 V de tensão elétrica.
+O multimetro 2 indica o valor 5,62, conforme a figura, e o
+multimetro 1 está conectado, porém desligado.
+
+Multimetro 2
+
+Multimetro 1
+
+Pilhas em série
+
+Ao se ligar o multimetro 1, a grandeza física e o seu valor
+correspondente indicados na tela são, respectivamente,
+corrente elétrica e 0,14
+
+corrente elétrica e 0,15.
+
+corrente elétrica e 0,29.
+
+tensão elétrica e 0,14
+
+tensão elétrica e 225
+
+voo

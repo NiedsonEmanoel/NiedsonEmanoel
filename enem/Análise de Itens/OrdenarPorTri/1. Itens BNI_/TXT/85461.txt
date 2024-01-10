@@ -1,0 +1,33 @@
+QUESTÃO 130
+
+Alguns modelos mais modernos de fones de ouvido
+contam com uma fonte de energia elétrica para poderem
+funcionar. Esses novos fones têm um recurso, denominado
+“Cancelador de Ruídos Ativo”, constituído de um circuito
+eletrônico que gera um sinal sonoro semelhante ao
+sinal externo de frequência fixa. No entanto, para que o
+cancelamento seja realizado, o sinal sonoro produzido
+pelo circuito precisa apresentar simultaneamente
+características específicas bem determinadas.
+
+Quais são as características do sinal gerado pelo circuito
+desse tipo de fone de ouvido?
+
+O Sinal com mesma amplitude, mesma frequência
+e diferença de fase igual a 90º em relação ao sinal
+extemo.
+
+O Sinal com mesma amplitude, mesma frequência e
+diferença de fase igual a 180º em relação ao sinal
+extemo.
+
+O Sinal com mesma amplitude, mesma frequência
+e diferença de fase igual a 45º em relação ao sinal
+extemo.
+
+O Sinal de amplitude maior, mesma frequência e
+diferença de fase igual a 90º em relação ao sinal
+extemo.
+
+O Sinal com mesma amplitude, mesma frequência e
+mesma fase do sinal externo.

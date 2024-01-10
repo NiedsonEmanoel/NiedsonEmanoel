@@ -1,0 +1,28 @@
+Questão 177
+
+Para a comunicação entre dois navios é utilizado
+um sistema de codificação com base em valores
+numéricos. Para isso, são consideradas as operações
+triângulo A e estrela +, definidas sobre o conjunto dos
+números reais por xAy = *2+xy- exe y=xy+x
+
+O navio que deseja enviar uma mensagem deve
+fornecer um valor de entrada b, que irá gerar um valor
+de saída, a ser enviado ao navio receptor, dado pela
+soma das duas maiores soluções da equação
+(aah) +(baa) = 0. Cada valor possível de entrada e saida
+representa uma mensagem diferente já conhecida
+pelos dois navios.
+
+Um navio deseja enviar 20 outro a mensagem
+“ATENÇÃOY. Para isso, deve utilizar o valor de entrada
+b=1.
+
+enemanor
+
+Dessa forma, o valor recebido pelo navio receptor será
+o
+o
+
+o
+

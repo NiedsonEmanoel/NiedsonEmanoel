@@ -1,0 +1,13 @@
+Questão 117
+
+Um foguete viaja pelo espaço sideral com os propulsores desligados. A velocidade incial V tem módulo constante
+& direção perpendicular à ação dos propulsores, conforme indicado na figura. O piloto aciona os propulsores para
+alterar a direção do movimento quando o foguete passa pelo ponto Ae os desliga quando o módulo de sua velocidade
+final é superior a J2 |V |, o que ocorre antes de passar pelo ponto B. Considere as interações desprezíveis.
+
+Propulsores
+
+:B
+
+A representação gráfica da trajetória seguida pelo foguete, antes e depois de passar pelo ponto 8, é:
+

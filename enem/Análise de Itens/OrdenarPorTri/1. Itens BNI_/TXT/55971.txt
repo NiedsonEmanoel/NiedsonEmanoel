@@ -1,0 +1,17 @@
+Questão 179 Dn2nenamononenamononenemononenemononener anemononenamononenam
+
+Para um docente estrangeiro trabalhar no Brasil, ele necessita validar o seu diploma junto ao Ministério da
+Educação. Num determinado ano, somente para estrangeiros que trabalharão em universidades dos estados de São
+Paulo é Rio de Janeiro, foram validados os diplomas de 402 docentes estrangeiros. Na tabela, está representada a
+distribuição desses docentes estrangeiros, por países de origem, para cada um dos dois estados.
+
+Argentina [ Espanha [ Cuba | Portugal | Venezuela | Total de docentes
+São Paulo n12 El 28 9 30 239
+Riode Janeiro | 29 E) 46 36 12 163
+Total 141 100 | 74 as 42 402
+
+A probabilidade de se escolher, aleatoriamente, um docente espanhol, sabendo-se que ele trabalha em uma
+universidade do estado de São Paulo é
+
+60
+O 2

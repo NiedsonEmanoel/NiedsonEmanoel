@@ -1,0 +1,25 @@
+Questão 1477 "=== enemana
+
+Uma pessoa realizou uma pesquisa com alguns
+alunos de uma escola, coletando suas idades, e organizou
+esses dados no gráfico.
+
+B
+
+Frequência de ocorrência
+> o
+
+9 18 27
+Idade (ano)
+
+Qual é a média das idades, em ano, desses alunos?
+
+os
+
+012
+
+e18
+
+019
+
+ez

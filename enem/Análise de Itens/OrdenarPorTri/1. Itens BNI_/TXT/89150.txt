@@ -1,0 +1,24 @@
+Questão 130
+
+Os olhos humanos normalmente têm três tipos de
+cones responsáveis pela percepção das cores: um tipo
+para tons vermelhos, um para tons azuis e outro para tons
+verdes. As diversas cores que enxergamos são o resultado
+da percepção das cores básicas, como indica a figura.
+
+A protanopia é um tipo de daltonismo em que há
+diminuição ou ausência de receptores da cor vermelha.
+Considere um teste com dois voluntários: uma pessoa
+com visão normal é outra com caso severo de protanopia.
+Nesse teste, eles devem escrever a cor dos cartões que
+lhes são mostrados. São utilizadas as cores indicadas
+na figura.
+
+Para qual cartão os dois voluntários identificarão a
+mesma cor?
+
+O Vermelho.
+O Magenta
+O Amarelo.
+O Branco.
+O azul

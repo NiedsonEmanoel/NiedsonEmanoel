@@ -1,0 +1,30 @@
+Questão 156
+
+Em uma fábrica de refrigerantes, é necessário
+que se faça periodicamente o controle no processo
+de engarrafamento para evitar que sejam envasadas
+garrafas fora da especificação do volume escrito no rótulo.
+
+Diariamente, durante 60 dias, foram anotadas as
+quantidades de garrafas fora dessas especificações.
+O resultado está apresentado no quadro.
+
+Quantidade de garrafas fora das | Quantidade
+especificações por dia de dias
+[] 52
+1 5
+2 2
+3 1
+
+A média diária de garrafas fora das especificações no
+período considerado é
+
+001
+
+o 02
+
+o 15.
+
+o 20.
+
+e 30

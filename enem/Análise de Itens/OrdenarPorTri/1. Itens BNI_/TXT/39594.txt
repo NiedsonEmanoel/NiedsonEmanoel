@@ -1,0 +1,34 @@
+QUESTÃO 148
+Num restaurante, a úlima sexta-feira do mês é o
+Dia da Solidariedade: as gorjetas arrecadadas nesse dia
+serão distribuídas, igualmente, entre todos os garçons
+que estiverem trabalhando nessa data. Para um maior
+controle, o administrador do restaurante organiza uma
+tabela das gorjetas arrecadadas por cada garçom;
+assim, ele pode distribuir corretamente os valores a cada
+um deles. O quadro de certo Dia da Solidariedade é
+apresentado a seguir.
+Total de gorjetas recebidas (R$)
+17,00
+24,00
+Folga
+17,00
+20,00
+Folga
+16,00
+27,00
+18,00
+21,00
+
+J-ElrepPh
+
+Quanto cada garçom recebeu do total das gorjetas nesse
+Dia da Solidariedade?
+
+R$ 16,00
+R$17,00
+R$18,00
+R$ 19,00
+R$ 20,00
+
+v0000

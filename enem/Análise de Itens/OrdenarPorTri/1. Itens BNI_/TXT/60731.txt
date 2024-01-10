@@ -1,0 +1,27 @@
+Questão 145 enem
+
+Um laboratório farmacêutico pretende implementar a entrega própria de seus produtos em uma cidade, dentre as
+cinco cidades onde hoje esse serviço é terceirizado. Obteve relatórios dos seus entregadores terceirizados destacando:
+a quantidade (em litro) de combustível gasto em cada dia de entrega, o valor do combustível na respectiva cidade da
+entrega e os gastos com a limpeza diária do veículo após as entregas realizadas.
+
+Os valores desses itens, em real, estão apresentados no quadro.
+
+Cidade São Paulo [ Curitiba [ Belo Horizonte [ Rio de Janeiro [ Brasília.
+Litros de combustível gastos pordia | 7,5 95 80 14,5 130
+Preço da limpeza do carro 2000 | 1550 16,50 18,00 15,00
+Preço por litro do combustível 2,50 2,40 224 210 3,00
+
+Adiretoria desse laboratório implementará a entrega própria na cidade que apresentar o menor gasto diário desse
+
+serviço.
+
+Em qual cidade a implementação do serviço de entrega própria será realizada?
+
+O Belo Horizonte.
+O Brasília.
+O curitiba.
+O Rio de Janeiro.
+e
+
+São Paulo.

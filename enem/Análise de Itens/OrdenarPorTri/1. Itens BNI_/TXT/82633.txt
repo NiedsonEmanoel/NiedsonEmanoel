@@ -1,0 +1,23 @@
+Questão 164
+
+No desenvolvimento de um novo remédio,
+pesquisadores monitoram a quantidade Q de uma
+substância circulando na corrente sanguínea de um
+paciente, 0 longo do tempo . Esses pesquisadores
+controlam o processo, observando que Q é uma função
+quadrática de t. Os dados coletados nas duas primeiras.
+horas foram:
+
+tlhora) ol1|2
+
+Q (miligrama) 1|4|6
+
+Para decidir se devem interromper o processo,
+evitando riscos ao paciente, os pesquisadores querem
+saber, antecipadamente, a quantidade da substância
+que estará circulando na corrente sanguínea desse
+paciente após uma hora do último dado coletado.
+
+Nas condições expostas, essa quantidade (em miigrama)
+
+será igual à

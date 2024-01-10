@@ -1,0 +1,41 @@
+QUESTÃO 148
+
+Em 2012, o PNUD Brasil, o Ipea e a Fundação João
+Pinheiro assumiram o desafio de adaptar a metodologia
+do Índice de Desenvolvimento Humano (IDH) global para
+calcular o Índice de Desenvolvimento Humano Municipal
+(IDHM) dos 5 565 municípios brasileiros com base nos
+dados do Censo Demográfico de 2010. Também se
+recalculou o IDHM, pela metodologia adotada, para os
+anos de 1990 e 2000, para permitir a comparabilidade
+temporal e espacial entre os municípios.
+
+No quadro são apresentados os dados de cinco
+cidades brasileiras.
+
+Município IDHM - 1990 |IDHM - 2000 |IDHM - 2010
+“São Caetano do Sul(SP) | 077 om 092
+Águas de São Pedro (SP) | 0.67 0.76 0.85
+Florianópolis (SC) 0.65 0.80 0.80
+Balneário Camboriú (SC) | 0,79 0.79 0.79
+Vitória (ES) 073 0.78 om
+
+Dsponhel em: haplatasbrsa org Acesso em: 26 ape 2014 (adaptado).
+
+Uma ONG decide fazer um trabalho de
+acompanhamento com a cidade que teve a menor média
+aritmética dos IDHM das três últimas décadas dentre as
+cinco cidades analisadas.
+
+Com base nos dados fomecidos, qual foi o município
+escolhido pela ONG?
+
+O Florianópolis
+
+O Águas de São Pedro.
+
+O Balneário Camboriú
+
+O São Caetano do Sul.
+
+O Vitória.

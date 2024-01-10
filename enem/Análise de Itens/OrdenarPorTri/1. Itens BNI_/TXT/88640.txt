@@ -1,0 +1,29 @@
+Pesquisadores delimtaram Unidades Evolutivas Sigrificativas (UES) de cinco espécies
+pertencentes a diferentes grupos de vertebrados, distribuídos em cito áreas distintas, como
+mostra o quadro. Cada UES representa uma população isolada histórica e geneticamente
+diferenciada e apresenta prioridade para manejo e conservação.
+
+Espécie pertencente ao grupo
+
+Área | Anfíbio Ave Lagarto | Morcego | Roedor
+1 UES5 UES2 UES1 UES1 UES3
+2 UES3 UES1 UES2 UEST UES2
+3 UES3 UES2 UES2 UES1 UES2
+4 UES4 UES3 UES3 UES2 UES3
+5 UES1 UES3 UES4 UES2 UES1
+a UES2 UES3 UES4 UES2 UEST
+7 UES5 UES2 UES1 UES1 UES2
+8 UES2 UES1 UES3 UES1 UES3
+
+MIRANDA, N. E. O; ALMEIDA JR, E. 8: COLLEVATTI R. G Piotizando áreas para a conservação com base em
+Ungades Evolvas Sigaicatvas (ESU). Genética na Escola 1.1 201 (adapiado).
+
+Considerando a área 4, a espécie que terá prioridade nas estratégias de conservação pertence
+
+aque grupo?
+O Ave
+
+O Aníio
+O Rostor
+O tags
+O Morcego

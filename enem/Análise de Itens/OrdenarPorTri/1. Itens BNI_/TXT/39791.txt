@@ -1,0 +1,18 @@
+Questão 160 enem
+
+Uma moça estacionou seu carro na interseção da
+Rua 1 com a Avenida A. Ela está hospedada em um hotel
+na Rua 3, posicionado a exatos 40 metros de distância
+da Avenida A, contados a partir da Avenida A em direção
+à Avenida B.
+
+No mapa está representado um plano cartesiano cujo
+eixo das abscissas coincide com a Avenida A e o das
+ordenadas, com a Rua 1, sendo a origem (0, 0) o local
+onde se encontra estacionado o veículo. Os quarteirões
+formados pelos cruzamentos dessas vias formam
+quadrados de lados medindo 100 m.
+
+vm)
+
+A ordenada do ponto que representa a localização do

@@ -1,0 +1,20 @@
+Questão 124
+
+Em uma aula experimental de calorimetria, uma
+professora queimou 2,5 g de castanha-de-caju crua para
+aquecer 350 g de água, em um recipiente apropriado
+para diminuir as perdas de calor. Com base na leitura da
+tabela nutricional a seguir e da medida da temperatura da
+água, após a queima total do combustível, ela concluiu
+que 50% da energia disponível foi aproveitada. O calor
+específico da água é 1 cal g!
+jal era de 20 *C.
+
+Quantidade por porção de 10 g (2 castanhas)
+Valor energético 70 kcal
+Carboidratos 089
+Proteinas, 359
+Gorduras totais 359
+
+Qual foi a temperatura da água, em grau Celsius,
+medida ao final do experimento?

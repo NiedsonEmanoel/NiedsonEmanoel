@@ -1,0 +1,15 @@
+Questão 173 enei nei jenei
+
+Um piscicultor cria uma espécie de peixe em
+um tanque cilíndrico. Devido às características
+dessa espécie, o tanque deve ter, exatamente,
+2 metros de profundidade e ser dimensionado
+de forma a comportar 5 peixes para cada metro
+cúbico de água. Atualmente, o tanque comporta um
+total de 750 peixes. O piscicultor deseja aumentar
+a capacidade do tanque para que ele comporte
+900 peixes, mas sem alterar a sua profundidade.
+Considere 3 como aproximação para
+
+O aumento da medida do raio do tanque, em metro, deve
+

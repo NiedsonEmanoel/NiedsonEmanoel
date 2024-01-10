@@ -1,0 +1,25 @@
+Questão 155 v57 caca caem!
+
+Como objetivo de contratar uma empresa responsável
+pelo serviço de atendimento ao público, os executivos
+de uma agência bancária realizaram uma pesquisa de
+satisfação envolvendo cinco empresas especializadas
+nesse segmento. Os procedimentos analisados (com
+pesos que medem sua importância para a agência) e
+as respectivas notas que cada empresa recebeu estão
+organizados no quadro.
+
+Notas da empresa
+Procedimento | Peso
+xJyrjz[w[r
+Rapidez no
+atendimento | 9 [8 |! [4]374
+sl1alala|3|2
+2 |2|2|2/3/4
+
+“Aagência bancária contratará a empresa com a maior
+média ponderada das notas obtidas nos procedimentos
+analisados.
+
+Após a análise dos resultados da pesquisa de satisfação,
+os executivos da agência bancária contrataram a empresa

@@ -1,0 +1,27 @@
+QUESTÃO 165
+
+A rosa dos ventos é uma figura que representa oito
+sentidos, que dividem o círculo em partes iguais.
+
+Uma câmera de vigilância está fixada no teto de um
+shopping e sua lente pode ser direcionada remotamente,
+através de um controlador, para qualquer sentido. A lente
+da câmera está apontada inicialmente no sentido Oeste
+e o seu controlador efetua três mudanças consecutivas,
+asaber:
++ 1 mudança: 135º no sentido anti-horári
++ 22 mudança: 60º no sentido horário;
++ 3: mudança: 45º no sentido anti-horário.
+Após a 3: mudança, ele é orientado a reposicionar
+a câmera, com a menor amplitude possível, no sentido
+Noroeste (NO) devido a um movimento suspeito de
+um cliente.
+Qual mudança de sentido o controlador deve efetuar para
+reposicionar a câmera?
+75º no sentido horário.
+105º no sentido anti-horário.
+120º no sentido anti-horário.
+135º no sentido anti-horário.
+465º no sentido horário.
+
+0000

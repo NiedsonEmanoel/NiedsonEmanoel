@@ -1,0 +1,18 @@
+Um jogo pedagógico é formado por cartas nas quais está impressa uma fração em uma
+
+de suas faces. Cada jogador recebe quatro cartas e vence aquele que primeiro consegue
+
+ordenar crescentemente suas cartas pelas respectivas frações impressas. O vencedor foi o
+3125
+
+aluno que recebeu as cartas com as frações: 5 4 369.
+
+A ordem que esse aluno apresentou foi
+
+o)
+
+5,32
+953
+
+o ooo
+

@@ -1,0 +1,38 @@
+QUESTÃO 168
+
+Emijogos de voleibol, um saque é invalidado se a bola
+atingir o teto do ginásio onde ocorre o jogo. Um jogador de
+uma equipe tem um saque que atinge uma grande altura
+Seu recorde foi quando a batida do saque se iniciou a
+uma altura de 1,5 m do piso da quadra, e a trajetória da
+
+bola foi descrita pela parábola y =
+
+que y representa a altura da bola em relação ao eixo
+x (das abscissas) que está localizado a 1,5 m do piso
+da quadra, como representado na figura. Suponha que
+em todas as partidas algum saque desse jogador atinja a
+mesma altura do seu recorde.
+
+A equipe desse jogador participou de um tomeio de
+voleibol no qual jogou cinco partidas, cada uma delas
+em um ginásio diferente. As alturas dos tetos desses
+ginásios, em relação aos pisos das quadras, são:
+
++ ginásio 1:17 m;
+
++ ginásio Il: 18 m;
+
++ ginásio II: 19 m;
+
++ ginásio IV: 21 m;
+
++ ginásio V: 40 m.
+O saque desse atleta foi invalidado
+apenas no ginásio |
+apenas nos ginásios | e
+apenas nos ginásios |, Ile ll
+apenas nos ginásios |, 1, ll e IV.
+em todos os ginásios.
+
+voos

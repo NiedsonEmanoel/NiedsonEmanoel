@@ -1,0 +1,18 @@
+Questão 136 enemar
+
+Um professor tem uma despesa mensal de 10% do seu salário com transporte e 30% com alimentação.
+No próximo mês, os valores desses gastos sofrerão aumentos de 10% e 20%, respectivamente, mas o seu salário
+não terá reajuste. Com esses aumentos, suas despesas com transporte e alimentação aumentarão em R$ 252,00.
+
+O salário mensal desse professor é de
+O R$840,00.
+
+R$ 1.680,00.
+
+R$2 100,00.
+
+R$ 3.600,00.
+
+R$ 5 200,00.
+
+voo

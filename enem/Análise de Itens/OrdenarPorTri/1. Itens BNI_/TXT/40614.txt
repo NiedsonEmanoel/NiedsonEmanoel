@@ -1,0 +1,23 @@
+Questão 139
+
+No desenho técnico, é comum representar um
+sólido por meio de três vistas (frontal, perfil e superior),
+resultado da projeção do sólido em três planos,
+perpendiculares dois a dois.
+
+Afgura representa as vistas de uma torre.
+
+LA
+
+Vista Vista  Vist
+frontal perfil superior
+Deponht em we eme Acaso em: 1 dz. 202 (pio
+Com base nas vistas fornecidas, qual figura melhor
+representa essa torre?
+
+o
+
+LA
+DN
+D
+PD

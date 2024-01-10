@@ -1,0 +1,27 @@
+QUESTÃO 141
+
+De acordo com a Organização Mundial da Saúde
+(OMS), o limite de ruído suportável para o ouvido humano
+é de 65 decibéis. Ruídos com intensidade superior a este
+valor começam a incomodar e causar danos ao ouvido.
+Em razão disto, toda vez que os ruídos oriundos do
+processo de fabricação de peças em uma fábrica
+ultrapassam este valor, é disparado um alarme sonoro,
+indicando que os funcionários devem colocar proteção
+nos ouvidos. O gráfico fornece a intensidade sonora
+registrada no último tumo de trabalho dessa fábrica. Nele,
+a variável tindica o tempo (medido em hora), e l indica a
+intensidade sonora (medida em decibel).
+
+I(decibel)
+
+Voto to t Et t Eloa)
+Disse em: emacs o gnt Ago em: 3 a 01 tapa
+
+De acordo com o gráfico, quantas vezes foi necessário
+colocar a proteção de ouvidos no último turno de trabalho?
+
+07
+
+000
+Now so

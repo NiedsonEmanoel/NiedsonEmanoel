@@ -1,0 +1,27 @@
+Questão 122
+
+O curting é um dos esportes de inverno mais antigos e tradicionais. No jogo, dois times com quatro pessoas
+têm de desiizar pedras de granito sobre uma área marcada de gelo e tentar colocá-las o mais próximo possível
+do centro. A pista de curling é feita para ser o mais nivelada possível, para não interferir no decorrer do jogo. Após
+o lançamento, membros da equipe varrem (com vassouras especiais) o gelo imediatamente à frente da pedra,
+porém sem tocá-la. Isso é fundamental para o decorrer da partida, pois influi diretamente na distância percorrida
+e na direção do movimento da pedra. Em um lançamento retlíneo, sem a interferência dos varredores,
+verifica-se que o módulo da desaceleração da pedra é superior se comparado à desaceleração da mesma pedra
+lançada com a ação dos varredores.
+
+et
+
+Foto: Amd Wigan
+Disponível em: htp:/cbdg org br. Acesso em: 29 mar. 2016 (adaptado)
+
+A menor desaceleração da pedra de granito ocorre porque a ação dos varredores diminui o módulo da
+
+O força motriz sobre a pedra.
+
+O força de atrito cinético sobre a pedra.
+
+O força peso paralela ao movimento da pedra.
+
+O força de arrasto do ar que atua sobre a pedra.
+
+O força de reação normal que a superfície exerce sobre a pedra.

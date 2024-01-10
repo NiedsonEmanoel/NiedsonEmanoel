@@ -1,0 +1,29 @@
+Questão 141
+
+Uma empresa especializou-se no aluguel de
+contêineres que são utilizados como unidades comerciais
+móveis. O modelo padrão alugado pela empresa tem
+altura de 2,4 m e as outras duas dimensões (largura e
+comprimento), 3,0 m e 7,0 m, respectivamente.
+
+24m
+
+3 . sm
+
+Um cliente solicitou um contêiner com altura padrão,
+porém, com largura 40% maior e comprimento 20%
+menor que as correspondentes medidas do modelo
+padrão. Para atender às necessidades de mercado, a
+empresa também disponibiliza um estoque de outros
+modelos de contêineres, conforme o quadro.
+
+Modelos com | Largura | Comprimento
+alturade24m | (emmetro) | (em metro)
+1 42 84
+u 42 56
+a 42 58
+v 50 56
+Vi 50 84
+
+Dos modelos disponíveis, qual atende às necessidades
+do cliente?

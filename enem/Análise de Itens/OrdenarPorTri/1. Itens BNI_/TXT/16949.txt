@@ -1,0 +1,22 @@
+QUESTÃO 142
+
+Usando a capacidade máxima de carga do caminhão
+de uma loja de materiais de construção, é possível levar
+60 sacos de cimento, ou 90 sacos de cal, ou 120 latas de
+areia. No pedido de um cliente, foi solicitada a entrega de
+15 sacos de cimento, 30 sacos de cal e a maior quantidade
+de latas de areia que fosse possivel transportar, atingindo
+a capacidade máxima de carga do caminhão.
+
+Nessas condições, qual a quantidade máxima de latas de
+areia que poderão ser enviadas ao cliente?
+
+os
+
+o
+
+es
+
+os
+
+e 9

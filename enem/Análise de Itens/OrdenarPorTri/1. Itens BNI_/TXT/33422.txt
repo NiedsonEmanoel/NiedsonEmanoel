@@ -1,0 +1,23 @@
+Questão 132 DIZDEnAMADDenamononenam
+Um agricultor deseja utilizar um motor para bombear
+água (P js = 1 kg Lº) de um rio até um reservatório
+onde existe um desnível de 30 m de altura entre o rio e o
+reservatório, como representado na figura. Ele necessita
+de uma vazão constante de 3 600 litros de água por hora.
+Considere a aceleração da gravidade igual a 10 ms.
+
+y tuto
+
+Considerando a situação apresentada e desprezando
+efeitos de perdas mecânicas e elétricas, qual deve ser a
+potência mínima do motor para realizar a operação?
+
+O 10x10:W
+
+O sox10w
+
+O 30x10:W
+
+O 36x10:W
+
+e 11x 10w

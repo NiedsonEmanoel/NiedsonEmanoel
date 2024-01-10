@@ -1,0 +1,30 @@
+Questão 167
+
+O gráfico a seguir mostra a evolução mensal das
+vendas de certo produto de julho a novembro de 2011.
+
+Unidades
+vendidas
+
+2800
+2700
+
+2500
+
+Jul Ago Set Ou Nov Mês
+
+Sabe-se que o mês de julho foi o pior momento da
+empresa em 2011 e que o número de unidades vendidas
+desse produto em dezembro de 2011 foi igual à média
+aritmética do número de unidades vendidas nos meses
+de julho a novembro do mesmo ano.
+
+O gerente de vendas disse, em uma reunião da
+diretoria, que, se essa redução no número de unidades
+vendidas de novembro para dezembro de 2011 se
+mantivesse constante nos meses subsequentes, as
+vendas só voltariam a ficar piores que julho de 2011
+apenas no final de 2012.
+
+O diretor financeiro rebateu imediatamente esse
+

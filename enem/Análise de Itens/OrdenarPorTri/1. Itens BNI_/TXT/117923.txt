@@ -1,0 +1,22 @@
+Questão 153. = enemacar
+Uma pessoa produzirá uma fantasia utilizando
+como materiais: 2 tipos de tecidos diferentes e 5 tipos
+distintos de pedras ornamentais. Essa pessoa tem à sua
+disposição 6 tecidos diferentes e 15 pedras ornamentais.
+distintas.
+A quantidade de fantasias com materiais diferentes que
+podem ser produzidas é representada pela expressão
+6115!
+
+O 208
+61,48!
+O qtos
+
+8, as
+
+ais
+618!
+
+2
+
+Tua

@@ -1,0 +1,28 @@
+QUESTÃO 98
+
+Afim de classificar as melhores rotas em um aplicativo
+de trânsito, um pesquisador propõe um modelo com
+base em circuitos elétricos. Nesse modelo, a corrente
+representa o número de carros que passam por um ponto
+da pista no intervalo de 1 s. A diferença de potencial (dd p.)
+corresponde à quantidade de energia por carro necessária
+para o deslocamento de 1 m. De forma análoga à lei de
+Ohm, cada via é classificada pela sua resistência, sendo
+a de maior resistência a mais congestionada. O aplicativo
+mostra as rotas em ordem crescente, ou seja, da rota de
+menor para a de maior resistência.
+
+Como teste para o sistema, são utilizadas três
+possíveis vias para uma viagem de A até B, com os
+valores de d.d.p. e corrente conforme a tabela.
+
+SESEs
+
+carro:m
+1 510
+
+2 608 4
+3 575 3
+
+Nesse teste, a ordenação das rotas indicadas pelo
+aplicativo será:

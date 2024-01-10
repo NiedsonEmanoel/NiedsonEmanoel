@@ -1,0 +1,30 @@
+Questão 110
+
+Uma das formas de se obter energia elétrica é usar
+uma lente convergente circular para concentrar os raios.
+de sol em um único ponto, aquecendo um dispositivo
+localizado nesse ponto a uma temperatura elevada. Com
+atransformação da energia luminosa em energia térmica,
+pode ser criado vapor-'água que moverá uma turbina e
+gerará energia elétrica. Para projetar um sistema de
+geração de energia elétrica, a fim de alimentar um
+chuveiro elétrico de 2 000 W de potência, sabe-se que,
+
+neste local, a energia recebida do Sol é 1 000 E
+
+Esse sistema apresenta taxa de eficiência de
+conversão em energia elétrica de 50% da energia
+solar incidente. Considere VT = 1,8.
+
+Qual deve ser, em metro, o raio da lente para que esse
+sistema satisfaça aos requisitos do projeto?
+
+002
+
+0032
+
+e 040
+
+O 080
+
+eim

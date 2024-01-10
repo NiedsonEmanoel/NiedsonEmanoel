@@ -1,0 +1,21 @@
+Questão 174
+
+Durante suas férias, oito amigos, dos quais
+canhotos, decidem realizar um tomeio de vôlei de praia.
+Eles precisam formar quatro duplas para a realização
+do tomeio. Nenhuma dupla pode ser formada por dois
+jogadores canhotos.
+
+De quantas maneiras diferentes podem ser formadas
+essas quatro duplas?
+
+[ARS
+
+o 70
+
+e
+
+o 104
+
+e 105
+

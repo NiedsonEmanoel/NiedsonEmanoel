@@ -1,0 +1,28 @@
+Questão 135 tenemazr
+
+As radiações ionizantes são caracterizadas por terem
+energia suficiente para arrancar elétrons de um átomo.
+Ao interagirem com os tecidos do corpo humano, dão
+origem a diversos efeitos, que podem levar à morte de
+células. Os principais tipos de radiação ionizante são as
+radiações gama (originadas em transições nucleares),
+raios X (originados em transições eletrônicas), alfa
+(núcleos de hélio), elétrons e nêutrons. O quadro
+apresenta algumas propriedades para esses diferentes
+tipos de radiação.
+
+Tipo de radiação | Massa (um.a) Carga
+Gama o o
+Raios X o o
+Alfa 4 +2
+Elétrons 1/2000] A
+Nêutrons 1 o
+
+Para uma mesma intensidade de radiação, a que tem o
+menor poder de penetração em tecidos é a radiação
+alfa.
+
+voo
+E)
+E)
+x

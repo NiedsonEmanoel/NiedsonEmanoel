@@ -1,0 +1,32 @@
+Questão 145
+
+Um vidraceiro é contratado para colocar uma porta
+de vidro que escorregará em uma canaleta de largura
+interna igual a 1,45 cm, como mostra a figura.
+
+see TES site
+
+O vidraceiro precisa de uma placa de vidro de maior
+espessura possível, tal que deixe uma folga total de
+pelo menos 0,2 cm, para que o vidro possa escorregar
+na canaleta, e no máximo 0,5 cm para que o vidro não
+fique batendo com a interferência do vento após a
+instalação. Para conseguir essa placa de vidro, esse
+vidraceiro foi até uma loja e lá encontrou placas de vidro
+com espessuras iguais a: 0,75 cm; 0,95 cm; 1,05 cm;
+1,20 cm; 1,40 cm.
+
+Para atender às restrições especificadas, o vidraceiro
+deverá comprar a placa de espessura, em centímetro,
+igual a
+
+0075.
+
+00.
+
+10.
+
+012.
+
+8 140
+

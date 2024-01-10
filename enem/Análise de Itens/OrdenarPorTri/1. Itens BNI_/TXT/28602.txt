@@ -1,0 +1,11 @@
+Questão 172. enemamr
+
+Um ciclista faz um treino para uma prova, em um
+circuito oval, cujo percurso é de 800 m. Nesse treino,
+realiza 20 voltas. Ele divide seu treino em 3 etapas.
+Na primeira etapa, inicializa seu cronômetro e realiza
+as cinco primeiras voltas com velocidade média de
+4 mis. Na segunda etapa, faz mais cinco voltas, mas com
+velocidade média 25% maior que a da etapa anterior.
+Na última etapa, finaliza o treino mantendo a velocidade
+média da primeira etapa.

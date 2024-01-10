@@ -1,0 +1,25 @@
+QUESTÃO 166
+
+Aluminosidade L de uma estrela está relacionada com
+o raio R e com a temperatura T dessa estrela segundo a
+Lei de Stefan-Boltzmann: L = c- R?. T*, em que c é uma
+constante igual para todas as estrelas.
+
+Disponível em: tg cenciahawolcom br. Acesso em: 22 nov. 2013 (adaptado
+
+Considere duas estrelas E e F, sendo que a estrela E
+tem metade do raio da estrela F e o dobro da temperatura
+de F.
+
+Indique por L, e L, suas respectivas luminosidades.
+A relação entre as luminosidades dessas duas estrelas é
+dada por
+
+E
+0-5
+
+e
+o L-=
+OLL,
+O L-4,
+os,

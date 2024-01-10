@@ -1,0 +1,37 @@
+Questão 173 enemaz
+
+Os pneus estão entre os itens mais importantes
+para a segurança de um carro. Segundo revendedores
+especializados, o desgaste do pneu em um trajeto é
+diretamente proporcional ao número de voltas que ele
+efetua em contato com o solo, sem derrapar, durante esse
+trajeto, sendo que a constante de proporcionalidade k
+depende do material empregado na sua fabricação.
+O proprietário de um carro, cujo diâmetro do pneu
+mede L m, conforme indicado na imagem, pretende obter
+uma expressão que fomeça uma estimativa para a medida
+do desgaste D desse pneu ao longo de uma viagem
+de x km. Para efeito dos cálculos, considerou o diâmetro
+do pneu como sendo L, independentemente da extensão
+do trajeto.
+
++— L metro +
+
+Dean om pt asa cm Meam: 200 no
+O valor de D é dado pela expressão
+
+500 -k-x
+
+º ENA
+
+1000-k-x
+mL
+
+1000-k-x
+
+1000-k-x
+ERR
+
+4000-k-x
+ER
+

@@ -1,0 +1,18 @@
+As células fotovoliaicas (placas semicondutoras compostas de silício) são os
+“componentes principais dos painéis solares e são capazes de converter, com certa eficiência,
+parte da energia dos raios solares em energia elétrica. Essa conversão é causada pelo
+fenômeno físico denominado “efeito fotoelético”, que pode ocorrer em uma variedade de
+materiais, incluindo metais e semicondutores.
+
+Na superfície dos metais, a sequência de eventos que caracteriza esse efeito, de forma
+simplificada, é a
+
+(8) absorção de fótons e a emissão de elétrons.
+absorção de elétrons a emissão de fótons.
+emissão de fótons e a absorção de elétrons.
+
+absorção e a emissão de elétrons.
+
+000
+
+“absorção e a emissão de fótons.

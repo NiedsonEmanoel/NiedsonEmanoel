@@ -1,0 +1,21 @@
+Questão 146 DIZDenAm nenem nonenamonorenemoronenemoronenemononenamonmeneam
+
+Uma dona de casa vai ao supermercado para comprar dois fardos de refrigerantes, contendo cada um deles seis
+unidades de 0,6 litro. Lá chegando, verificou não existirem fardos nem no formato e nem na capacidade desejados.
+Decidiu, então, comprar os refrigerantes em unidades avulsas, de mesma capacidade, de forma a obter, no mínimo,
+“a mesma quantidade de líquido desejada inicialmente, gastando o mínimo de dinheiro. As opções de embalagens e
+respectivos preços existentes no supermercado são dados no quadro.
+
+Embalagem(L) | 3 [25] 2 [15/41
+Custo (R$) | 4,39 | 369
+
+2,89 | 2,19 | 1,99
+
+Qual é à opção de embalagem, em litro, que proporcionará maior economia para essa dona de casa?
+10
+15
+20
+25
+30
+
+voos

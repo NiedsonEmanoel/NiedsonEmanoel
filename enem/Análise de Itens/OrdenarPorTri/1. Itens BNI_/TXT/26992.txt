@@ -1,0 +1,18 @@
+QUESTÃO 166
+
+Um vaso decorativo quebrou e os donos vão encomendar outro para ser pintado com as mesmas características.
+Eles enviam uma foto do vaso na escala 1 : 5 (em relação ao objeto original) para um artista. Para ver melhor os
+detalhes do vaso o artista solicita uma cópia impressa da foto com dimensões triplicadas em relação às dimensões da
+foto original. Na cópia impressa, o vaso quebrado tem uma altura de 30 centímetros.
+
+Qual é a altura real, em centímetros, do vaso quebrado?
+02
+
+ori
+
+es
+
+oc
+
+eg
+

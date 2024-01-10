@@ -1,0 +1,37 @@
+Questão 103 D)20enemoronenemoronenemi
+Nas estradas brasileiras existem vários aparelhos
+
+com a finalidade de medir a velocidade dos veículos.
+
+Em uma rodovia, cuja velocidade máxima permitida é de
+
+80 km hr, um carro percorre a distância de 50 cm entre
+
+os dois sensores no tempo de 20 ms. De acordo com
+
+a Resolução n. 396, do Conselho Nacional de Trânsito,
+
+para vias com velocidade de até 100 km h-!, a velocidade
+
+medida pelo aparelho tem a tolerância de +7 km h-' além
+
+da velocidade máxima permitida na via. Considere que
+
+a velocidade final registrada do carro é o valor medido
+
+descontado o valor da tolerância do aparelho.
+
+Nesse caso, qual foi a velocidade final registrada pelo
+
+aparelho?
+
+O 38kmh”
+
+O 6skmh'
+
+O skmh'
+
+O 9kmh”
+
+e 9 kmh!
+

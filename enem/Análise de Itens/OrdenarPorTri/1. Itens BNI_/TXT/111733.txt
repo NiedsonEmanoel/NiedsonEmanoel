@@ -1,0 +1,16 @@
+Questão 143 DI7nanamoronenamononenam
+Pretende-se comprar uma mesa capaz de acomodar
+6 pessoas, de modo que, assentadas em torno da mesa,
+cada pessoa disponha de, pelo menos, 60 cm de espaço
+livre na borda do tampo da mesa, que deverá ter a menor
+área possível. Na loja visitada há mesas com tampos nas
+formas e dimensões especificadas:
++ Mesa | hexágono regular, com lados medindo 60 cm:
+* Mesa Il retângulo, com lados medindo 130 cm e 60 om;
+* Mesa Ill: retângulo, com lados medindo 120 om e 60 cm;
++ Mesa IV: quadrado, com lados medindo 60 cm;
++ Mesa V: triângulo equilátero, com lados medindo
+120cm.
+A mesa que atende aos critérios especificados é a
+
+voo o

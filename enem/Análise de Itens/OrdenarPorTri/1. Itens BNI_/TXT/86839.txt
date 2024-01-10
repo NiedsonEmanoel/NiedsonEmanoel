@@ -1,0 +1,34 @@
+QUESTÃO 157
+
+Para tornar uma pista de automobilismo mais segura, foram solicitadas intervenções em seu traçado.
+Os engenheiros contratados elaboraram um projeto com cinco possíveis modificações, destacadas nos setores
+(1), (1), (1), (IV) e (V) pelas linhas tracejadas, como mostra a figura. No entanto, na temporada atual, só é
+permitido que se façam duas dessas alterações.
+
+Todos os trechos passíveis de modificação, tanto no traçado original quanto no novo traçado, são
+semicircunferências ou segmentos de reta.
+
+-
+9)
+
+— Pista original
+Novo trecho
+
+na pista
+
+Pretende-se que a nova pista tenha extensão mais próxima que a da original após duas modificações. Os trechos
+em comum da pista original e da nova pista não serão alterados.
+Utilize 3 como aproximação para x.
+
+Para atender às condições apresentadas, quais setores deverão ser modificados?
+lev
+
+em
+
+ev
+
+mel
+
+Ivev
+
+vov0oo

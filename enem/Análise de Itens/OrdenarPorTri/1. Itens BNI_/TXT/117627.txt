@@ -1,0 +1,35 @@
+Questão 120
+
+enemacar
+
+O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo.
+O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.
+
+Tipo de célula de Temperatura
+E: tc) Eletrólito Semirreações nos eletrodos.
+H,+20H>2H0+2e-
+AFC 80-100 Hidróxido de potássio aquoso | q
+SO +H0+20—20H
+use 699:1099 Carbonatos de tio, sódio | 4: CO7—H0+C0, +26
+- elou potássio fundidos.
+SO+co, +20 Cor
+Ácido
+PEM 60 -100 poliperfuorossulfônico sólido
+H>zH+2e
+PAFC 175-200 Ácido fosfórico liquido. 4
+lo +2W+20-H0
+sorc 600 - 1000 Óxido de zircônio(!V) sólido | 2
+
+Testes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as
+que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem
+
+em meio ácido.
+
+O arc.
+O msrc.
+O PEM.
+O Parc.
+e sorc.
+
+THOMAS, 5: ZALBOWTZ Pu cl: gr por Los Amos soa Lata Ls Amos NM 100 (sto
+Atecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustivel

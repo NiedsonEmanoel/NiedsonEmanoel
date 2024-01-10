@@ -1,0 +1,35 @@
+QUESTÃO 94
+
+Considere, em um fragmento ambiental, uma árvore matriz com frutos (M) e outras cinco que produziram flores
+e são apenas doadoras de pólen (DP1, DP2, DP3, DP4 e DPS). Foi excluída a capacidade de autopolinização das
+árvores. Os genótipos da matriz, da semente (S1) e das prováveis fontes de pólen foram obtidos pela análise de dois
+locos (loco A e loco B) de marcadores de DNA, conforme a figura.
+
+Esquena mos o o om om op
+GoBari
+ico O
+coa aco? — Rm O
+O [— [|]
+aos —
+Esquena mos or or o om ops
+ea
+aos O
+bos aeb? E
+secs o
+aos O
+seos a
+
+COLLEVAT.R GTELLES MPL SOARES, TN Oito dopéan ne posar uma sda para ori do ei spas Goma na Eco 11,21 (gn
+Aprogênie S1 recebeu o pólen de qual doadora?
+
+Dp1
+
+DP2
+
+DP3
+
+DP4
+
+DPS
+
+voooo

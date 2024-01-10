@@ -1,0 +1,41 @@
+Questão 124
+
+Um estudante leu em um site da internet que os
+povos antigos determinavam a duração das estações
+do ano observando a variação do tamanho da sombra
+de uma haste vertical projetada no solo. Isso ocorria
+porque, se registramos o tamanho da menor sombra
+ao longo de um dia (ao meio-dia solar), esse valor
+varia ao longo do ano, o que permitiu aos antigos usar
+esse instrumento rudimentar como um calendário solar
+primitivo. O estudante também leu que, ao longo de um
+ano (sempre ao meio-dia solar): (1) a sombra é máxima
+no solstício de inverno; e (1) a sombra é mínima no
+solstício de verão.
+
+O estudante, que morava em Macapá (na Linha
+do Equador), ficou intrigado com essas afirmações e
+resolveu verificar se elas eram verdadeiras em diferentes
+regiões do mundo. Contactou seus amigos virtuai
+em Salvador (Região Tropical) e Porto Alegre (Região
+Temperada) e pediu que eles registrassem o tamanho
+da menor sombra de uma haste vertical padronizada,
+ao longo do dia, durante um ano. Os resultados
+encontrados estão mostrados esquematicamente no
+gráfico (SV: Solstício de Verão; SI: Solstício de Inverno;
+E: Equinócio):
+
+Tamanho da sombra
+
+Qual(is) cidade(s) indicada(s) no texto e no gráfico
+contradiz(em) a afirmação II?
+
+O Salvador.
+
+O Porto Alegre.
+
+O Macapá e Salvador.
+
+O Macapá e Porto Alegre.
+
+O Porto Alegre e Salvador.

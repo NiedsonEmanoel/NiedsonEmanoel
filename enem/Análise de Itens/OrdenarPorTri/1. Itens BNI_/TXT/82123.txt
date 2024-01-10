@@ -1,0 +1,30 @@
+QUESTÃO 139
+
+A Transferência Eletrônica Disponível (TED) é uma
+transação financeira de valores entre diferentes bancos.
+Um economista decide analisar os valores enviados por
+meio de TEDs entre cinco bancos (1, 2, 3, 4 e 5) durante
+um mês. Para isso, ele dispõe esses valores em uma
+matriz A = [a,). em que 1<i<5e1<)<5, e o elemento
+aj corresponde ao total proveniente das operações feitas
+via TED, em milhão de real, transferidos do banco i para
+o banco j durante o mês. Observe que os elementos
+
+ay= 0, uma vez que TED é uma transferência entre bancos
+distintos. Esta é a matriz obtida para essa análise:
+020272
+00210
+A=|12 011
+02200
+30110
+
+Com base nessas informações, o banco que transferiu a
+maior quantia via TED é o banco
+
+01
+o
+(o)
+o
+e
+
+nsen

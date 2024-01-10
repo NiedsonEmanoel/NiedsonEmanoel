@@ -1,0 +1,20 @@
+Questão 118
+
+Em qualquer obra de construção civil é fundamental a utilização de equipamentos de proteção individual,
+tal como capacetes. Por exemplo, a queda livre de um tijolo de massa 2,5 kg de uma altura de 5 m, cujo impacto
+contra um capacete pode durar até 0,5 s, resulta em uma força impulsiva média maior do que o peso do tijolo.
+Suponha que a aceleração gravitacional seja 10 m s-2 e que o efeito de resistência do ar seja desprezível.
+
+Aforça impulsiva média gerada por esse impacto equivale ao peso de quantos tijolos iguais?
+
+o2
+5
+1
+
+3
+
+A
+50
+
+voo
+8

@@ -1,0 +1,31 @@
+Questão 148 Dmenamonmenamoronenem
+Uma pessoa chega ao hotel no qual fez uma
+pré-reserva com diária no valor de R$ 210,00. Como
+a confirmação da reserva não foi feita, quando chegou
+ao hotel não havia quarto disponível. Dessa forma,
+O recepcionista apresentou-lhe algumas opções de
+hotéis com diárias mais baratas, mas localizados a
+certa distância desse hotel, conforme apresentado.
+
++ Hi: diária de R$ 180,00 e distância de 7 km;
+
++ H2: diária de R$ 200,00 e distância de 1,6 kr
+
++ H3 diária de R$ 199,00 e distância de 4,5 kr
+
++ H4: diária de R$ 190,00 e distância de 1,5 kr
+
++ H5: diária de R$ 205,00 e distância de 1,2 km.
+
+Para se locomover até um outro hotel, essa pessoa
+utiliza um táxi que cobra R$ 2,50 por quilômetro rodado
+mais taxa fixa de R$ 6,00.
+
+Sua escolha será em função do menor custo,
+“composto pelo valor da diária mais a locomoção de táxi.
+O hotel escolhido foi o
+
+Hr
+
+0000
+5

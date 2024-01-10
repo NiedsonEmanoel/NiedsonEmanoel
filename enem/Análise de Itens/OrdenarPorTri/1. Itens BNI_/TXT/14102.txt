@@ -1,0 +1,16 @@
+Uma microempresa especializou-se em produzir um tipo de chaveiro personalizado para
+brindes. O custo de produção de cada unidade é de R$ 0,42 e são comercializados em
+pacotes com 400 chaveiros, que são vendidos por R$ 280,00. Além disso, essa empresa tem
+um custo mensal fixo de R$ 12 800,00 que não depende do número de chaveiros produzidos.
+
+Qual é o número mínimo de pacotes de chaveiros que devem ser vendidos mensalmente para
+que essa microempresa não tenha prejuízo no mês?
+
+os
+os
+
+109
+
+00
+
+"5

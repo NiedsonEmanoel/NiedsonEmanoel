@@ -1,0 +1,20 @@
+Uma nova é revolucionária técnica foi desenvolvida para a edição de genomas. O
+mecanismo consiste em um sistema de reconhecimento do sítio onde haverá a mudança do
+gene combinado com um mecanismo de corte e reparo do DNA. Assim, após o
+reconhecimento do local onde será realizada a edição, uma nuclease corta as duas fitas de
+DNA. Uma vez cortadas, mecanismos de reparação do genoma tendem a juntar as fitas
+novamente, e nesse processo um pedaço de DNA pode ser removido, adicionado ou até
+mesmo trocado por outro pedaço de DNA.
+
+Nesse contexto, uma aplicação biotecnológica dessa técnica envolver o(a)
+(8) diagnóstico de doenças.
+
+identificação de proteinas.
+
+rearranjo de cromossomos.
+
+modificação do código genético.
+
+2000
+
+correção de distúrbios genéticos.

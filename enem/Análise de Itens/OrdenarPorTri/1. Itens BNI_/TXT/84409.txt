@@ -1,0 +1,25 @@
+Questão 146
+
+Uma pessoa se interessou em adquirir um produto
+anunciado em uma loja. Negociou com o gerente e
+conseguiu comprá-lo a uma taxa de juros compostos
+de 1% ao mês. O primeiro pagamento será um mês
+após a aquisição do produto, e no valor de R$ 202,00.
+O segundo pagamento será efetuado um mês após o
+primeiro, e terá o valor de R$ 204,02. Para concretizar a
+compra, o gerente emitirá uma nota fiscal com o valor do
+produto à vista negociado com o cliente, correspondendo
+ao financiamento aprovado.
+
+O valor à vista, em real, que deverá constar na nota
+fiscal é de
+
+O 398,02
+
+O 400,00.
+
+O “1,9%.
+
+O 404,00.
+
+O 10602

@@ -1,0 +1,22 @@
+Questão 161
+
+Muitos restaurantes servem refrigerantes em copos.
+contendo limão e gelo. Suponha um copo de formato
+cilíndrico, com as seguintes medidas: diâmetro = 6 cme
+altura = 15 cm. Nesse copo, há três cubos de gelo, cujas
+arestas medem 2 cm cada, e duas rodelas cilíndricas
+de limão, com 4 cm de diâmetro e 0,5 cm de espessura
+cada. Considere que, ao colocar o refrigerante no copo,
+os cubos de gelo e os limões ficarão totalmente imersos.
+(Use 3 como aproximação para 7).
+
+O volume máximo de refrigerante, em centimetro cúbico,
+que cabe nesse copo contendo as rodelas de limão e os
+cubos de gelo com suas dimensões inalteradas, é iguala
+
+o 107.
+o 24.
+o 3.
+on
+e 405.
+

@@ -1,0 +1,23 @@
+Questão 105 2020802 2020enemonnenem
+
+Os tanques de armazenamento de gasolina podem,
+“com o tempo, sofrer processos oxidativos, resultando na
+“contaminação do combustível e do solo à sua volta. Uma
+forma de evitar tais problemas econômicos e ambientais é
+utilizar preferencialmente metais de sacrifício, protegendo
+os tanques de armazenamento.
+
+Suponha que seja necessário usar um metal de
+sacrifício em um tanque de aço (liga de ferro-carbono)
+Considere as semirreações de redução e seus respectivos.
+potenciais padrão.
+
+Semirreação EM)
+Fer +2e-— Fe 0,44]
+Zi +2e >2n -0,76)
+Cu +2e —Cu +0,34
+Né +28 >Ni -0,25
+Ca +2e —Cd -0,40)
+Hg +2e > Hg +0.86
+
+Dos metais citados, o que garantirá proteção ao tanque

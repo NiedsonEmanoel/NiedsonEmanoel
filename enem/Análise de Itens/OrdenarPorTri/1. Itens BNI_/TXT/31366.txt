@@ -1,0 +1,24 @@
+QUESTÃO 167
+
+O gerente de uma loja de roupas resolveu avaliar o
+desempenho dos seus vendedores, registrando o total
+de vendas em reais V que cada um deles realizou em
+um mês. De acordo com o valor de V, o desempenho do
+vendedor recebeu uma classificação, conforme a seguir:
+
++ N1: se V for maior que 20 000;
+
++ N2: se V e J10 000, 20 000];
+
++ N3:se V e J7 000, 10 000];
+
++ N4: se V e Já 000, 7 000];
+
++ N5:se Ve [0, 4000]
+
+No último mês, a funcionária Valéria vendeu
+R$ 10 000,00 em roupas, enquanto Bianca vendeu 35%
+a menos que sua colega.
+As classificações que Valéria e Bianca receberam foram,
+respectivamente,
+

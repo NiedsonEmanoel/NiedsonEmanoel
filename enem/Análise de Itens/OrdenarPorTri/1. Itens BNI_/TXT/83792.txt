@@ -1,0 +1,22 @@
+Questão 166
+
+Uma empresa confecciona e comercializa um
+brinquedo formado por uma locomotiva, pintada na cor
+preta, mais 12 vagões de iguais formato e tamanho,
+numerados de 1 a 12. Dos 12 vagões, 4 são pintados
+nacor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor
+amarela. O trem é montado utilizando-se uma locomotiva
+e 12 vagões, ordenados crescentemente segundo suas
+numerações, conforme ilustrado na figura.
+
+De acordo com as possíveis variações nas colorações
+dos vagões, a quantidade de trens que podem ser
+montados, expressa por meio de combinações, é
+dada por
+
+4 «cê 2
+O CioxCiaxCiaxCia
+O ch+cisci+ci
+O chx2xcixc?
+O ch+2xCh+Ch
+O chxcixcixc?

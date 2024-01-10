@@ -1,0 +1,32 @@
+Questão 169
+
+Os gráficos representam a produção de peças em
+uma indústria e as horas trabalhadas dos funcionários
+no período de cinco dias. Em cada dia, o gerente
+de produção aplica uma metodologia diferente de
+trabalho. Seu objetivo é avaliar a metodologia m
+eficiente para utilizá-la como modelo nos próximos
+períodos. Sabe-se que, neste caso, quanto maior
+for a razão entre o número de peças produzidas e o
+número de horas trabalhadas, maior será a eficiência
+da metodologia.
+
+ET
+
+Peças produzidas
+
+2000 180
+150 1400
+to 110
+
+1000] eo
+so
+o
+Dot Da2  Da3 Das DS
+
+Horas trabalhadas
+
+10
+
+dai Dez  Da3 Das | Das
+

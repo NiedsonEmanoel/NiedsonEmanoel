@@ -1,0 +1,22 @@
+Questão 122 enemam
+
+No manual de instruções de um conjunto de
+30 lâmpadas idênticas, usadas para enfeite, está
+especificado que o conjunto deve ser ligado em uma
+rede elétrica de 120 V resultando em uma corrente
+total de 4,5 A. No entanto, o manual não informa a
+potência nominal de cada lâmpada para a aquisição de
+lâmpadas individuais de reposição em caso de queima.
+Depois de ligar o conjunto, percebe-se que, ao retirar
+qualquer lâmpada, um terço das demais não acende.
+Qual a potência nominal de cada lâmpada?
+
+oasw
+18wW
+5sw
+180W
+
+o
+fc]
+o
+e s0w

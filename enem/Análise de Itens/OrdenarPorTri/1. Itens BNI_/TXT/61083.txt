@@ -1,0 +1,20 @@
+Há algumas décadas, surgiu no mercado um
+medicamento que provocava perda de peso por inibir a
+“ação da lipase, enzima que atua no intestino na digestão
+de gorduras. Um pesquisador, com o objetivo de avaliar
+a eficácia do medicamento, decidiu medir nos pacientes.
+a quantidade de gordura nas fezes e de triglicerídeos.
+(um dos produtos da digestão das gorduras) no sangue.
+Mantendo sempre a mesma dieta nos pacientes, fez as
+medidasantese depois da administração do medicamento.
+Afigura apresenta cinco resultados possíveis.
+
+1 2 a 4 5
+
+MM Gordura nas fezes antes
+EE Gordura nas fazes depois
+
+EB Triglicerideos no sangue antes
+Ml Tiicerdeos no sangue depois
+
+O efeito esperado do medicamento está representado no

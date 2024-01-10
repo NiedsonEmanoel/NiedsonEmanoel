@@ -1,0 +1,36 @@
+QUESTÃO 91
+
+O esquema representa alguns passos de uma série
+de reações metabólicas transformando o aminoácido
+fenilalanina em quatro possíveis substâncias. Essas
+reações enzimáticas são resultado da expressão de
+alelos dominantes A, , C e D.
+
+FENILALANINA
+
+Alelo A — enzima E1 y
+
+TIROSINA
+
+Alelo B — enzima EZ Alelo D — enzima E4
+
+MELANINA ADRENALINA
+
+Alelo C — enzima E3
+
+TIROXINA
+
+Qual o resultado metabólico de uma criança recessiva
+para o par de alelos B?
+
+Taquicardia.
+
+Retardo mental.
+
+Redução de peso.
+
+Ausência de pigmentação na pele.
+
+Disfunção dos processos metabólicos.
+
+v0000

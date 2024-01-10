@@ -1,0 +1,25 @@
+Questão 159
+
+No ano de 1751, o matemático Euler conseguiu
+demonstrar a famosa relação para poliedros convexos
+que relaciona o número de suas faces (F), arestas (A) e
+vértices (V): V+ F = A + 2. No entanto, na busca dessa
+demonstração, essa relação foi sendo testada em
+poliedros convexos e não convexos. Observou-se que
+alguns poliedros não convexos satisfaziam a relação
+e outros não. Um exemplo de poliedro não convexo
+é dado na figura. Todas as faces que não podem ser
+vistas diretamente são retangulares.
+
+Qual a relação entre os vértices, as faces e as arestas
+do poliedro apresentado na figura?
+
+O v+F-A
+
+O v+F=A-1
+
+O v+F=A+1
+
+O v+F=A+2
+
+O v+F-A+3

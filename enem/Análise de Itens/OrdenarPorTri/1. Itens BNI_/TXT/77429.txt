@@ -1,0 +1,35 @@
+Questão 151 enamoronanemononenem
+
+Querendo reduzir custos na limpeza da área de
+estacionamento de um prédio, o síndico resolveu comprar
+uma lavadora de alta pressão. Sabe-se que, na utilização
+desse equipamento, o consumo de água é menor,
+entretanto, existe o gasto com energia elétrica. O síndico
+coletou os dados de cinco modelos de lavadora com
+mesmo preço, e cujos consumos de água e de energia
+são os fornecidos no quadro.
+
+Modelo de | Gasto médio de | Consumo de
+lavadora | água (litrolhora) Cao
+1 350 13
+n 264] 20
+nm 320 15
+y 300 17
+v 276] 18
+
+As tarifas de água e de energia elétrica são,
+respectivamente, R$ 0,0025 por litro de água e R$ 0,30
+por quilowatt-hora.
+
+O modelo de lavadora que o síndico deve adquirir para
+gastar menos com a limpeza do estacionamento é
+
+o
+
+oi
+
+eu
+
+om
+
+ev

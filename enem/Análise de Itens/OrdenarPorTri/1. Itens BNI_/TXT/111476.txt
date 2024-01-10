@@ -1,0 +1,29 @@
+Dessas farmácias, algumas oferecem descontos:
+
+- na compra dos medicamentos X e Y na
+
+Farmácia 2, recebe-se um desconto de 20% em
+
+“ambos os produtos, independentemente da compra
+
+do medicamento Z, e não há desconto para o
+medicamento Z;
+
+- na compra dos 3 medicamentos na Farmácia 3,
+recebe-se 20% de desconto no valor total da
+compra.
+
+O paciente deseja efetuar a compra de modo a
+
+minimizar sua despesa com os medicamentos.
+
+De acordo com as informações fornecidas, o paciente
+deve comprar os medicamentos da seguinte forma:
+X,YeZna Farmáci
+Xe Y na Farmácia 1, e Z na Farmácia 3.
+Xe Y na Farmácia 2, e Z na Farmácia 3.
+X na Farmácia 2, e Y e Z na Farmácia 3.
+X,YeZna Farmácia 3.
+
+voos
+

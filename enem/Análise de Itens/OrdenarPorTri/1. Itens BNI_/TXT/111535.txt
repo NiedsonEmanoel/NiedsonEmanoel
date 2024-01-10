@@ -1,0 +1,27 @@
+QUESTÃO 155
+A inclinação de uma rampa é calculada da seguinte maneira: para cada metro medido na horizontal, mede-se x
+centimetros na vertical. Diz-se, nesse caso, que a rampa tem inclinação de x%, como no exemplo da figura:
+
+Mem [ netnação — 20%
+
+im
+
+A figura apresenta um projeto de uma rampa de acesso a uma garagem residencial cuja base, situada 2 metros
+abaixo do nível da rua, tem 8 metros de comprimento.
+
+Portão
+
+Garagem
+
+Nivel da base 8m
+
+Depois de projetada a rampa, o responsável pela obra foi informado de que as normas técnicas do município onde
+ela está localizada exigem que a inclinação máxima de uma rampa de acesso a uma garagem residencial seja de 20%.
+Se a rampa projetada tiver inclinação superior a 20%, o nível da garagem deverá ser alterado para diminuir o
+percentual de inclinação, mantendo o comprimento da base da rampa.
+Para atender às normas técnicas do município, o nível da garagem deverá ser
+elevado em 40 cm.
+elevado em 50 cm.
+mantido no mesmo nível.
+rebaixado em 40 cm.
+rebaixado em 50 cm.

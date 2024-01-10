@@ -1,0 +1,25 @@
+QUESTÃO 156
+
+O presidente de uma empresa, com o objetivo de
+renovar sua frota de automóveis, solicitou uma pesquisa
+medindo o consumo de combustivel de 5 modelos de carro
+que usam o mesmo tipo de combustível. O resultado foi
+* Carro |: deslocamento de 195 km consumindo
+20 litros de combustível;
+* Carro Il: deslocamento de 96 km consumindo
+12 litros de combustível;
+* Carro IIl: deslocamento de 145 km consumindo
+16 litros de combustível;
+* Carro IV: deslocamento de 225 km consumindo
+24 litros de combustível;
++ Carro V: deslocamento de 65 km consumindo
+& litros de combustível.
+Para renovar a frota com o modelo mais econômico, em
+relação à razão quilômetro rodado por litro, devem ser
+comprados carros do modelo
+o
+oi
+ein
+om
+ev
+

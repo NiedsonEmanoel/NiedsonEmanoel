@@ -1,0 +1,26 @@
+Questão 158 757
+
+Uma pessoa precisa comprar 15 sacos de cimento
+para uma reforma em sua casa. Faz pesquisa de preço em
+cinco depósitos que vendem o cimento de sua preferênci
+e cobram frete para entrega do material, conforme a
+distância do depósito à sua casa. As informações sobre
+prego do cimento, valor do frete e distância do depósito
+até a casa dessa pessoa estão apresentadas no quadro.
+
+Varão 7 | Distância ento
+oco seco) frete para cada acasaeo
+Depósito | Secimento | "aômero | “depósito
+(Rs) (Rs) (em)
+A 23,00 1,00 10
+B 21,50 3,00 12
+c 22,00 1,50) 14
+D 21,00 3,50 18
+E 24,00 250 2
+
+A pessoa escolherá um desses depósitos para
+realizar sua compra, considerando os preços do cimento
+e do frete oferecidos em cada opção.
+
+“Se a pessoa decidir pela opção mais econômica, o depósito
+escolhido para a realização dessa compra será o

@@ -1,0 +1,33 @@
+Questão 175 enem
+
+Uma rede de supermercados vende latas de sucos
+em packs (pacotes) com 12 latas. A venda é feita da
+seguinte forma:
+
++ um pack é vendido por R$ 21,60;
+
++ na compra de dois packs, o segundo tem 40% de
+
+desconto sobre o seu valor.
+
+Entretanto, essa rede de supermercados costuma
+disponibilizar também o valor unitário do produto em cada
+uma das situações de compra. Para obter esse valor, basta
+dividir o total gasto pela quantidade de latas adquiridas.
+
+Em determinado dia, nos cinco supermercados da rede
+que vendem os packs da forma descrita, os registros do
+valor unitário da lata de suco para o ciente que comprava
+dois packs eram diferentes entre si, conforme os dados:
+
+Loja [:R$ 1,08;
+
+Loja IV: R$ 1,76;
+Loja Vi R$ 1,78.
+
+Em um dos supermercados, o valor unitário está correto,
+de acordo com o costume da rede ao vender dois packs.
+
+Esse supermercado corresponde à loja
+
+voçes

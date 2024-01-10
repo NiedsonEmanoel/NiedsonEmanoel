@@ -1,0 +1,48 @@
+Questão 31 Ene nel enet
+CAPTCHA, herói ou vilão?
+
+Todas as pessoas que já utilizaram a web para
+realização de tarefas como criar um perfil em uma rede
+social, fazer um cadastro em um sistema de comércio
+eletrônico ou em um portal de notícias, entre tantas
+outras, já se depararam com o CAPTCHA. Esse teste
+apresenta-se como um conjunto de caracteres que
+aparecem em imagens distorcidas (conforme Figura 1) e
+que as pessoas precisam decifrar e digitar num campo
+de formulário. Elas precisam realizar essa tarefa para
+provar que são seres humanos, e não robôs. O uso do
+CAPTCHA com esse objetivo presume, portanto, que
+qualquer ser humano, mas nenhum robô, seria capaz de
+executar a tarefa proposta.
+
+Figura 1
+Para as empresas que utilizam o CAPTCHA, ele
+é o “herói” que tem a missão de diferenciar pessoas
+de robôs. Para as pessoas que precisam passar pelo
+teste do CAPTCHA para executarem suas tarefas,
+certamente ele é um vilão. Em muitos casos, quando
+tentam passar pelos testes, veem-se obrigados a
+repetir diversas vezes até conseguirem acertar.
+Além de problemas com a falta de segurança e da
+experiência ruim para a maioria das pessoas, outro fator
+negativo para o CAPTCHA são as suas barreiras de
+acessibilidade. Isso representa um grande problema,
+principalmente para as pessoas que são cegas, têm
+baixa visão ou dificuldades de aprendizagem, como a
+dislexia, as quais podem ficar impedidas de realizar
+importantes tarefas na web.
+Depto e pscesdgil e Aesso em 3 ou 2015 cido
+Os efeitos causados pelo surgimento de novas
+tecnologias podem contribuir positiva ou negativamente
+para a sociedade. De acordo com o texto, a ferramenta
+CAPTCHA causa impacto social porque
+(O dificulta o acesso dos usuários a ambientes virtuais.
+O busca a distinção de pessoas e máquinas para
+garantia de proteção.
+O interfere na utilização de diversos sistemas por
+pessoas competentes.
+O auxilia no preenchimento de informações em um
+formulário.
+O resolve problemas de invasão de sistemas por
+programas automatizados.
+

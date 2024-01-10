@@ -1,0 +1,22 @@
+Questão 139
+
+Uma empresa sorteia prêmios entre os funcionários.
+“como reconhecimento pelo tempo trabalhado. À tabela
+mostra a distribuição de frequência de 20 empregados
+dessa empresa que têm de 25 a 35 anos trabalhados.
+A empresa sorteou, entre esses empregados, uma
+viagem de uma semana, sendo dois deles escolhidos
+aleatoriamente.
+
+Tempo de serviço | Número de empregados
+25
+
+27
+29
+
+ojonoln/no| +) a
+
+aje|s|s
+
+Quala probabilidade de que ambos os sorteados tenham
+34 anos de trabalho?

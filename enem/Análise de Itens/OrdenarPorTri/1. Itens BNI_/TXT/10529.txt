@@ -1,0 +1,20 @@
+Questão 111
+
+A figuramostra a curva de saturação da hemoglobina e da mioglobina em função da pressão parcial de oxigênio e
+reflete a afinidade de cada proteina pelo oxigênio. Embora ambas sejam hemoproteinas ligantes de oxigênio,
+a hemoglobina transporta oxigênio dos pulmões para os tecidos pela corrente sanguínea, e a mioglobina se liga ao
+oxigênio dentro das células musculares.
+
+04 25 30 4 5
+Pressão parcial de O,
+Disponível em: htp:divingphysiology-les wordpress.com. Acesso em: 28 fev. 2012 (adaptado)
+De que forma a oxigenação dos tecidos será afetada em indivíduos sem o gene da mioglobina?
+
+O A concentração de oxigênio no sangue diminuirá
+O A capacidade de produção de hemoglobina diminuirá.
+O A distribuição do oxigênio por todo o organismo será homogênea.
+
+O Atransferência do oxigênio do sangue para o tecido muscular será prejudicada.
+
+O Ahemoglobina do tecido muscular apresentará maior afinidade que a presente no sangue.
+

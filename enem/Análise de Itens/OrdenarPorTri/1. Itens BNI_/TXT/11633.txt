@@ -1,0 +1,25 @@
+Questão 144
+
+Uma locadora possui disponíveis 120 veículos da
+ca que um cliente pretende locar. Desses, 20%
+ja cor branca, 40% são da cor cinza, 16 veículos
+
+São da cor vermelha e o restante, de outras cores,
+O cliente não gosta da cor vermelha e ficaria contente
+Som qualquer outra cor, mas o sistema de controle
+disponibiliza os veículos sem levar em conta a escolha
+da cor pelo cliente.
+
+de Bent ts contente com ci cbr do volouled” ode
+1
+120
+se
+120
+mn
+120
+101
+120
+104
+120
+
+vo o oo

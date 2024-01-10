@@ -1,0 +1,25 @@
+Questão 152
+
+A Hydrangea macrophyila é uma planta com flor azul
+ou cor-de-rosa, dependendo do pH do solo no qual está
+plantada. Em solo ácido (ou seja, com pH < 7) a flor é
+azul, enquanto que em solo alcalino (ou seja, com pH > 7)
+affor é rosa. Considere que a Hydrangea cor-de-rosa mais
+valorizada comercialmente numa determinada região seja
+aquela produzida em solo com pH inferior a 8. Sabe-se
+que pH = — log,ox, em que x é a concentração de íon
+idrogênio (H').
+
+Para produzir a Hydrangea cor-de-rosa de maior
+valor comercial, deve-se preparar o solo de modo que
+x assuma
+
+O qualquer valor acima de 108.
+
+O qualquer valor positivo inferior a 1077.
+
+O valores maiores que 7 e menores que 8.
+
+O valores maiores que 70 e menores que 80.
+
+O valores maiores que 10? e menores que 107.

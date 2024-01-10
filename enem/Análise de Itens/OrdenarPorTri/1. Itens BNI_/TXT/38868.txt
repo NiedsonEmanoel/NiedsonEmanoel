@@ -1,0 +1,33 @@
+Questão 170 enemaar
+
+Uma fórmula para calcular o Índice de Massa
+Corporal (IMC) foi publicada pelo Departamento de
+Nutrição da Universidade de São Paulo. O estudo
+propõe uma equação capaz de identificar os falsos
+magros que, apesar de exibirem uma silhueta esguia,
+apresentam altos níveis de gordura, e os falsos gordos,
+que têm um IMG alto em decorrência de ganho de
+massa muscular, e não de gordura.
+
+A equação considera a massa do indivíduo, além do
+peso e da estatura. A fórmula é expressa pela soma do
+triplo da massa (M), em quilograma, com o quádruplo do
+percentual de gordura (G), tudo dividido pela altura (H),
+em centímetro.
+
+Decore etila comb Aceso em: 7 no 22 (tato
+
+A expressão algébrica que representa a nova maneira de
+calcular o IMC é dada por
+
+«6
+om
+q Mao
+H
+o dM+Í:6
+H
+M+46
+H
+e 4-Gu+6)
+
+H

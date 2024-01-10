@@ -1,0 +1,25 @@
+Questão 149 poSnanaman2nanamononenam
+Um fazendeiro precisava de 1 L de certo produto
+fabricado por três indústrias distintas.
+* Aindústria | comercializa o produto em embalagens
+de 250 ml por R$ 23,00 cada.
+* Aindústria Il comercializa o produto em embalagens
+de 8 foz (onça fluida) por R$ 18,50 cada.
+*A indústria Ill comercializa o produto em
+embalagens de 1 L por R$ 93,00 cada.
+
+O fazendeiro conseguiu adquirir a quantidade
+necessária do produto de que precisava, de uma única
+indústria, gastando o menor valor possível nessa compra.
+Considere que 1 L seja equivalente a 33,81 floz.
+
+Nessas condições, a quantidade de embalagens e a
+respectiva indústria onde a compra foi realizada foram
+
+quatro da indústria 1.
+cinco da indústria 1
+quatro da indústria 1
+cinco da indústria 1.
+uma da indústria ll
+
+0000

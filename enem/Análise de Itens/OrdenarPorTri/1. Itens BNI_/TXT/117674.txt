@@ -1,0 +1,30 @@
+Questão 155 enemeo
+
+A Copa do Brasil teve, até a edição de 2018, 15 times diferentes como campeões da competição, conform
+apresentado na imagem. Suponha que, como homenagem aos times campeões, a Confederação Brasileira de Futeb:
+(CBF) pretenda colocar um painel na sua sede. Esse painel teria 6 linhas e, em cada uma delas, 5 placas, referente
+a cada edição da competição, com o nome do time vencedor, o brasão e o ano do título. O painel deve ser fabricac
+de modo que a primeira linha só tenha clubes gaúchos (Internacional, Grêmio e Juventude); a segunda, apenas time
+cariocas (Flamengo, Vasco e Fluminense); a terceira, somente times mineiros (Cruzeiro e Atlético Mineiro); a quart;
+exclusivamente clubes paulistas (Corinthians, Palmeiras, Santos, Paulista FC, Santo André), e as duas últimas sei
+nenhuma restrição.
+
+Grêmio Flamengo
+(Rio Grande do Sul) (São Paulo) (Rio de Janeiro)
+05 Títulos. 03 Títulos. OS Títulos,
+AX
+a MA E.G.
+Atlético Mineiro Santos
+(Rio Grande do Sul) (Santa an Catarina) (Rio de Janeiro) (Minas Gerais) (São Paulo)
+01 Título 01 Título 04 Título 04 Título O4 Título
+*
+x
+Fluminense Sport Paulista EC Santo Andrê Juventude
+(Rio de Janeiro) (Pernambuco) (São Paulo) (São Paulo) (Rio Grande do Sul)
+Of Título 01 Título 04 Título 01 Título 01 Título
+
+Depont em: ecampecendotda comb esto em: 10 201 (ga
+Qual expressão determina a quantidade de painéis diferentes que a CBF poderá montar?
+
+75
+

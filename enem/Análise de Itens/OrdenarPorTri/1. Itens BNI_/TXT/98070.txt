@@ -1,0 +1,26 @@
+QUESTÃO 144
+
+Um quebra-cabeça consiste em recobrir um quadrado
+com triângulos retângulos isósceles, como ilustra a figura.
+
+Á
+
+Á
+
+Uma artesã confecciona um quebra-cabeça como
+o descrito, de tal modo que a menor das peças é um
+triângulo retângulo isósceles cujos catetos medem 2 cm.
+O quebra-cabeça, quando montado, resultará em um
+“quadrado cuja medida do lado, em centimetro, é
+
+14
+
+12
+
+2
+
+6+4)2
+
+6+2/2
+
+voos

@@ -1,0 +1,27 @@
+Questão 95
+
+Um estudante tem uma fonte de tensão com corrente
+contínua que opera em tensão fixa de 12 V. Como
+precisa alimentar equipamentos que operam em tensões
+menores, ele emprega quatro resistores de 100 O para
+construir um divisor de tensão. Obtém-se este divisor
+associando os resistores, como exibido na figura. Os
+aparelhos podem ser ligados entre os pontos A, B, C, De
+E, dependendo da tensão especificada.
+
+1000 H7 1000 Hr 1000 PM 1009
+
+A 8 c D E
+
+Ele tem um equipamento que opera em 9,0 V com
+uma resistência interna de 10 k0.
+
+Entre quais pontos do divisor de tensão esse equipamento
+deve ser ligado para funcionar corretamente e qual será o
+valor da intensidade da corrente nele estabelecida?
+
+Entre Ae D;1,2mA.
+Entre Be E; 0,9 mA.
+Entre Ae E; 0,9 mA.
+
+voos

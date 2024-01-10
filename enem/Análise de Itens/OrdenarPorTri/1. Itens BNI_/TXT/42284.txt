@@ -1,0 +1,17 @@
+Um pesquisador colocou a mesma quantidade de solução aquosa da enzima digestiva
+pepsina em cinco tubos de ensaio. Em seguida, adicionou massas iguais dos alimentos.
+descritos no quadro. Os alimentos foram deixados em contato com a solução digestiva durante
+o mesmo intervalo de tempo.
+
+Água | Proteinas | Lipídios | Carboidratos
+Tubo de ensaio Alimento Ei Ei En En
+t Leito em pó 36 | 265 248 401
+u Manteiga 151 06 823 091
+D Aveiaemfocos | 123 | 127 E 684
+y Alface 963 | 09 01 21
+V Fubádemilhocozdo| 747 | 20 EK 219
+
+A maior quantidade de produtos metabolizados ao final do teste foi obtida no tubo
+
+2000
+z

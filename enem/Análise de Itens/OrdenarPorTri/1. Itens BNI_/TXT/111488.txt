@@ -1,0 +1,17 @@
+Questão 156 D77nenamonmenamonomensm
+
+Provedores de conteúdos postam anúncios de
+empresas em seus websites. O provedor A cobra R$ 0,10
+por clique feito no anúncio, além do pagamento de uma
+taxa de contratação de R$ 50,00. O provedor B cobra uma
+taxa de contratação por anúncio mais atrativa, no valor de
+R$ 20,00, mais um valor por clique feito no anúncio. Para
+um anúncio que receberá 100 cliques, o provedor B fixará
+uma proposta com um valor a ser cobrado por clique, de
+modo que venha a receber, pelo menos, o mesmo total
+que receberia o provedor A.
+
+O gerente do provedor B deve avaliar os valores por
+clique a serem fixados.
+
+O valor mínimo que o gerente do provedor B deverá

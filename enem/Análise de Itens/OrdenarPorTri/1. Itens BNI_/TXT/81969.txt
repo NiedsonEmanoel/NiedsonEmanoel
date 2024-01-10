@@ -1,0 +1,33 @@
+QUESTÃO 128
+
+O quadro mostra valores de corrente elétrica e seus
+efeitos sobre o corpo humano.
+
+Até 10 MA Dor e contração muscular
+
+De 10mAaté 20 ma | Aumento das contrações.
+De20mAaté IOOMA| Parada respiratória,
+De 100 mAaté 3A Fibrilação ventricular
+
+Acima de 3A Parada cardíaca e queimaduras
+
+A corrente elétrica que percorrerá o corpo de um
+indivíduo depende da tensão aplicada e da resistência
+elétrica média do corpo humano. Esse último fator está
+intimamente relacionado com a umidade da pele, que
+seca apresenta resistência elétrica da ordem de 500 kQ,
+mas, se molhada, pode chegar a apenas 1 kQ.
+
+Apesar de incomum, é possível sofrer um acidente
+utilizando baterias de 12 V. Considere que um indivíduo
+com a pele molhada sofreu uma parada respiratória
+ao tocar simultaneamente nos pontos A e B de uma
+associação de duas dessas baterias.
+
+DURAN 1. E R Biofísica: fundamentos e aplicações.
+“São Pau: Pesrson Prentes Ha, 2002 (adapéado)
+
+Qual associação de baterias foi responsável pelo acidente?
+
+a
+

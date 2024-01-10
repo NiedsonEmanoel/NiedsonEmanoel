@@ -1,0 +1,31 @@
+De acordo com pesquisas recentes, a expectativa de vida do brasileiro subiu de 74,6
+anos, em 2012, para 74,9 anos, em 2015. Dentre os possíveis fatores para esse aumento
+estão a melhoria do sistema de saúde, o aumento da renda familiar e a prática de exercícios
+físicos.
+
+Para tornar essa notícia do aumento da expectativa de vida do brasileiro mais expressiva,
+converteu-se esse aumento para a quantidade de dias.
+
+Considere que para esta conversão o número de dias em cada mês foi fixado em 30.
+
+Com base nas informações, que cálculo correspondeu a essa conversão?
+
+meses =3x30 dias.
+
+0.3x365 dias
+
+0,3x1ano=0,3x12 meses =
+
+830 dias
+1 1
+0.3x1ano = 5x12x30 dias = 7 x360 dias
+
+03x tano=
+
+3 x 12 meses —
+
+(O)
+(o)
+(O)
+
+6 meses = 3x 30 dias + 6 dias.

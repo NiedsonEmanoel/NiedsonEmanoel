@@ -1,0 +1,20 @@
+Questão 117
+Com base nos experimentos de plantas de Mendel, foram estabelecidos três princípios básicos, que são
+
+conhecidos como leis da uniformidade, segregação e distribuição independente. A lei da distribuição independente
+
+refere-se ao fato de que os membros de pares diferentes de genes segregam-se independentemente, uns dos
+
+outros, para a prole.
+TURNPENNY, PD. Gonótica médica. Rio de Janeiro: Elsevier, 2009 (adaptado).
+
+Hoje, sabe-se que isso nem sempre é verdade. Por quê?
+O A distribuição depende do caráter de dominância ou recessividade do gene.
+
+O Os organismos nem sempre herdam cada um dos genes de cada um dos genitores.
+
+O As alterações cromossômicas podem levar a falhas na segregação durante a meiose.
+
+O Os genes localizados fisicamente próximos no mesmo cromossomo tendem a ser herdados juntos.
+
+€ O cromossomo que contém dois determinados genes pode não sofrer a disjunção na primeira fase da meiose.

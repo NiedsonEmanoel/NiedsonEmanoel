@@ -1,0 +1,33 @@
+QUESTÃO 110
+
+Na área de comunicações, a demanda por
+grande volume de dados exige uma transmissão em
+alta frequência. Uma inovação nesse sentido foi o
+desenvolvimento da fibra óptica, que faz uso da luz
+como portadora de sinais. A fibra óptica é um meio de
+propagação da luz formada por duas camadas de vidro,
+com Índices de refração diferentes. Considere que a
+camada extema da fibra apresente índice de refração n.,
+
+ice de refração n,, como ilustrado
+
+Luz incidente
+
+O objetivo dessa diferença é obter a condição de
+reflexão interna total do sinal óptico que se encontre na
+camada interna, de forma que ele se propague por toda
+a extensão da fibra.
+
+A tecnologia envolvida na confecção das fibras ópticas
+deve garantir que o ângulo de refração e a relação entre
+n,€ n, sejam, respectivamente,
+
+O 45en,<n,
+nuloen, >n,.
+nuloen, <n,.
+
+90'en,>n,
+
+vo oo
+
+90ºen, <n,.

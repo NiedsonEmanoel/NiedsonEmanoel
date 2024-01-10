@@ -1,0 +1,17 @@
+Questão 130 7 a ETR RIA! CUISGIS=a":
+Uma pessoa percebe que a bateria de seu veículo fica descarregada após cinco dias sem uso. No início
+
+desse período, a bateria funcionava normalmente e estava com o total de sua carga nominal, de 60 Ah. Pensando
+
+na possibilidade de haver uma corrente de fuga, que se estabelece mesmo com os dispositivos elétricos do
+
+veículo desligados, ele associa um amperimetro digital ao circuito do veículo.
+
+Qual dos esquemas indica a maneira com que o amperimetro deve ser ligado e a leitura por ele realizada?
+
+EI E re
+= “E
+o o o L
+1 E E
+o e E
+

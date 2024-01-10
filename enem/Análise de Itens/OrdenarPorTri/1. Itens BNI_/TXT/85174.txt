@@ -1,0 +1,22 @@
+Uma empresa de chocolates consultou o gerente de produção e verificou que existem
+cinco tipos diferentes de barras de chocolate que podem ser produzidas, com os seguintes
+preços no mercado:
+
+* Barral:R$2,00;
+* Barra ll: R$3,50;
+* Barra I:R$4,00;
+* Barra IV:R$7,00;
+* Barra: R$8,00.
+
+Anilisando as tendências do mercado, que incluem a quantidade vendida e a procura
+pelos consumidores, o gerente de vendas da empresa verfcou que o lucro L com a venda de
+barras de chocolate é expresso pela função Ly) = = 12 + 14x — 45, em que x representa o
+preço da barra de chocolate
+
+A empresa decide investir na fabricação da barra de chocolate cujo preço praticado no
+mercado renderá o maior hero.
+
+Nessas condições, a empresa deverá investir na produção da barra
+
+00
+z

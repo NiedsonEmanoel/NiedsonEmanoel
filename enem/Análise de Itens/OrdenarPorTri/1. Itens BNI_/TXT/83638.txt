@@ -1,0 +1,17 @@
+Questão 180 7 cem enecenaro
+O quadro representa os gastos mensais, em real,
+de uma família com intemet, mensalidade escolar e
+mesada do filho.
+internet | Mensalidade escolar | Mesada do filho
+120, 700 400
+No início do ano, a intemet e a mensalidade escolar
+tiveram acréscimos, respectivamente, de 20% e 10%.
+Necessitando manter o valor da despesa mensal total
+com os itens citados, a família reduzirá a mesada do filho.
+Qual será a porcentagem da redução da mesada?
+oi
+025
+e 30,0
+O 700
+O 7%5
+

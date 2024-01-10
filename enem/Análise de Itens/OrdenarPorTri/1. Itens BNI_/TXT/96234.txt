@@ -1,0 +1,36 @@
+QUESTÃO 152
+
+A água comercializada em garrafões pode ser
+classificada como muito ácida, ácida, neutra, alcalina
+ou muito alcalina, dependendo de seu pH, dado pela
+expressão
+
+1
+H = 108, —
+pl Go gy
+
+emque Hé a concentração de íons de hidrogênio, emmol
+por decimetro cúbico. A classificação da água de acordo
+com seu pH é mostrada no quadro.
+
+PH. Classificação
+pH>9 Muito alcalina
+TE<pH<9 Alcalina
+6<pH<T5 Neutra
+35<pH<6 Ácida
+pH<3,5 Muito ácida
+
+Para o cálculo da concentração H, uma distribuidora
+mede dois parâmetros A e B, em cada fonte, e adota
+H como sendo o quociente de A por B. Em análise
+realizada em uma fonte, obteve A = 10"7e a água dessa
+fonte foi classificada como neutra.
+
+O parâmetro E, então, encontrava-se no intervalo
+
+o (105, 10º]
+o por. 10º)
+o) fo 16)
+o [10º,10"º)
+
+o [it see!)

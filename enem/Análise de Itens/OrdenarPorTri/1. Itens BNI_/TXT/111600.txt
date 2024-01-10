@@ -1,0 +1,24 @@
+QUESTÃO 153
+
+A trajetória de uma pessoa que pula de um andaime
+até o chão é descrita por uma função y = (x), sendo x e y
+medidos em metro, conforme mostra a figura.
+
+H)=a8+bx+c
+
+00" 05 10 15 20 25 30
+
+Seja D o domínio da função f (x), como definida na
+figura
+
+Para que a situação representada na figura seja real, o
+domínio dessa função deve ser igual a
+
+O (x), sendo x, a raiz positiva de f(x).
+O [xe R|0<x< x,), sendo x, a raiz positiva de f(x)
+
+O [xe R|x<x< x), sendo x, e x raizes de f(x), com
+K <p
+
+O (xer|x>0).
+O xez.

@@ -1,0 +1,21 @@
+QUESTÃO 140
+
+No quadro estão representadas as quantidades de certos tipos de vinho vendidos durante um ano e o lucro por
+unidade vendida de cada um desses tipos. Para repor seu estoque, o proprietário escolherá apenas os tipos de vinho
+em que o lucro total com sua venda foi maior do que a média entre os lucros obtidos com a venda de todos os tipos.
+
+Tipo de vinho 1 u u v vi ui
+Unidades vendidas. 120 50 mn 47 70 so
+Lucro por unidade (R$) 600 | 1200 | 1000 | 2000 | 500 | 1200
+
+Conforme condições estabelecidas, os tipos de vinhos escolhidos serão
+
+O leu.
+
+O ve.
+
+O 1Ivevi.
+
+O ILIvev.
+
+O ILILIVeV.

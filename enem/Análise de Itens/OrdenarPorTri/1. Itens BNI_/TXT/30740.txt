@@ -1,0 +1,29 @@
+Questão 143
+
+Uma administração municipal encomendou a pintura
+de dez placas de sinalização para colocar em seu pátio
+de estacionamento.
+
+O profissional contratado para o serviço inicial
+pintará o fundo de dez placas e cobrará um valor de
+acordo com a área total dessas placas. O formato
+de cada placa é um círculo de diâmetro d = 40 cm,
+que tangencia lados de um retângulo, sendo que
+o comprimento total da placa é h = 60 cm, conforme
+ilustrado na figura. Use 3,14 como aproximação para 7.
+
+PROIBIDO
+ESTACIONAR
+
+Qual é a soma das medidas das áreas, em centimetros
+quadrados, das dez placas?
+
+O 16628
+
+O 22280
+
+O 28560
+
+O 41120
+
+e 66240

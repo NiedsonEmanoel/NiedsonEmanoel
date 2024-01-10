@@ -1,0 +1,29 @@
+Questão 136
+
+enemaoar
+
+O administrador de um teatro percebeu que, com o ingresso do evento a R$ 20,00, um show conseguia atrair
+200 pessoas e que, a cada R$ 1,00 de redução no preço do ingresso, o número de pessoas aumentava em 40.
+Ele sabe que os donos do teatro só admitem trabalhar com valores inteiros para os ingressos, pela dificuldade
+de disponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim, apresentará um gráfico
+da arrecadação em função do valor do desconto no preço atual do ingresso.
+
+O gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é
+
+Desconto
+LE
+[REETEIRAIEICA TIE
+
+Lo ——————— ES
+OT25A SETE O IOMNIZIANSIO Id iaZOZ1227
+
+Desconto
+
+LEE
+072345678 O 10NIZI1MISIaI7 iBrazo2izam
+
+Desconto
+02345678 SION IZIaIISIoIT Ia iaZoZiz2za
+
+Lo AS
+072345676 O 1ONIZIAATHEI TBTo20212223

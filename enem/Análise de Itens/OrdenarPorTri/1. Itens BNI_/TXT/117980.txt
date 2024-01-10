@@ -1,0 +1,33 @@
+Questão 128 enemaçor
+O alcoolômetro Gay Lussac é um instrumento destinado
+“a medir o teor de álcool, em porcentagem de volume (viv),
+de soluções de água e álcool na faixa de O “GL a 100 “GL,
+com divisões de 0,1 “GL. A concepção do alcoolômetro
+se baseia no princípio de flutuabilidade de Arquimedes,
+semelhante ao funcionamento de um densimetro. À escala
+do instrumento é aferida a 20 *C, sendo necessária a
+correção da medida, caso a temperatura da solução não
+esteja na temperatura de aferição. É apresentada parte da
+tabela de correção de um alcoolômetro, com a temperatura.
+Tabela de correção do alcoolômetro com
+temperatura 20 ºC.
+SL Leitura da temperatura (*C)
+
+22 [2 [2 [2] 2 | 2
+
+35 [350 | 346 | 342 | 338 | 334 | 330
+
+36 [360 | 356 | 352 | 348 | 344 | 340
+
+Ma tão Ls rr ande
+É necessária a correção da medida do instrumento, pois
+um aumento na temperatura promove o(a)
+
+aumento da dissociação da água.
+aumento da densidade da água e do álcool.
+mudança do volume dos materiais por dilatação.
+aumento da concentração de álcool durante a medida.
+alteração das propriedades químicas da mistura
+álcool e água.
+
+vooos

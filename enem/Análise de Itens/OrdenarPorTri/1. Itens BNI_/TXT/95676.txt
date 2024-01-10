@@ -1,0 +1,27 @@
+QUESTÃO 140
+
+Uma pessoa precisa contratar um operário para
+fazer um serviço em sua casa. Para isso, ela postou um
+anúncio em uma rede social
+
+Cinco pessoas responderam informando preços por
+hora trabalhada, gasto diário com transporte e tempo
+necessário para conclusão do serviço, conforme valores
+apresentados no quadro.
+
+Preço por | Preço do | Tempo até
+Operário hora | transporte | conclusão
+(real) (real) (hora)
+
+! 120 0,00 8
+
+u 180 0,00 6
+
+au 170 20,00 6
+
+y no 10,00 9
+
+vi no 0,00 10
+
+Se a pessoa pretende gastar o mínimo possível com essa
+contratação, irá contratar o operário

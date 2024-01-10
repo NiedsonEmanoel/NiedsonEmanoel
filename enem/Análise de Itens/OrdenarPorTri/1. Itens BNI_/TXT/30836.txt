@@ -1,0 +1,13 @@
+Questão 152 enemaror
+Uma unidade de medida comum usada para expressar
+áreas de terrenos de grandes dimensões é o hectare,
+que equivale a 10 000 mê. Um fazendeiro decide fazer
+um loteamento utilizando 3 hectares de sua fazenda, dos
+quais 0,9 hectare será usado para a construção de ruas é
+calçadas e o restante será dividido em terrenos com área
+de 300 mé cada um. Os 20 primeiros terrenos vendidos
+terão preços promocionais de R$ 20 000,00 cada, e os
+demais, R$ 30 000,00 cada.
+Nas condições estabelecidas, o valor total, em real,
+obtido pelo fazendeiro com a venda de todos os terrenos
+

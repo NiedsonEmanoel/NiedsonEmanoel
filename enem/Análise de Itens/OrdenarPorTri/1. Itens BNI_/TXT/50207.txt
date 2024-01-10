@@ -1,0 +1,31 @@
+Questão 155 ener enar ener
+
+O quadro mostra o número de gols feitos pela equipe
+A em campeonatos estaduais de futebol, no período de
+2007 a 2012.
+
+Ano Número de gols.
+2007 o
+2008 E
+2009] o
+2010) E
+201 o
+2012 E
+
+Faltando ainda alguns jogos para o término do
+campeonato estadual de 2013, o número de gols
+marcados pela equipe B era 52. O técnico dessa equipe
+fez um levantamento para saber quantos gols sua equipe.
+deveria marcar nos próximos jogos de modo que, ao
+final do campeonato, o número total de gols marcados
+pela equipe B ultrapasse a média de gols marcados pela
+equipe A nos campeonatos de 2007 a 2012.
+
+Quantos gols, no mínimo, a equipe B ainda precisaria
+marcar?
+
+02
+06
+e7
+os
+e 1%

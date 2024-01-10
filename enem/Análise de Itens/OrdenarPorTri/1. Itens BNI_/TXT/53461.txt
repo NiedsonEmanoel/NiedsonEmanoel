@@ -1,0 +1,28 @@
+QUESTÃO 158
+
+Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de
+pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p(t) = -t? + 10t + 24, sendo tum número
+natural, variando de 1 a 12, que representa os meses do ano, e p(f) a quantidade de pessoas infectadas no mês t do
+ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar
+a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (1, 11, , IV e V),
+com diferentes períodos de intensificação das propagandas:
+
+cIA<t<2;
+
+cb3<t<4;
+
++ ES<t<6;
+
++ MiT<t<o;
+
++ VO<t<12.
+
+A sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o
+mês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita
+A proposta escolhida foi a
+ol
+oi
+o
+ol
+ev
+

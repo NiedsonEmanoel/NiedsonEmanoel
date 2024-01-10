@@ -1,0 +1,32 @@
+QUESTÃO 145
+
+Descargas atmosféricas, objetos estranhos e
+quedas de árvores, entre outros motivos, podem gerar
+interrupções na rede elétrica. Em certo município, um
+levantamento realizado pela companhia de fornecimento
+de energia relacionou, durante 30 dias, o número de
+interrupções na rede elétrica com o número de dias em
+que elas ocorreram.
+
+Número de interrupções. Número de dias
+0 5
+1 6
+2 6
+3 10
+4 3
+Total 30
+
+A moda e a média diária do número de interrupções são,
+respectivamente, iguais a
+
+3e20.
+
+3e24.
+
+3e60.
+
+10e2,0.
+
+10e24.
+
+vov0oo

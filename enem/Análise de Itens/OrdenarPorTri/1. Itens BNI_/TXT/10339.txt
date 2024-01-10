@@ -1,0 +1,25 @@
+Questão 171
+
+Uma equipe de cientistas decidiu iniciar uma cultura
+“com exemplares de uma bactéria, em uma lâmina, a fim
+de determinar o comportamento dessa população. Após
+alguns dias, os cientistas verificaram os seguintes fatos:
++ a cultura cresceu e ocupou uma área com o
+formato de um círculo;
++ o raio do círculo formado pela cultura de bactérias.
+aumentou 10% a cada di
++ a concentração na cultura era de 1 000 bactérias.
+por milímetro quadrado e não mudou
+significativamente com o tempo.
+Considere que r representa o raio do círculo no
+primeiro dia, Q a quantidade de bactérias nessa cultura
+no decorrer do tempo e do número de dias transcorridos.
+
+Qual é a expressão que representa Q em função de re d?
+
+oo no(a tr
+oo 1 (aaja
+e oo (ua
+o o-ao(i'ra
+
+e o=240(11(d-1r)z

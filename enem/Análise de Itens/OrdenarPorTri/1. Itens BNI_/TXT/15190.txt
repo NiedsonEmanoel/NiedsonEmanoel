@@ -1,0 +1,31 @@
+Questão 143
+
+A unidade de medida utilizada para anunciar o
+tamanho das telas de televisores no Brasi é a polegada,
+que corresponde a 2,54 cm. Diferentemente do que muitos
+imaginam, dizer que a tela de uma TV tem X polegadas
+significa que a diagonal do retângulo que representa sua
+tela mede X polegadas, conforme ilustração.
+
+|
+
+A
+
+O administrador de um museu recebeu uma TV
+convencional de 20 polegadas, que tem como razão
+do comprimento (C) pela altura (A) a proporção 4 : 3, e
+precisa calcular o comprimento (C) dessa TV a fim de
+colocá-la em uma estante para exposição.
+
+A tela dessa TV tem medida do comprimento C, em
+centímetro, igual a
+
+O 1200.
+
+O 1600.
+
+O 3048.
+
+O “064.
+
+O 5080.

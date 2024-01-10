@@ -1,0 +1,36 @@
+Questão 136
+
+Um fiscal de certa empresa de ônibus registra o
+tempo, em minuto, que um motorista novato gasta
+para completar certo percurso. No Quadro 1 figuram
+os tempos gastos pelo motorista ao realizar o mesmo
+percurso sete vezes. O Quadro 2 apresenta uma
+classificação para a variabilidade do tempo, segundo o
+valor do desvio padrão.
+
+Quadro 1
+Tempos
+(emminuto) | $8 | 54 | 50 | 46 | 44 | 52 | 49
+Quadro 2
+li Desvio padrão do
+Variabilidade ES
+Extremamente baixa 0<o<2
+Baixa 2<0<4
+Moderada 4<5<6
+Alta 6<o<8
+Extremamente alta. s>8
+
+Com base nas informações apresentadas nos quadros,
+a variabilidade do tempo é
+
+extremamente baixa.
+
+baixa.
+
+moderada.
+
+alta
+
+extremamente alta.
+
+ovos

@@ -1,0 +1,25 @@
+QUESTÃO 134
+
+A radiação na região do infravermelho interage com
+a oscilação do campo elétrico gerada pelo movimento
+vibracional de átomos de uma ligação química. Quanto
+mais fortes forem as ligações e mais leves os átomos
+envolvidos, maior será a energia e, portanto, maior a
+frequência da radiação no infravermelho associada à
+vibração da ligação química. A estrutura química da
+molécula 2-amino-6-cianopiridina é mostrada.
+
+O
+
+NC” ONT ONH,
+
+A ligação química dessa molécula, envolvendo átomos
+diferentes do hidrogênio, que absorve a radiação no
+infravermelho com maior frequência é
+
+oO c-c
+O cn
+e c-c
+O c=N
+e c=N
+

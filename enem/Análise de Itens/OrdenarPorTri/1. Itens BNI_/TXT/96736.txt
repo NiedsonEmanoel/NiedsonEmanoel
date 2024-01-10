@@ -1,0 +1,29 @@
+Questão 178
+
+Um gerente decidiu fazer um estudo financeiro da
+empresa onde trabalha analisando as receitas anuais
+dos três últimos anos. Tais receitas são apresentadas
+no quadro.
+Ano Receita (bilhão de reais)
+
+! 22
+
+u 42
+
+D 74
+Estes dados serão utilizados para projetar a receita
+mínima esperada para o ano atual (ano IV), pois a
+receita esperada para o ano IV é obtida em função das
+variações das receitas anuais anteriores, utilizando a
+seguinte regra: a variação do ano IV para o ano Ill será
+igual à variação do ano Il para o Il adicionada à média
+aritmética entre essa variação e a variação do ano Il
+parao|.
+O valor da receita mínima esperada, em bilhão de reais,
+será de
+O 100.
+o 120.
+ez
+o 168.
+e 206.
+

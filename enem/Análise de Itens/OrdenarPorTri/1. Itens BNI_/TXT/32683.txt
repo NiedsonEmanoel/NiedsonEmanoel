@@ -1,0 +1,33 @@
+Questão 169 enemaar
+
+A escala de temperatura Delisle (*D), inventada no
+século XVIII pelo astrônomo francês Joseph-Nicholas
+Delisle, a partir da construção de um termômetro, foi
+utilizada na Rússia no século XIX. A relação entre as
+temperaturas na escala Celsius (“C) e na escala Delisle
+está representada no gráfico pela reta que passa pelos
+pontos A e B.
+
+A
+
+*D (Delisle)
+
+A
+
+>
+*C (Celsius)
+
+Depeniv! m pí comte east em: 22 mar 213.
+
+Qual é a relação algébrica entre as temperaturas nessas
+duas escalas?
+
+O 2D+c=100
+2D+3C=150
+3D+2C-300
+2D+3C-300
+
+o
+fc]
+o
+O 3D+2c-450
