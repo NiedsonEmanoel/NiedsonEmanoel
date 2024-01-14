@@ -1,4 +1,4 @@
-QUESTÃO 160 ===========gwwmmmmn
+QUESTÃO 160
 
 O psicólogo de uma empresa aplica um teste para
 analisar a aptidão de um candidato a determinado
@@ -16,4 +16,3 @@ A probabilidade de o teste terminar na quinta pergunta é
 0,40960.
 0,49152.
 
-voos
