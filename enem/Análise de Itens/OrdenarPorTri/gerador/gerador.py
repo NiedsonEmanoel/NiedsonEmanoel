@@ -253,8 +253,8 @@ def Make():
 
     result = pd.concat([dItens2014, dItens2015, dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
     result['CO_HABILIDADE'].fillna(31, inplace=True)
-    result.to_csv('provasOrdernadasPorTri2.csv', index=False, encoding='utf-8', decimal=',')
-    result.to_excel("provasOrdernadasPorTri2.xlsx")
+    result.to_csv('provasOrdernadasPorTri.csv', index=False, encoding='utf-8', decimal=',')
+    result.to_excel("provasOrdernadasPorTri.xlsx")
 
     return result
 
