@@ -200,7 +200,7 @@ def thetaToCsv(provas, dfItens):
     return dfItens
 
 def Make():
-    #Leitura dos dados de 2016 e Escolha da Prova [303 - MT 2 dia]
+
     dItens2014 = pd.read_csv("ITENS_PROVA_2014.csv", sep=";", encoding="latin-1")
     dItens2015 = pd.read_csv("ITENS_PROVA_2015.csv", sep=";", encoding="latin-1")
     dItens2016 = pd.read_csv("itens_prova_2016.csv", sep=";", encoding="latin-1")
@@ -243,13 +243,18 @@ def Make():
     dItens2021 = thetaToCsv(provas2021, dItens2021)
     dItens2022 = thetaToCsv(provas2022, dItens2022)
 
+#    dEnc2017 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv')
+#    dEnc2018 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv')
+#    dEnc2019 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv')
+#    dEnc2020 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv')
+
     dItens2020 = dItens2020.query("TP_VERSAO_DIGITAL not in [1]")
     del dItens2020['TP_VERSAO_DIGITAL']
 
     result = pd.concat([dItens2014, dItens2015, dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
     result['CO_HABILIDADE'].fillna(31, inplace=True)
-    result.to_csv('provasOrdernadasPorTri.csv', index=False, encoding='utf-8', decimal=',')
-    result.to_excel("provasOrdernadasPorTri.xlsx")
+    result.to_csv('provasOrdernadasPorTri2.csv', index=False, encoding='utf-8', decimal=',')
+    result.to_excel("provasOrdernadasPorTri2.xlsx")
 
     return result
 

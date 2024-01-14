@@ -29,7 +29,7 @@ def flashnamesa(SG):
 #Definindo Classe do PDF de Saída
 class PDF(FPDF):
     def header(self):
-       self.image('fundo.png', x=0, y=0, w=self.w, h=self.h, type='png')
+       self.image('images/fundo.png', x=0, y=0, w=self.w, h=self.h, type='png')
 
     def add_my_link(self, x, y, txt, link):
         self.set_xy(x, y)
@@ -51,7 +51,7 @@ class PDF(FPDF):
     # Page footer
     def footer(self):
       if self.page_no() != 1:
-        self.image("fundo2.png", x=90, y=283, h=10,type='png')
+        self.image("images/fundo2.png", x=90, y=283, h=10,type='png')
         self.set_y(0)
         self.set_font('Arial', 'BI', 8)
         self.cell(0, 8, '     '+str(self.page_no()) + '/{nb}', 0, 0, 'C')
@@ -95,7 +95,7 @@ def questHab(dfResult_CN, name):
     pdf.set_title(flashnames)
 
     pdf.add_page()
-    pdf.image("wordcloud_a4.png", x=0, y=0, w=pdf.w, h=pdf.h, type='png')
+    pdf.image("images/wordcloud_a4.png", x=0, y=0, w=pdf.w, h=pdf.h, type='png')
     pdf.add_page()
 
     pdf.set_font('Times', 'B', 12)
@@ -193,9 +193,10 @@ def questHab(dfResult_CN, name):
     pdf.ln(5)
     pdf.set_font('Arial', 'BI', 8)
 
-    strOut =str(name)+ '.pdf'
+    strOut =str('Saida_Itens_Processados/'+name)+ '.pdf'
 
     pdf.output(strOut, 'F')
+    dfResult_CN.to_excel(str('Saida_Itens_Processados/'+name)+ '.xlsx')
 
     return strOut
 

@@ -1,7 +1,6 @@
 import pandas as pd
 
 dItens2015 = pd.read_csv("E_ITENS_PROVA_2015.csv", sep=";", encoding="latin-1")
-dItens2015a = pd.read_csv("E_ITENS_PROVA_2015.csv", sep=";", encoding="latin-1")
 
 ilai = pd.read_excel('lai2015process.xlsx')
 
@@ -15,8 +14,8 @@ for i in dItens2015.index:
             print((habilidade))
             dItens2015.loc[i, 'CO_HABILIDADE'] = habilidade
 
-dItens2015.to_csv('ITENS_PROVA_2015.csv', index=False, sep=";", encoding="latin-1")
+dItens2015.to_csv('../Saida_Itens_Processados/'+'ITENS_PROVA_2015.csv', index=False, sep=";", encoding="latin-1")
 dItens2015['CO_HABILIDADE'].value_counts()
-dItens2015.to_excel('ITENS_PROVA_2015.xlsx')
-dItens2015 = pd.read_csv("ITENS_PROVA_2015.csv", sep=";", encoding="latin-1")
+dItens2015.to_excel('../Saida_Itens_Processados/'+'ITENS_PROVA_2015.xlsx')
+dItens2015 = pd.read_csv('../Saida_Itens_Processados/'+"ITENS_PROVA_2015.csv", sep=";", encoding="latin-1")
 
