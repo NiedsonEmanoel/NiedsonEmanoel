@@ -1,12 +1,12 @@
 import pandas as pd
 import numpy as np
 import locale
-Disciplina = "LC"
+Disciplina = "MT"
 
 # Definir o locale para pt-BR
 locale.setlocale(locale.LC_ALL, 'pt_BR.utf8')
 # Carrega o arquivo CSV
-dfENEM = pd.read_csv('MICRODADOS_ENEM_2022.csv', sep=';', encoding='latin-1')
+dfENEM = pd.read_csv('MICRODADOS_ENEM_2021.csv', sep=';', encoding='latin-1')
 totPart = dfENEM.shape[0]
 Ano = dfENEM.loc[0, "NU_ANO"]
 
@@ -93,6 +93,7 @@ def TratamentoQuestoes(dfENEM, Disciplina):
     notas_min = []
     notas_max = []
     notas_mediana = []
+    qtdAlunos = []
 
     for acertos in qtd_acertos:
         df_filtered = dfENEM.loc[dfENEM['T_ACERTOS_'+Disciplina] == acertos]
@@ -101,15 +102,18 @@ def TratamentoQuestoes(dfENEM, Disciplina):
             notas_min.append(notas_filtered.min())
             notas_max.append(notas_filtered.max())
             notas_mediana.append(notas_filtered.median())
+            qtdAlunos.append(len(notas_filtered))
         else:
             notas_min.append(None)
             notas_max.append(None)
             notas_mediana.append(None)
+            qtdAlunos.append(None)
 
     df_result = pd.DataFrame({'QTD_ACERTOS': qtd_acertos,
                             'NOTA_MIN': notas_min,
                             'NOTA_MEDIANA': notas_mediana,
                             'NOTA_MAX': notas_max,
+                            'QTD_ALUNOS': qtdAlunos,
                             'Disciplina': Disciplina,
                             'ANO': Ano})
     return(df_result)
