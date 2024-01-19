@@ -27,7 +27,7 @@ dados <- read.table(caminho_leitura, sep=',', header = TRUE)
 
 #Dados simulados
 
-# dados <- sim_irt(18000, 45)
+# dados <- sim_irt(500, 45)
 
 View(dados)
 
@@ -36,6 +36,8 @@ dataParam = read.table(caminho_leitura, sep=',', h=T)
 View(dataParam)
 
 a <- as.numeric(gsub(",", ".", dataParam[,8]))
+
+class(a)
 b <- as.numeric(gsub(",", ".", dataParam[,9]))
 c <- as.numeric(gsub(",", ".", dataParam[,10]))
 
@@ -102,8 +104,15 @@ testInfoPlot(mod3, adj_factor = 2)
 notas <- (fscores(mod3, method = 'EAP')*100)+500
 View(notas)
 #F1 - PARA RESPOSTAS MÁXIMAS
-(fscores(mod3, response.pattern = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-                                    1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), method = 'EAP')*100)+500
+
+fscores_result <- fscores(mod3, response.pattern = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                                                     1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1), method = 'EAP') * 100 + 500
+
+# Extrair apenas os valores de F1
+l <- fscores_result[, "F1"]
+
+# Mostrar os valores de F1
+print(l)
 
 #F1 - PARA RESPOSTAS MÍNIMAS
 (fscores(mod3, response.pattern = c(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,

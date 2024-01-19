@@ -6,6 +6,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import pytesseract
 import os
+import requests
+
 
 pytesseract.pytesseract.tesseract_cmd = './Tesseract/Tesseract.exe'
 pd.options.mode.chained_assignment = None
@@ -26,16 +28,22 @@ def ocrImage(code):
 
     code = 'https://raw.githubusercontent.com/NiedsonEmanoel/NiedsonEmanoel/main/enem/An%C3%A1lise%20de%20Itens/OrdenarPorTri/1.%20Itens%20BNI_/'+str(str(code) + '.png')
     try:
-        response = requests.get(code)
-        img_array = np.array(bytearray(response.content), dtype=np.uint8)
+        output_mg='../1. Itens BNI_/'+str(code)+'.png'
+        if os.path.exists(output_mg):
+            response = requests.get(code)
+            img_array = np.array(bytearray(response.content), dtype=np.uint8)
 
-        # Decodificar a imagem usando o OpenCV
-        img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
-        ocrT = str(pytesseract.image_to_string(img, lang='por'))
+            # Decodificar a imagem usando o OpenCV
+            img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
+            ocrT = str(pytesseract.image_to_string(img, lang='por'))
 
-        # Salvar o resultado no arquivo .txt se o arquivo não existir
-        with open(output_file, 'w', encoding='utf-8') as file:
-            file.write(ocrT)
+            # Salvar o resultado no arquivo .txt se o arquivo não existir
+            with open(output_file, 'w', encoding='utf-8') as file:
+                file.write(ocrT)
+                print(f"Arquivo '{output_file}' criado com sucesso!")
+        else:
+            return 'N/A'
+            print('sem tt')
     except Exception as e:
         print(f"Ocorreu um erro: {e}")
         ocrT = 'N/A'
@@ -243,18 +251,18 @@ def Make():
     dItens2021 = thetaToCsv(provas2021, dItens2021)
     dItens2022 = thetaToCsv(provas2022, dItens2022)
 
-#    dEnc2017 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv')
-#    dEnc2018 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv')
-#    dEnc2019 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv')
-#    dEnc2020 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv')
+    dEnc2017 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv',sep=";", encoding="latin-1")
+    dEnc2018 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv',sep=";", encoding="latin-1")
+    dEnc2019 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv',sep=";", encoding="latin-1")
+    dEnc2020 = pd.read_csv('ITENS_PROVA_2017_ENCCEJA.csv',sep=";", encoding="latin-1")
 
     dItens2020 = dItens2020.query("TP_VERSAO_DIGITAL not in [1]")
     del dItens2020['TP_VERSAO_DIGITAL']
 
-    result = pd.concat([dItens2014, dItens2015, dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
+    result = pd.concat([dEnc2017, dEnc2018, dEnc2019, dEnc2020,dItens2014, dItens2015, dItens2016, dItens2017, dItens2018, dItens2019, dItens2020, dItens2021, dItens2022])
     result['CO_HABILIDADE'].fillna(31, inplace=True)
-    result.to_csv('provasOrdernadasPorTri.csv', index=False, encoding='utf-8', decimal=',')
-    result.to_excel("provasOrdernadasPorTri.xlsx")
+    result.to_csv('provasOrdernadasPorTri2.csv', index=False, encoding='utf-8', decimal=',')
+    result.to_excel("provasOrdernadasPorTri2.xlsx")
 
     return result
 
