@@ -49,13 +49,24 @@ function(a,b,c,re){
   #CRIAÇÃO DO MODELO
   mod3 <- mirt(dados, 1, pars = sv)
   
+  re_Zero <- rep(0, length(b))
+  re_Um <- rep(1, length(b))
+  
   fscores_result <- fscores(mod3, response.pattern = re, method = 'EAP') * 100 + 500
+  fscores_min <- fscores(mod3, response.pattern = re_Zero, method = 'EAP') * 100 + 500
+  fscores_max <- fscores(mod3, response.pattern = re_Um, method = 'EAP') * 100 + 500
   
   # Extrair apenas os valores de F1
   tri <- fscores_result[, "F1"]
+  tri_max <- fscores_max[, "F1"]
+  tri_min <- fscores_min[, "F1"]
+  
   print(tri)
   
+  
   list(
-    nota = tri
+    nota = tri,
+    nota_max = tri_max,
+    nota_min = tri_min
   )
 }

@@ -1,3 +1,5 @@
+install.packages('plumber')
+
 library(plumber)
 r <- plumb("app.R")
 # get port number from environment variable

@@ -43,5 +43,5 @@
                 #NATUREZA
                     #PDF HABILIDADES - DIRECIONAR STREAMLIT
                     #PDF+ANKI ESA (EDUSTAR)
-            #CORREÇÃO TRI
+            #CORREÇÃO TRI OK!
                 #CORRECAO EM R cloudRUN  
