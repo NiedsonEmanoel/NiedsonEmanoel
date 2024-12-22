@@ -41,9 +41,6 @@
   <a href="#" style="cursor: default"><img src="https://komarev.com/ghpvc/?username=NiedsonEmanoel&color=brightgreen"></a>
 </p>
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiedsonEmanoel&hide=scss&theme=tokyonight">
-</p>
 
 <p align='center'>
     Technology 🚀
