@@ -18,10 +18,6 @@
 </p>
 
 <p  >
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NiedsonEmanoel&show_icons=true&count_private=true&theme=tokyonight" width="350" alt="GitHub Stats"></a>
-</p>
-
-<p  >
   📱 <strong>How to talk to me:</strong> <a href="mailto:contato@niedsonemanoel.com.br">contato@niedsonemanoel.com.br</a>
 </p>
 
