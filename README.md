@@ -21,29 +21,3 @@
   📱 <strong>How to talk to me:</strong> <a href="mailto:contato@niedsonemanoel.com.br">contato@niedsonemanoel.com.br</a>
 </p>
 
-
-
-
-<div>
-
-## Education 🚀
-
-- 📖 **Medicine**  
-  📆 2024 - 2030  
-  📍 **UNIVASF** - Petrolina, PE, Brazil
-
-- 📖 **Computer Technician**  
-  📆 2019 - 2022  
-  📍 **Federal Institute** - Petrolina, PE, Brazil
-
-## Experience 🚀
-
-- 👨‍💻 **Data Analyst and ML Operator**  
-  📆 2023 - 2024  
-  📍 **Enemaster.app** - Petrolina, Brazil
-
-- 👨‍💻 **Backend Developer**  
-  📆 2020 - 2021  
-  📍 **Robô Petro** - Petrolina, Brazil
-
-</div>
